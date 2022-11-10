@@ -1,38 +1,11 @@
 # OpenAI Hackathon for the Climate 2022 : Scope3
 
 ## Introduction
-This project utilizes OpenAI's LLMs to create our awesome hackathon idea.
-
-## Overview
-
-### data/ directory
-This directory contains the data being read in.  As of this writing, this includes:
-- Subdirectory `10K`.  
-    - If you want to work with all the filings, you should download the `datasets/2021 q1.zip` from the [Hackathon drive](https://drive.google.com/drive/folders/1j-I-hBuqYZQWMPNO2nWIrRDwuMFLeYMN?usp=share_link) and unzip it into `data/10K` so the EDGARFilingUtils scripts can correctly fetch data. The final structure should be `data/10K/q1/`, with the `q1` subdirectory containing all the `.txt` files. 
-    - If you want to work with the filings in the `datasets/ind_lists` directory... **(To be explored)**
-
-
-#### 10K `.txt` file structure
-For each Submission ID there are assumed to be three `.txt` files:
-    - The entire parsed 10-K filing, named as `submission_id.txt` converted into text after HTML/XBRL tags have been replaced with newlines.
-    - The Item1 section of this filing, named as `submission_id-item1.txt` where newlines and markdown tags have been removed.
-    - The Item7/MDA section of this filing, named as `submission_id-mda.txt` where newlines and markdown tags have have been removed.
-
-### Convenience function modules
-
-#### EDGARFilingUtils.py
-Contains convenience functions for loading in 10-K filings data described above, splitting text, concatenating text fragments and finding text containing any hits of a pre-defined list of climate keywords in the text. 
-
-#### OpenAIUtils.py
-Contains wrapper functions for calling the OpenAI API.  Currently contains wrappers for the completion and embedding API endpoints.
-
-#### streamlit_10K_investigation.py
-An interactive Streamlit application to interface with the 10-K text in Item1 and MDA sections. 
-After setting up the project, use `streamlit run streamlit_10K_investigation.py`, and the app will open in your local browser. 
+This project utilizes OpenAI's LLMs and publically available data including ESG reports, SEC 10-K filings, and earnings call transcripts to build an app that searches and summarizes these data to empower users with ESG-related information needed to invest responsibly.   
 
 ## Setup
 
-This project was built off Python 3.8.4. 
+This project was built using Python 3.8.4. 
 First, clone this repository: 
 
 `git clone https://github.com/jxb3641/OpenAI-hackathon-Scope3.git`
@@ -61,3 +34,34 @@ For the `streamlit_10k_investigation.py` streamlit app (or any other streamlit a
 `openai_api_key = "(yourAPIKeyHere)"`
 If you're creating your own Streamlit app, be sure to get the secret using the following line after you import openai:
 `openai.api_key = st.secrets["openai_api_key"]`
+
+## Overview
+
+### data/ directory
+This directory contains the data being read in.  This includes:
+- Subdirectory `10K`.  
+    - If you want to work with all the filings, you should download the `datasets/2021 q1.zip` from the [Hackathon drive](https://drive.google.com/drive/folders/1j-I-hBuqYZQWMPNO2nWIrRDwuMFLeYMN?usp=share_link) and unzip it into `data/10K` so the EDGARFilingUtils scripts can correctly fetch data. The final structure should be `data/10K/q1/`, with the `q1` subdirectory containing all the `.txt` files. 
+    - If you want to work with the filings in the `datasets/ind_lists` directory... **(To be explored)**
+
+
+#### 10K `.txt` file structure
+For each Submission ID there are assumed to be three `.txt` files:
+- The entire parsed 10-K filing, named as `submission-id.txt` converted into text after HTML/XBRL tags have been replaced with newlines.
+- The Item1 section of this filing, named as `submission-id_item1.txt` where newlines and markdown tags have been removed.
+- The Item7/MDA section of this filing, named as `submission-id_mda.txt` where newlines and markdown tags have have been removed.
+
+### Convenience function modules
+
+#### EDGARFilingUtils.py
+Contains convenience functions for loading in 10-K filings data described above, splitting text, concatenating text fragments and finding text containing any hits of a pre-defined list of climate keywords in the text. 
+
+#### OpenAIUtils.py
+Contains wrapper functions for calling the OpenAI API.  Currently contains wrappers for the completion and embedding API endpoints.
+
+#### streamlit_10K_investigation.py
+An interactive Streamlit application to interface with the 10-K text in Item1 and MDA sections. 
+After setting up the project and activating your virtual environment, use 
+
+`streamlit run streamlit_10K_investigation.py` 
+
+and the app will open in your local browser. 
