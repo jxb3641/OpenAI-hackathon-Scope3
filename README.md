@@ -7,12 +7,10 @@ This project utilizes OpenAI's LLMs to create our awesome hackathon idea.
 
 ### data/ directory
 This directory contains the data being read in.  As of this writing, this includes:
-- `10K/2021_q1.zip`: A zipped directory of 2021 quarter 1 10-Ks from 8000 different companies. When setting up, this should be unzipped into the folder
-`10K/q1/` for the EDGARFilingUtils functions to work properly.
-For each Submission ID there are assumed to be three `.txt` files:
-- The entire parsed 10-K filing, converted into text after HTML/XBRL tags have been replaced with newlines.
-- The Item1 section of this filing, where newlines and markdown tags have been removed.
-- The Item7/MDA section of this filing, where newlines and markdown tags have have been removed.
+- Subdirectory `10K`.  You should download the `datasets/2021 q1.zip` from the Hackathon drive https://drive.google.com/drive/folders/1j-I-hBuqYZQWMPNO2nWIrRDwuMFLeYMN?usp=share_link and unzip it into `data/10K` so the EDGARFilingUtils scripts can correctly fetch data. For each Submission ID there are assumed to be three `.txt` files:
+    - The entire parsed 10-K filing, converted into text after HTML/XBRL tags have been replaced with newlines.
+    - The Item1 section of this filing, where newlines and markdown tags have been removed.
+    - The Item7/MDA section of this filing, where newlines and markdown tags have have been removed.
 
 ### Convenience function modules
 
@@ -47,11 +45,13 @@ In a terminal:
     - Click on your initial on the top right. A dropdown menu should expand.
     - Click on "View API Keys" -> "Create a new secret key"
     - Copy this key.
-    - Create a `.env` file in the root directory of this repo. 
-    - In the `.env` file, create a new key, value pair: `OPENAI_API_KEY=(CopiedKeyHere)`. Save and exit.
-    - Whenever you want to use the OpenAI API in your scripts , be sure to include this line so your local client knows your key: 
+    - In the `.env` file in repo root, replace `YourKeyHere` with your API key: 
+    `OPENAI_API_KEY=(CopiedKeyHere)` 
+    - Save and exit.
+    - Whenever you want to use the OpenAI API in your scripts, be sure to include this line after you import openai and os, so your local client knows your key: 
     `openai.api_key=os.getenv("OPENAI_API_KEY")`
 
-To setup streamlit to see your API key, you will need to create a `secrets.toml` file in the `.streamlit` directory at root of this project.
-For the `streamlit_10k_investigation.py` streamlit app, you simply need to add the following line to the `secrets.toml`:
+For the `streamlit_10k_investigation.py` streamlit app (or any other streamlit apps) to be able to use your OpenAI API key, you simply need to replace `YourKeyHere` with the API key in `.streamlit/secrets.toml`:
 `openai_api_key = "(yourAPIKeyHere)"`
+If you're creating your own Streamlit app, be sure to get the secret using the following line after you import openai:
+`openai.api_key = st.secrets["openai_api_key"]`
