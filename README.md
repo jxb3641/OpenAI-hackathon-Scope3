@@ -7,7 +7,7 @@ This project utilizes OpenAI's LLMs to create our awesome hackathon idea.
 
 ### data/ directory
 This directory contains the data being read in.  As of this writing, this includes:
-- Subdirectory `10K`.  You should download the `datasets/2021 q1.zip` from the Hackathon drive <https://drive.google.com/drive/folders/1j-I-hBuqYZQWMPNO2nWIrRDwuMFLeYMN?usp=share_link> and unzip it into `data/10K` so the EDGARFilingUtils scripts can correctly fetch data. For each Submission ID there are assumed to be three `.txt` files:
+- Subdirectory `10K`.  You should download the `datasets/2021 q1.zip` from the [Hackathon drive](https://drive.google.com/drive/folders/1j-I-hBuqYZQWMPNO2nWIrRDwuMFLeYMN?usp=share_link) and unzip it into `data/10K` so the EDGARFilingUtils scripts can correctly fetch data. For each Submission ID there are assumed to be three `.txt` files:
     - The entire parsed 10-K filing, converted into text after HTML/XBRL tags have been replaced with newlines.
     - The Item1 section of this filing, where newlines and markdown tags have been removed.
     - The Item7/MDA section of this filing, where newlines and markdown tags have have been removed.
