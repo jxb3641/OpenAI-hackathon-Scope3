@@ -14,8 +14,13 @@ In a terminal:
 - change directories into the cloned repo
 - Create a new virtual environment: `python3 -m venv .venv`
 - Activate the virtual environment: `source .venv/bin/activate`.  You know you did it right if you see the activated virtual environment in your terminal prompt, like 
+    
     `(.venv) user@workstation: ~/OpenAI-hackathon-Scope3`
-- Install the `requirements.txt`: `pip install -r requirements.txt` 
+
+- Install the `requirements.txt`: 
+
+`pip install -r requirements.txt`
+
 - To interface with OpenAI, you need to set up an API key. 
     - Go to openai.com.
     - Click on the "API" tab on the top right.
@@ -28,11 +33,15 @@ In a terminal:
     `OPENAI_API_KEY=(CopiedKeyHere)` 
     - Save and exit.
     - Whenever you want to use the OpenAI API in your scripts, be sure to include this line after you import openai and os, so your local client knows your key: 
+
     `openai.api_key=os.getenv("OPENAI_API_KEY")`
 
 For the `streamlit_10k_investigation.py` streamlit app (or any other streamlit apps) to be able to use your OpenAI API key, you simply need to replace `YourKeyHere` with the API key in `.streamlit/secrets.toml`:
+
 `openai_api_key = "(yourAPIKeyHere)"`
-If you're creating your own Streamlit app, be sure to get the secret using the following line after you import openai:
+
+If you're creating your own Streamlit script, be sure to get the secret using the following line after you import openai:
+
 `openai.api_key = st.secrets["openai_api_key"]`
 
 ## Overview
