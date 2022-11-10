@@ -7,10 +7,16 @@ This project utilizes OpenAI's LLMs to create our awesome hackathon idea.
 
 ### data/ directory
 This directory contains the data being read in.  As of this writing, this includes:
-- Subdirectory `10K`.  You should download the `datasets/2021 q1.zip` from the [Hackathon drive](https://drive.google.com/drive/folders/1j-I-hBuqYZQWMPNO2nWIrRDwuMFLeYMN?usp=share_link) and unzip it into `data/10K` so the EDGARFilingUtils scripts can correctly fetch data. For each Submission ID there are assumed to be three `.txt` files:
-    - The entire parsed 10-K filing, converted into text after HTML/XBRL tags have been replaced with newlines.
-    - The Item1 section of this filing, where newlines and markdown tags have been removed.
-    - The Item7/MDA section of this filing, where newlines and markdown tags have have been removed.
+- Subdirectory `10K`.  
+    - If you want to work with all the filings, you should download the `datasets/2021 q1.zip` from the [Hackathon drive](https://drive.google.com/drive/folders/1j-I-hBuqYZQWMPNO2nWIrRDwuMFLeYMN?usp=share_link) and unzip it into `data/10K` so the EDGARFilingUtils scripts can correctly fetch data. The final structure should be `data/10K/q1/`, with the `q1` subdirectory containing all the `.txt` files. 
+    - If you want to work with the filings in the `datasets/ind_lists` directory... **(To be explored)**
+
+
+#### 10K `.txt` file structure
+For each Submission ID there are assumed to be three `.txt` files:
+    - The entire parsed 10-K filing, named as `submission_id.txt` converted into text after HTML/XBRL tags have been replaced with newlines.
+    - The Item1 section of this filing, named as `submission_id-item1.txt` where newlines and markdown tags have been removed.
+    - The Item7/MDA section of this filing, named as `submission_id-mda.txt` where newlines and markdown tags have have been removed.
 
 ### Convenience function modules
 
