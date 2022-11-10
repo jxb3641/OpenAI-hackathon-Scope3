@@ -5,6 +5,7 @@ This project utilizes OpenAI's LLMs and publically available data including ESG 
 
 ## Setup
 
+### Virtual Environment Setup
 This project was built using Python 3.8.4. 
 First, clone this repository: 
 
@@ -17,10 +18,12 @@ In a terminal:
     
     `(.venv) user@workstation: ~/OpenAI-hackathon-Scope3$ `
 
-- Install the `requirements.txt`: 
+- Install the `requirements.txt`: `pip install -r requirements.txt`
 
-`pip install -r requirements.txt`
+### Setting up OpenAI API keys
+To use OpenAI, you need to set up your API keys locally.
 
+#### For Generic Python Scripts
 To interface with OpenAI, you need to set up an API key. 
 - Go to openai.com.
 - Click on the "API" tab on the top right.
@@ -37,6 +40,8 @@ To interface with OpenAI, you need to set up an API key.
 - Whenever you want to use the OpenAI API in your scripts, be sure to include this line after you import openai and os, so your local client knows your key: 
 
     openai.api_key=os.getenv("OPENAI_API_KEY")
+
+#### For Streamlit Scripts
 
 For the `streamlit_10k_investigation.py` streamlit app (or any other streamlit apps) to be able to use your OpenAI API key, you simply need to replace `YourKeyHere` with the API key in `.streamlit/secrets.toml`:
 
