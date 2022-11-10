@@ -30,7 +30,6 @@ To interface with OpenAI, you need to set up an API key.
     - Click on "View API Keys" -> "Create a new secret key"
     - Copy this key.
     - In the `.env` file in repo root, replace `YourKeyHere` with your API key: 
-
         `OPENAI_API_KEY=(CopiedKeyHere)` 
 
     - Save and exit.
