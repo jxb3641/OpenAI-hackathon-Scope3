@@ -1,0 +1,4 @@
+data/10K/*
+.venv
+.env
+.streamlit/secrets.toml
