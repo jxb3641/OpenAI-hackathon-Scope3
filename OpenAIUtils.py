@@ -7,7 +7,7 @@ tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
 # For the purposes of measuring relevance between long docs and short queries,
 # We want to use the text-search doc and query embeddings 
 # (https://beta.openai.com/docs/guides/embeddings/what-are-embeddings)
-# Keep these here so that we can simply refer to the model family when using the API.
+# Keep these here so that we can simply refer to the model family when using these wrappers.
 EMBEDDING_MODELS = {"ada": {"query": "text-search-ada-query-001",
                             "doc": "text-search-ada-doc-001",
                             "completion": "text-ada-001"
