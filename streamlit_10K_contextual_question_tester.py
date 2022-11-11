@@ -15,7 +15,7 @@ tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
 st.set_page_config(layout="wide")
 
 ### Streamlit app starts here
-st.title("Play with GPT-3 Completion API with 10-Ks")
+st.title("Play with GPT-3 Completion API and 10-Ks")
 
 
 with st.sidebar:
