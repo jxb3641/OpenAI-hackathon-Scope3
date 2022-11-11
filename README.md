@@ -76,8 +76,16 @@ Contains wrapper functions for calling the OpenAI API.  Currently contains wrapp
 
 #### streamlit_10K_investigation.py
 An interactive Streamlit application to interface with the 10-K text in Item1 and MDA sections. 
-After setting up the project and activating your virtual environment, use 
+After setting up the project and activating your virtual environment, call 
 
-`streamlit run streamlit_10K_investigation.py` 
+`streamlit run streamlit_10K_investigation.py`
+
+and the app will open in your local browser. 
+
+#### streamlit_10K_contextual_question_tester.py
+An interactive Streamlit application that shows the 10-K text for a given submission id, and allows for interfacing with OpenAI's completion models.
+After setting up the project and activating your virtual environment, call
+
+`streamlit run streamlit_10K_contextual_question_tester.py`
 
 and the app will open in your local browser. 
