@@ -11,6 +11,54 @@ import pandas as pd
 # another that takes in the directory, and outputs all submission ids
 # random sample filings should be done separately, or in a third function.
 
+def get_all_submission_ids(datadir="data/10K/q1"):
+    """get all the submission IDs of 10-K .txts.  
+    Assumes filing texts are of form (submission-id).txt, (submission-id)_item1.txt, (submission-id)_mda.txt
+
+    Args:
+        datadir (str): Where to look for the text files.
+    Returns:
+        (tuple(str)): Tuple of unique submission IDs.
+    """
+
+    tenk_all_filingnames = set([re.search("\d+-\d+-\d+",fp).group() for fp in glob.glob(f"{datadir}/*.txt")])
+
+    return tuple(tenk_all_filingnames)
+
+def get_text_from_files_for_submission_id(submission_id, datadir="data/10K/q1"):
+    """Read in the .txt files for submission_id, located in datadir. 
+
+    Args:
+        submission_id (str): Submission id of the filing.
+        datadir (str): filepath where all 3 files (.txt, item1.txt, mda.txt) for the submission id should be located.  
+
+    Returns:
+        dict: Dictionary containing the submission id, filepath of the .txt, item1.txt and mda.txt, files, 
+        and their texts read in as strings with keys full_txt, item1_txt, mda_txt.
+    """
+
+    # Helper function to read in file texts as strings
+    def get_text(fp):
+        with open(fp) as f:
+            text = f.read()
+        return text
+    text_dict = {}
+
+    for fp in glob.glob(f"{datadir}/{submission_id}*.txt"):
+        if re.search("item1.txt",fp):
+            text_dict["item1"] = fp
+            text_dict["item1_txt"] = get_text(fp)
+        elif re.search("mda.txt",fp):
+            text_dict["mda"] = fp
+            text_dict["mda_txt"] = get_text(fp)
+        else:
+            text_dict["fullFiling"] = fp
+            text_dict["full_txt"] = get_text(fp)
+
+
+    return text_dict
+
+
 def get_random_sample_filings(number_filings=50,seed=None):
     """For a random sample of filings, parse their names, MDA, and Item1 .txt files
     and their text.

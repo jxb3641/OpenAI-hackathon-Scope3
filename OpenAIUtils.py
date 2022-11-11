@@ -99,6 +99,6 @@ def produce_prompt(context, query_text):
         str: Prompt to prime GPT-3 completion API endpoint.
     """
 
-    return """Given Context:\n\n{context}\n\n{query_text}""".format(context,query_text)
+    return f"""Given Context:\n\n{context}\n\n{query_text}"""
 
 #TODO: Add caching/saving functionality to the embeddings calls (or maybe these should be done separately in scripts that use these functions?)
