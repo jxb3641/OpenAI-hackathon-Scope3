@@ -1,21 +1,38 @@
 import openai
-import backoff
+from openai.embeddings_utils import cosine_similarity
+import numpy as np
+from transformers import GPT2TokenizerFast
+tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
 
+# For the purposes of measuring relevance between long docs are relevant to short queries,
+# We want to use the text-search doc and query embeddings 
+# (https://beta.openai.com/docs/guides/embeddings/what-are-embeddings)
+# Keep these here so that we can simply refer to the model family when using the API.
+EMBEDDING_MODELS = {"ada": {"query": "text-search-ada-query-001",
+                            "doc": "text-search-ada-doc-001",
+                            },
+                    "babbage": {"query": "text-search-babbage-query-001",
+                                "doc": "text-search-babbage-doc-001",
+                                },
+                    "curie": {"query": "text-search-curie-query-001",
+                              "doc": "text-search-curie-doc-001",
+                              },
+                    "davinci": {"query": "text-search-curie-query-001",
+                                "doc": "text-search-curie-doc-001",
+                                }
+                    }
 
-def call_openai_api_completion(context,prompt_suffix,model='text-ada-001'):
+def call_openai_api_completion(prompt, model='text-ada-001'):
     """Send a request to OpenAI's text generation API endpoint,
     with send_prompt and model.
 
     Args:
-        context (str): The context. forms the first part of the prompt to send to GPT-3.
-        prompt_suffix (str): The rest of the prompt to send for generation.
+        prompt (str): The full prompt. 
         model (str, optional): model to use for generation. Defaults to 'text-ada-001'.
 
     Returns:
-        : _description_
+        str: The top scoring autocompletion. 
     """
-
-    full_prompt = context+f"\n\n{prompt_suffix}"
 
     response = openai.Completion.create(
       model=model,
@@ -25,19 +42,81 @@ def call_openai_api_completion(context,prompt_suffix,model='text-ada-001'):
     )
     return response['choices'][0]['text']
 
-
-@backoff.on_exception(backoff.expo, (openai.error.RateLimitError),max_tries=15)
-def get_embedding(text, model="text-similarity-davinci-001"):
-    """Given a string of text, produce the embedding based on the OpenAI model endpoint.
+def get_embedding(text, model_family="babbage"):
+    """Given a string of long-form text, produce the embedding using the corresponding text-search-doc API endpoint.
 
     Args:
         text (str): String to produce an embedding for.
-        model (str, optional): OpenAI model endpoint to target. Defaults to "text-similarity-davinci-001".
+        model_family (str, optional): OpenAI model family to use text-search-doc for. Can be any of "ada", "babbage", "curie", "davinci".
+        Defaults to "babbage".
 
     Returns:
         np.ndarray: Vector representation of the text.
     """
-    embedding = openai.Embedding.create(input = [text], model=model)['data'][0]['embedding']
-    #print(text)
-    #print("#"*50)
+
+    # All embeddings can only embed up to 2024 token strings.
+    if tokenizer(text) > 2020:
+         return np.ndarray([]) # Return an empty array.
+    embedding = openai.Embedding.create(input = [text], model=EMBEDDING_MODELS[model_family]["doc"])['data'][0]['embedding']
     return embedding
+
+def doc_similarity_search(embeddings, context,model_family="babbage", n=3, pprint=True):
+    """Search the doc embeddings for the most similar matches with the context.
+
+    Args:
+        embeddings (DataFrame): df containing 'text' field, and its search/doc embeddings.
+        context (str): Context to embed. Uses the 'doc' version of the embedding model.
+        model_family (str, optional): model family to apply.  can be "davinci", "curie", "babbage", "ada"; Default "babbage"
+        n (int, optional): number of top results. Defaults to 3.
+        pprint (bool, optional): Whether to print the text and scores of the top results. Defaults to True.
+
+    Returns:
+       DataFrame: Top n rows of the embeddings DataFrame, with similarity column added. Sorted by similarity score from highest to lowest. 
+    """
+    embedded = get_embedding(context,EMBEDDING_MODELS[model_family]['doc'])
+    embeddings["similarities"] = embeddings["doc_embeddings"].apply(lambda x: cosine_similarity(x, embedded))
+
+    res = embeddings.sort_values("similarities", ascending=False).head(n)
+    if pprint:
+        for _, series in res.iterrows():
+            print(series["similarities"],series["text"])
+            print()
+    return res
+
+
+def query_similarity_search(embeddings, query, model_family="babbage", n=3, pprint=True):
+    """Search the doc embeddings for the most similar matches with the query.
+
+    Args:
+        embeddings (DataFrame): df containing 'text' field, and its search/doc embeddings.
+        query (str): Question to embed.  Uses the 'query' version of the embedding model.
+        model_family (str, optional): model name.  can be "davinci", "curie", "babbage", "ada"; Default "babbage"
+        n (int, optional): number of top results. Defaults to 3.
+        pprint (bool, optional): Whether to print the text and scores of the top results. Defaults to True.
+
+    Returns:
+       DataFrame: Top n rows of the embeddings DataFrame, with similarity column added. Sorted by similarity score from highest to lowest. 
+    """
+    embedded = get_embedding(query,EMBEDDING_MODELS[model_family]['query'])
+    embeddings["similarities"] = embeddings["doc_embeddings"].apply(lambda x: cosine_similarity(x, embedded))
+
+    res = embeddings.sort_values("similarities", ascending=False).head(n)
+    if pprint:
+        for _, series in res.iterrows():
+            print(series["similarities"],series["text"])
+            print()
+    return res
+
+def produce_prompt(context, query_text):
+    """Produce the prompt by appending the query text with the context.
+
+    Args:
+        context (str): Context to try to answer the question with.
+        query_text (str): Question to ask.
+
+    Returns:
+        str: Prompt to prime GPT-3 completion API endpoint.
+    """
+
+    return """Given Context:\n\n{context}\n\n{query_text}""".format(context,query_text)
+

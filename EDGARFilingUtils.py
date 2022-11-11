@@ -6,6 +6,11 @@ import json
 import pandas as pd
 
 
+#TODO: Refactor this into two functions: 
+# one that takes in a submission id, and creates a dict of item1/mda sources, and texts
+# another that takes in the directory, and outputs all submission ids
+# random sample filings should be done separately, or in a third function.
+
 def get_random_sample_filings(number_filings=50,seed=None):
     """For a random sample of filings, parse their names, MDA, and Item1 .txt files
     and their text.
