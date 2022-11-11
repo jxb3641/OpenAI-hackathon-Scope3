@@ -62,7 +62,6 @@ with st.sidebar:
 full_text_tab, search_tab = st.tabs([f"{file_to_use} text", "Search Results"])
 
 with full_text_tab:
-    st.subheader(f"Relevant Text")
     st.markdown(text)
 
 with search_tab:
