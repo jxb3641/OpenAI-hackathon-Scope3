@@ -4,7 +4,7 @@ import numpy as np
 from transformers import GPT2TokenizerFast
 tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
 
-# For the purposes of measuring relevance between long docs are relevant to short queries,
+# For the purposes of measuring relevance between long docs and short queries,
 # We want to use the text-search doc and query embeddings 
 # (https://beta.openai.com/docs/guides/embeddings/what-are-embeddings)
 # Keep these here so that we can simply refer to the model family when using the API.
