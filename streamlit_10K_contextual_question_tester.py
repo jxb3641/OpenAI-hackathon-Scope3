@@ -3,8 +3,8 @@ import streamlit.components.v1 as components
 import pandas as pd
 import json
 import requests
-from OpenAIUtils import get_embedding, call_openai_api_completion, produce_prompt
-from EDGARFilingUtils import get_all_submission_ids, get_text_from_files_for_submission_id
+from OpenAIUtils import get_embedding, call_openai_api_completion, produce_prompt, questions_to_answers, file_to_embeddings
+from EDGARFilingUtils import get_all_submission_ids, get_text_from_files_for_submission_id, split_text, filter_text
 import openai
 openai.api_key = st.secrets["openai_api_key"]
 
@@ -17,18 +17,19 @@ st.set_page_config(layout="wide")
 ### Streamlit app starts here
 st.title("Play with GPT-3 Completion API and 10-Ks")
 
+list_of_questions = ["Climate change?"]
 
 with st.sidebar:
-    submission_id = st.selectbox("10-K Submission ID",options=get_all_submission_ids())
+    file_name = st.selectbox("10-K Submission ID",options=get_all_submission_ids())
     file_to_use = st.radio("Which text file do you want to use?",
                             options=("full","item1","mda"),
                             index=0,horizontal=True)
-    text = get_text_from_files_for_submission_id(submission_id)[f"{file_to_use}_txt"]
+    text = get_text_from_files_for_submission_id(file_name)[f"{file_to_use}_txt"]
     text = text.replace("$","\$")
     st.subheader("GPT-3 Params")
     model_family = st.radio("Select model family.",  help="ada is cheapest and fastest. Davinci is strongest, but more expensive and slower.",
                      options=("ada","babbage","curie","davinci"),
-                     index=2,
+                     index=3,
                      horizontal=True)
     model_temp = st.number_input("Completion Temperature",
                                   help = "0 leads to more deterministic, consistent answers. 1 leads to less predictable answers.",
@@ -53,11 +54,22 @@ with st.sidebar:
 
     gpt3_response = ""
     if st.button("Run Completion"):
-        gpt3_response = call_openai_api_completion(gpt3_prompt,model_family)
+        gpt3_response = call_openai_api_completion(gpt3_prompt,model_family,temperature=model_temp)
 
 
     st.subheader("GPT-3 Response")
     components.html(f'<span style="word-wrap:break-word;">{gpt3_response}</span>', height=800,scrolling=True)
+full_text_tab, search_tab = st.tabs([f"{file_to_use} text", "Search Results"])
 
-st.subheader(f"{file_to_use} Text")
-st.markdown(text)
+with full_text_tab:
+    st.subheader(f"Relevant Text")
+    st.markdown(text)
+
+with search_tab:
+    relevant_questions = st.multiselect("Select questions to use for search within the text.",
+                                        list_of_questions)
+    if st.button("Search for relevant answers to list of questions"):
+        textChunks = split_text(filter_text(text))
+        embeddings = file_to_embeddings(text_chunks=textChunks,submission_id=file_name)
+        answers = questions_to_answers(relevant_questions,embeddings)
+        st.dataframe(answers)

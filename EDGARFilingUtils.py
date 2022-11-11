@@ -112,7 +112,23 @@ def split_text(text):
         list(str): list of text chunks.
     """
 
-    return text.split(". ")
+    #TODO: Filter out table of contents, anything past item 15
+
+    return text.split("\n\n")
+
+
+def filter_text(split_text):
+    """Filter text"""
+
+    filtered_split = [] 
+    #Remove chunks less than some 
+    for chunk in split_text:
+        if len(chunk)<20:
+            continue
+        filtered_split.append(chunk)
+
+    return split_text
+  
 
 def does_text_have_climate_keywords(text):
     """Checks if any of a preset list of keywords is in the text.
