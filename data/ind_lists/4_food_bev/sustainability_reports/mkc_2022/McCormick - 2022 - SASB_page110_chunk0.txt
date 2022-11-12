@@ -1,0 +1,40 @@
+INDICES & DATA
+2021
+PLP REPORTMcCormick Performance Table
+2021 Update — People
+SUBJECT DISCLOSURE UNIT OF MEASURE 2018 2019 2020 20213RD PARTY  
+REFERENCE
+Belonging at McCormickWomen in executive management (direct reports to the 
+CEO)Percentage 27% 27% 25% 14%
+Women on Board of Directors Percentage 27% 30% 36% 36%
+Ethnically Diverse Board of Directors Percentage NC 27% 36%†36%†
+Women Executives Percentage 39% 40% 40% 42%
+Ethnically Diverse Executives Percentage NC NC 28% 23%
+Paid sick leave Number 8 days for US employees. Annual Shutdown for Christmas in the US - on average 4 or 5 days
+Growth & Development at 
+McCormickEmployee turnover (number of terminated employees / 
+average number of employees per day)Percentage 18% 18% 13% 18%
+Occupational Health & 
+SafetyFatalities Number 0 0 0 0 403-9-a
+Lost Time Injury rate LTIs per 200,000 hours 0.35 0.30 0.29 0.24
+Lost Time Injury frequency rate LTIs per million hours worked NC NC 1 .45 1. 19
+Occupational Illness frequency rateOccupational Illnesses per 
+million hours workedNC NC 0 0 GRI 403-10
+For all employees: The number and rate of fatalities as a 
+result of work-related injuryNumber 0 0 0 0 GRI 403-9-a
+For all employees: The number and rate of recordable 
+work-related injuriesNumber NC NC NCNumber: 64 
+Rate: .44GRI 403-9-c
+Whether the rates have been calculated based on 
+200,000 or 1,000,000 hours workedHours NC NC NC  200,000 GRI 403-9-m
+For all employees: The number and rate of fatalities as a 
+result of work-related ill healthNumber NC NC NC 0 GRI 403-10-a
+For all employees: The number of cases of recordable 
+work-related ill healthNumber NC NC NC 0 GRI 403-10-b
+For all employees: The main types of work-related ill 
+healthNumber NC NC NC 0 GRI 403-10-c
+Total recordable incident rate (TRIR) for (a) direct 
+employees and (b) contract employees*Number 0 0 0 .44 SASB RT -CH-320a.1
+Fatality rate for (a) direct employees and (b) contract 
+employeesPercentage 0% 0% 0% 0% SASB RT -CH-320a.1
+* This data is reflected for employees only as we do not collect it for contractors

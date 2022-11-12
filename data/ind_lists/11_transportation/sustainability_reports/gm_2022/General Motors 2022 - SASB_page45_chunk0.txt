@@ -1,0 +1,31 @@
+Data Center
+Environmental
+2019 2020 2021
+Waste1
+Total Waste Generated Not Reported Not Reported 1,464,097
+ Metals & Metal Scrap  Not Reported  Not Reported  914,932 
+ Foundry  Not Reported  Not Reported  198,382 
+ Corrugated & Cardboard  Not Reported  Not Reported  67,360 
+ Wood  Not Reported  Not Reported  70,481 
+ Trash, Nonhazardous from Plant  Not Reported  Not Reported  47,690 
+ Grinding Swarf  Not Reported  Not Reported  28,401 
+ Oils & Greases, Lubricating  Not Reported  Not Reported  22,129 
+ Sludges, Other  Not Reported  Not Reported  19,870 
+ Sludges, Paint  Not Reported  Not Reported  9,780 
+ Painting & Coating Wastes  Not Reported  Not Reported  14,747 
+ Other  Not Reported  Not Reported  70,326 
+Total Waste Diverted from Disposal Not Reported Not Reported  1,211,064
+ Metals & Metal Scrap  Not Reported  Not Reported  914,864 
+ Foundry  Not Reported  Not Reported  49,510 
+ Corrugated & Cardboard  Not Reported  Not Reported  67,260 
+ Wood  Not Reported  Not Reported  64,442 
+ Trash, Nonhazardous from Plant  Not Reported  Not Reported  654 
+ Grinding Swarf  Not Reported  Not Reported  28,290 
+ Oils & Greases, Lubricating  Not Reported  Not Reported  21,002 
+ Sludges, Other  Not Reported  Not Reported  3,796 
+ Sludges, Paint  Not Reported  Not Reported  93 
+ Painting & Coating Wastes  Not Reported  Not Reported  10,184 
+ Other  Not Reported  Not Reported  50,967 
+ 1. Waste generated from global facilities within the Zero Waste Program. This does not include construction, demolition or remediation waste.  
+GRI Index        SASB Response        TCFD Response        UN SDGs        UNGC        Data Center        Assurance Statements
+2021 SUSTAINABILITY SUPPLEMENT  45

@@ -1,0 +1,26 @@
+Case Study: Materials Engineering Study 
+The Fisker approach to continuous improvement is obsessive. Engineers conducted a materials 
+analysis striving for the perfect balance of sustainability, safety, quality, and cost. Key closure 
+components and the "body-in-white" (manufacturing stage when the vehicle frame has been fused, 
+before paint or parts) were analyzed to find an optimal material mix, including recycled materials 
+and mass. Results identified significant potential for reducing carbon footprint and will prompt a 
+future reengineering toward reaching our aspiration to create a carbon-neutral vehicle. Learnings 
+from this study will reduce the “body-in-white" and overall mass of the Fisker PEAR, the second 
+vehicle from Fisker expected to begin production in 2024.    
+MaterialMaterial 
+CFP***
+(kg CO2/kg)Raw Material 
+Cost
+($/kg)ΔModule CFP Δ Vehicle CFP
+FM29 Steel/ Aluminum Mix
+(Baseline; 10% recycled content*)11.0 -- -- --
+Aluminum
+(10% recycled content*)18.0 +50% +63% +12%
+Aluminum 
+(50% recycled content)12.0 +7 4% +11% +2%
+Steel
+(10% recycled content*)5.0 -45% -56% -10%
+Steel 
+(50% recycled content)3.8 -39% -64% -12%
+FM29 Steel/ Aluminum Mix
+(10% recycled content*)10.8 0 -25% -5%

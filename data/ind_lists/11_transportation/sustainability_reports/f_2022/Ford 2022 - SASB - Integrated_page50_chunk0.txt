@@ -1,0 +1,46 @@
+Mobility Solutions and Autonomous Vehicles – continuedFord  
+FundamentalsOur Sustainability 
+St
+rategy Driving Innovation and  Sus
+tainable GrowthPutting  Pe
+ople FirstProtecting the En
+vironmentCreating Responsible an
+d Ethical Growth
+Austin City:One Challenge pilot winner Tappy Guide 
+assisted Austinites with disabilities by launching a service to help them move through their mobility journeys by using real-time location information, live video feeds, and call center support. The pilot partnered with multiple organizations to test and launch their services in Austin. 
+More than 92 Austinites used the app to move throughout 
+th
+e City with the support of 37 volunteers who were 
+engaged in disability, diversity, and accessibility training to offer concierge support for people using the Tappy Guide service. 
+In 2022, the City:One program is focused on developing 
+ad
+ditional community-centered projects that integrate 
+residents in the mobility innovation experience. 
+Incubating Transportation Solutions 
+During the last three years, Ford has been restoring his
+toric buildings, including the iconic Michigan Central 
+Station, constructing new ones and building out connected spaces in Corktown, Detroit to transform the area into Michigan Central, a mobility innovation district that brings together innovators to incubate and speed development of transportation solutions. While construction is still underway, innovation in the district is already happening. One example is a partnership with Newlab, a New York-based accelerator, that began in 2020. Together, Michigan Central and Newlab have created two innovation studios. One to address mobility issues on a macro scale with an EV track focused on electrifying commercial fleets, as well as an AV track focused on the first and last 50-feet of a journey of moving goods. The second, a civic studio – Accessible Streets – designed to improve transportation and access in the neighborhoods around Michigan Central Station – upholding our commitment to the local communities. Moving Goods: A Low-Speed Autonomous ShuttleTo improve how people and goods move in the future, we n
+eed to explore different mobility applications to 
+understand how they can address real transportation needs in communities. We’re doing just that by conducting pilots and testing in and around Michigan Central. In collaboration with a Ford Fund and Gleaners Community Food Bank food delivery program called FREC (Ford Resource and Engagement Center) on the Go, we are operating a pilot through the summer of 2022 to deliver fresh produce to mobility-challenged senior citizens via an autonomous low-speed shuttle. The shuttle will make deliveries each month from the Ford Resource and Engagement Center in Southwest Detroit to the Rio Vista Co-Op Apartments senior living center. 
+In addition to our work with Argo AI, the Ford Autonomous 
+Ve
+hicle team is collaborating with Saline, Michigan-based 
+Quantum Signal AI LLC, a wholly owned Ford subsidiary, to  explore using a low-speed shuttle to operate autonomously on a fixed route with the help of remote operations and smart infrastructure. 
+While the shuttle will operate autonomously with a safety 
+dr
+iver, we are looking at how a remote operator from more 
+than 40 miles away in Saline, could assist the shuttle if an unexpected condition arises, such as a fallen tree branch from a storm in the middle of the road. 
+We also are building off of our work in Saline and Miami, 
+an
+d have installed multiple Ford-designed smart 
+infrastructure sensor nodes along the shuttle test route, which can relay information to an autonomous vehicle, so it knows what’s happening on the ground before it even arrives at an intersection or other piece of roadway. For example, if the vehicle’s sensors are blocked by a truck, the node helps the vehicle to see that a pedestrian or vehicle is approaching. T o improve how people and 
+goods move in the future, we need to explore different mobility applications to understand how they can address real transportation needs in communities. We’re doing just that by conducting pilots and testing in and around the Michigan Central.The design of the shuttle from the interior to the exterior 
+was created by our Experience Design (XD) team whose mission is to understand the customer and create value. The team will conduct focus groups to engage with residents about the pilot and to better understand the challenges they face when it comes to transportation and their freedom to move. 
+As a result of the six-month pilot, more than 20 residents 
+wi
+ll receive two deliveries per month complete with fresh 
+milk and produce – highly requested items based on feedback – which is expected to provide an expected 10,000 pounds of fresh healthy foods. 
+We believe this type of autonomous application could be 
+use
+d in the future and could help support more frequent 
+trips and deliveries in our communities. As a step in our journey, we will continue to use the open innovation platform at Michigan Central to build mobility solutions for the future

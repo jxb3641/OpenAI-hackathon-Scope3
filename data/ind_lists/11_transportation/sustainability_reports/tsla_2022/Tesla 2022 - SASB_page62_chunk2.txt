@@ -1,0 +1,12 @@
+Source: OEM websites and other publicly available sourcesEnergy Efficiency —EPA range in miles/kWh
+Small SUVs (AWD)Energy Efficiency —EPA range in miles/kWh
+Mid-Sized Sedans (AWD)
+012345
+Model Y VW
+ID.4Ford
+Mach EJaguar
+iPaceAudi
+e-tron012345
+Model 3 Polestar 2 BMW
+i4 M50Audi e-tron
+Sportsback

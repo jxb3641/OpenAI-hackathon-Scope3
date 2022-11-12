@@ -1,0 +1,37 @@
+Full-time employeesPercentage of total 
+employees98.6% 98.6% 405-1
+Part-time employeesPercentage of total 
+employees1.4% 1.4% 405-1
+WomenPercentage of total 
+employees37% 36% 405-1
+MenPercentage of total 
+employees63% 63% 405-1
+Nonbinary employeesPercentage of total 
+employeesNot reported < 1% 405-1
+Not disclosedPercentage of total 
+employeesNot reported < 1% 405-1
+Women in management roles Percentage of employees 
+in management roles34% 37% 405-1
+People of color (U.S. employees only)Percentage of total 
+employeesNot Reported 24% 405-1
+White (U.S. employees only) Percentage of total 
+employeesNot Reported 73% 405-1
+Ethnicity not available (U.S. employees only) Percentage of total 
+employeesNot Reported 3% 405-1
+Executive Leadership Team
+African American or BlackPercentage of executive 
+leadership team18% 18% 405-1
+Hispanic or LatinoPercentage of executive 
+leadership team64% 64% 405-1
+WhitePercentage of executive 
+leadership team18% 18% 405-1
+Women Percentage of executive 
+leadership team27% 27% 405-1
+MenPercentage of executive 
+leadership team73% 73% 405-1
+Safety Metrics
+Total Recordable Incident Rate (TRIR) Rate 0.84 0.74 403-9 FB-MP-320a.1
+Learning & Development Metrics
+Average learning hours per employee Hours 36 14 404-1From 2019 to 2020, we updated data 
+collection systems for our learning and 
+development metrics

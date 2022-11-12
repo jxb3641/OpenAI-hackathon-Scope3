@@ -1,0 +1,4 @@
+Design : At Brown-Forman, all projects that involve a new packaging format or a change 
+to an existing packaging format are overseen by the Brown-Forman Project Management 
+Office. These projects are required to go through the Brown-Forman Stage Gate Process, 
+which includes a Sustainability Review

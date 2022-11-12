@@ -1,0 +1,8 @@
+The carbon impact of ICE vehicles remains the same every year of use, but for EVs, it should improve every year
+Based on publicly available sales and fleet data, we estimate that an average vehicle in the U.S. is driven slightly 
+less than 12,000 miles per year for about 17 years before it is scrapped. Furthermore, as an ICE vehicle ages, its 
+fuel efficiency only remains stable if serviced properly. On the other hand, electricity generation to charge EVs 
+has become “greener” over time with the addition of cleaner energy sources to the grid. Below, we show zero -
+emission electricity generation capacity (including nuclear) in the U.S. since 2015. Even without factoring in any 
+changes to federal policy or an acceleration of the adoption of renewables in the U.S. (which is likely), if current 
+trends remain stable, emissions generated through EV charging should continue to decline over time

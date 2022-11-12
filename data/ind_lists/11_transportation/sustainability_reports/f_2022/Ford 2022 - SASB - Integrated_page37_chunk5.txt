@@ -1,0 +1,6 @@
+Ceres Recommendation: Provide more information around data privacy and driver a
+nd pedestrian safety as they relate to autonomous 
+vehicles (AVs). Ford Response: We have adopted a holistic approach to protect 
+c
+ustomers’ data and ensure their privacy that includes 
+policies focused on transparency, responsible data handling and use, and choice. Ford has integrated cybersecurity with all stages of the vehicle lifecycle. This includes following established global cybersecurity standards (UNECE R155) for automakers and adopting the Automotive Consumer Protection Principles developed by the Alliance for Automotive Innovation. We proactively assess the impact of cybersecurity on new areas such as data privacy, Ford Co-Pilot360 semi-automated driver assistance technologies and development of our fully autonomous vehicles

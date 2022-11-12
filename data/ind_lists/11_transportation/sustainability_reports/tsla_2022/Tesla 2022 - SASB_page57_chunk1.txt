@@ -1,0 +1,13 @@
+Equivalent ICE Vehicles
+70 tons
+Lifetime CO 2e emitted by an average internal combustion engine 
+vehicle (model year 2021) sold in the U.S. through its use -phase, 
+excluding CO 2e emitted during the oil refining phase.Using only real- world data, not official NEDC, WLPT or EPA1consumption data
+The most important variable in a lifecycle analysis of an automobile is real- world fuel consumption or electricity 
+consumption, as applicable, which impacts the use -phase of the lifecycle. Various efficiency testing cycles such 
+as NEDC, WLTP or EPA do not truly represent real -world fuel or energy consumption. Therefore, we used: 
+EV energy consumption: Real world energy consumption based on 25 billion miles traveled Tesla Model 3 and 
+Model Y vehicles, including energy losses during the charging process. 
+ICE fuel consumption: Data provided by Consumer Reports, which reports model year 2020 mid -size premium 
+sedans achieve 24.3 MPG on average. This translates to over 400 grams of CO 2e per mile once we account for 
+emissions generated through the extraction, refining and shipment of oil

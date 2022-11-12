@@ -1,0 +1,6 @@
+Use of product emissions
+Tesla has access to primary data from our over two million vehicles on the road and our fleet of solar and 
+storage products —we can calculate our emissions at a much higher level of accuracy than most manufactures 
+and can therefore develop emissions reduction solutions to match. This also means that we can calculate our use 
+of product emissions year on year — we do not have to estimate emissions over the lifetime of the vehicle 
+because we have primary data

@@ -1,0 +1,10 @@
+Data Center
+Environmental
+2019 2020 2021
+Water (cont.)1
+Total Water Consumption from All Areas (megaliters)2 9,376  7,666  7,602
+Total Water Consumption from All Areas with Water Stress (megaliters)1 1,011  588  795
+Municipal  Not Reported  Not Reported 90%
+Well Water  Not Reported  Not Reported 10%
+Water Intensity (M3/vehicle)34.26 4.17 4.54
+ 1. Water data, other than municipal and well water, is collected from global facilities

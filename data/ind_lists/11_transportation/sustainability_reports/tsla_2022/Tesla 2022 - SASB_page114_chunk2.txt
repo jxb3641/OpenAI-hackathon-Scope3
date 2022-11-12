@@ -1,0 +1,12 @@
+2 The colors of percentages above indicate their inclusion in broader categories in the table. For example, Working Hours is a subcategory of Labor 
+and, therefore, both are colored blue.Supplier Audit Findings (2018 -2021)
+2018 2019 20201 20211
+Audits Conducted 12 108 81 41
+Average Non -Conformance per Audit 28 21 16 15
+Breakdown of Findings by Topic (%)
+Labor 30% 30% 31% 37%
+Health & Safety 30% 27% 30% 33%
+Environment 14% 14% 13% 14%
+Ethics 6% 4% 2% 1%
+Management Systems 20% 25% 24% 15%
+Total 100% 100% 100% 100%

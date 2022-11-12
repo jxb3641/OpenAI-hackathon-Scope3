@@ -1,0 +1,7 @@
+Payload equal to a diesel truck
+With both the U.S. and E.U. having approved higher weight allowances for electric heavy -duty trucks, we expect 
+the payload to be at least as high as it would be for a diesel truck. In the E.U., electric semi trucks are allowed to 
+be 2 tons (~4,400 pounds) heavier than diesel equivalents, and in the U.S. the allowance is 0.9 tons (2,000 
+pounds). When fully loaded, the T esla Semi should be able to achieve over 500 miles of range, achieved through 
+aerodynamics and highly efficient motors. This truck will be able to reach an efficiency of over 0.5 miles per 
+kWh

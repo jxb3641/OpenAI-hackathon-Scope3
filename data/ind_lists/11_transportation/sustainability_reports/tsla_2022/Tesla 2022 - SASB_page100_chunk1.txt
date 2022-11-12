@@ -1,0 +1,7 @@
+For cells containing NCA and NCM cathodes, we continue to work toward batteries that contain higher levels of 
+nickel in order to improve vehicle range while lowering overall battery costs, without compromising overall cell 
+performance, such as battery safety and lifetime, that is currently enabled by cobalt. It is important to note that 
+we expect our absolute cobalt demand to increase over the coming years because our vehicle and cell 
+production growth rate is forecasted to outpace the overall rate of cobalt reduction on a per cell basis.Battery Supply Chain
+#1 The Tesla Approach
+PNickel -Cobalt -Aluminum Cathode Nickel -Manganese -Cobalt Cathode Lithium -Iron-Phosphate Cathode

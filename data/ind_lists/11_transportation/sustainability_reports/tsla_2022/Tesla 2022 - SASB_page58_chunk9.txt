@@ -1,0 +1,4 @@
+* This year we have added the impact of Model Y to the emissions per mile calculation in our LCA. Given that Model 3 and Mode l Yhave 70%+ 
+parts commonality and share many manufacturing processes their GHG footprints are very similar. We have decided to present the L CA as a 
+weighted average of Model 3 and Model Y based on production share for each vehicle (for manufacturing phase emissions) and de livery volumes 
+in each region (for use -phase emissions).

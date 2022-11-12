@@ -1,0 +1,6 @@
+105Battery Supply Chain
+#2 Risk Identification2.3 GHG emissions hotspot identification
+Tesla complemented the hotspot analysis with data collected during a pilot blockchain traceability project for 
+nickel sourced from Tesla nickel supplier, BHP, that traced nickel from a mine site in Australia to Tesla and 
+collected GHG emissions data for every step. The pilot project showed that mining and upstream processing 
+had a higher CO 2e intensity than precursor, cathode and battery cell production

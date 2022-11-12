@@ -1,0 +1,26 @@
+13 13
+ The Coca-Cola Company 2021 Reporting Frameworks & SDGsGRI 304: Biodiversity 2016
+304-1 Operational sites owned, leased, managed in, or adjacent to,
+protected areas and areas of high biodiversity value outsideprotected areasThe company has a thorough “Water Resource Sustainability” internal standard for each production operation we operate within our system. This internal standard includes assessment for water quantity, quality and other respective water challenges (where relevant i.e. WASH) and outlining the water-related risks accordingly. From there, each operation is required to prepare a mitigation action which is named “Water Management Plan.” Our operations are transitioning to this approach within the 2030 Water Strategy. 
+For new land purchases and in Mergers & Acquisitions, an Environmental Due Diligence is required including the 
+“evaluation of wetlands and endangered species.”
+304-3 Habitats protected or restored 
+The 2021 Business & ESG Report details our activities on water stewardship and sustainable agriculture which focus on habitat and ecosystem restoration. For example, in our 2021 replenishment results, we include 154 productive replenish projects that deliver ecosystem protection and restoration over 600,000 hectares.  
+2021 Business & ESG Report 
+– Water Leadership, pp. 21–27– Sustainable Agriculture, pp. 42–45
+GRI 305:  Emissions 2016
+305-1 Direct (Scope 1) GHG emissions 2021 CDP Climate Change Response: C6.1, C7.1a, C7.2, C7.3a, C7.3c
+2021 Business & ESG Report 
+– Data Appendix, p. 74UNGC: Principle 7, 8
+305-2 Energy indirect (Scope 2) GHG emissions 2021 CDP Climate Change Response: C6.3, C7.5, C7.6a, C7.6c 
+2021 Business & ESG Report 
+– Data Appendix, p. 74UNGC: Principle 7, 8
+305-3 Other indirect (Scope 3) GHG emissions 2021 CDP Climate Change Response: C6.5, C-AC6.6a/C-FB6.6a/C-PF6.6a 
+2021 Business & ESG Report 
+– Data Appendix, p. 74UNGC: Principle 8
+305-4 GHG emissions intensity 2021 CDP Climate Change Response: C4.1b, C6.10
+2021 Business & ESG Report 
+– Data Appendix, p. 74UNGC: Principle 8, 9
+305-5 Reduction of GHG emissions 2021 CDP Climate Change Response: C4.1a
+2021 Business & ESG Report 
+– Executive Summary, pp. 6–9– Climate, pp. 38–41– Data Appendix, p. 74UNGC: Principle 8, 9GRI STANDARD AND DISCLOSURES REPORT SECTION, ANSWER, OR ADDITIONAL DOCUMENTATION ADDITIONAL REFERENCETCFD SASB SDGs GRI

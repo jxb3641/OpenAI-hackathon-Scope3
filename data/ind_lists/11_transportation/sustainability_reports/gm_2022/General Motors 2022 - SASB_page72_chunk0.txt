@@ -1,0 +1,37 @@
+GRI Index        SASB Response        TCFD Response        UN SDGs        UNGC        Data Center        Assurance Statements
+2020 VERIFICATION STATEMENT  - GENERAL MOTORS COMPANY  
+2 
+ 
+Table 1. General Motors Global Facilities - 2020 GHG and Sustainability Data Assertions  
+Parameter  Assertion  Metric  Notes  
+Scope 3 Category 1 Purchased Goods & 
+Services  38,359,951  tCO 2e  
+Scope 3 Category 2 Capital Goods  2,438,131  tCO 2e  
+Scope 3 Category 4 Upstream Transportation  2,704,814  tCO 2e  
+Scope 3 Category 6 Business Travel  9,897  tCO 2e Air travel only  
+Scope 3 Category 9 Downstream 
+Transportation  1,298,332  tCO 2e  
+Scope 3 Category 11 Use of Sold Product  248,218,958  tCO 2e Includes emissions from produced 
+vehicle travel and air conditioning 
+systems  
+GRI 305 -1 Total Scope 3 GHG Emissions  Category 1: 38,359,951  
+Category 2: 2,438,131  
+Category 4: 2,704,814  
+Category 6: 9,897  
+Category 9: 1,298,332  
+Category 11: 248,218,958  tCO 2e Category 6 is air travel only  
+Category 11 Includes emissions from 
+produced vehicle travel and air 
+conditioning systems  
+ 
+Verification Criteria  
+Stantec has conducted sufficient and appropriate procedures to express a limited level of assu rance  opinion as t o whether the GHG and 
+sustainability data assertions for 2020 as quantified by GM satisfy the requirements of the following criteria:  
+x ISO 14064 Greenhouses Gases – Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse 
+gas emissions and removals, 2006  
+x World Resources Institute (WRI)/World Business Council for Sustainable Development (WBCSD), The Greenhouse Gas Protocol: A Corporate 
+Accounting and Reporting Standard  (Revised Edit ion), March 2004  
+x WRI/WBCSD, Greenhouse Gas Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard  
+x CDP Guidance for the 20 20 reporting year  
+x GRI Sustainability Reporting Guidelines (various guidelines, updated from time to time)  
+2021 SUSTAINABILITY SUPPLEMENT  72

@@ -1,0 +1,26 @@
+2021 SASB Index 
+TOPIC ACCOUNTING METRIC CATEGORY UNIT OF 
+MEASURECODE 2021 HERSHEY RESPONSE
+Energy 
+Management(1) Total energy consumed 
+(2) Percentage grid electricity 
+(3) Percentage renewableQuantitative Gigajoules (GJ),
+Percentage (%)FB-PF-130a.1 Hershey 2021 ESG Report:
+• Environment: Energy Consumption, page 59 
+Water 
+Management(1) Total water withdrawn
+(2) Total water consumed, percentage of 
+each in regions with High or Extremely 
+High Baseline Water StressQuantitative Cubic meters 
+(m3),
+Percentage (%)FB-PF-140a.1 (1) 5,829 million liters water withdrawn in 2021 (11% in regions of extremely high 
+baseline water stress, 1% in areas of high baseline water stress)
+(2) 914 million liters water consumed in 2021 (46% in regions of extremely high 
+baseline water stress, 2% in areas of high baseline water stress)
+The 2021 data represents Hershey’s global manufacturing facilities and owned U.S. 
+distribution centers and corporate offices. 
+Number of incidents of non-compliance 
+associated with water quantity and/or 
+quality permits, standards, and regulationsQuantitative Number FB-PF-140a.2 During calendar year 2021, The Hershey Company did not identify any noncompliances 
+with environmental laws and/or regulations giving rise to significant fines or sanctions 
+associated with water quantity and/or quality standards, regulations or permits

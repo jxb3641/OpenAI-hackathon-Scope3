@@ -1,0 +1,33 @@
+GRI Content IndexGRI Standards
+Disclosure NumberDisclosure  
+Title Reference/Response
+GRI 305: EMISSIONS (CONT.)
+305-4 GHG emissions intensity GM no longer calculates Scope 1 & 2 emissions intensity, as our SBTi target is focused on absolute CO2 reduction 
+CDP Climate Change  (2021 section C4.1b)
+305-5 Reduction of GHG emissions Data Center
+305-6 Emissions of ozone-depleting substances (ODS) Not reported: GM does not import, export or produce ODS
+305-7 Nitrogen oxides (NOX), sulfur oxides (SOX), and other  
+significant air emissionsData Center
+GRI 306: EFFLUENTS AND WASTE
+103-1 Explanation of the material topic and its Boundary Designing for the Environment—Pursuing Zero Waste
+103-2 The management approach and its components Designing for the Environment—Pursuing Zero Waste
+103-3 Evaluation of the management approach Designing for the Environment—Pursuing Zero Waste
+306-1 Waste generation and significant waste-related impacts Designing for the Environment—Pursuing Zero Waste
+306-2 Management of significant waste-related impacts Designing for the Environment—Pursuing Zero Waste
+306-3 Waste generated Data Center
+306-4 Waste diverted from disposal Data Center
+306-5 Waste directed to disposal Data Center
+GRI 307: ENVIRONMENTAL COMPLIANCE
+103-1 Explanation of the material topic and its Boundary Ensuring Responsible Governance—Environmental Management & Compliance
+Reducing Carbon Emissions  
+Designing for the Environment
+Supporting Supplier Responsibility—Supply Chain Compliance
+Global Environmental Policy
+103-2 The management approach and its components Ensuring Responsible Governance—Environmental Management & Compliance—Environmental Management System (EMS)
+Reducing Carbon Emissions  
+Designing for the Environment  
+Supporting Supplier Responsibility—Supply Chain Compliance
+Global Environmental Policy
+103-3 Evaluation of the management approach Ensuring Responsible Governance—Environmental Management & Compliance
+GRI Index        SASB Response        TCFD Response        UN SDGs        UNGC        Data Center        Assurance Statements
+2021 SUSTAINABILITY SUPPLEMENT  10

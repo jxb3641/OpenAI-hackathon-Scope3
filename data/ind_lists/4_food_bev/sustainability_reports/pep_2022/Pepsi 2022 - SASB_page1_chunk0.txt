@@ -1,0 +1,60 @@
+Metric Metric CodeReporting 
+StatusType of  
+DisclosureUnit of  
+MeasureResponse Reference
+Fleet Management        
+Fleet fuel consumed
+FB-NB-110a.1Reported Quantitative Gigajoules (GJ) Nearly 20 million GJ of fuel ESG Topics A-Z: Fleet Efficiency
+Percentage renewable Reported Quantitative Percentage (%)Nearly 7% of fleet fuel was from 
+renewable sources ESG Topics A-Z: Fleet Efficiency
+Energy Management        
+Operational energy consumed
+FB-NB-130a.1Reported Quantitative Gigajoules (GJ)Approximately 59 million GJ, excluding 
+fleet per guidance from SASB’s  
+Non-Alcoholic Beverage Standard, 
+which differs from the Processed Food 
+Standard in this regard.ESG Topics A-Z: Climate Change
+Percentage grid electricity Reported Quantitative Percentage (%)92% of electricity consumed in 
+company-owned operations was  
+from the gridESG Topics A-Z: Renewable Energy
+Percentage renewable Reported Quantitative Percentage (%)More than 70% of electricity consumed 
+in company-owned operations was 
+from renewable sources ESG Topics A-Z: Renewable Energy
+Water Management        
+Total water withdrawn
+FB-PF-140a.1
+FB-NB-140a.1Reported QuantitativeCubic meters 
+(m3)Approximately 86 million m3ESG Topics A-Z: Water 
+Total water consumed Reported QuantitativeCubic meters 
+(m3)Approximately 29 million m3ESG Topics A-Z: Water 
+Percentage of each in regions 
+with High or Extremely High 
+Baseline Water StressReported Quantitative Percentage (%)During 2021, approximately 20% of the 
+water PepsiCo withdrew and consumed 
+in its company-owned operations was 
+from regions of high water-risk. ESG Topics A-Z: Water 
+Number of incidents of  
+non-compliance associated 
+with water quality and/or 
+quality permits, standards and 
+regulationsFB-PF-140a.2 Reported Quantitative NumberIn PepsiCo's 2021 CDP Water 
+Submission (the most recent submission 
+at the time of SASB index publication), 
+we disclose detail on the 8 fines the 
+company incurred during the reporting 
+year, totaling less than USD $1,500. 
+PepsiCo did not have any incidents 
+that were considered significant. 2021 PepsiCo CDP Water 
+Submission W2.2a
+Description of water 
+management risks and 
+discussion of strategies and 
+practices to mitigate those risksFB-PF-140a.3
+FB-NB-140a.2Reported QualitativeDiscussion and 
+analysisIn PepsiCo's 2021 CDP Water 
+Submission (the most recent 
+submission at the time of SASB index 
+publication), we describe in detail our 
+process for identifying, assessing, and 
+responding to water-related risks. 2021 PepsiCo CDP Water 
+Submission W3.3

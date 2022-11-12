@@ -1,0 +1,5 @@
+6,500 miles
+At the moment, the manufacturing process of a Model 3 results in slightly higher 
+GHG emissions than an equivalent combustion engine vehicle. However, based on the global weighted average grid mix, a Model 3 has lower lifetime emissions than an 
+equivalent ICE after driving 6,500 miles. Tesla estimateEstimate is based on the difference in CO2e emissions from the average of manufacturing phase of a Model 3 and Model Y and an equivalent ICE which is then divided by the net CO2e savings per mile from a Model 3 and Model Y 
+versus an equivalent ICE. Net CO2e savings are based on delivery -weighted global grid mix

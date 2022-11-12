@@ -1,0 +1,24 @@
+86Tesla strives to go beyond industry standard testing by using real- world data from our fleet of over two millions 
+cars on the road. Historically, the aim of manufacturers has been to design their vehicles to perform well for a 
+suite of regulatory and consumer tests. There are too many common impact scenarios (visible in the heatmap 
+below) that are simply not covered by regulatory crash tests. The richness of data we are collecting enables us 
+to develop safety in allscenarios, not only the ones covered by regulation and ratings. 
+Algorithm, Trained By Fleet, Triggers Optimal Safety Responses
+We analyze data from our fleet to find solutions, which we then update via over -the-air software updates. Our 
+algorithm uses vehicle sensor data and, within tens of milli- seconds of impact, determines what type of impact 
+has occurred and triggers the seatbelt pretensioners and airbags to respond in the most optimal way down to 
+the millimeter and mile per hour. Tesla engineers are also in the final stages of evaluating a system which uses 
+Autopilot to identify when a crash is imminent. This gives Tesla vehicles an uncanny ability to predict potential collisions and respond faster to an impact when it does occur.Vehicle Safety
+Data -Driven Pre -Crash Safety
+Regulatory Collision Test20 mph 30° Angular
+25 mph 30° Angular
+40 mph Small Overlap
+40 mph ODB
+35 mph
+Flat
+FrontalSide 
+MDB80 kmh rear impact (FMVSS305)Real World Tesla Crash Data
+Collisions Recorded By Our Fleet0 Relative speed 
+change from rear
+0 Relative speed change (impact) from left Relative speed change (impact) from right Relative speed
+change from front

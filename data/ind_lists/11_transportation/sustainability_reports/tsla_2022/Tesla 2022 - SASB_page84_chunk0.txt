@@ -1,0 +1,6 @@
+85Tesla vehicles are engineered for safety and when Autopilot is engaged safety is enhanced
+In 2021, we recorded 0.22 crashes for every million miles driven in which drivers were using Autopilot 
+technology (Autosteer and active safety features). For drivers who were not using Autopilot technology (no 
+Autosteer and active safety features), we recorded 0.77 crashes for every million miles driven. By comparison, 
+NHTSA’s most recent data shows that in the United States there are 1.81 automobile crashes for every million 
+miles driven

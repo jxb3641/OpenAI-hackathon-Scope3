@@ -1,0 +1,14 @@
+
+Animal Nutrition
+Digital Dung Assessment
+ADM has made the process of evaluating cattle digestive health 
+through manure evaluation easier and faster for farmers in the EU 
+by developing the first mobile app that analyzes the risk of ruminal 
+acidosis in a dairy herd. Ruminal acidosis is a metabolic disease 
+related to the digestibility of certain animal feeds. Cereals like corn, 
+barley and wheat are rapidly fermentable carbohydrates that support 
+increased milk production but can also generate excess quantities 
+of volatile fatty acids in a cow’s rumen as feed is digested which can 
+negatively affect feed intake and milk production. Unfortunately, 
+afflicted cows may not show any clinical signs before they go off feed, 
+lose weight, become lethargic and suffer diarrhea

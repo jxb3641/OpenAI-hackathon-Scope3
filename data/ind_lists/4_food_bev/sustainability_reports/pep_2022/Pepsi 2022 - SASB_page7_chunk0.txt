@@ -1,0 +1,57 @@
+Metric Metric CodeReporting 
+StatusType of  
+DisclosureUnit of  
+MeasureResponse Reference
+Ingredient Sourcing       
+Percentage of beverage / 
+food ingredients sourced from 
+regions with High or Extremely 
+High Water StressFB-PF-440a.1
+FB-NB-440a.1Alternate 
+disclosureQuantitativeSASB Metric: 
+Percentage (%) 
+by cost
+Reported:  
+Percentage (%) 
+by volumeAt the end of 2021, we sourced 
+approximately 40% of our direct 
+grower-sourced key ingredients – 
+those considered the building blocks 
+of our convenient foods and beverages  
+– from areas of high water-risk. ESG Topics A-Z: Agriculture
+List of priority beverage / food 
+ingredients and description 
+of sourcing risks due to 
+environmental and social 
+considerationsFB-PF-440a.2
+FB-NB-440a.2Reported QualitativeDiscussion and 
+analysisMaking our products requires a wide 
+variety of crops and ingredients 
+and we believe that regenerative 
+agricultural practices will be pivotal 
+in meeting the increasing demand for 
+food, while also addressing some of 
+the key risks that can be associated 
+with agriculture, such as freshwater 
+scarcity, deforestation, biodiversity 
+loss, soil degradation, and human 
+rights. For a list of our key ingredients, 
+see ESG Topics A-Z: Agriculture. ESG Topics A-Z: Agriculture
+Activity Metrics       
+Volume of products sold FB-NB-000.A Reported QuantitativeMillions of 
+hectolitersPepsiCo sold approximately 650 
+million hectoliters of beverages in 
+its Top 26 markets in 2021, which 
+collectively accounted for 79% of 
+global beverage sales during the year.ESG Topics A-Z: Nutrition
+Weight of products sold FB-PF-000.A Reported Quantitative Metric tonsPepsiCo sold more than 7 million 
+metric tons of convenient foods 
+product in our Top 23 markets in 2021, 
+which collectively accounted for 86% 
+of our global convenient foods sales 
+during the year.ESG Topics A-Z: Nutrition
+Number of production facilitiesFB-PF-000.B
+FB-NB-000.BReported Quantitative Number294 company-owned manufacturing 
+sitesESG Summary: Our Value Chain
+Total fleet road miles traveled FB-NB-000.C Reported Quantitative MilesIn 2021, our company-owned fleet 
+traveled approximately 1.2 billion miles.ESG Topics A-Z: Fleet Efficiency

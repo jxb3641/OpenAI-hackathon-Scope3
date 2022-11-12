@@ -1,0 +1,3 @@
+Where solar and storage are assumed to be a fuel source for the use- phase of the Model 3Y, emissions were 
+included in the manufacturing phase figure. The Model 3Y Rideshare Use (solar charged) scenario is allocated 100% of these emissions on a per mile basis, while the Model 3Y Personal Use (solar charged) scenario is allocated 82% of these emissions and 18% grid -charged emissions on a per mile basis (based on observed supercharging vs. other 
+split)

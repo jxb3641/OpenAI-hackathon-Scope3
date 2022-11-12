@@ -1,0 +1,29 @@
+8.4 million metric tons of CO2e savings Tesla estimateTo estimate CO
+2e savings, we first measured the amount of miles driven by our vehicles and kWh of electricity 
+generated and stored by our solar panels and energy storage products at the state, province, and country level for 
+2021. We then applied an emissions savings factor (in gCO2e/mi for miles driven and gCO2e/kWh for electricity 
+generated), for each state, province, and country to estimate CO2e avoided. For miles driven, the emissions savings 
+factor is the net of estimated emissions from our vehicles and an ICE with a real -world fuel efficiency rating of ~24 
+mpg. The emissions savings factor is based on grid emissions intensity in each respective location and includes upstream emissions from the production and transport of fuels. 
+Tesla Cumulative Net Energy Impact: 2012 –2021 (TWh) TeslaFigures based on actual electricity consumption from utility bills for 2018, 2019, 2020 and 2021. 2020 and 2021 figures also include measured consumption for on- site fuel use including propane, diesel and gasoline. Figures for 
+2012 -2017 for electricity, and 2012 -2019 for on -site fuel use, are estimated based on actuals scaled for vehicle and 
+battery production for each respective year and facility. 
+Global Greenhouse Gas (GHG) Emissions by Economic SectorCAIT data: Climate Watch. 2020. GHG Emissions. Washington, DC: World Resources 
+Institute. Available at: 
+https://www.climatewatchdata.org/ghg -
+emissions. 
+Land Use Data Source: Food and Agriculture 
+Organization of the United Nations. FAO 2020, FAOSTAT Emissions Database. Latest 
+update: 2020. Accessed: June 2021. 
+https://www.climatewatchdata.org/ghg -
+emissions.For simplicity, select categories were combined based on similarity of emissions source. Emissions from Agriculture 
+were combined with emissions from Land -Use Change and Forestry under the label “Agriculture, Land -Use Change 
+and Forestry.” Emissions from Industrial Processes were combined with emissions from 
+Manufacturing/Construction under the label “Industry.” Emissions from Waste, Fugitive Emissions, Other Fuel 
+Combustion and Bunker Fuels (U.S. -only) were combined under the label “Other Energy.”
+EEO-1 comparison to industry averages Publicly available EEO -1 disclosuresFigures for peer benchmarking were sourced from the latest available EEO -1 disclosure on each company’s website. 
+For comparability, all figures were converted to percentages of total workforce. Figures for each Tech and 
+Automotive industry were calculated based on an average of the percentages for the companies in each respective industry. Tables on pages 37 and 38 represent the difference in representation in Tesla’s workforce across each 
+category. 
+Companies in the Tech average: Adobe, Alphabet, Amazon, Apple, Cisco, Meta, HPE, Lyft, Microsoft, Netflix, Nvidia, 
+Oracle, Qualcomm, Salesforce, and UberCompanies in the Automotive average: Ford and General Motors 

@@ -1,0 +1,2 @@
+We do the right thing with data. We maintain trust by handling data as customers expect, keeping it accurate 
+and complete and properly destroying it when it is no longer needed

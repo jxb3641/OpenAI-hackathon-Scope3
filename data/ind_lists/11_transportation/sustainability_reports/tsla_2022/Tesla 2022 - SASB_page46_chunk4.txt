@@ -1,0 +1,2 @@
+3.Safeguards: the hardware, software and human actions that directly prevent an event or mitigate a bad 
+outcome

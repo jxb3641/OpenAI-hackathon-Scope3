@@ -1,0 +1,12 @@
+Cocoa: 100% of cocoa products purchased (by cost) from Tier 1 suppliers are certified 
+to UTZ, Rainforest Alliance or Fair Trade USA as well as supplier standards meeting the 
+international ISO/CEN criteria. For this SASB disclosure, only cocoa products purchased 
+(by cost) certified to UTZ, Rainforest Alliance or Fair Trade USA were included. 
+Sugar: 62% of sugar purchased (by cost) from Tier 1 suppliers is certified to the Bonsucro 
+mass balance Chain of Custody Standard or are covered by Bonsucro credits. 
+Palm Oil: 100% of palm products purchased (by cost) from Tier 1 suppliers are certified to 
+the RSPO mass balance model. 
+Coconut: 95% of coconut purchased (by cost) from Tier 1 suppliers is certified to the Fair 
+Trade USA standard. 
+Eggs: 95% of the eggs purchased (by cost) from Tier 1 suppliers are certified Cage-Free 
+to the American Humane Certified standard

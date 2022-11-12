@@ -1,0 +1,11 @@
+141GHG Emissions Disclosure (cont.)
+4.Related to Scope 1 GHG emissions: 
+•Stationary combustion (natural gas): 
+•Combustion from stationary equipment and machinery at all Tesla sites. 
+•Global natural gas usage data was collected from monthly utility invoices obtained 
+from third -party providers. 
+•If monthly usage data was not available, Tesla estimated the natural gas usage by 
+determining an annual natural gas usage rate per square foot based on actual 2021 
+monthly natural gas usage data for sites in a similar geographic location and type 
+of site. This rate was then multiplied by the square footage of the site building 
+space

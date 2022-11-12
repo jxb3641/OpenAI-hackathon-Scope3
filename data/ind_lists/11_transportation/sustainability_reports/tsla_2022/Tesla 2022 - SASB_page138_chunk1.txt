@@ -1,0 +1,12 @@
+2.GHG emissions quantification is subject to significant inherent measurement uncertainty because of such things as GHG emissions factors that are used in mathematical models to 
+calculate GHG emissions, and the inability of these models, due to incomplete scientific 
+knowledge and other factors, to accurately measure under all circumstances the relationship 
+between various inputs and the resultant GHG emissions. Environmental and energy use 
+data used in GHG emissions calculations are subject to inherent limitations, given the nature 
+and the methods used for measuring such data. The selection by management of different 
+but acceptable measurement techniques could have resulted in materially different amounts 
+or metrics being reported.Site Type Site Activities 
+Manufacturing Manufacture Tesla products, including vehicles, superchargers, solar tiles, 
+and energy storage products. Support manufacturing through the design 
+and manufacture of equipment and tools used at manufacturing sites or by 
+storing manufacturing materials, parts, or finished products

@@ -1,0 +1,16 @@
+Post-Crash Data Analysis
+After we send new software to the fleet, we wait for new data to come through to understand the efficacy of 
+the system once it is deployed in the real world. Since deployment of our ‘ offzone ’ side algorithm (data -driven 
+safety), we learned that of the total vehicles that had their airbags deployed, 15% of those deployed due to our 
+new algorithm in these new modes. This confirms our expectations and highlights how effective fleet -based 
+learnings and rapid deployment of novel solutions can be. 
+Why Airbags Sometimes Don’t Deploy
+In a fairly common “small overlap” collision as the one shown below, front sensors are unlikely to pick up a side 
+collision, as they are usually designed to detect a frontal collision. And side sensors are usually too close to a 
+driver window to detect a collision far in the front. We designed our sensors and their positions in a way that 
+they can pick up nearly every type of collision and deploy airbags if necessary. Vehicle Safety
+Data -Driven Safety
+Watch video on Data -Driven Safety
+Restraints Deployments Since Introducing Data -Driven Algorithm
+Regular restraint deployment
+Restraints deployment not covered by regulation
