@@ -60,8 +60,8 @@ def call_openai_api_completion(prompt, model_family='ada',temperature=0.0):
     )
     return response['choices'][0]['text']
 
-@backoff.on_exception(backoff.expo, openai.error.RateLimitError)
-def get_embedding(text, model_family="babbage"):
+@backoff.on_exception(backoff.expo, openai.error.RateLimitError, max_tries=15)
+def get_embedding(text, query = True, model_family="babbage"):
     """Given a string of long-form text, produce the embedding using the corresponding text-search-doc API endpoint.
 
     Args:
@@ -72,10 +72,15 @@ def get_embedding(text, model_family="babbage"):
     Returns:
         np.ndarray: Vector representation of the text.
     """
+    embedding = None
     try:
-        embedding = openai.Embedding.create(input = [text], model=EMBEDDING_MODELS[model_family]["doc"])['data'][0]['embedding']
+        if query:
+            model = "text-search-babbage-query-001"
+        else:
+            model = "text-search-babbage-doc-001"
+        embedding = openai.Embedding.create(input = [text], model=model)['data'][0]['embedding']
     except Exception as e:
-        print(e)
+        raise e
     return embedding
 
 def query_similarity_search(embeddings, query, model_family="babbage", n=3, pprint=True):
@@ -91,11 +96,12 @@ def query_similarity_search(embeddings, query, model_family="babbage", n=3, ppri
     Returns:
        DataFrame: Top n rows of the embeddings DataFrame, with similarity column added. Sorted by similarity score from highest to lowest. 
     """
-    embedded = get_embedding(query,EMBEDDING_MODELS[model_family]['query'])
+    embedded = get_embedding(query, True, EMBEDDING_MODELS[model_family]['query'])
     embeddings["similarities"] = embeddings["doc_embeddings"].apply(lambda x: cosine_similarity(x, embedded))
 
     res = embeddings.sort_values("similarities", ascending=False).head(n)
     if pprint:
+        print(f"Query: {query}")
         for _, series in res.iterrows():
             print(series["similarities"],series["text"])
             print()
@@ -138,12 +144,11 @@ def file_to_embeddings(filepath, text_chunks = None, use_cache=True):
     for text in text_chunks:
         embedding_row = {}
         embedding_row["text"] = text
-        embedding_row["n_tokens"] = tokenizer.encode(text)
-        embedding_row["doc_embedding"] = get_embedding(text)
+        embedding_row["n_tokens"] = len(tokenizer.encode(text))
+        embedding_row["doc_embeddings"] = get_embedding(text, False)
         embeddings.append(embedding_row) 
-
     df_embeddings = pd.DataFrame(embeddings)
-    df_embeddings = df_embeddings[df_embeddings["n_tokens"]<2000] #Filter down to prevent API toxen max length error
+
 
     df_embeddings.to_pickle(str(pickle_path))
 

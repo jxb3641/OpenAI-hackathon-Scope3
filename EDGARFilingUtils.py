@@ -194,3 +194,42 @@ def concat_keyword_sentences(keyword_sentence_map,max_str_length=900):
         for keyword_sentence in keyword_sentence_list:
             concat_str += keyword_sentence+"\n\n" 
     return concat_str
+
+
+def get_chunks_from_file(filename):
+    import csv
+    chunks = []
+    with open(filename) as f:
+        #skip header
+        reader = csv.reader(f, delimiter=';')
+        next(reader)
+        for row in reader:
+            if row[3] == "Firm":
+                if row[4] and len(row[4]) > 75:
+                    if len(row[4]) > 200:
+                        sentences = row[4].split(".")
+                        #create chunks of 5 sentences
+                        for i in range(0, len(sentences), 5):
+                            chunk = ". ".join(sentences[i:i+5])
+                            if chunk:
+                                chunks.append(chunk)
+                    else:
+                        chunks.append(row[4])
+    return chunks
+
+
+if __name__ == "__main__":
+    from OpenAIUtils import file_to_embeddings, questions_to_answers
+
+    filename = "/Users/colemanhindes/OpenAI-hackathon-Scope3/data/ind_lists/4_food_bev/transcripts/TSN_2020-11-16.csv"
+    questions = ["What is the impact of extreme weather", "What is the impact of climate change", "What is the impact of pollution"]
+    chunks = get_chunks_from_file(filename)
+    for chunk in chunks:
+        if not chunk:
+            print("empty chunk")
+    embeddings = file_to_embeddings(Path(filename), chunks)
+
+    answers = questions_to_answers(questions, embeddings)
+
+        
+
