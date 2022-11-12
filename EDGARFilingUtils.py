@@ -4,6 +4,7 @@ import re
 import random
 import json
 import pandas as pd
+import nltk
 
 from pathlib import Path
 
@@ -207,10 +208,10 @@ def get_chunks_from_file(filename):
             if row[3] == "Firm":
                 if row[4] and len(row[4]) > 75:
                     if len(row[4]) > 200:
-                        sentences = row[4].split(".")
+                        sentences = nltk.sent_tokenize(row[4])
                         #create chunks of 5 sentences
                         for i in range(0, len(sentences), 5):
-                            chunk = ". ".join(sentences[i:i+5])
+                            chunk = "".join(sentences[i:i+5])
                             if chunk:
                                 chunks.append(chunk)
                     else:
