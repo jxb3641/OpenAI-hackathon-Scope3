@@ -39,7 +39,7 @@ def get_text_from_files_for_submission_id(submission_id, datadir="data/10K/q1"):
 
     # Helper function to read in file texts as strings
     def get_text(fp):
-        with open(fp) as f:
+        with open(fp, encoding='utf-8') as f:
             text = f.read()
         return text
     text_dict = {}
