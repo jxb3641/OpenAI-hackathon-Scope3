@@ -54,11 +54,8 @@ If you're creating your own Streamlit script, be sure to get the secret using th
 ## Overview
 
 ### data/ directory
-This directory contains the data being read in.  This includes:
-- Subdirectory `10K`.  
-    - If you want to work with all the filings, you should download the `datasets/2021 q1.zip` from the [Hackathon drive](https://drive.google.com/drive/folders/1j-I-hBuqYZQWMPNO2nWIrRDwuMFLeYMN?usp=share_link) and unzip it into `data/10K` so the EDGARFilingUtils scripts can correctly fetch data. The final structure should be `data/10K/q1/`, with the `q1` subdirectory containing all the `.txt` files. 
-    - If you want to work with the filings in the `datasets/ind_lists` directory... **(To be explored)**
-
+This directory contains the data being read in.  This directory is empty.  To populate the data directory:
+- Download the **entire** `datasets/ind_lists` directory from the [Hackathon drive](https://drive.google.com/drive/folders/1j-I-hBuqYZQWMPNO2nWIrRDwuMFLeYMN?usp=share_link) and unzip it into `data/` so the EDGARFilingUtils scripts can correctly fetch data. The final structure should contain `data/ind_lists/4_food_bev/` and `data/ind_lists/11_transportation`, with each subdirectory containing the `10k/` and `transcripts/` subdirectories, along with `.csv` files.
 
 #### 10K `.txt` file structure
 For each Submission ID there are assumed to be three `.txt` files:

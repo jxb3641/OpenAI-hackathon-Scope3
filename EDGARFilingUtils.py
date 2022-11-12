@@ -5,13 +5,16 @@ import random
 import json
 import pandas as pd
 
+from pathlib import Path
+
+ROOT_DATA_DIR = Path("data/ind_lists")
 
 #TODO: Refactor this into two functions: 
 # one that takes in a submission id, and creates a dict of item1/mda sources, and texts
 # another that takes in the directory, and outputs all submission ids
 # random sample filings should be done separately, or in a third function.
 
-def get_all_submission_ids(datadir="data/10K/q1"):
+def get_all_submission_ids(datadir=ROOT_DATA_DIR/'4_food_bev'/'10k'):
     """get all the submission IDs of 10-K .txts.  
     Assumes filing texts are of form (submission-id).txt, (submission-id)_item1.txt, (submission-id)_mda.txt
 
@@ -21,15 +24,15 @@ def get_all_submission_ids(datadir="data/10K/q1"):
         (tuple(str)): Tuple of unique submission IDs.
     """
 
-    tenk_all_filingnames = set([re.search("\d+-\d+-\d+",fp).group() for fp in glob.glob(f"{datadir}/*.txt")])
+    tenk_all_filingnames = sorted(set([re.search("([A-Z]+)_\d+-\d+-\d+",str(fp)).group() for fp in datadir.glob("*.txt")]))
 
     return tuple(tenk_all_filingnames)
 
-def get_text_from_files_for_submission_id(submission_id, datadir="data/10K/q1"):
+def get_text_from_files_for_submission_id(filename, datadir=ROOT_DATA_DIR/'4_food_bev'/'10k'):
     """Read in the .txt files for submission_id, located in datadir. 
 
     Args:
-        submission_id (str): Submission id of the filing.
+        filename (str): Submission id of the filing.
         datadir (str): filepath where all 3 files (.txt, item1.txt, mda.txt) for the submission id should be located.  
 
     Returns:
@@ -37,24 +40,19 @@ def get_text_from_files_for_submission_id(submission_id, datadir="data/10K/q1"):
         and their texts read in as strings with keys full_txt, item1_txt, mda_txt.
     """
 
-    # Helper function to read in file texts as strings
-    def get_text(fp):
-        with open(fp) as f:
-            text = f.read()
-        return text
+    
+
     text_dict = {}
-
-    for fp in glob.glob(f"{datadir}/{submission_id}*.txt"):
-        if re.search("item1.txt",fp):
-            text_dict["item1"] = fp
-            text_dict["item1_txt"] = get_text(fp)
-        elif re.search("mda.txt",fp):
-            text_dict["mda"] = fp
-            text_dict["mda_txt"] = get_text(fp)
+    for fp in datadir.glob(f"{filename}*.txt"):
+        if re.search("item1.txt",str(fp)):
+            text_dict["item1"] = str(fp)
+            text_dict["item1_txt"] = fp.read_text(encoding="utf-8")
+        elif re.search("mda.txt",str(fp)):
+            text_dict["mda"] = str(fp)
+            text_dict["mda_txt"] = fp.read_text(encoding="utf-8")
         else:
-            text_dict["fullFiling"] = fp
-            text_dict["full_txt"] = get_text(fp)
-
+            text_dict["fullFiling"] = str(fp)
+            text_dict["full_txt"] = fp.read_text(encoding="utf-8")
 
     return text_dict
 

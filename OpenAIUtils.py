@@ -5,6 +5,8 @@ import pandas as pd
 import os
 from transformers import GPT2TokenizerFast
 tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
+from EDGARFilingUtils import ROOT_DATA_DIR
+EMBEDDING_CACHE_DIR = ROOT_DATA_DIR / "embedding_cache"
 
 # For the purposes of measuring relevance between long docs and short queries,
 # We want to use the text-search doc and query embeddings 
@@ -100,17 +102,18 @@ def questions_to_answers(list_of_questions,embeddings,answers_per_question=5,mod
 
     return question_results 
 
-def file_to_embeddings(text_chunks, submission_id):
+def file_to_embeddings(text_chunks, filename):
 
-    if os.path.exists(f"{submission_id}_embeddings.pkl"):
-        return pd.load_pickle(f"{submission_id}_embeddings.pkl")
+
+    if (EMBEDDING_CACHE_DIR / f"{filename}_embeddings.pkl").exists:
+        return pd.load_pickle(str(EMBEDDING_CACHE_DIR / f"{filename}_embeddings.pkl"))
     embeddings = []
     for text in text_chunks:
         embeddings.append(get_embedding(text)) 
 
     df_embeddings = pd.DataFrame(embeddings)
 
-    df_embeddings.save_pickle(f"{submission_id}_embeddings.pkl")
+    df_embeddings.save_pickle(f"{filename}_embeddings.pkl")
 
     return df_embeddings
 
