@@ -83,7 +83,7 @@ def get_embedding(text, query = True, model_family="babbage"):
         raise e
     return embedding
 
-def query_similarity_search(embeddings, query, model_family="babbage", n=3, pprint=True):
+def query_similarity_search(embeddings, query, model_family="babbage", n=3, min_similarity=0.0, pprint=True):
     """Search the doc embeddings for the most similar matches with the query.
 
     Args:
@@ -103,15 +103,17 @@ def query_similarity_search(embeddings, query, model_family="babbage", n=3, ppri
     if pprint:
         print(f"Query: {query}")
         for _, series in res.iterrows():
-            print(series["similarities"],series["text"])
-            print()
+            if float(series["similarities"]) > min_similarity:
+                print(f"Score: {series['similarities']:.3f}")
+                print(series["text"])
+                print()
     return res
 
-def questions_to_answers(list_of_questions,embeddings,answers_per_question=5,model_family="babbage",pprint=True):
+def questions_to_answers(list_of_questions,embeddings,answers_per_question=5, min_similarity=0.0, model_family="babbage",pprint=True):
 
     question_results = []
     for question in list_of_questions:
-        question_results.append(query_similarity_search(embeddings=embeddings,query=question,model_family=model_family,n=answers_per_question,pprint=pprint))
+        question_results.append(query_similarity_search(embeddings=embeddings,query=question,model_family=model_family,n=answers_per_question, min_similarity=min_similarity, pprint=pprint))
 
     return question_results 
 

@@ -223,13 +223,16 @@ if __name__ == "__main__":
 
     filename = "/Users/colemanhindes/OpenAI-hackathon-Scope3/data/ind_lists/4_food_bev/transcripts/TSN_2020-11-16.csv"
     questions = ["What is the impact of extreme weather", "What is the impact of climate change", "What is the impact of pollution"]
+    #Only show matches above this level
+    match_threshold = 0.25
+
     chunks = get_chunks_from_file(filename)
     for chunk in chunks:
         if not chunk:
             print("empty chunk")
     embeddings = file_to_embeddings(Path(filename), chunks)
 
-    answers = questions_to_answers(questions, embeddings)
+    answers = questions_to_answers(questions, embeddings, min_similarity=match_threshold)
 
         
 
