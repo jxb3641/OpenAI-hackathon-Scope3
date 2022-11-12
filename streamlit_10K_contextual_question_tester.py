@@ -37,7 +37,6 @@ with st.sidebar:
     datadir = ROOT_DATA_DIR / industry_category_subdir[industry_category] / data_source
     file_name = st.selectbox("10-K Filename",options=get_all_submission_ids(datadir=datadir))
     text = get_text_from_files_for_submission_id(file_name,datadir=datadir)[f"{file_to_use}_txt"]
-    text = text.replace("$","\$")
     st.subheader("GPT-3 Params")
     model_family = st.radio("Select model family.",  help="ada is cheapest and fastest. Davinci is strongest, but more expensive and slower.",
                      options=("ada","babbage","curie","davinci"),
@@ -79,8 +78,10 @@ with full_text_tab:
 with search_tab:
     relevant_questions = st.multiselect("Select questions to use for search within the text.",
                                         list_of_questions)
-    if st.button("Search for relevant answers to list of questions"):
+    full_file_path = datadir / f"{file_name}.txt"
+    if st.button("Search for relevant sections to list of questions"):
         textChunks = split_text(filter_text(text))
-        embeddings = file_to_embeddings(text_chunks=textChunks,submission_id=file_name)
-        answers = questions_to_answers(relevant_questions,embeddings)
-        st.dataframe(answers)
+        st.table(textChunks[:10])
+        embeddings = file_to_embeddings(full_file_path,text_chunks=textChunks)
+        #answers = questions_to_answers(relevant_questions,embeddings)
+        #st.dataframe(answers)

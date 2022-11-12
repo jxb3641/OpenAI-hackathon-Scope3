@@ -5,7 +5,13 @@ import pandas as pd
 import os
 from transformers import GPT2TokenizerFast
 tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
-from EDGARFilingUtils import ROOT_DATA_DIR
+
+
+import backoff
+from EDGARFilingUtils import ROOT_DATA_DIR, filter_text, split_text
+
+
+
 EMBEDDING_CACHE_DIR = ROOT_DATA_DIR / "embedding_cache"
 
 # For the purposes of measuring relevance between long docs and short queries,
@@ -48,12 +54,13 @@ def call_openai_api_completion(prompt, model_family='ada',temperature=0.0):
     response = openai.Completion.create(
       model=EMBEDDING_MODELS[model_family]["completion"],
       prompt=prompt,
-      max_tokens=100,
+      max_tokens=200,
       temperature=temperature,
-      stop="\\n\n"
+      stop=["\n","."]
     )
     return response['choices'][0]['text']
 
+@backoff.on_exception(backoff.expo, openai.error.RateLimitError)
 def get_embedding(text, model_family="babbage"):
     """Given a string of long-form text, produce the embedding using the corresponding text-search-doc API endpoint.
 
@@ -102,18 +109,43 @@ def questions_to_answers(list_of_questions,embeddings,answers_per_question=5,mod
 
     return question_results 
 
-def file_to_embeddings(text_chunks, filename):
+def file_to_embeddings(filepath, text_chunks = None, use_cache=True):
+    """Given a filepath, produce a DataFrame containing the filtered text chunks, with their embeddings and number of tokens,
+    if the DataFrame isn't cached. If it saved to disk, just load the DataFrame.
 
+    Args:
+        filename (Path): Pathlib.Path repr of the filepath of the file to be chunked and embedded.
+        text_chunks (list(str), optional): list of chunked text, if already parsed. 
+        use_cache (boolean,optional): Whether to load the DataFrame from disk or produce a new one and overwrite. 
 
-    if (EMBEDDING_CACHE_DIR / f"{filename}_embeddings.pkl").exists:
-        return pd.load_pickle(str(EMBEDDING_CACHE_DIR / f"{filename}_embeddings.pkl"))
+    Returns:
+        DataFrame: DataFrame containing columns "text", "n_tokens", "doc_embedding". Each entry corresponds to one chunk of the text.
+    """
+
+    if not EMBEDDING_CACHE_DIR.exists():
+        EMBEDDING_CACHE_DIR.mkdir()
+    # Search for the pickle, and read it in if it exists and use_cache is True.
+    pickle_path = EMBEDDING_CACHE_DIR / f"{str(filepath.name).replace('.','_')}_embeddings.pkl" 
+    if pickle_path.is_file()  and use_cache:
+        return pd.read_pickle(str(pickle_path))
+    
+    # Read in and parse the file, if not passed in.
+    if not text_chunks:
+        raw_text = filepath.read_text(encoding="utf-8").replace("$","\$")
+        text_chunks = filter_text(split_text(raw_text))
+
     embeddings = []
     for text in text_chunks:
-        embeddings.append(get_embedding(text)) 
+        embedding_row = {}
+        embedding_row["text"] = text
+        embedding_row["n_tokens"] = tokenizer.encode(text)
+        embedding_row["doc_embedding"] = get_embedding(text)
+        embeddings.append(embedding_row) 
 
     df_embeddings = pd.DataFrame(embeddings)
+    df_embeddings = df_embeddings[df_embeddings["n_tokens"]<2000] #Filter down to prevent API toxen max length error
 
-    df_embeddings.save_pickle(f"{filename}_embeddings.pkl")
+    df_embeddings.to_pickle(str(pickle_path))
 
     return df_embeddings
 
