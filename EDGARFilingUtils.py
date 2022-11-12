@@ -1,10 +1,13 @@
 """Utilities for 10K filings."""
+import streamlit as st
 import glob
 import re
 import random
 import json
 import pandas as pd
 import nltk
+import openai
+openai.api_key = st.secrets["openai_api_key"]
 
 from pathlib import Path
 
