@@ -46,13 +46,13 @@ def get_text_from_files_for_submission_id(filename, datadir=ROOT_DATA_DIR/'4_foo
     for fp in datadir.glob(f"{filename}*.txt"):
         if re.search("item1.txt",str(fp)):
             text_dict["item1"] = str(fp)
-            text_dict["item1_txt"] = fp.read_text(encoding="utf-8")
+            text_dict["item1_txt"] = fp.read_text(encoding="utf-8").replace("$","\$")
         elif re.search("mda.txt",str(fp)):
             text_dict["mda"] = str(fp)
-            text_dict["mda_txt"] = fp.read_text(encoding="utf-8")
+            text_dict["mda_txt"] = fp.read_text(encoding="utf-8").replace("$","\$")
         else:
             text_dict["fullFiling"] = str(fp)
-            text_dict["full_txt"] = fp.read_text(encoding="utf-8")
+            text_dict["full_txt"] = fp.read_text(encoding="utf-8").replace("$","\$")
 
     return text_dict
 
