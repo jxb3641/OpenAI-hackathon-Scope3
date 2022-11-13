@@ -79,9 +79,13 @@ with search_tab:
     relevant_questions = st.multiselect("Select questions to use for search within the text.",
                                         list_of_questions)
     full_file_path = datadir / f"{file_name}.txt"
+    re_embed = st.checkbox("Re-calculate Document Embeddings")
     if st.button("Search for relevant sections to list of questions"):
         textChunks = split_text(filter_text(text))
+        st.write(f"{len(textChunks)} Chunks parsed.")
         st.table(textChunks[:10])
-        embeddings = file_to_embeddings(full_file_path,text_chunks=textChunks)
-        #answers = questions_to_answers(relevant_questions,embeddings)
+        st.write("Retrieving Embeddings...")
+        embeddings = file_to_embeddings(full_file_path,text_chunks=textChunks,use_cache=re_embed)
+        st.write("Embeddings Retrieved.")
+        answers = questions_to_answers(relevant_questions,embeddings)
         #st.dataframe(answers)

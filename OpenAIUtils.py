@@ -5,10 +5,14 @@ import pandas as pd
 import os
 from transformers import GPT2TokenizerFast
 tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
-
-
-import backoff
 from EDGARFilingUtils import ROOT_DATA_DIR, filter_text, split_text
+
+from tenacity import (
+    retry,
+    stop_after_attempt,
+    wait_random_exponential,
+)  # for exponential backoff
+from time import sleep
 
 
 
@@ -60,7 +64,7 @@ def call_openai_api_completion(prompt, model_family='ada',temperature=0.0):
     )
     return response['choices'][0]['text']
 
-@backoff.on_exception(backoff.expo, openai.error.RateLimitError, max_tries=15)
+@retry(wait=wait_random_exponential(min=5, max=60), stop=stop_after_attempt(50))
 def get_embedding(text, query = True, model_family="babbage"):
     """Given a string of long-form text, produce the embedding using the corresponding text-search-doc API endpoint.
 
@@ -75,9 +79,9 @@ def get_embedding(text, query = True, model_family="babbage"):
     embedding = None
     try:
         if query:
-            model = "text-search-babbage-query-001"
+            model = f"text-search-{model_family}-query-001"
         else:
-            model = "text-search-babbage-doc-001"
+            model = f"text-search-{model_family}-doc-001"
         embedding = openai.Embedding.create(input = [text], model=model)['data'][0]['embedding']
     except Exception as e:
         raise e
@@ -141,12 +145,15 @@ def file_to_embeddings(filepath, text_chunks = None, use_cache=True):
         text_chunks = filter_text(split_text(raw_text))
 
     embeddings = []
-    for text in text_chunks:
+    for i, text in enumerate(text_chunks):
         embedding_row = {}
         embedding_row["text"] = text
         embedding_row["n_tokens"] = len(tokenizer.encode(text))
         embedding_row["doc_embeddings"] = get_embedding(text, False)
         embeddings.append(embedding_row) 
+        sleep(1)
+        if (i+1)%10 == 0:
+            print(f"{i+1} Chunks embedded.")
     df_embeddings = pd.DataFrame(embeddings)
 
 
@@ -167,5 +174,3 @@ def produce_prompt(context, query_text):
     """
 
     return f"""From the 10-K excerpt below:\n\n{context}\n\nCan you paraphrase an answer to the following question: {query_text}\n\nAnswer:"""
-
-#TODO: Add caching/saving functionality to the embeddings calls (or maybe these should be done separately in scripts that use these functions?)

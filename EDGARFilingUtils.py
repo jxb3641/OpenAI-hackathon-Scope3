@@ -121,7 +121,7 @@ def filter_text(split_text):
     filtered_split = [] 
     #Remove chunks less than some 
     for chunk in split_text:
-        if len(chunk)<20:
+        if len(chunk)<5:
             continue
         filtered_split.append(chunk)
 
