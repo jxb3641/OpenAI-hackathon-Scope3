@@ -1,7 +1,0 @@
-ACTIVITY METRICS
-SASB METRIC OUR RESPONSE CODE
-Volume of products sold 47.1 million 9-liter cases FB-AB-000.A
-Number of production facilities 20 FB-AB-000.B
-Total fleet road miles traveled 13,623,316
-This number represents our global sales fleet business miles traveled and does 
-not incorporate product distribution road miles.FB-AB-000.C

@@ -1,3 +1,0 @@
-1NEDC = New European Driving Cycle; WLPT = Worldwide Harmonized Light Vehicles Test Procedure; EPA = U.S. Environmental Protec tion Agency
-22021 -2040 Tesla estimate based on recent grid mix shifts. Conservatively assumes no change in federal policy or acceleration of move to renewables in the 
-U.S. for electricity generation

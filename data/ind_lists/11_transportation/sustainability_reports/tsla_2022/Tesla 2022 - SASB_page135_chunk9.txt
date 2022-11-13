@@ -1,7 +1,0 @@
-Use-phase Emissions for Model 3 and Model YTesla; U.S. Department of Energy; IEA; China 
-Electricity CouncilUse-phase emissions for grid charging are based on Model 3 and Model Y delivery -weighted state, province and 
-country level grid mix based on grid carbon intensity data. 
-U.S. Source: U.S. Department of Energy | E.U. + EFTA Source: IEA | China Source: China Electricity Council's China Power Industry Annual Report 2021
-Use-phase emissions calculated using the geographic distribution of the Model 3 and Model Y in each respective 
-region based on Tesla's delivery data, which weights state, province and country level carbon intensity figures and assumes no change in grid mix into the future. This is a conservative assumption based on recent new electricity 
-generation capacity trends and commitments made by states and countries to increase renewable mix on their respective grids. Grid emission intensities include upstream emissions from the production and transport of fuels

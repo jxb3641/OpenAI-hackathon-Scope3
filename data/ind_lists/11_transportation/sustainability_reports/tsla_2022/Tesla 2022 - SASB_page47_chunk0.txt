@@ -1,6 +1,0 @@
-
-48Develop tools to drive execution of EHS&S —MyEHS
-In order to build capacity and allow our workers to fail safely, we needed a more dynamic approach to how we 
-collect and manage data that allows us to make decisions that reduce risk. In response to that need, we 
-developed an internal EHS&S tool named MyEHS to help drive execution and improve outcomes by allowing the 
-intake and visualization of data globally. We designed and deployed 11 modules in 2021, allowing us to better manage our EHS&S information, identify emerging risks and take action to implement improvements suggested by our employees

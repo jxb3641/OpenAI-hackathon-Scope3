@@ -1,9 +1,0 @@
-Scope 3: Indirect GHG emissions occurring  from assets not owned or controlled by the 
-reporting  organization, but t hat the organizatio n indirectly impacts in its valu e chain. Scope 3 
-emissio ns include  all sources not within an organization’s scope 1 and  2 boundar y, as outlined 
-by the GHG Protoco l. General  Mills uses operat ional control to categorize those emissio ns 
-within its org anizat ional boundary. 
-Cons istent with SBTi guidelines, our targets focu s on the categories of  GHG emissions that 
-are the most impactful and actionable for Ge neral M ills, a nd exclude e missions such as low-
-volume  ingredients, capital goods, employee comm uting, franchises, downstream warehouse 
-and storage at retail, consum er trips to store and end of life (cons umer food waste)

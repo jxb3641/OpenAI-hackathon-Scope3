@@ -1,7 +1,0 @@
-Equivalent ICE VehiclesOn the following pages, we will show the per mile lifecycle emissions of our vehicles
-This includes emissions from upstream supply chain, direct emissions from manufacturing and electricity 
-consumption and use -phase emissions when charged from a grid with a generation mix that reflects the 
-geographic distribution of Model 3 and Model Y deliveries in the U.S., Europe and China. Below are the lifecycle 
-emissions scenarios we show, and the assumptions used in each of the charts on the following pages:
-Average Premium ICE: The reference ICE vehicle is based on an average of mid -size premium sedans and mid -
-size premium crossover SUVs, with a real- world fuel economy of 24.3 MPG

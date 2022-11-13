@@ -1,5 +1,0 @@
-Along with Starlink Terminals used for satellite internet access (made by SpaceX), the kits were shipped to the 
-Ukranian border in Poland, at which point they were transferred onto military trucks. The kit can begin providing 
-power almost instantly, without any tools or technical experience required. W ith the Powerwall kit alone, a user 
-can power Starlink for five days . With solar panels installed and operational, the kits can provide indefinite 
-power for Starlink Terminal, plus a small appliance or laptop

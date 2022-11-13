@@ -1,6 +1,0 @@
-Second, modern factories are better designed for material flow. Trailer entry points surround the whole factory, 
-which means that components can be offloaded precisely at the part of the factory where they are needed. Less 
-material flow results in less waste, because a shorter journey requires less protective packaging. The chart 
-below shows that waste generation per vehicle at Gigafactory Shanghai is less than half of what it is in the U.S. 
-We are expecting our upcoming factories such as Gigafactory Berlin- Brandenburg and Gigafactory T exas to 
-continue the same trend

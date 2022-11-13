@@ -1,3 +1,0 @@
-5.Based on IHS Markit New Registrations data CY2014-CYE 2
-020, which is compiled from government and
-other sources and captures 95% of global new vehiclevolumes in more than 80 countries as reported inFebruary 2021. Transit family-based volumes of vans,wagons, chassis cabs, and cutaways include FordTransit, Transit Custom, Transit Classic, and TransitKombi. Excludes Transit Connect and Transit Courier

@@ -1,9 +1,0 @@
-83Our commitment to safety is why all Tesla vehicles built since October 2016 come with a suite of external 
-cameras, additional sensors and onboard computing that enable advanced safety features like Automatic 
-Emergency Braking, Lane Departure Warning, Forward and Side Collision Warning, Obstacle -Aware 
-Acceleration, blind spot warnings and more —all of which continue to improve over time through software 
-updates. We recently introduced active safety features that go beyond the norm:
-Traffic Light & Stop Sign Warning
-When a driver doesn’t notice a red light or a stop sign, our cars will notice that vehicle’s speed is too high. 
-Thanks to our eight -camera system, each vehicle can recognize a traffic light that is specific to vehicle’s 
-trajectory as well as a stop sign. A loud warning is triggered to alert the driver

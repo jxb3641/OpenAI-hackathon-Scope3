@@ -1,4 +1,0 @@
-Various environmental data is reported to regulatory 
-a
-uthorities. Ford’s facility environmental data is managed 
-using our Global Emissions Manager database and an internally developed strategies management tool, which provides a globally consistent approach to measurement and monitoring. The kind of assurance used for each data set is noted in the data charts

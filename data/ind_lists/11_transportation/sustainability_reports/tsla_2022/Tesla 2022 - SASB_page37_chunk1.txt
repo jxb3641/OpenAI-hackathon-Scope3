@@ -1,3 +1,0 @@
-The table below shows Tesla employee distribution compared to average employee distribution of U.S. 
-automotive companies. Values that are higher than the Automotive company average distribution are shown with positive values and green shading. Values that are lower than the average are shown with negative values 
-and yellow shading

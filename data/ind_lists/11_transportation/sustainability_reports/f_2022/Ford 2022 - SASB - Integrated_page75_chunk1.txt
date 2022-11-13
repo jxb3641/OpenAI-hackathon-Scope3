@@ -1,9 +1,0 @@
-As Ford Pro grows its business, it is introducing  Ford Pro 
-Inte
-lligence , a cloud-based platform that powers a suite 
-of digital services that supports a commercial customer’s 
-total fleet operation. 
-The biggest pain point we hear from commercial 
-cust
-omers about managing their fleet – even more than 
-lowering costs – is not having a single place to access all of their information across vehicles and service. Ford Pro Intelligence solves this problem by integrating Salesforce with always-on access to the Ford Pro services they need to increase productivity and keep the focus on their customers

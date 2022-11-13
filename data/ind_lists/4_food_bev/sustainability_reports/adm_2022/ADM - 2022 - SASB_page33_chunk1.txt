@@ -1,6 +1,0 @@
-We calculate energy consumption for all facilities under our 
-operational control using a combination of utility bills, operations 
-data tracking systems, and fuel purchase records, which consists of: 
-• Rene
-wable fuel consumption (biofuels such as wood and biogas 
-burned onsite)

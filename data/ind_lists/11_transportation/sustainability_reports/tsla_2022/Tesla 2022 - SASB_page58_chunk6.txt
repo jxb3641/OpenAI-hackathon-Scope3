@@ -1,3 +1,0 @@
-Other assumptions:
-•Charging a Model 3/Y using solar panels and a Powerwall adds emissions to the manufacturing phase while 
-reducing use -phase emissions to as low as zero when 100% of charging is done using that system

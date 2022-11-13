@@ -1,9 +1,0 @@
-3.  Leveraging AI to make our factories more efficient
-We are leveraging six years of sensor data from Gigafactory Nevada to train an artificial intelligence (AI) 
-program to safely control 195 interconnected HVAC units, accounting for 6MW of total electrical load . In its first 
-full year of operation, we have measured significant load reduction compared to baseline usage. For such comparison, we look at actual energy usage for the HVAC system for the two modes under the same conditions 
-(operations in the factory, time of year, external temperature, etc.). AI control is expected to achieve significant 
-energy savings for Tesla as it is scaled up to control a majority share of HVAC equipment at Gigafactory Nevada 
-as well as HVAC equipment at other Gigafactories.Reducing Carbon Footprint Even Further
-Tesla Manufacturing Footprint: 
-Current Actions

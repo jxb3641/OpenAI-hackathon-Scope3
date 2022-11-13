@@ -1,3 +1,0 @@
-The reference manufacturer’s Environmental Certificates are calculated using the same BOM import functionality of 
-the GaBi DfX software used for the Model 3 in the LCA authored by Sphera as well as GaBi 878 databases for all 
-background data

@@ -1,7 +1,0 @@
-4.  Transitioning to in -house manufactured 4680 T esla cells, whose production process can reduce energy 
-consumption by more than 70%
-At Tesla’s 2020 Battery Day, we presented a novel way that cells can be manufactured using a dry electrode 
-process. Current electrode production processes involve mixing liquids with cathode or anode powders and using massive machinery to coat and dry the electrode. Since this process involves large ovens, today’s cell 
-production consumes a lot of energy. The new dry -electrode process allows for the direct transition from a 
-cathode or anode powder to an electrode film, reducing energy consumption in the overall cell manufacturing 
-phase by more than 70% based on our latest analysis

@@ -1,7 +1,0 @@
-As part of our program expansion, we are building on our ability to influence supplier behavior in a positive 
-way. When a supplier is not meeting our expectations, they are obligated to implement corrective action plans 
-to remedy any deficiencies or non -conformances found during the audit process, regardless of the severity. In 
-cases of the highest priority non -conformances, suppliers are required to undergo closure audits to ensure that 
-their corrective action plans have been fully implemented. In cases of less severe non -conformances, suppliers 
-are still required to develop and implement corrective action plans as well as provide evidence to Tesla that 
-those plans have been fully implemented within our expected timelines
