@@ -6,10 +6,13 @@ import random
 import json
 import pandas as pd
 import nltk
+from transformers import GPT2TokenizerFast
+tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
+from pathlib import Path
+
 import openai
 openai.api_key = st.secrets["openai_api_key"]
 
-from pathlib import Path
 
 ROOT_DATA_DIR = Path("data/ind_lists")
 
@@ -104,18 +107,44 @@ def get_random_sample_filings(number_filings=50,seed=None):
         df[col+"_txt"] = df[col].apply(lambda x: get_text(x))
     return df
 
-def split_text(text):
+def split_text(text,form_type=None):
     """split text into workable chunks. Filter out header and footer.
 
     Args:
         text (str): original text.
+        form_type (str, optional): flag to customize splitting for different form types. Default None.
 
     Returns:
         list(str): list of text chunks.
     """
 
-    #TODO: Filter out table of contents, anything past item 15
+    if form_type == "10KItemsOnly":
+        # Implement super basic chunking (as big as possible, with a sliding window of 3 sentences)
+        split_text = []
+        sentences = nltk.sent_tokenize(text)
+        chunk = ""
+        chunk_index = 0
+        for sent_ind, sentence in enumerate(sentences):
+            #Collect chunks with up to 1800 tokens. 
+            while len(tokenizer(chunk)) <= 1800:
+                chunk += f" {sentence}"
+            chunk = chunk.strip() #Get rid of leading/trailing whitespace
+            chunk_index += 1
+            if chunk_index > 1: #For any chunks after the first
+                # Add in up to last 3 sentences of last chunk to this one, making sure we dont wrap around to negative indices 
+                if sent_ind -3 >= 0:
+                    previous_sentences = " ".join([sentences[sent_ind-3], sentences[sent_ind-2], sentences[sent_ind-1]]) 
+                elif sent_ind -2 >= 0:
+                    previous_sentences = " ".join([sentences[sent_ind-2], sentences[sent_ind-1]]) 
+                elif sent_ind -1 >= 0:
+                    previous_sentences = " ".join([sentences[sent_ind-1]]) 
+                chunk = " ".join([previous_sentences,chunk])
+            split_text.append(chunk)
+            chunk = ""
+        return split_text
 
+
+    
     split_text = text.split("\n\n")
     start_index = 0 # Find the "Washington, DC" chunk, we will throw out all other chunks before this 
     end_index = -1 # Find the the "Item 15" chunk, we will throw out all chunks after this
@@ -245,8 +274,9 @@ if __name__ == "__main__":
         if not chunk:
             print("empty chunk")
     embeddings = file_to_embeddings(Path(filename), chunks)
-
     answers = questions_to_answers(questions, embeddings, min_similarity=match_threshold)
+
+
 
         
 
