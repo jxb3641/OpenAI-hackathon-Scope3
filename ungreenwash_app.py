@@ -164,7 +164,7 @@ def compose_share_text():
         return "Check out this website to see how sustainable your favourite companies are!"
 
 def compose_curr_url():
-    domain = "localhost:8501"
+    domain = "akhilgupta1093-openai-hackathon-scope3-ungreenwash-app-v8ncns.streamlit.app/"
     queryParams = []
     if "companies" in ss:
         for c in ss.companies:
@@ -175,7 +175,7 @@ def compose_curr_url():
         queryStr = "?" + "&".join(queryParams)
 
     # using domain and query params (map of query params), compose the current url
-    return "http://" + domain + queryStr
+    return "https://" + domain + queryStr
 
 def get_share_text():
     return """
