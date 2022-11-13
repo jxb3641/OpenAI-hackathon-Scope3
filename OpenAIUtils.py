@@ -14,6 +14,8 @@ from tenacity import (
 )  # for exponential backoff
 from time import sleep
 
+import logging
+logging.getLogger().setLevel(logging.ERROR)
 
 
 EMBEDDING_CACHE_DIR = ROOT_DATA_DIR / "embedding_cache"
@@ -60,7 +62,7 @@ def call_openai_api_completion(prompt, model_family='ada',temperature=0.0):
       prompt=prompt,
       max_tokens=200,
       temperature=temperature,
-      stop=["\n","."]
+      stop=["."]
     )
     return response['choices'][0]['text']
 
@@ -122,7 +124,7 @@ def questions_to_answers(list_of_questions,embeddings,answers_per_question=5, mi
         top_similar["Question"]=question
         question_results.append(top_similar.drop(columns=["n_tokens","doc_embeddings"]))
 
-    return question_results 
+    return pd.concat(question_results)
 
 def file_to_embeddings(filepath, text_chunks = None, use_cache=True):
     """Given a filepath, produce a DataFrame containing the filtered text chunks, with their embeddings and number of tokens,
@@ -178,4 +180,5 @@ def produce_prompt(context, query_text):
         str: Prompt to prime GPT-3 completion API endpoint.
     """
 
+    return f"Provide a two sentence summary of the following text snippets:\n\nText Snippets:\n{context}\n\nAnswers:\n" 
     return f"""From the 10-K excerpt below:\n\n{context}\n\nCan you paraphrase an answer to the following question: {query_text}\n\nAnswer:"""
