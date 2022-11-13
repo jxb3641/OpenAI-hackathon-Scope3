@@ -326,7 +326,8 @@ def compose_curr_url():
     queryParams = []
     if "companies" in ss:
         for c in ss.companies:
-            queryParams.append(f'companies={c}')
+            cFormatted = c.Split(" ").Join("+")
+            queryParams.append(f'companies={cFormatted}')
     
     queryStr = ""
     if len(queryParams) > 0:
