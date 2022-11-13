@@ -31,3 +31,17 @@ def get_company_info(symbol):
     # get company profile
     profile = finnhub_client.company_profile2(symbol=symbol)
     return profile
+
+def get_peers(symbol):
+    """Get company peers.
+
+    Args:
+        company (str): company name.
+
+    Returns:
+        list: company peers.
+    """
+
+    # get company peers
+    peers = finnhub_client.company_peers(symbol)
+    return peers
