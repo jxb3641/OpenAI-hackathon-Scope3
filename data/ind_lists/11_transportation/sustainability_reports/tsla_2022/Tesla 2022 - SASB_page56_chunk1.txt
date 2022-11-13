@@ -1,0 +1,9 @@
+Variables often overlooked by other lifecycle studies:
+•Using Worldwide Harmonized Light Vehicle T est Procedure (WLTP) or Environmental Protection Agency (EPA) fuel/energy consumption data (both of which overestimate fuel -economy and underestimate 
+emissions) rather than real- world data
+•Not considering the higher energy efficiency of T esla’s powertrains
+•Assuming the average EV needs a battery replacement at some point in its life (it doesn’t)
+•Not considering emissions generated through the oil refining and the transportation process
+•Using outdated data for the carbon impact of cell manufacturing6,500 miles
+The manufacturing process of Model 3 and Model Y currently results 
+in slightly higher GHG emissions than an equivalent combustion engine vehicle. However, based on the global weighted average grid mix, Model 3 and Model Y have lower lifetime emissions than an equivalent ICE after driving 6,500 miles

@@ -1,0 +1,28 @@
+
+GRI 305:
+Emissions305-1 Direct (Scope 1) GHG emissions Page 29
+305-2 Energy indirect (Scope 2) GHG emissions Page 29
+305-3 Other indirect (Scope 3) GHG emissions Page 32
+305-5 Reduction of GHG emissions Page 29
+Operational Waste
+GRI 3:
+Material Topics 20213-3 Management of material topics Pages 21, 35
+306-4 Waste diverted from disposal Page 35
+Supply Chain Management
+GRI 3:
+Material Topics 20213-3 Management of material topics Pages 25-28, 39
+GRI 308:
+Supplier Environmental Assessment308-2 Negative environmental impacts in the supply chain and actions taken Pages 25-28, 39
+GRI 414:
+Supplier Social Assessment414-2 Negative social impacts in the supply chain and actions taken Pages 25-28, 39
+Occupational Health and Safety
+GRI 3:
+Material Topics 20213-3 Management of material topics Pages 44, 49
+GRI 403:
+Occupational Health and Safety403-9 Work-related injuries Page 49
+Diversity, Equity and Inclusion
+GRI 3:
+Material Topics 20213-3 Management of material topics Pages 44, 50-51
+GRI 405:
+Diversity and Equal Opportunity405-1 Diversity of governance bodies and employees Pages 50-51
+Overview Governance Climate Integrity People and Communities Appendix58

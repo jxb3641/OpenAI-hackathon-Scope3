@@ -1,0 +1,37 @@
+73
+ESG Metrics (cont.)
+ENVIRONMENTAL STEWARDSHIP
+RESPONSIBLE SOURCING
+INTRODUCTION
+APPENDIX
+HEALTHY LIVING & COMMUNITY SUPPORT
+Metric Unit 2019 2020 GRI SASB TCFD Notes
+Responsible Sourcing
+Material
+Total weight of all packaging Metric Tons Not reported 1,143,000 FB-PF-410a.1
+Percentage made from recycled and/or renewable materials  (as a percent -
+age of total weight of all packaging)Percentage Not reported 22% FB-PF-410a.1Based on industry average of recycled 
+content
+Percentage that is recyclable, reusable, and/or compostable (as a percent -
+age of total weight of all packaging)Percentage 70% 83% FB-PF-410a.1Includes materials that are widely 
+recyclable (approximately 80% of total) 
+and with ‘check local recycling’ designa -
+tion (approximately 3% of total). 2020 
+calculation covers global packaging and 
+select external manufacturing data. Data 
+from Primal Kitchen  is not included at 
+this time. 2019 value based on estimate.  
+Total weight of all plastic packaging Metric Tons Not reported 271,000
+Non-renewable materials used to produce or package primary products Metric Tons Not reported 679,000 301-1
+Renewable materials used to produce or package primary products Metric Tons Not reported 465,000 301-1
+Palm Oil
+Percentage of direct suppliers (tier 1) suppliers with RSPO Certification Percentage 100% 100% FB-PF-440a.2
+Percentage of direct supply chain traceable to the mill Percentage 99.3% 98.5% FB-PF-440a.2
+Percentage of direct suppliers with  sustainable palm oil sourcing policies 
+in placePercentage 100% 100% FB-PF-440a.2A sustainable sourcing policy is defined 
+as either a publicly available Sustainable 
+Palm Oil Policy or RSPO Certification
+Percentage of external manufacturers' suppliers with RSPO Certification Percentage 84% 91% FB-PF-440a.2
+Percentage of external manufacturers' suppliers traceable to the mill Percentage 77%Data not avail -
+able for 2020 FB-PF-440a.2We anticipate disclosing this data in 
+future reports

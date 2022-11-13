@@ -1,0 +1,8 @@
+Substantial coverage and 99.96% reliability
+We’re aware that the chart showing Supercharger uptime looks silly, but that’s kind of the point. While coverage 
+is important, uptime is essential. Few things are as frustrating as arriving to a charging station with a near -
+empty battery, realizing that none of the charging plugs are working. In 2021 alone, we opened 912 new 
+Supercharger locations around the world for a total of nearly 3,500 charging locations with over 31,000 plugs. 
+1Uptime ofSupercharger sites reflects theaverage percentage ofsites globally that hadatleast 50%daily capacity functional fortheyear.99.0%99.5%100.0%
+2018 2019 2020 2021Uptime of Supercharger Sites1Vehicle Usage
+Long -Distance Travel

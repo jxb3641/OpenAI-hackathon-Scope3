@@ -1,0 +1,9 @@
+•Diesel and gasoline usage (volume) from Tesla’s global fleet was collected from fuel cards issued by Tesla’s fleet management partner. Vehicle miles driven by Tesla 
+on-road vehicles was collected from odometer readings and driver logs. Management Assertion
+Scope 1 & 2 GHG Emissions
+•Tesla classified vehicles in its global fleet by type: diesel medium and heavy -duty vehicles, 
+diesel light -duty trucks, gasoline passenger cars, gasoline light -duty trucks, gasoline heavy -
+duty vehicles, and non- road industrial/commercial equipment. Temporary fleet additions for 
+operational use were categorized as ‘other’, for which only CO2emissions are calculated, 
+because Tesla does not have detailed information on what type of vehicles were rented and 
+miles driven

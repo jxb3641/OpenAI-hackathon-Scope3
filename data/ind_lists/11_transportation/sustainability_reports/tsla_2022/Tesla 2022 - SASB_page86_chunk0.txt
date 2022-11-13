@@ -1,0 +1,8 @@
+87Changing How Vehicles Are Designed For Safety
+We use field data, data analytics and simulations to inform our design and safety engineers’ work on future 
+products and to send software improvements to our existing fleet via over -the-air updates. Tesla is also sharing 
+data and statistics collected by our vehicles with select regulatory bodies and external research organizations —
+in an anonymized fashion or with consent and in accordance with local data privacy laws — giving them access 
+to an unprecedented opportunity to understand crashes in the real world. This access to data will accelerate 
+impact safety research, driving change across the safety industry and improved safety outcomes for all vehicles 
+to protect lives

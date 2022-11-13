@@ -1,0 +1,3 @@
+6.Based on manufacturer testing using computeren
+gineering simulations. Calculated via peak
+performance of the electric motor(s) at peak batterypower. Your results may vary

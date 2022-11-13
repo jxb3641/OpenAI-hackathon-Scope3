@@ -1,0 +1,6 @@
+See also: Data Center
+303-5 Water consumption GM calculates water consumption based on water withdrawal times, an engineering calculation for evaporation of 30%. Using the 
+formula withdrawal minus discharge provides close to zero consumption due to groundwater infiltration at plant sites. GM experiences 
+water stress at three sites in Mexico and two sites in China. We have mitigated the risk by conservation, recycling or reusing wastewater 
+in the manufacturing process. Additionally, at one site in China, the government has provided a backup source of water to mitigate water 
+stress risk

@@ -1,0 +1,7 @@
+•Stationary and mobile combustion (propane, diesel, and gasoline): 
+•Combustion from emergency and portable generators, powered industrial vehicles 
+(e.g., forklifts), temporary space heaters, and other portable equipment (e.g., 
+landscaping equipment) at manufacturing sites. 
+•Propane, diesel, and gasoline usage data was collected from invoices and fuel 
+reports obtained from third -party providers.  
+•Emission factors: U.S. EPA Emission Factors for Greenhouse Gas Inventories 2022

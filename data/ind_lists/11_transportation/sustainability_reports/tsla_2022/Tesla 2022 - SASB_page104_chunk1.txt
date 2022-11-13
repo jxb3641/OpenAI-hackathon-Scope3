@@ -1,0 +1,7 @@
+Building on this hotspot analysis and pilot project, Tesla developed a data collection methodology aligned with 
+the GHG Protocol –a globally recognized standard for measuring GHG emissions –and informed by the 
+European Product Environmental Footprint methodology and the Product Environmental Footprint Category 
+Rules (PEFCR) guidance for batteries —a set of rules developed by the European Union on calculating product -
+specific environmental footprint. Instead of relying on estimates or aggregate data from third parties, Tesla’s 
+ambition is to collect as much primary data from Tesla’s suppliers as possible to get the most accurate 
+understanding of GHG emissions hotspots and therefore, how to reduce emissions

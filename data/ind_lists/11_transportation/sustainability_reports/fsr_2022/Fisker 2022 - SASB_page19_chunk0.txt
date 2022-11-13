@@ -1,0 +1,82 @@
+PG.20Smart Management  
+Driving a technology-forward business model 
+and consumer experience forces an equivalent 
+need for quality security and privacy measures 
+to protect our data information technology and 
+product portfolio. Transformative innovations  
+in vehicle design are laying the groundwork  
+for self-driving smart vehicles through 
+electrification, data sharing, and hyper-
+connectivity. These innovations are 
+changing the nature of transportation and 
+our relationships with the cars that move 
+us. Connectivity and digitalization are now 
+foundational business enablers. We  
+recognize the growing dependence  
+on cybersecurity to assure the enterprise  
+and our digital innovations.  in both the hardware and software layers. Our 
+security and privacy-by-design approach 
+considers digital risk at concept  
+and throughout the product's lifecycle, a 
+process that is key to maintaining ISO/SAE 
+21434 compliance. 
+Our goal is to continuously balance 
+technological advances, stay informed  
+by risk management principles, and maintain 
+the required attention to the potential risks 
+they pose to the environment. The continuous 
+evolution of the digital vehicle, the expansion  
+of the vehicle ecosystem, and the advent  
+of autonomous driving capabilities will 
+inevitably continue to elevate cybersecurity and 
+privacy concerns to another level of complexity 
+and risk. Cybersecurity and data protection 
+must be part of our comprehensive corporate 
+governance plan, ensuring the effective 
+management of digital risks by continuously 
+assessing and monitoring evolving threats 
+and the regulatory landscape. Fisker aligns its 
+risk management system to the internationally 
+recognized ISO27001 standard, which serves 
+as the bedrock of our global cybersecurity and 
+data protection policy. 
+Our cybersecurity and data privacy 
+governance structure is a priority at the 
+highest levels of the company. The Fisker 
+Board of Directors, CEO, and COO provide 
+strategic oversight responsibilities for the 
+program and risks. At the same time, the Chief 
+Information Security Officer and an executive 
+council monitor the next level of governance 
+responsibilities. An enterprise cybersecurity 
+management team drives cybersecurity 
+and data protection functions across all 
+areas of the business. This management 
+team evaluates risk management programs, 
+ensuring the protection of vehicle systems 
+against unauthorized access, the protection  
+of business and customer data, the  
+readiness to respond to cybersecurity 
+incidents from the field, and the monitoring  
+of cyber risk originating from the supply chain. "Enhanced connectivity is central to vehicle 
+innovation and the commercialization of these 
+'always on / connected' vehicles. The new 
+digital frontier is bringing about autonomous 
+driving, fleet management, app-based control 
+capabilities, and real-time telematics data 
+collection. While connectivity brings new 
+opportunities and capabilities, the rapid 
+evolution of these systems also presents new 
+complexities, including security and privacy 
+risks that must be managed across the 
+lifecycle of the vehicle.“ —
+ Dr. Geeta Gupta-Fisker, Chief Financial Officer 
+Our state-of-the-art electric vehicle technology, 
+including active safety, infotainment, and 
+connectivity features, requires significant 
+bandwidth and computing power. The 
+advanced electrical system architecture 
+enables in-vehicle technologies to run 
+seamlessly and in conjunction with each other. 
+Cybersecurity is a core pillar of our Fisker 
+Ocean architecture, with protective features 

@@ -1,0 +1,69 @@
+Metric Metric CodeReporting 
+StatusType of  
+DisclosureUnit of  
+MeasureResponse Reference
+Food Safety (continued)
+Percentage of ingredients 
+sourced from Tier 1 supplier 
+facilities certified to a Global 
+Food Safety Initiative recognized 
+food safety certification programFB-PF-250a.2Alternate 
+disclosureSASB Metric: 
+Quantitative
+Reported: 
+QualitativeSASB Metric: 
+Percentage (%)
+Reported:
+Discussion and 
+analysisIt is our policy for suppliers of 
+ingredients to achieve certification to 
+a GFSI recognized standard, including 
+Good Agricultural Practices (GAP) 
+for agricultural commodities, or to 
+demonstrate equivalence through a 
+PepsiCo pre-approval audit scheme. 
+We continue to work with suppliers 
+to increase the proportion of GFSI 
+certifications worldwide.ESG Topics A-Z:  
+Product Safety and Quality
+Total number of notices of food 
+safety violations received
+FB-PF-250a.3Reported Quantitative NumberIn 2021, zero facilities globally had 
+regulatory violations defined as U.S. 
+FDA warning letter or equivalent.ESG Topics A-Z:  
+Product Safety and Quality
+Percentage corrected Reported Quantitative Percentage (%)
+Number of recalls issued
+FB-PF-250a.4Alternate 
+disclosureSASB Metric: 
+Quantitative
+Reported: 
+QualitativeSASB Metric: 
+Number
+Reported:
+Discussion and 
+analysisPepsiCo has strong global quality and 
+food safety standards. We use qualified 
+ingredients, approved suppliers and 
+follow all applicable regulations issued 
+by regulatory authorities. Our products 
+are traceable, which enables us to 
+quickly investigate and address any 
+potential concerns in the marketplace. 
+Our facilities conduct mock recalls 
+on at least an annual basis to ensure 
+readiness to respond to any incident. 
+On the rare occasions when incidents 
+occur, we take quick action, conduct 
+robust investigations, implement 
+corrective actions and share learnings 
+across the system.ESG Topics A-Z:  
+Product Safety and Quality
+Total amount of food product 
+recalledReported Quantitative Metric tonsIn 2021, PepsiCo produced more than 
+90 million metric tons of food and 
+beverage, of which we recalled 20 metric 
+tons, all voluntarily. None of the recalls 
+were classified as notable as defined in 
+the SASB Processed Food standard.ESG Topics A-Z:  
+Product Safety and Quality

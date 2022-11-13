@@ -1,0 +1,5 @@
+Active avoidance of lane departure or a blind -spot collision
+If a driver is changing into a lane while a vehicle in the blind spot is entering the same lane, or if our vehicle 
+starts departing its lane without an indicator, our vehicles will sound a warning and assist the steering to avoid a 
+collision.Vehicle Safety
+Crash Avoidance

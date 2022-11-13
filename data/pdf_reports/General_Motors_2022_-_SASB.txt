@@ -1,0 +1,9594 @@
+2021 Sustainability 
+Supplement
+
+IN THIS SECTION 
+
+GRI Content Index 
+
+SASB Response 
+
+TCFD Response 
+
+UN SDG 
+
+UNGC 
+
+Data Center 
+
+Assurance Statements 
+
+1
+
+18
+
+20
+
+34
+
+38
+
+40
+
+66
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Global Reporting Initiative (GRI) Content Index
+
+This report has been prepared according to GRI Standards: Comprehensive Option.
+
+GRI Standards
+
+Disclosure Number
+
+Disclosure 
+Title
+
+GRI 102: GENERAL DISCLOSURES
+
+ORGANIZATIONAL PROFILE 
+
+Name of the organization
+
+Activities, brands, products, and services
+
+Location of headquarters
+
+Location of operations
+
+Ownership and legal form
+
+Markets served
+
+Scale of the organization
+
+102-1
+
+102-2
+
+102-3
+
+102-4
+
+102-5
+
+102-6
+
+102-7
+
+102-8
+
+102-9
+
+102-10
+
+102-11
+
+102-12
+
+Reference/Response
+
+General Motors Company
+
+2021 Form 10-K pages 1–3
+
+Detroit, Michigan
+
+2021 Form 10-K page 23
+
+General Motors is a publicly held corporation incorporated in the state of Delaware. Our shares trade on the New York Stock Exchange.
+
+2021 Form 10-K pages 3–5
+
+Data Center, 2021 Form 10-K pages 4, 9 and Financial Statements starting on page 53
+
+Information on employees and other workers
+
+Data Center, 2021 Form 10-K page 9
+The majority of our workforce is comprised of GM employees. There are no significant variations in employment numbers.
+
+Supply chain
+
+Supporting Supplier Responsibility
+
+Significant changes to the organization and its supply chain
+
+There were no significant changes to the organization and its supply chain in 2021. There were no significant changes to structure or 
+ownership during the reporting year.  
+As we transition to an all-electric future, we are investing to increase EV manufacturing capacity and retool facilities across North 
+America and China. 
+Similarly, as we expand EV programs we are strategically reviewing our supply chain. 
+
+Precautionary Principle or approach
+
+GM does not follow the precautionary approach, but has a comprehensive risk management plan in place.
+
+External initiatives
+
+2021 SUSTAINABILITY SUPPLEMENT  1
+
+Representative examples include:
+•  American Business Act on Climate Pledge  
+•  Business Ambition Pledge for 1.5°C 
+•  CDP Climate 
+•  CDP Forest 
+•  CDP Water 
+•  CEO Water Mandate 
+•  RE100
+
+•  Science Based Targets Initiative (SBTi)
+•  Sustainability Accounting Standards Board (SASB)
+•  Task Force on Climate-related Financial Disclosures (TCFD)
+•  United Nations Global Compact (UNGC)
+•  UN Sustainable Development Goals (UN SDGs)
+•  U.S. Business for Climate Action
+
+GRI Content Index
+
+GRI Standards
+
+Disclosure Number
+
+Disclosure 
+Title
+
+ORGANIZATIONAL PROFILE (CONT.)
+
+102-13
+
+Membership of associations
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Reference/Response
+
+We work with automotive industry groups in many countries in which we operate, including, but not limited to:
+•  Alliance for Automotive Innovation 
+•  American Automotive Policy Council 
+•  The Automotive Industry Action Group (AIAG) 
+•  CalStart’s North American EV and Battery Alliance 
+•  Climate Leadership Council 
+•  Engine Manufacturers Association 
+•  Global Platform for Sustainable Natural Rubber (GPSN)  
+
+•  The Initiative for Responsible Mining Assurance (IRMA)
+•  The International Automotive Task Force (IATF)
+•  Michigan Council for Future Mobility and Electrification
+•  National Association of Manufacturers
+•  Responsible Minerals Initiative (RMI)
+•  Suppliers Partnership for the Environment (SP)
+•  The Sustainable Purchasing Leadership Council (SPLC)
+
+STRATEGY
+
+102-14
+
+102-15
+
+Statement from senior decision-maker
+
+Strategy—Leadership Message, Q&A With Our CSO
+
+Key impacts, risks, and opportunities
+
+Strategy—Our Commitments & Progress, TCFD Response
+2021 Form 10-K pages 1–22, CDP Climate Change, Forests and Water Security
+
+Learn more:  Industry Collaborations  
+
+ETHICS AND INTEGRITY
+
+102-16
+
+Values, principles, standards, and norms of behavior 
+
+102-17
+
+Mechanisms for advice and concerns about ethics
+
+GOVERNANCE
+
+102-18
+
+Governance structure 
+
+102-19
+
+Delegating authority 
+
+2021 SUSTAINABILITY SUPPLEMENT  2
+
+Strategy—Powering Growth With Purpose 
+Ensuring Responsible Governance—Ethics; Corporate Governance—Governance Best Practices and Shareholder Protections
+
+Ensuring Responsible Governance—Ethics—Reporting Concerns
+Keeping People Safe—Developing Safe Products
+Code of Conduct
+Supplier Code of Conduct
+
+Ensuring Responsible Governance—Corporate Governance—Committee Structure and Ensuring Responsible Governance
+2022 Proxy pages 19–32
+
+Ensuring Responsible Governance—Corporate Governance—Committee Structure and Ensuring Responsible Governance
+TCFD Response
+Audit Committee Charter
+Governance and Corporate Responsibility Committee Charter
+Risk and Cybersecurity Committee Charter
+Executive Compensation Committee Charter
+2022 Proxy pages 25–27, 43–44
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+GRI Standards
+
+Disclosure Number
+
+Disclosure 
+Title
+
+GOVERNANCE (CONT.)
+
+Reference/Response
+
+102-20
+
+102-21
+
+Executive-level responsibility for economic, environmental,  
+and social topics 
+
+Strategy—Sustainability Strategy
+TCFD Response
+
+Consulting stakeholders on economic, environmental, and  
+social topics 
+
+Strategy—Sustainability Strategy—Sustainability Priority Assessment
+Designing for the Environment—Pursuing Zero Waste—External Engagement and Partnerships;  
+Corporate Sustainability Employee Engagement
+Upholding Human Rights—Identifying Potential Impacts
+Building More Inclusive Communities—Community Relations
+2022 Proxy pages 37–40
+
+102-22
+
+Composition of the highest governance body and its committees  Ensuring Responsible Governance—Corporate Governance 
+
+102-23
+
+Chair of the highest governance body 
+
+Corporate website: Explore Our Board of Directors 
+2022 Proxy pages 3–12
+
+Ensuring Responsible Governance—Corporate Governance 
+Corporate website: Explore Our Board of Directors
+2022 Proxy page 7 
+
+102-24
+
+102-25
+
+102-26
+
+102-27
+
+102-28
+
+Nominating and selecting the highest governance body 
+
+2022 Proxy pages 3–12, 20–21
+
+Conflicts of interest 
+
+2022 Proxy pages 27–28
+General Motors Company Board of Directors Corporate Governance Guidelines
+
+Role of highest governance body in setting purpose,  
+values, and strategy
+
+Ensuring Responsible Governance—Corporate Governance
+2022 Proxy pages 25–26
+
+Collective knowledge of highest governance body
+
+2022 Proxy pages 3–12, 29
+
+Evaluating the highest governance body’s performance 
+
+Ensuring Responsible Governance—Corporate Governance 
+2022 Proxy page 28
+General Motors Company Board of Directors Corporate Governance Guidelines, pages 10–11
+Audit Committee Charter
+Governance and Corporate Responsibility Committee Charter
+Risk and Cybersecurity Committee Charter
+Executive Compensation Committee Charter
+
+2021 SUSTAINABILITY SUPPLEMENT  3
+
+GRI Content IndexGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+GRI Standards
+
+Disclosure Number
+
+Disclosure 
+Title
+
+GOVERNANCE (CONT.)
+
+102-29
+
+Identifying and managing economic, environmental,  
+and social impacts
+
+102-30
+
+Effectiveness of risk management processes 
+
+Reference/Response
+
+Strategy—Sustainability Strategy
+Ensuring Responsible Governance—Corporate Governance
+2022 Proxy pages 29–32
+Audit Committee Charter
+Governance and Corporate Responsibility Committee Charter
+Risk and Cybersecurity Committee Charter
+Executive Compensation Committee Charter
+
+Ensuring Responsible Governance—Corporate Governance 
+2022 Proxy pages 25–26
+Risk and Cybersecurity Committee Charter
+
+102-31
+
+102-32
+
+102-33
+
+102-34
+
+102-35
+
+102-36
+
+102-37
+
+102-38
+
+102-39
+
+Review of economic, environmental, and social topics
+
+Ensuring Responsible Governance—Corporate Governance
+
+Highest governance body’s role in sustainability reporting 
+
+Ensuring Responsible Governance—Corporate Governance 
+
+Communicating critical concerns
+
+2022 Proxy page 33
+
+Nature and total number of critical concerns
+
+2022 Proxy pages 29–32, 86–96
+
+Remuneration policies
+
+2022 Proxy pages 14–17, 66–68; General Motors Company Board of Directors Corporate Governance Guidelines, page 10
+Executive Compensation Committee Charter
+
+Process for determining remuneration 
+
+2022 Proxy page 54; General Motors Company Board of Directors Corporate Governance Guidelines, page 10
+
+Stakeholders’ involvement in remuneration 
+
+2022 Proxy page 50
+
+Annual total compensation ratio
+
+2022 Proxy page 81
+
+Percentage increase in annual total compensation ratio
+
+2022 Proxy page 81; 2021 Proxy page 83
+
+STAKEHOLDER ENGAGEMENT
+
+102-40
+
+List of stakeholder groups 
+
+Developing Talented & Diverse People—Diversity, Equity & Inclusion; Creating an Inclusive Culture—Employee Resource Groups 
+Upholding Human Rights—Human Rights—Communicating Our Commitments
+See also GRI 102-21
+
+102-41
+
+102-42
+
+Collective bargaining agreements
+
+Identifying and selecting stakeholders 
+
+Data Center
+
+See GRI 102-21
+
+2021 SUSTAINABILITY SUPPLEMENT  4
+
+GRI Content IndexGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+GRI Standards
+
+Disclosure Number
+
+Disclosure 
+Title
+
+STAKEHOLDER ENGAGEMENT (CONT.)
+
+Reference/Response
+
+102-43
+
+102-44
+
+Approach to stakeholder engagement
+
+2022 Proxy pages 30–32
+
+Key topics and concerns raised
+
+See GRI 102-43; 2022 Proxy pages 29–32
+Sustainability Priority Assessment
+
+REPORTING PRACTICE
+
+102-45
+
+102-46
+
+102-47
+
+102-48
+
+102-49
+
+102-50
+
+102-51
+
+102-52
+
+102-53
+
+102-54
+
+102-55
+
+102-56
+
+Entities included in the consolidated financial statements 
+
+2021 Form 10-K page 57
+
+Defining report content and topic Boundaries 
+
+Strategy—About This Report; Sustainability Strategy—Sustainability Priority Assessment
+
+List of material topics 
+
+Restatements of information
+
+Changes in reporting 
+
+Reporting period 
+
+Strategy—About This Report; Sustainability Strategy—Sustainability Priority Assessment
+
+Any restatements, and reasons for such, are footnoted as part of the data presentation within the body of the report.  
+See the Data Center for trend data and footnotes
+
+Changes have been noted in footnotes where applicable.
+
+Strategy—About This Report
+
+Date of most recent report 
+
+Our previous report covered calendar year 2020 and was published in April 2021.
+
+Reporting cycle
+
+Strategy—About This Report
+
+Contact point for questions regarding the report 
+
+gm.sustainability@gm.com
+
+Claims of reporting in accordance with the GRI Standards
+
+Strategy—About This Report
+
+GRI content index
+
+External assurance
+
+https://www.gmsustainability.com/gri.html
+
+Strategy—About This Report 
+Appendix—Stantec Statement of Verification
+
+2021 SUSTAINABILITY SUPPLEMENT  5
+
+GRI Content IndexGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+GRI Standards
+
+Disclosure Number
+
+GRI 200: ECONOMIC
+
+Disclosure 
+Title
+
+GRI 201: ECONOMIC PERFORMANCE  
+
+Reference/Response
+
+103-1
+
+Explanation of the material topic and its Boundary
+
+Strategy—How GM Creates Value; Sustainability Strategy—Sustainability Priority Assessment
+For Form 10-K boundary, see page 57
+For Sustainability Report boundary, see Strategy—About This Report 
+
+103-2
+
+103-3
+
+201-1
+
+201-2
+
+201-3
+
+201-4
+
+The management approach and its components 
+
+Strategy—Our Commitments & Progress
+TCFD Response
+
+Evaluation of the management approach
+
+Ensuring Responsible Governance
+
+Direct economic value generated and distributed
+
+2021 Form 10-K page 53
+2021 Social Impact Report
+https://www.gm.com/company/usa-operations
+
+Financial implications and other risks and opportunities due  
+to climate change
+
+Reducing Carbon Emissions
+TCFD Response
+CDP Climate Change
+2021 Form 10-K, Environmental and Regulatory Matters pages 9–12; Risk Factors pages 14–22
+
+Defined benefit plan obligations and other retirement plans
+
+2021 Form 10-K  pages 43–44 
+
+Financial assistance received from government
+
+Any assistance that meets the threshold of financial materiality under SEC rules is disclosed in Form 10-K 
+
+GRI 203: INDIRECT ECONOMIC IMPACTS
+
+103-1
+
+Explanation of the material topic and its Boundary
+
+Strategy—How GM Creates Value; Our Climate Action Framework for an Equitable Transition
+Developing Talented & Diverse People—Diversity, Equity & Inclusion—Extending Inclusivity Into the Market—Justice & Inclusion Fund
+2021 Social Impact Report
+
+103-2
+
+103-3
+
+203-1
+
+The management approach and its components 
+
+Evaluation of the management approach
+
+Building More Inclusive Communities
+2021 Social Impact Report
+
+Building More Inclusive Communities
+2021 Social Impact Report
+
+Infrastructure investments and services supported 
+
+Supporting Diverse Suppliers
+Climate Fund and NGO impacts (Introduction) 
+
+203-2
+
+Significant indirect economic impacts
+
+2021 SUSTAINABILITY SUPPLEMENT  6
+
+Strategy—Our Climate Action Framework for an Equitable Transition
+Developing Talented & Diverse People—Justice & Inclusion Fund
+Upholding Human Rights—Identifying Potential Impacts
+Supporting Supplier Responsibility—Supporting Diverse Suppliers
+Building More Inclusive Communities
+2021 Social Impact Report
+
+GRI Content IndexGRI Standards
+
+Disclosure Number
+
+Disclosure 
+Title
+
+GRI 204: PROCUREMENT PRACTICES
+
+103-1
+
+103-2
+
+103-3
+
+204-1
+
+Explanation of the material topic and its Boundary
+
+The management approach and its components 
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Reference/Response
+
+Upholding Human Rights
+Supporting Supplier Responsibility
+
+Upholding Human Rights
+Supporting Supplier Responsibility
+
+Evaluation of the management approach
+
+Supporting Supplier Responsibility
+
+Proportion of spending on local suppliers 
+
+Supporting Supplier Responsibility—Local Sourcing as a Percentage of Regional Spend
+Data Center
+
+GRI 205: ANTI-CORRUPTION
+
+103-1
+
+103-2
+
+103-3
+
+205-1
+
+205-2
+
+Explanation of the material topic and its Boundary
+
+Ensuring Responsible Governance—Ethics
+
+The management approach and its components 
+
+Ensuring Responsible Governance—Ethics
+
+Evaluation of the management approach
+
+Ensuring Responsible Governance—Ethics
+
+Operations assessed for risks related to corruption
+
+Ensuring Responsible Governance—Ethics
+GM takes a risk based approach toward assessing global anti-corruption risks. Operations are continually assessed under our  
+risk-based model, and GM’s anti-corruption compliance program is designed to meet or exceed all applicable legal standards.
+
+Communication and training about anti-corruption policies  
+and procedures
+
+Ensuring Responsible Governance—Ethics—Ethics Training and Education
+
+205-3
+
+Confirmed incidents of corruption and actions taken
+
+Allegations of corruption/bribery are formally investigated to conclusion. 
+The investigation results are provided to pertinent stakeholders for remediation and corrective action.
+
+GRI 300: ENVIRONMENTAL
+
+GRI 301: MATERIALS
+
+103-1
+
+103-2
+
+103-3
+
+301-2
+
+Explanation of the material topic and its Boundary
+
+The management approach and its components 
+
+Evaluation of the management approach
+
+Recycled input materials used
+
+2021 SUSTAINABILITY SUPPLEMENT  7
+
+Designing for the Environment—Sourcing Sustainable Materials 
+Supporting Supplier Responsibility—Sourcing Strategic Raw Materials
+
+Designing for the Environment—Sourcing Sustainable Materials 
+Supporting Supplier Responsibility—Sourcing Strategic Raw Materials
+
+Designing for the Environment—Sourcing Sustainable Materials 
+Supporting Supplier Responsibility—Sourcing Strategic Raw Materials
+
+Designing for the Environment—Sourcing Sustainable Materials 
+SASB—Material Efficiency and Recycling
+
+GRI Content IndexGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+GRI Standards
+
+Disclosure Number
+
+GRI 302: ENERGY
+
+Disclosure 
+Title
+
+103-1
+
+Explanation of the material topic and its Boundary
+
+Reference/Response
+
+Strategy—Sustainability Strategy—Sustainability Priority Assessment
+Reducing Carbon Emissions
+Supporting Supplier Responsibility—Integrating Sustainability Into Our Supply Chain—CDP Supply Chain Initiative  
+CDP Climate Change (2021 section C0.5)
+
+103-2
+
+103-3
+
+302-1
+
+302-2
+
+302-3
+
+302-4
+
+302-5
+
+The management approach and its components 
+
+Reducing Carbon Emissions
+CDP Climate Change
+
+Evaluation of the management approach
+
+Reducing Carbon Emissions
+Supporting Supplier Responsibility—Integrating Sustainability Into Our Supply Chain—CDP Supply Chain Initiative
+CDP Climate Change
+
+Energy consumption within the organization
+
+Energy consumption outside of the organization
+
+Energy intensity
+
+Reduction of energy consumption
+
+Data Center
+
+Data Center
+
+Data Center
+
+Data Center
+
+Reductions in energy requirements of products and services
+
+Reducing Carbon Emissions—The Journey to Zero Emissions; Accelerating an Inclusive All-Electric Future; Reducing Emissions From  
+ICE Vehicles
+Data Center
+
+GRI 303: WATER AND EFFLUENTS
+
+103-1
+
+Explanation of the material topic and its Boundary
+
+103-2
+
+The management approach and its components 
+
+103-3
+
+Evaluation of the management approach
+
+303-1
+
+Interactions with water as a shared resource
+
+2021 SUSTAINABILITY SUPPLEMENT  8
+
+Designing for the Environment—Reducing Water Intensity 
+Supporting Supplier Responsibility—CDP Supply Chain Initiative 
+CDP Water Security 2021
+
+Designing for the Environment—Reducing Water Intensity 
+Supporting Supplier Responsibility—CDP Supply Chain Initiative 
+CDP Water Security 2021
+
+Designing for the Environment—Reducing Water Intensity 
+Supporting Supplier Responsibility—CDP Supply Chain Initiative 
+CDP Water Security 2021
+
+A combination of municipal, wells and surface water are sources for GM’s water withdrawal. Water is critical to automobile production 
+and to building occupants for drinking water and hygiene. Local facility knowledge provides information on water supply impacts for 
+current operations, and we engage in the use of WRI Aqueduct for future forecasting. Risks in current operations are mitigated with 
+alternate supply, working with local utilities, conservation or process water reuse. GM engages with over 300 suppliers through CDP 
+Water Supply Chain and other organizations like AIAG. Company goals were set to continuously improve and reduce intensity from  
+2010 to 2035 by 35%. Water is integrated into our business plan, and each facility has a target for year-over-year reductions.
+
+GRI Content IndexGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+GRI Standards
+
+Disclosure Number
+
+Disclosure 
+Title
+
+GRI 303: WATER AND EFFLUENTS (CONT.)
+
+303-2
+
+Management of water discharge-related impacts
+
+303-3
+
+Water withdrawal
+
+Reference/Response
+
+General Motors maintains an environmental performance criteria document on water pollution control (EPC-003). Within this 
+document, minimum concentration-based performance requirements are defined for wastewater discharge to surface water and 
+for wastewater discharges to external wastewater systems. Where local permit limits are more stringent, those supersede the GM 
+requirements. Where no permit limit is provided, the performance requirements are used. 
+
+GM measures and monitors 100% of our major facilities’ water withdrawals by source using either invoices or meter data on a monthly 
+basis. It is tracked in a global utility database by source, and the data is verified by an independent third party annually. Some small 
+facilities (offices) have water service included in their lease rate, and we do not track the water withdrawal. Our estimate is that this 
+represents less than 1% of our water withdrawal by source, so we measure and monitor 99% of water withdrawal by source.
+
+GM identifies water stress using WRI Aqueduct model and internal company knowledge. GM measures and monitors 100% of our water 
+withdrawals by source from water-stressed areas, using either invoices or meter data on a monthly basis. It is tracked in a global utility 
+database by source, and the data is verified by an independent third party annually. 
+
+See also: Data Center
+
+303-4
+
+Water discharge
+
+GM sites must have a system in place to identify wastewater generated and discharged by current activities at the site, and as these 
+activities change in the future, sites should also identify any additional potentially contaminated flows from on-site sources.
+
+303-5
+
+Water consumption
+
+See also: Data Center
+
+GM calculates water consumption based on water withdrawal times, an engineering calculation for evaporation of 30%. Using the 
+formula withdrawal minus discharge provides close to zero consumption due to groundwater infiltration at plant sites. GM experiences 
+water stress at three sites in Mexico and two sites in China. We have mitigated the risk by conservation, recycling or reusing wastewater 
+in the manufacturing process. Additionally, at one site in China, the government has provided a backup source of water to mitigate water 
+stress risk.
+See also: Data Center
+
+GRI 305: EMISSIONS
+
+103-1
+
+103-2
+
+103-3
+
+305-1
+
+305-2
+
+305-3
+
+Explanation of the material topic and its Boundary
+
+The management approach and its components 
+
+Reducing Carbon Emissions
+CDP Climate Change 
+
+Reducing Carbon Emissions
+CDP Climate Change
+
+Evaluation of the management approach
+
+Reducing Carbon Emissions
+
+Direct (Scope 1) GHG emissions
+
+Energy indirect (Scope 2) GHG emissions
+
+Other indirect (Scope 3) GHG emissions
+
+Data Center
+
+Data Center
+
+Data Center
+
+2021 SUSTAINABILITY SUPPLEMENT  9
+
+GRI Content IndexGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+GRI Standards
+
+Disclosure Number
+
+Disclosure 
+Title
+
+GRI 305: EMISSIONS (CONT.)
+
+305-4
+
+GHG emissions intensity
+
+Reference/Response
+
+GM no longer calculates Scope 1 & 2 emissions intensity, as our SBTi target is focused on absolute CO2 reduction 
+CDP Climate Change (2021 section C4.1b)
+
+305-5
+
+305-6
+
+305-7
+
+Reduction of GHG emissions
+
+Data Center
+
+Emissions of ozone-depleting substances (ODS)
+
+Not reported: GM does not import, export or produce ODS
+
+Nitrogen oxides (NOX), sulfur oxides (SOX), and other  
+significant air emissions
+
+Data Center
+
+GRI 306: EFFLUENTS AND WASTE
+
+103-1
+
+103-2
+
+103-3
+
+306-1
+
+306-2
+
+306-3
+
+306-4
+
+306-5
+
+Explanation of the material topic and its Boundary
+
+Designing for the Environment—Pursuing Zero Waste
+
+The management approach and its components 
+
+Designing for the Environment—Pursuing Zero Waste
+
+Evaluation of the management approach
+
+Designing for the Environment—Pursuing Zero Waste
+
+Waste generation and significant waste-related impacts
+
+Designing for the Environment—Pursuing Zero Waste
+
+Management of significant waste-related impacts
+
+Designing for the Environment—Pursuing Zero Waste
+
+Waste generated 
+
+Waste diverted from disposal
+
+Waste directed to disposal 
+
+Data Center
+
+Data Center
+
+Data Center
+
+GRI 307: ENVIRONMENTAL COMPLIANCE
+
+103-1
+
+Explanation of the material topic and its Boundary
+
+103-2
+
+The management approach and its components 
+
+Ensuring Responsible Governance—Environmental Management & Compliance
+Reducing Carbon Emissions 
+Designing for the Environment
+Supporting Supplier Responsibility—Supply Chain Compliance
+Global Environmental Policy
+
+Ensuring Responsible Governance—Environmental Management & Compliance—Environmental Management System (EMS)
+Reducing Carbon Emissions 
+Designing for the Environment 
+Supporting Supplier Responsibility—Supply Chain Compliance
+Global Environmental Policy
+
+103-3
+
+Evaluation of the management approach
+
+Ensuring Responsible Governance—Environmental Management & Compliance
+
+2021 SUSTAINABILITY SUPPLEMENT  10
+
+GRI Content IndexGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+GRI Standards
+
+Disclosure Number
+
+Disclosure 
+Title
+
+GRI 307: ENVIRONMENTAL COMPLIANCE (CONT.)
+
+307-1
+
+Non-compliance with environmental laws and regulations
+
+Reference/Response
+
+Governance—Environmental Management & Compliance
+2021 Form 10-K pages 23, 84–87
+
+GRI 308: SUPPLIER ENVIRONMENTAL ASSESSMENT
+
+103-1
+
+103-2
+
+103-3
+
+308-2
+
+Explanation of the material topic and its Boundary
+
+The management approach and its components 
+
+Supporting Supplier Responsibility
+Supplier Code of Conduct
+
+Supporting Supplier Responsibility
+Supplier Code of Conduct
+
+Evaluation of the management approach
+
+Supporting Supplier Responsibility
+
+Negative environmental impacts in the supply chain and  
+actions taken
+
+Supporting Supplier Responsibility
+
+GRI 400: SOCIAL
+
+GRI 401: EMPLOYMENT
+
+103-1
+
+103-2
+
+103-3
+
+401-1
+
+401-2
+
+Explanation of the material topic and its Boundary
+
+Developing Talented & Diverse People
+
+The management approach and its components 
+
+Developing Talented & Diverse People
+
+Evaluation of the management approach
+
+Developing Talented & Diverse People
+
+New employee hires and employee turnover
+
+Data Center
+
+Benefits provided to full-time employees that are not provided 
+to temporary or part-time employees
+
+COUNTRY
+
+U.S.
+
+Canada
+
+BENEFITS
+
+Flexible service employees are eligible for the same benefits. However, 
+they pay a higher monthly contribution on health care coverage.
+
+For Job Share employees, the Health Care Spending Account/
+Wellness Incentive amount is 50% of that of a full-time employee. 
+They also pay a higher monthly contribution for health care coverage.
+
+Australia, Brazil, Israel, New Zealand
+
+No differences in benefits full-time vs. part-time
+
+Argentina, Chile, China, Colombia, Ecuador, Egypt, India, 
+Indonesia, Ireland, Japan, Mexico, Peru, Russia, South Korea, 
+Switzerland, Thailand, United Arab Emirates, Uruguay
+
+No part-time employees
+
+401-3
+
+Parental leave
+
+Developing Talented & Diverse People—Wellness & Benefits—Paid Family Leave/Disability Leave
+
+2021 SUSTAINABILITY SUPPLEMENT  11
+
+GRI Content IndexGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+GRI Standards
+
+Disclosure Number
+
+Disclosure 
+Title
+
+GRI 402: LABOR/MANAGEMENT RELATIONS
+
+Reference/Response
+
+103-1
+
+103-2
+
+103-3
+
+402-1
+
+Explanation of the material topic and its Boundary
+
+Developing Talented & Diverse People—Labor Relations
+
+The management approach and its components 
+
+Developing Talented & Diverse People—Labor Relations
+
+Evaluation of the management approach
+
+Developing Talented & Diverse People—Labor Relations
+
+Minimum notice periods regarding operational changes 
+
+Nearly all of our labor agreements call for regular meetings between top union officials and local GM management. We also have  
+formal processes in place to notify all workers of work stoppages. As an example, please see 2019 ratified agreement between the  
+UAW and GM. 
+
+GRI 403: OCCUPATIONAL HEALTH AND SAFETY
+
+103-1
+
+103-2
+
+103-3
+
+403-1
+
+403-2
+
+403-3
+
+403-4
+
+403-5
+
+403-6
+
+403-7
+
+403-8
+
+Explanation of the material topic and its Boundary
+
+Keeping People Safe—A Culture of Safety
+
+The management approach and its components 
+
+Keeping People Safe—A Culture of Safety
+
+Evaluation of the management approach
+
+Keeping People Safe—A Culture of Safety
+
+Occupational health and safety management system
+
+Keeping People Safe—A Culture of Safety
+
+Hazard identification, risk assessment, and incident 
+investigation
+
+Keeping People Safe—A Culture of Safety
+
+Occupational health services
+
+Keeping People Safe—A Culture of Safety
+
+Worker participation, consultation, and communication on 
+occupational health and safety
+
+Keeping People Safe—A Culture of Safety
+
+Worker training on occupational health and safety
+
+Keeping People Safe—A Culture of Safety
+
+Promotion of worker health
+
+Keeping People Safe—A Culture of Safety
+Developing Talented & Diverse People—Wellness & Benefits
+
+Prevention and mitigation of occupational health and safety 
+impacts directly linked by business relationships 
+
+Keeping People Safe—A Culture of Safety
+
+Workers covered by an occupational health and safety 
+management system
+
+Keeping People Safe—A Culture of Safety
+
+403-9
+
+Work-related injuries
+
+Keeping People Safe—A Culture of Safety
+
+Employees (number/million work hours)
+
+Data coverage (% of employees)
+
+Data Center
+
+Data Center
+
+2021 SUSTAINABILITY SUPPLEMENT  12
+
+GRI Content IndexGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+GRI Standards
+
+Disclosure Number
+
+Disclosure 
+Title
+
+GRI 404: TRAINING AND EDUCATION
+
+Reference/Response
+
+103-1
+
+103-2
+
+103-3
+
+404-1
+
+404-2
+
+404-3
+
+Explanation of the material topic and its Boundary
+
+Developing Talented and Diverse People
+
+The management approach and its components 
+
+Developing Talented and Diverse People
+
+Evaluation of the management approach
+
+Developing Talented and Diverse People
+
+Average hours of training per year per employee
+
+Data Center
+
+Programs for upgrading employee skills and transition 
+assistance programs
+
+Developing Talented and Diverse People—A Team That Includes Everybody—Developing Everyone’s Potential; Labor Relations—
+Supporting Represented Employees Through Business Challenges
+
+Percentage of employees receiving regular performance  
+and career development reviews
+
+All active salaried employees have performance and development conversations with their leader annually, at a minimum.
+
+GRI 405: DIVERSITY AND EQUAL OPPORTUNITY
+
+103-1
+
+Explanation of the material topic and its Boundary
+
+Strategy—Our Climate Action Framework for an Equitable Transition; Sustainability Strategy —Sustainability Priority Matrix  
+Reducing Carbon Emissions—The Journey to Zero Emissions, Factory ZERO: How Our Future Looks 
+Developing Talented & Diverse People
+Supporting Supplier Responsibility—Supporting Diverse Suppliers
+
+103-2
+
+103-3
+
+405-1
+
+The management approach and its components 
+
+Developing Talented & Diverse People
+
+Evaluation of the management approach
+
+Developing Talented & Diverse People
+
+Diversity of governance bodies and employees
+
+Developing Talented & Diverse People
+Ensuring Responsible Governance—Corporate Governance
+Data Center
+
+405-2
+
+Ratio of basic salary and remuneration of women to men
+
+Data Center
+
+2021 SUSTAINABILITY SUPPLEMENT  13
+
+GRI Content IndexGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+GRI Standards
+
+Disclosure Number
+
+Disclosure 
+Title
+
+GRI 407: FREEDOM OF ASSOCIATION AND COLLECTIVE BARGAINING
+
+103-1
+
+Explanation of the material topic and its Boundary
+
+103-2
+
+103-3
+
+407-1
+
+The management approach and its components 
+
+Evaluation of the management approach
+
+Operations and suppliers in which the right to freedom of 
+association and collective bargaining may be at risk
+
+GRI 408: CHILD LABOR
+
+103-1
+
+Explanation of the material topic and its Boundary
+
+103-2
+
+The management approach and its components 
+
+103-3
+
+Evaluation of the management approach
+
+Reference/Response
+
+Developing Talented & Diverse People—Labor Relations; Upholding Human Rights
+Code of Conduct; Supplier Code of Conduct
+
+Developing Talented & Diverse People—Labor Relations; Upholding Human Rights
+Code of Conduct; Supplier Code of Conduct
+
+Developing Talented & Diverse People—Labor Relations; Upholding Human Rights
+Code of Conduct; Supplier Code of Conduct
+
+We have not identified any GM operations or Tier I suppliers for risks of this nature. 
+
+Upholding Human Rights; Supporting Supplier Responsibility—Supply Chain Compliance; Tracing Raw Materials to the Source
+Conflict Minerals Policy
+Human Rights Policy
+
+Upholding Human Rights; Supporting Supplier Responsibility—Supply Chain Compliance; Tracing Raw Materials to the Source
+Conflict Minerals Policy
+Human Rights Policy
+
+Upholding Human Rights; Supporting Supplier Responsibility—Supply Chain Compliance; Tracing Raw Materials to the Source
+Conflict Minerals Policy
+Human Rights Policy
+
+408-1
+
+Operations and suppliers at significant risk for incidents of  
+child labor
+
+Supporting Supplier Responsibility—Tracing Raw Materials to the Source
+
+GRI 409: FORCED OR COMPULSORY LABOR
+
+103-1
+
+Explanation of the material topic and its Boundary
+
+103-2
+
+The management approach and its components 
+
+103-3
+
+Evaluation of the management approach
+
+2021 SUSTAINABILITY SUPPLEMENT  14
+
+Upholding Human Rights; Supporting Supplier Responsibility—Supply Chain Compliance; Tracing Raw Materials to the Source
+Conflict Minerals Policy
+Human Rights Policy
+
+Upholding Human Rights; Supporting Supplier Responsibility—Supply Chain Compliance; Tracing Raw Materials to the Source
+Conflict Minerals Policy
+Human Rights Policy
+
+Upholding Human Rights; Supporting Supplier Responsibility—Supply Chain Compliance; Tracing Raw Materials to the Source
+Conflict Minerals Policy
+Human Rights Policy
+
+GRI Content IndexGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+GRI Standards
+
+Disclosure Number
+
+Disclosure 
+Title
+
+GRI 409: FORCED OR COMPULSORY LABOR (CONT.)
+
+409-1
+
+Operations and suppliers at significant risk for incidents  
+of forced or compulsory labor
+
+GRI 412: HUMAN RIGHTS ASSESSMENT
+
+103-1
+
+Explanation of the material topic and its Boundary
+
+103-2
+
+The management approach and its components 
+
+103-3
+
+Evaluation of the management approach
+
+Reference/Response
+
+Upholding Human Rights; Supporting Supplier Responsibility—Supply Chain Compliance; Tracing Raw Materials to the Source
+Conflict Minerals Policy
+Human Rights Policy
+
+Developing Talented & Diverse People
+Upholding Human Rights
+Supporting Supplier Responsibility—Industry Collaboration
+Building More Inclusive Communities
+Human Rights Policy
+
+Strategy—Our Climate Action Framework for an Equitable Transition
+Upholding Human Rights
+Supporting Supplier Responsibility—Industry Collaboration
+Human Rights Policy
+Supplier Code of Conduct 
+Conflict Minerals Policy
+
+Strategy—Our Climate Action Framework for a Sustainable Future
+Upholding Human Rights
+Supporting Supplier Responsibility—Industry Collaboration
+Human Rights Policy
+Supplier Code of Conduct 
+Conflict Minerals Policy
+
+412-2
+
+Employee training on human rights policies or procedures
+
+Upholding Human Rights
+Human Rights Policy
+
+GRI 413: LOCAL COMMUNITIES
+
+103-1
+
+Explanation of the material topic and its Boundary
+
+103-2
+
+The management approach and its components 
+
+103-3
+
+Evaluation of the management approach
+
+2021 SUSTAINABILITY SUPPLEMENT  15
+
+Strategy—Our Climate Action Framework for a Sustainable Future
+Building More Inclusive Communities
+2021 Social Impact Report
+
+Strategy—Our Climate Action Framework for a Sustainable Future
+Building More Inclusive Communities
+2021 Social Impact Report
+
+Strategy—Our Climate Action Framework for a Sustainable Future
+Building More Inclusive Communities
+2021 Social Impact Report
+
+GRI Content IndexGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+GRI Standards
+
+Disclosure Number
+
+Disclosure 
+Title
+
+GRI 413: LOCAL COMMUNITIES (CONT.)
+
+413-1
+
+Operations with local community engagement, impact 
+assessments, and development programs
+
+GRI 414: SUPPLIER SOCIAL ASSESSMENT
+
+Reference/Response
+
+Strategy—Our Climate Action Framework for an Equitable Transition
+Supporting Supplier Responsibility—Supporting Diverse Suppliers
+Building More Inclusive Communities 
+2021 Social Impact Report
+
+103-1
+
+103-2
+
+103-3
+
+414-1
+
+414-2
+
+Explanation of the material topic and its Boundary
+
+Supporting Supplier Responsibility—Integrating Sustainability Into Our Supply Chain
+
+The management approach and its components 
+
+Supporting Supplier Responsibility—Integrating Sustainability Into Our Supply Chain; Supporting Supplier Responsibility— 
+Supporting Diverse Suppliers
+
+Evaluation of the management approach
+
+Supporting Supplier Responsibility—Supporting Diverse Suppliers
+
+New suppliers that were screened using social criteria
+
+Supporting Supplier Responsibility—Supply Chain Compliance
+Supporting Supplier Responsibility—Responsible Sourcing of Raw Materials
+
+Negative social impacts in the supply chain and actions taken
+
+We have not identified any Tier I suppliers for risks of this nature. 
+
+GRI 415: PUBLIC POLICY
+
+103-1
+
+Explanation of the material topic and its Boundary
+
+Governance —Corporate Governance—Corporate Political Contributions and Lobbying Expenditures
+Political Contributions and Expenditures Policy
+Advancing Transformative Technologies—Super Cruise and Ultra Cruise Driver Assistance Technology 
+
+103-2
+
+103-3
+
+415-1
+
+The management approach and its components 
+
+Ensuring Responsible Governance—Corporate Governance—Corporate Political Contributions and Lobbying Expenditures
+
+Evaluation of the management approach
+
+Ensuring Responsible Governance—Corporate Governance—Corporate Political Contributions and Lobbying Expenditures
+
+Political contributions
+
+General Motors Voluntary Report of 2021 Political Contributions
+
+GRI 416: CUSTOMER HEALTH AND SAFETY
+
+103-1
+
+Explanation of the material topic and its Boundary
+
+103-2
+
+The management approach and its components 
+
+Strategy—How GM Creates Value
+Earning Customers for Life
+Keeping People Safe
+
+Strategy—How GM Creates Value
+Earning Customers for Life
+Keeping People Safe
+
+103-3
+
+Evaluation of the management approach
+
+Keeping People Safe
+
+2021 SUSTAINABILITY SUPPLEMENT  16
+
+GRI Content IndexGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+GRI Standards
+
+Disclosure Number
+
+Disclosure 
+Title
+
+GRI 416: CUSTOMER HEALTH AND SAFETY (CONT.)
+
+Reference/Response
+
+416-1
+
+416-2
+
+Assessment of the health and safety impacts of product and 
+service categories
+
+Keeping People Safe—Developing Safe Products 
+Governance—Environmental Management
+We assess health and safety in our products as required by the different markets in which we operate.
+
+Incidents of non-compliance concerning the health and safety 
+impacts of products and services
+
+Keeping People Safe—Developing Safe Products
+2021 Form 10-K pages 84–87
+
+GRI 418: CUSTOMER PRIVACY
+
+103-1
+
+Explanation of the material topic and its Boundary
+
+103-2
+
+The management approach and its components 
+
+103-3
+
+Evaluation of the management approach
+
+Governance—Cybersecurity & Privacy
+Global Privacy Policy
+Product Cybersecurity Policy
+
+Governance—Cybersecurity & Privacy
+Global Privacy Policy
+Product Cybersecurity Policy
+
+Governance—Cybersecurity & Privacy
+Global Privacy Policy
+Product Cybersecurity Policy
+
+418-1
+
+Substantiated complaints concerning breaches of customer 
+privacy and losses of customer data
+
+GRI 419: SOCIOECONOMIC COMPLIANCE
+
+In 2021, we did not have any substantiated customer privacy complaints from outside parties or regulatory bodies. 
+
+103-1
+
+103-2
+
+103-3
+
+419-1
+
+Explanation of the material topic and its Boundary
+
+Upholding Human Rights; Supporting Supplier Responsibility—Supply Chain Compliance
+
+The management approach and its components 
+
+Upholding Human Rights; Supporting Supplier Responsibility—Supply Chain Compliance
+
+Evaluation of the management approach
+
+Upholding Human Rights; Supporting Supplier Responsibility—Supply Chain Compliance
+
+Non-compliance with laws and regulations in the social and 
+economic area
+
+Keeping People Safe—Developing Safe Products
+2021 Form 10-K pages 84–87
+
+2021 SUSTAINABILITY SUPPLEMENT  17
+
+GRI Content IndexSustainability Accounting Standards Board (SASB) Response
+
+Topic
+
+Metric
+
+Category
+
+Unit of Measure
+
+Code
+
+Response/Comment
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Activity Metrics
+
+Number of vehicles manufactured
+
+Quantitative
+
+Quantitative
+
+Quantitative
+
+Number 
+
+Number 
+
+Percentage (%) of  
+rated vehicles
+
+TR-AU-000.A
+
+TR-AU-000.B
+
+TR-AU-250a.1
+
+Data Center
+
+Data Center
+
+Data Center
+
+Product Safety
+
+Labor Practices
+
+Number of vehicles sold
+
+Percentage of vehicle models rated by 
+NCAP programs with an overall 5-star 
+safety rating, by region
+
+Number of safety-related defect 
+complaints; percentage investigated
+
+Number of vehicles recalled
+
+Percentage of active workforce 
+covered under collective- 
+bargaining agreements
+
+Number of (1) work stoppages and  
+(2) total days idle
+
+Quantitative
+
+Number, Percentage (%)
+
+TR-AU-250a.2
+
+General Motors reviews 100% of NHTSA Vehicle Owner Questionnaires filed for GM 
+vehicles. As a part of Speak Up For Safety, GM investigates all submissions that have a 
+potential vehicle safety concern.
+
+Quantitative
+
+Quantitative
+
+Number
+
+Percentage (%)
+
+TR-AU-250a.3
+
+TR-AU-310a.1
+
+Data Center
+
+Data Center
+
+Quantitative
+
+Number, Days
+
+TR-AU-310a.2
+
+Data Center
+
+Fuel Economy &  
+Use-Phase Emissions
+
+Sales-weighted average passenger 
+fleet fuel economy, by region
+
+Quantitative
+
+TR-AU-410a.1
+
+Data Center
+
+Mpg, L/km, gCO2/km, 
+km/L
+Methodology: Average  
+F/E calculated by model 
+year as required for 
+regulatory purposes.
+
+Number of (1) zero emission vehicles 
+(ZEV) sold, (2) hybrid vehicles sold, and 
+(3) plug-in hybrid vehicles sold
+
+Quantitative
+
+Vehicle units sold
+
+TR-AU-410a.2
+
+Data Center
+
+Discussion of strategy for managing 
+fleet fuel economy and emissions risks 
+and opportunities
+
+Discussion and 
+Analysis
+
+TR-AU-410a.3
+
+Reducing Carbon Emissions 
+CDP Climate Change (2021 sections C2.3, C2.4, C12.3a)
+
+Materials Sourcing
+
+Description of the management  
+of risks associated with the use  
+of critical materials
+
+2021 SUSTAINABILITY SUPPLEMENT  18
+
+Many of the advanced technologies in our portfolio may use minerals and materials that 
+are potentially mined in conflict-affected and high-risk areas.
+To identify and mitigate human rights risk in the sourcing of these raw materials, our 
+due diligence practices undertaken in connection with our Responsible Materials 
+Program and our Conflict Mineral Program are aligned with the Organization for 
+Economic Co-operation and Development Due Diligence Guidance for Responsible 
+Supply Chains of Minerals from Conflict-Affected and High-Risk Areas. 
+We enjoy strong management support for conflict mineral supply chain due diligence. 
+A compliance committee comprised of cross-functional GM leaders and an executive 
+steering committee provide leadership and direction for the program.
+Also refer to:   
+Designing for the Environment—Sourcing Sustainable Materials  
+Supporting Supplier Responsibility—Sourcing Strategic Raw Materials, Supply Chain 
+Disruption, Tracing Raw Materials To The Source
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+SASB Response
+
+Topic
+
+Metric
+
+Category
+
+Unit of Measure
+
+Code
+
+Response/Comment
+
+Material Efficiency & 
+Recycling
+
+Total amount of waste from 
+manufacturing, percentage recycled
+
+Quantitative
+
+Metric tons (t), 
+Percentage (%)
+
+TR-AU-440b.1
+
+Data Center
+
+Weight of end of-life material  
+recovered, percentage recycled
+
+Quantitative
+
+TR-AU-440b.2
+
+Metric tons (t), 
+Percentage (%)
+Methodology: Percentage 
+is weight of recovered and 
+recycled EOL material 
+divided by total EOL 
+recovered material.
+
+GM does not compile this information outside of the EU where the End of Life Vehicle 
+(ELV) law requires OEMs to have programs to retrieve and recycle our vehicles. No other 
+region of sale has this requirement. However, the automobile is considered the most 
+reused and recycled product in the marketplace. In North America and other regions, 
+there is a well-established automotive dismantling industry that manages this activity. 
+Per the Automotive Recyclers Association, the professional automotive recycling industry 
+recycles over 4 million motor vehicles annually in the United States and Canada alone. The 
+U.S. automotive recycling industry employs over 140,000 people in the United States at 
+more than 9,000 locations around the country, generating $32 billion in sales nationwide. 
+Per The Balance Small Business Sustainable Businesses/Metal Recycling website,* each 
+year, over 25 million tons of materials are recycled from old vehicles. 
+
+Average recyclability of vehicles sold,  
+by  weight
+
+Quantitative
+
+TR-AU-440b.3
+
+Data Center 
+
+Percentage (%) by  
+sales-weighted weight 
+(metric tons) 
+Methodology: Percentage 
+is weight of components/
+materials in vehicle sold  
+that are recyclable divided 
+by total weight of all 
+vehicles sold.
+
+*  Auto or Car Recycling Facts and Figures, Facts about car or automobile recycling, by Rick Leblanc updated September 09, 2016.
+
+2021 SUSTAINABILITY SUPPLEMENT  19
+
+Task Force on Climate-related Financial Disclosures (TCFD) Response
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Governance
+
+Disclose the organization’s governance around climate-related risks and opportunities.
+
+a)  Describe the board’s 
+oversight of climate-
+related risks and 
+opportunities.
+
+The General Motors Board of Directors is committed to overseeing the 
+company’s integration of environmental, social and governance (ESG) 
+principles throughout the enterprise, and oversees the company’s ESG 
+risks, priorities and opportunities. 
+
+The Board is committed to sound corporate governance policies and 
+practices that are designed and routinely assessed to enable GM to 
+operate our business responsibly, with integrity, and to position GM to 
+compete more effectively, sustain our success and build long-term 
+shareholder value. The Board works with management to integrate 
+ESG principles into the company’s business strategy. This includes 
+agenda items and discussions related to ESG topics at Board and 
+committee meetings.
+
+Expertise related to environmental, social and/or governance-related 
+issues, including climate, are among the qualifications considered prior 
+to recommending an incumbent, replacement or additional director to 
+the Board. 
+
+The Board discharges its risk oversight responsibilities, in part, through 
+delegation to its committees. The Board has six standing committees: 
+Audit; Executive; Executive Compensation; Finance; Governance and 
+Corporate Responsibility; and Risk and Cybersecurity. All standing 
+committees of the Board, other than the Executive Committee, are 
+composed entirely of independent directors. As a full Board, and 
+through these committees, the Board is committed to overseeing the 
+company’s integration of ESG principles throughout GM’s business and 
+managing the related risks and opportunities. 
+
+Each committee has a written charter setting forth its purpose, 
+authority and duties. Overall, the committees enhance the Board’s 
+oversight of areas that are critical to GM’s corporate responsibility 
+
+2021 SUSTAINABILITY SUPPLEMENT  20
+
+and sustainability efforts, including transparent and reliable financial 
+reporting; risk identification and mitigation (including climate change 
+and other ESG issues); ethics and compliance; product and workplace 
+safety; supply chain and human rights; pay-for-performance; data 
+security; diversity, equity and inclusion; Board and management 
+succession planning; consideration of shareholder proposals; and 
+political and lobbying priorities and expenditures.
+
+In 2021, each Board committee further incorporated ESG responsibilities 
+into their charters in recognition that ESG risks are all-encompassing. 
+The following committees have climate-related responsibilities: 
+
+Governance and Corporate Responsibility Committee (GCRC) 
+
+The GCRC oversees the Company’s development of ESG initiatives, 
+strategies, policies and practices related to matters of sustainability 
+and corporate responsibility that have a material impact on the 
+company. The GCRC is responsible for tracking GM’s ESG scorecard 
+and conducts annual reviews of ESG reporting standards, lobbying 
+activities, corporate philanthropy and human rights (including 
+responsible sourcing practices and policies). In addition, the GCRC 
+approves the company’s annual Sustainability Report and associated 
+disclosures, including TCFD.
+
+Risk and Cybersecurity Committee (RCC)
+
+The committee oversees risks related to the company’s key strategic, 
+enterprise and cybersecurity risks, including climate change, workplace 
+and product safety and privacy.
+
+The RCC considers ESG-related risks as part of the company’s enterprise 
+risk profile. This includes, but is not limited to, transitions associated with 
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Governance
+
+Disclose the organization’s governance around climate-related risks and opportunities.
+
+b)  Describe 
+
+management’s role 
+in assessing and 
+managing climate-
+related risks and 
+opportunities.
+
+a)  Describe the board’s 
+oversight of climate-
+related risks and 
+opportunities. (cont.)
+
+climate change and achieving our vision of an all-electric future. The 
+committee is regularly updated on enterprise risk trends and emerging 
+risks, as well as management’s response and/or mitigation plans that 
+are being executed.
+
+The Audit Committee (AC)
+
+In addition to its oversight of the quality, integrity and compliance 
+of GM’s financial statements, the AC began reviewing the process 
+and control procedures for ESG disclosures in 2021. In 2022, the 
+committee will begin approving the company’s annual Sustainability 
+Report and TCFD response prior to publication. 
+
+Executive Compensation Committee (ECC)
+
+Starting in 2022, the ECC will annually:
+
+•  Evaluate whether the company’s ESG and sustainability 
+goals and milestones are effectively integrated into the 
+compensation programs.
+
+•  Review compensation plans for executives to confirm 
+
+alignment to GM’s sustainability risks and opportunities. 
+
+•  Consider shareholder feedback relative to the alignment 
+of GM’s sustainability goals with respect to the annual 
+shareholder say-on-pay vote.
+
+Please see our CDP Climate Change 2021 response (C1.1, C1.1a, C1.1b) 
+as well as GM’s 2022 Proxy Statement, beginning on page 6, for 
+further discussion of Board oversight on ESG measures. 
+
+2021 SUSTAINABILITY SUPPLEMENT  21
+
+The company’s risk governance is facilitated through a top-down and 
+bottom-up structure, with the tone established at the top by the Board 
+Chair and CEO, who is also our chief risk officer, and other members of 
+management, specifically the Senior Leadership Team (SLT). The SLT 
+also utilizes our Risk Advisory Council, an executive-level body with 
+delegates from each business unit, to discuss and monitor the most 
+significant enterprise and emerging risks in a cross-functional setting. 
+They are tasked with championing risk management practices and 
+integrating them into their functional or regional business units.
+
+Sustainability Office (SO)
+
+Management of climate-related risks and opportunities ultimately 
+resides with the CEO, who leads our SLT. This group includes the 
+executive vice president of global manufacturing to whom our chief 
+sustainability officer (CSO) reports. The group is responsible for ensuring 
+climate-related considerations are incorporated into the company’s 
+overall business strategy and that climate-related risks are considered  
+in GM’s enterprise risk management framework and decision-making 
+processes. The CSO chairs the SO and works cross-functionally to 
+integrate sustainability across the enterprise.
+
+Examples of areas overseen by the SO: 
+
+•  Tracks and monitors execution of public commitments 
+
+made by the company related to sustainability goals such 
+as carbon neutrality and approved Science Based Target 
+initiatives (SBTi).
+
+•  Works with the enterprise to ensure responsible sourcing 
+and consumption of materials and production of vehicles.
+
+•  Coordinates with the business on the strategic design and 
+implementation of our electric vehicle (EV) infrastructure. 
+
+TCFD ResponseGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Governance
+
+Disclose the organization’s governance around climate-related risks and opportunities.
+
+b)  Describe 
+
+•  Reviews and approves social and environmental 
+
+management’s role 
+in assessing and 
+managing climate-
+related risks and 
+opportunities. (cont.)
+
+sustainability strategies developed cross-functionally, 
+including human rights and sustainable materials strategies, 
+and those that are implemented on the operational level. 
+
+•  Reviews and approves annual Sustainability Report and ESG 
+
+disclosures, including TCFD.
+
+Learn more about the Sustainability Office here. 
+
+During 2021, our ESG management teams also continued to expand 
+throughout the organization, including individuals with climate 
+expertise in areas such as global purchasing and supply chain (GPSC), 
+engineering, legal and public policy, among others. We are strengthening 
+our internal bench to increase our ability to identify and manage climate-
+related risks and continually ensure operational teams are aligning our 
+business strategy with our ESG strategy.
+
+CO2 Governance Committee 
+
+GM is focused on reducing CO2 emissions from use of sold products, 
+primarily by transitioning its product line to all-electric vehicles. GM 
+tracks projected fleet-wide CO2 emissions on a regional basis to ensure 
+compliance to increasingly stringent regulations in all our markets. Our 
+CO2 governance process includes senior-level representation from all 
+relevant functions, including product development, planning, sales and 
+marketing, finance, public policy and legal.
+
+Manufacturing Leadership Team (MLT) 
+
+The scale of our manufacturing operations also presents significant 
+opportunities for emissions reduction. 
+
+2021 SUSTAINABILITY SUPPLEMENT  22
+
+On a monthly basis, GM’s progress toward science-based targets for 
+Scopes 1, 2 and 3, as well as other key climate-related indicators, such  
+as water and waste, are reviewed and tracked against internal targets 
+by the MLT. Progress toward projects and initiatives to support our 
+targets are also reviewed by the MLT. 
+
+Local Management 
+
+At the local manufacturing plant level, management is responsible 
+for tracking energy consumption and continuously analyzing and 
+reviewing opportunities for energy conservation, as well as monitoring 
+potential climate-related impacts, including catastrophic risks or 
+losses from natural events that may occur at their site. 
+
+Similar analysis and evaluation at the operational level occur when 
+selecting new sites as well as considering new suppliers.
+
+Please see our CDP Climate Change 2021 (C1.2, C1.2a) for more detail.
+
+TCFD ResponseGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Strategy
+
+Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy and financial planning.
+
+a)  Describe the climate-
+related risks and 
+opportunities the 
+organization has 
+identified over the 
+short-, medium- and 
+long-term.
+
+We recognize that our impact as a business extends to the opportunity 
+to help people thrive in a better, more sustainable world. That is why we 
+are working toward a zero-emissions future, which will require actions 
+beyond just accelerating EV adoption. We plan to become carbon 
+neutral in our global products and operations by 2040 and eliminate 
+tailpipe emissions from new light-duty vehicles by 2035. We continue 
+working toward our target of sourcing 100% renewable energy to 
+power our U.S. operations by 2025 and our global operations by 2035. 
+
+In 2021, GM partnered with a third-party consultant to begin a two-
+year journey to better define the company’s climate-related risks and 
+opportunities. The focus is to identify climate-related risks, exposure, 
+potential impacts and key performance indicators. In particular, this 
+journey will include climate change scenarios and business alignment 
+with various climate-related scenarios. Progress on this exercise will  
+be shared in our 2022 TCFD disclosure.
+
+We categorize risks as physical and transition risks. Transition risks 
+result from the global transition to a low-carbon and climate-resilient 
+economy, while physical risks result from extreme weather events and 
+increasing average global mean temperatures. Transition risk related 
+to technology results from availability of technology to address  
+climate impacts. 
+
+To the right we have identified key climate-related risks and 
+opportunities with potential impact to our business over short-, 
+medium- and long-term time horizons.
+
+b)  Describe the impact of 
+climate-related risks 
+and opportunities on 
+the organization’s 
+businesses, strategy 
+and financial planning.
+
+2021 SUSTAINABILITY SUPPLEMENT  23
+
+Physical Risks 
+
+Increased storms and 
+droughts potentially 
+creating production 
+disruptions
+
+Increased flooding  
+potentially impacting 
+our supply chain
+
+Transition Risks 
+Related to Market and 
+Policy Risks
+
+Transition Risks Related 
+to Technology and 
+Reputation Risks
+
+Reduced availability 
+of raw materials 
+potentially impacting 
+costs and scheduling  
+of vehicle production
+
+Lack of EV charging 
+infrastructure 
+potentially impacting 
+consumer adoption
+
+Costs related to  
+all-electric technology 
+(e.g., EV batteries) 
+potentially impacting 
+profitability
+
+Competition from peers 
+in transition to EVs 
+potentially impacting 
+sales and market share
+
+Please see our CDP Climate Change 2021 (C2.3a, C2.4a) for more detail.
+
+PHYSICAL RISKS
+
+Risk: Increased storms and droughts creating  
+production disruptions 
+
+Increased intensity, frequency or duration of storms, droughts or 
+other severe weather events that may result from climate change 
+could disrupt our production and the production, logistics, cost and 
+procurement of products from our suppliers and timely delivery of 
+vehicles to customers, and could negatively impact working conditions 
+at our plants and those of our suppliers. Any of the foregoing could 
+have a material adverse effect on our financial condition and results  
+of operations.
+
+TCFD ResponseGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Strategy
+
+Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy and financial planning.
+
+b)  Describe the impact of 
+climate-related risks 
+and opportunities on 
+the organization’s 
+businesses, strategy 
+and financial planning. 
+(cont.)
+
+Approach
+
+We manage these risks based on the location of our operations around 
+the world and the risk profile for a particular region. As an example, 
+increases in the frequency of drought conditions can depress water 
+availability for production in water-stressed areas. GM has production 
+facilities in Mexico, an area hard hit by drought in recent years, and 
+there is a risk that increases in the frequency of such events could 
+disrupt production due to lack of water availability. 
+
+GM has integrated water management into our annual business 
+planning process and has set a target to reduce the water intensity  
+of our operations 35% by 2035 compared to a 2010 baseline. We  
+also have signed the CEO Water Mandate—a UN Global Compact 
+Initiative—joining other global business leaders to address key 
+challenges around water security and further aligning the UN 
+Sustainable Development Goals. We also are a long-term reporter  
+to CDP Water and have made the “A” list for three consecutive years.
+
+Water consumption is managed on a local basis, with each facility 
+working toward its own targets for year-over-year improvement. 
+Innovative approaches have allowed facilities to continue production 
+without disruptions, even in water-stressed areas. At our San Luis 
+Potosí assembly plant in Mexico, GM uses a zero liquid discharge 
+system to minimize the reliance on well water. The system purifies  
+and transforms wastewater into reusable water for the facility’s paint 
+and machining processes, as well as for landscape irrigation.
+
+See our CDP Climate Change 2021 (2.2a, 2.3a) for more detail, and 
+learn more about our management of water resources and water stress 
+regions in our CDP Water report. 
+
+2021 SUSTAINABILITY SUPPLEMENT  24
+
+TRANSITION RISKS
+Risk: Reduced availability of raw materials potentially 
+impacting costs and scheduling of vehicle production
+
+We purchase a wide variety of raw materials, parts, supplies, energy, 
+freight, transportation and other services from numerous suppliers across 
+the globe to manufacture our products. The raw materials primarily 
+include steel, aluminum, resins, copper, lead and precious metals. 
+
+Reduced availability of raw materials can lead to increases in prices for 
+commodities, raw materials or other inputs that we and our suppliers 
+use in manufacturing products, systems, components and parts. 
+In addition, any increase in the cost of critical materials for our EV 
+propulsion systems, including lithium, nickel, cobalt and certain rare 
+earth metals, could lead to higher production costs for our EVs and 
+could impede our ability to successfully deliver on our EV strategy. 
+
+Further, increasing global demand for, and uncertain supply of, such 
+materials could disrupt our suppliers’ ability to obtain such materials in 
+a timely manner and/or could lead to increased costs. Geopolitical risk, 
+fluctuations in supply and demand, any weakening of the U.S. dollar 
+and other economic and political factors may continue to create pricing 
+pressure for commodities, raw materials and other inputs. 
+
+Approach
+
+In every region in which we operate, local sourcing as a percentage of 
+regional spend, which ranges from 73% in South America and other 
+international regions to 92% in North America and 96% in China, 
+helps us to mitigate certain supply chain risks. Our transition to EVs 
+includes building a resilient, scalable and more sustainable North 
+
+TCFD ResponseGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Strategy
+
+Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy and financial planning.
+
+b)  Describe the impact of 
+climate-related risks 
+and opportunities on 
+the organization’s 
+businesses, strategy 
+and financial planning. 
+(cont.)
+
+America-focused EV supply chain. This was a major focus of our supply 
+chain organization in 2021. To date, we have announced initiatives that 
+include sourcing silicon carbide power device solutions, processing 
+cathode active material, sourcing U.S. lithium with more sustainable 
+extraction methods and sourcing permanent magnets using locally 
+sourced raw materials.
+
+Please see our CDP Climate Change 2021 (C2.2a) for more detail.
+
+Risk: Lack of EV charging infrastructure potentially impacting 
+consumer adoption
+
+Consumer adoption of EVs will be critical to the success of our strategy. 
+This could be impacted by numerous factors, including the proliferation 
+of charging infrastructure (in particular public charging stations). 
+Also, the failure by governments and other third parties to make the 
+investments necessary for infrastructure improvements, such as 
+greater availability of cleaner energy grids and EV charging stations, or 
+to provide economic incentives promoting EVs, could impact consumer 
+adoption as well.
+
+Approach
+
+To support mass market adoption of EVs, we are working to ensure that 
+our customers will have access to comprehensive charging solutions. 
+For personal vehicles, this means strategically addressing charging 
+needs at residences, the workplace and in public locations. For fleet 
+vehicles, this means turnkey charging solutions and fleet and facility 
+energy management services. 
+
+We have announced collaborative work with several charge network 
+operators to filter real-time data on their respective networks and 
+charge station health into Ultium Charge 360, a holistic charging 
+
+2021 SUSTAINABILITY SUPPLEMENT  25
+
+approach that integrates charging networks, GM vehicle mobile apps1 
+and other products and services to simplify the overall charging 
+experience for GM EV owners Ultium Charge 360 is also available 
+to our fleet and BrightDrop customers and offers fleet and facility 
+management tools, integration with GM’s fleet management offerings 
+and support across a wide range of fleet sizes. 
+
+In 2021, we announced a new Dealer Community Charging Program to 
+install up to 40,000 Level 2 EV chargers across the United States and 
+Canada through 2025. Working with our dealers, we intend to expand 
+access to charging in local communities, including in underserved, 
+rural and urban areas where EV charging access is often limited. This 
+initiative, which is expected to begin in 2022, is part of our commitment 
+to invest nearly $750 million to expand residence, workplace and public 
+charging infrastructure through the Ultium Charge 360 ecosystem 
+through 2025. The investment includes the addition of 3,250 EVgo DC 
+fast charging stalls through 2025.
+
+Please see our CDP Climate Change 2021 response (1.3a, 2.2a, 2.3a, 
+12.1b 12.3a) for more detail.
+
+Risk: Costs related to zero-emissions technology potentially 
+impacting profitability
+
+We are subject to risks associated with climate change, including 
+increased regulation of greenhouse gas (GHG) emissions, changing 
+consumer preferences and other risks related to our transition to EVs. 
+
+1.  Available on select Apple and Android devices. Service availability, features and functionality 
+
+vary by vehicle, device and the plan you are enrolled in. User terms apply.
+
+TCFD Response 
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Strategy
+
+Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy and financial planning.
+
+b)  Describe the impact of 
+climate-related risks 
+and opportunities on 
+the organization’s 
+businesses, strategy 
+and financial planning. 
+(cont.)
+
+This could change our manufacturing processes or product portfolio 
+Climate change regulations at the federal, state or local level or in 
+international jurisdictions could require further limits to emissions 
+associated with customer use of products sold, or make it necessary 
+for us to undertake other activities that may require us to incur 
+additional expense. 
+
+Part of our strategy to address these risks includes our transition 
+to EVs, which is dependent upon customer acceptance, and could 
+result in reduced demand for, and therefore profits from, our internal 
+combustion engine (ICE) vehicles, which we plan to use to fund our 
+growth strategy.
+
+Approach
+
+We are working closely with governments worldwide to implement 
+complementary policies to bolster consumer education and incentives, 
+infrastructure, manufacturing, clean power, and research and 
+development investments that are critical to the success of our all-
+electric vision and our broader climate goals. 
+
+To accomplish these advocacy objectives, GM is committed to working 
+globally with a broad set of key partners, industry associations, 
+coalitions and governmental policymakers at the national, state/ 
+provincial and local levels. 
+
+A detailed discussion of our advocacy efforts can be found in our 
+Public Policy Supplement.
+
+Please see our CDP Climate Change 2021 (2.2a) for more detail.
+
+2021 SUSTAINABILITY SUPPLEMENT  26
+
+Risk: Competition from peers in transition to EVs potentially 
+impacting company sales and market share
+
+Our EV strategy is dependent on our ability to: deliver a broad portfolio 
+of high-quality EVs that are competitive and meet consumer demands; 
+reduce the costs associated with manufacturing EVs, particularly with 
+respect to batteries; increase vehicle range and the energy density 
+of our batteries; license and monetize our proprietary platforms and 
+related innovations; successfully invest in new technologies relative to 
+our peers; develop new software and services; and leverage our scale, 
+manufacturing capabilities and synergies with existing ICE vehicles.
+
+Approach
+
+Continuous innovation and advanced technology development are key 
+to keeping up with changing consumer behavior. One way GM achieves 
+this is through our global network of R&D labs around the world, as well 
+as through active collaboration with academia, suppliers and startups 
+to develop new technologies, such as our electrification platform.
+
+GM is committed to developing a broad set of EVs for every lifestyle 
+and price point. This will be enabled by our proprietary Ultium 
+Platform—a combined EV architecture and propulsion system that 
+enables EVs at scale. This platform can power transportation from 
+family vehicles to luxury vehicles, work trucks and high-performance 
+vehicles. As a result, GM will be positioned to compete for nearly every 
+customer type and preference in the market.
+
+Ultium-based EVs will be powered by rectangular, pouch-style battery 
+cells that are simple, lightweight and space-efficient. Our ability to 
+stack the long pouch cells vertically or horizontally is unique in the 
+industry and allows for a flat cabin floor and more interior room than 
+
+TCFD ResponseGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Strategy
+
+Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy and financial planning.
+
+b)  Describe the impact of 
+climate-related risks 
+and opportunities on 
+the organization’s 
+businesses, strategy 
+and financial planning. 
+(cont.)
+
+comparable EVs that use cylindrical battery packs. Designing common 
+cells that work across many applications yields benefits of scale, 
+enabling us to develop the best possible customer value proposition  
+for each EV entry. 
+
+In addition, GM is committed to creating a superior EV ownership 
+experience through the introduction of Ultium Charge 360.
+
+See our CDP Climate Change 2021 (2.2a, 2.3a) for more detail.
+
+Climate-Related Opportunities 
+
+Our top climate-related opportunities include: 
+
+• Increased capital availability due to investor interest in 
+
+decarbonization of the transportation sector [as a key ESG 
+metric for our industry] and sustainability providing companies 
+with a competitive advantage against peers.
+
+• Shift in consumer preferences toward EVs creating new sales 
+
+and new customer opportunities.
+
+• Technological advances (e.g., battery and manufacturing 
+
+efficiency) enabling resource and cost savings.
+
+• Leadership in electrification and fuel cell innovation leading to 
+
+new sales and new market opportunities.
+
+2021 SUSTAINABILITY SUPPLEMENT  27
+
+Opportunity: Increased capital availability due to investor 
+interest in decarbonization of the transportation sector 
+
+Approach
+
+In the capital markets, strong ESG performance could, in some cases, 
+position GM shares to be included on certain securities indexes, as well 
+as leading to more favorable debt pricing.
+
+Our development of autonomous vehicles (AV) provides an example of 
+increased capital availability due to investor interest and the potential 
+for new revenue opportunities. Cruise, our global segment responsible 
+for the development and commercialization of AV technology, has 
+attracted funding from financial and strategic investors, including 
+Honda, Microsoft and Walmart. This capital infusion, combined with our 
+funding and collaboration, is enabling Cruise and GM to accelerate their 
+efforts to commercialize self-driving vehicles. Learn more in the 
+Advancing Transformative Technologies section.
+
+In addition, AVs—particularly those that are passenger cars—could 
+significantly affect the country’s ability to cut GHG emissions and move 
+toward a carbon-free economy. Existing studies suggest that three 
+main factors will determine whether putting more AVs on the road 
+increases or decreases tailpipe carbon emissions: effect on the total 
+vehicle-miles traveled in the United States; impacts on congestion; and 
+AV fuel efficiency and fossil fuel consumption. As such, AVs must be 
+assessed not only for their safety but also for their effect on carbon 
+emissions levels.
+
+Every Cruise AV test vehicle is also an EV that is derived from the 
+Chevrolet Bolt EV. Introducing these technologies in tandem accomplishes 
+multiple goals, including increasing acceptance of EVs and encouraging 
+buildout of EV charging infrastructure. 
+
+TCFD ResponseGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Strategy
+Strategy
+
+Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy and financial planning.
+Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy and financial planning.
+
+b)  Describe the impact of 
+climate-related risks 
+and opportunities on 
+the organization’s 
+businesses, strategy 
+and financial planning. 
+(cont.)
+
+Opportunity: Shift in consumer preferences toward EVs 
+creating new sales and new customer opportunities
+
+Opportunity: Technological advances (e.g., battery and 
+manufacturing efficiency) enabling resource and cost savings
+
+Approach
+
+Approach
+
+In 2021, we accelerated our plan to transition to an all-electric  
+future by announcing an increase in our EV and AV development 
+investment target from $20 billion to $35 billion within the period  
+of 2020 through 2025. 
+
+We also announced plans to introduce more than 30 EVs globally 
+by the end of 2025, with more than two-thirds of these available in 
+North America. These introductions, along with additional EVs being 
+planned, will enable EV sales to represent 40% to 50% of annual U.S. 
+automotive sales volume by 2030, which is aligned with the current 
+administration’s target of 50% electric vehicle sales share in 2030. To 
+reach this upper range, we will continue to work with federal, state  
+and local governments to implement supportive policies that will move 
+the United States closer to meeting the carbon neutrality goals of the  
+Paris Agreement.
+
+In China, the world’s largest EV market, we will accelerate electrification 
+through a plan in which 40% of new vehicles introduced through the end 
+of 2025 will be EVs. This will build on our current market momentum  
+in China.
+
+Based on our planned cadence of EV introductions, GM will have more 
+than 1 million units of EV capacity in North America by the end of  
+2025. Additionally, GM will build up more than 1 million units in China 
+over the same time frame. Our EV portfolio is planned to be among 
+the broadest in the industry, with entries from affordable, high-volume 
+market segments to top-of-the-line models and everything in between. 
+
+Ultium represents a milestone achievement in electrification, with battery 
+pack costs nearly 40% lower compared to the previous generation, and we 
+expect the second generation Ultium packs will cost nearly 60% less than 
+the batteries used today.1 We are committed to continuous improvement 
+in manufacturing, materials and packaging efficiencies, high-energy cell 
+design and increased vertical integration with local production that will 
+deliver greater energy density at a lower cost.
+
+Opportunity: Leadership in electrification and fuel cell 
+innovation leading to new sales and market opportunities 
+
+Our business growth model is predicated on leveraging leading 
+positions in electrification, hydrogen fuel cell, autonomy and 
+connected vehicles—positions that are transforming GM from 
+automaker to platform innovator.  
+
+The unique modularity and flexibility of the Ultium platform opens 
+opportunities beyond our own vehicles. Ultium, together with our 
+Hydrotec fuel cell platform, gives GM the potential to transform  
+planes, trains, automobiles and boats into all-electric products.  
+In 2021, GM made the following moves to extend zero emissions 
+beyond automotive vehicles:
+
+•  GM and Wabtec Corporation entered into a nonbinding 
+
+memorandum of understanding to leverage our Ultium battery 
+and HYDROTEC fuel cell technologies for Wabtec locomotives.  
+
+1.  Cost reduction might vary by region and cell chemistry.
+
+2021 SUSTAINABILITY SUPPLEMENT  28
+
+TCFD ResponseGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Strategy
+
+Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy and financial planning.
+
+c)  Describe the potential 
+impact of different 
+scenarios, including 
+a 2°C scenario, on 
+the organization’s 
+businesses, strategy 
+and financial planning. 
+
+Please see our CDP Climate Change 2021 (2.4a) response for more 
+details on climate-related opportunities.
+
+Please see our CDP Climate Change 2021 response (C3.3, C3.4) for 
+more details on how climate-related risks and opportunities have 
+influenced our strategy and financial planning.
+
+In 2021, GM partnered with a third-party consultant to begin a  
+two-year journey to better define the company’s climate-related  
+risks and opportunities.    
+
+We will include climate change scenarios and business alignment with 
+various climate-related scenarios in our 2022 TCFD disclosure. 
+
+b)  Describe the impact of 
+climate-related risks 
+and opportunities on 
+the organization’s 
+businesses, strategy 
+and financial planning. 
+(cont.) 
+
+•  GM and Liebherr Aerospace signed a joint development 
+agreement to codevelop hydrogen fuel cell-powered 
+aeronautics technology. The companies are expected to work 
+toward the creation of an electrical power generation system 
+that demonstrates how hydrogen fuel cell-based power 
+systems could be used in aircrafts.
+
+•  GM took a strategic stake in Pure Watercraft, which specializes 
+
+in creating all-electric boating solutions. The collaboration 
+is expected to leverage Pure Watercraft’s innovative marine 
+propulsion technology and experience in the commercial 
+marine industry with GM’s battery technology, engineering, 
+supply chain and manufacturing capabilities.
+
+•  GM and Lockheed Martin entered into an agreement to develop 
+a Lunar Mobility Vehicle that will enable astronauts to explore 
+the lunar surface farther than ever before as part of NASA’s 
+Artemis program to send humans back to the moon. 
+
+•  In early 2022, GM announced plans to develop multiple 
+
+HYDROTEC fuel cell-based power generators that will provide 
+mobile DC fast charging capability for EVs without imposing on 
+the grid. These HYDROTEC fuel cell generators could ultimately 
+replace gas- and diesel-burning generators with zero-emissions 
+technology in a variety of places, as well as provide backup 
+power during power disruptions. 
+
+•  GM has an agreement to supply HYDROTEC fuel cell power 
+cubes to Navistar for use in its production model fuel cell 
+electric vehicle (FCEV)—the International® RH™ Series. The 
+FCEV is expected to receive energy from two GM HYDROTEC 
+fuel cell power cubes. 
+
+2021 SUSTAINABILITY SUPPLEMENT  29
+
+TCFD ResponseGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Managing Climate Change Risk 
+
+Disclose how the organization identifies, assesses and manages climate-related risks.
+
+a)  Describe the 
+
+organization’s 
+processes for 
+identifying and 
+assessing climate-
+related risks.
+
+b)  Describe the 
+
+organization’s 
+processes for 
+managing climate-
+related risks. 
+
+During 2021, we took steps to develop and refine our processes for 
+identifying and evaluating climate-related risks. In collaboration with a 
+third-party consultant, our corporate sustainability team convened and 
+hosted a series of workshops with leaders from across key functions of 
+the business, including public policy, GHG emissions experts, portfolio 
+planning, strategic risk management, supply chain, legal and others.  
+Through these workshops, we developed and validated an initial 
+risk identification process as well as helped to ensure a strong and 
+consistent understanding of the process for analyzing climate-related 
+risks for TCFD purposes. 
+
+Over the course of multiple days and sessions, we discussed dozens  
+of potential risks and opportunities to determine those most applicable 
+to our business, and then to qualitatively prioritize them. This 
+identification and prioritization exercise was performed by business 
+experts and leaders based on the experience and expertise of each. 
+The results were further validated by sharing and discussing with the 
+broader Office of Sustainability governance body, which includes 
+senior leaders working on sustainability across the business.
+
+Over the course of 2022, we will continue refining our risk 
+identification process and assessing our exposure to these risks by 
+partnering with a respected third party to employ their climate risk 
+modeling platform. We will quantitatively evaluate both physical and 
+transition risks under at least two to three different climate change 
+scenarios. We will be paying careful attention to the sensitivity of 
+the results to different assumptions and parameters. We also will be 
+exploring how to further integrate the results from this assessment 
+into strategic decision-making, as well as opportunities to internalize 
+some of these processes and tools to enable us to efficiently conduct 
+these assessments in the future.
+
+Please see our CDP Climate Change 2021 response (C2.2, C2.2a, 
+C2.3a) for more details.
+
+GM approaches relevant climate-related risks on a risk-by-risk basis. 
+The physical and transition risks identified earlier in this document  
+are relevant to different parts of the business. For example, the risk  
+of increased flooding and extreme weather events impacting the 
+production, logistics and procurement of products from suppliers is 
+managed by our GPSC organization. Securing consistent, resilient and 
+sustainable supply chains for key materials is a strategic priority for 
+GPSC. The organization maintains a “command center” that monitors 
+real-time conditions and data from multiple sources to identify such 
+events around the world and map them to our suppliers. In the event  
+of an anticipated or actual disruption, alerts are quickly sent to  
+the relevant teams internally, and contingency plans are created  
+and implemented.
+
+Raw material cost and supply variability are monitored closely 
+by purchasing teams and senior leaders from multiple parts of 
+the business. GM is prioritizing the development of a resilient and 
+sustainable supply chain of raw materials to manufacture our battery 
+chemistry, which requires cobalt, battery-grade nickel and lithium as 
+well as other minerals. We are proactively and aggressively pursuing 
+responsibly sourced materials at strategic tiers of the supply chain and 
+exploring where investment and partnerships can yield benefits and 
+untapped value that lowers costs of advanced technologies. Recently, 
+we have advanced several initiatives in North America related to 
+supplies of silicon carbide device solutions, rare earth minerals, lithium 
+and cathode active material.
+
+2021 SUSTAINABILITY SUPPLEMENT  30
+
+TCFD ResponseGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Managing Climate Change Risk 
+
+Disclose how the organization identifies, assesses and manages climate-related risks.
+
+b)  Describe the 
+
+organization’s 
+processes for 
+managing climate-
+related risks. (cont.) 
+
+As another example, to address the potential consumer demand risk 
+associated with EV charging infrastructure, GM is partnering with 
+EVgo to build out one of the nation’s largest EV charging networks. 
+Learn more about our EV infrastructure initiatives in the Reducing 
+Carbon Emissions section of our Sustainability Report.
+
+c)  Describe how 
+processes for 
+identifying, assessing 
+and managing climate-
+related risks are 
+integrated into the 
+organization’s overall 
+risk management.
+
+Please see our CDP Climate Change 2021 response (C1.2a, C2.2, 
+C2.3a) for more details.
+
+As part of our comprehensive climate change strategy, we identify and 
+monitor climate-related risks on a regular basis across our business. 
+The need for this constant process reflects the volatility of risk factors 
+and dynamics that can quickly change scenarios. By institutionalizing 
+climate change risks as part of our enterprise risk management 
+function, we believe GM is better positioned to anticipate, detect and, 
+ultimately, plan around these changes.
+
+The Role of the Board and Senior Management
+
+The Board has the overall responsibility for risk oversight, with a focus 
+on the most significant risks facing the company, including climate 
+change. While GM does not follow the precautionary approach, the 
+company does have a comprehensive risk management plan in place. 
+The Board implements its risk oversight function both as a whole and 
+through delegation to Board Committees. Each of the Board Committees 
+is responsible for oversight of risk management practices for categories 
+of risks relevant to its functions, with the GCRC being responsible for 
+risks related to the sustainability of our operations and products. 
+
+The process and terminology in place for assessing relative significance 
+of all identified risks, including climate-related risks such as increased 
+and more stringent GHG emission regulations, is as follows: 
+
+2021 SUSTAINABILITY SUPPLEMENT  31
+
+•  Risks and opportunities are assessed based on probability of 
+
+occurrence and impact to our financials, strategy and/or reputation.
+
+•  All enterprise risks have approved mitigation plans and are 
+
+reviewed regularly by the SLT and the Board. 
+
+•  Each SLT member is involved in an annual risk assessment 
+
+of their business unit to determine their top risks, which are 
+actively managed and regularly reviewed with the business 
+unit’s leadership team.
+
+For additional detail on the critical role the Board’s Committees and 
+senior management play in the execution of risk management, please 
+see the Ensuring Responsible Governance section of this report.
+
+Environmental Governance 
+
+GM reduces operational risks through sound environmental 
+management and by prioritizing compliance. We measure and manage 
+natural resources used at all manufacturing locations, engineering 
+centers, parts distribution centers and proving ground sites around  
+the world. 
+
+These facilities vary in function, geography, size and surrounding 
+natural environments, which gives rise to varying concerns such as 
+resource scarcity, different regulatory requirements and varying levels 
+of environmental quality. These GM-owned and -operated facilities 
+have location-specific operating plans that all function under GM’s 
+global Environmental Policy.
+
+TCFD ResponseGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Managing Climate Change Risk 
+
+Disclose how the organization identifies, assesses and manages climate-related risks.
+
+c)  Describe how 
+processes for 
+identifying, assessing 
+and managing climate-
+related risks are 
+integrated into the 
+organization’s overall 
+risk management. 
+(cont.)
+
+In addition to GM’s Environmental Policy, which provides guidelines to 
+help minimize the impact of our activities, products and services on the 
+environment, GM manages climate-related risks through: 
+
+•  Setting environmental commitments which encourage 
+
+environmental consciousness in both daily conduct and in  
+the planning of future products and programs. 
+
+•  Implementing an environmental management system at all 
+manufacturing facilities that GM owns and operates, and at  
+a majority of our nonmanufacturing sites around the world. 
+
+•  Complying with applicable environmental laws and  
+
+regulations globally. 
+
+•  Monitoring GM’s performance according to GM’s own 
+
+Environmental Performance Criteria, which are universal 
+corporate performance requirements designed to protect 
+human health and the environment in accordance with the  
+GM Environmental Policy.
+
+•  Providing strategic training and guidance to our environmental 
+
+professionals to help them keep pace with evolving 
+environmental issues and best practices that could have 
+application worldwide.
+
+•  Publicly disclosing climate-related environmental performance 
+through reporting frameworks such as GRI, SASB and CDP, in 
+addition to TCFD. These reporting processes not only help us 
+to manage and measure our progress, but also to engage with 
+both internal and external stakeholders around the world.
+
+Learn more in the Environmental Management discussion in the 
+Ensuring Responsible Governance section of this report. 
+
+2021 SUSTAINABILITY SUPPLEMENT  32
+
+Supply Chain Risks
+
+GM is working diligently to further integrate environmental 
+sustainability into all aspects of our supply chain functions. A cross-
+enterprise GPSC Sustainability Team is supporting this effort through 
+their focus on supply chain carbon footprint reduction—concentrating 
+on Scope 3 emissions to include:
+
+•  Emissions disclosure—Increasing visibility and supplier 
+
+engagement in carbon footprint reduction through tracking  
+of CDP engagement by select Tier I suppliers.
+
+•  Sustainable logistics—Increasing shipping container packing 
+
+density, route efficiency monitoring, supplier emissions 
+reduction and alternative fuels.
+
+In 2021, key activities included holding energy and water treasure 
+hunts and virtual symposia for suppliers. Energy treasure hunts 
+collectively provided recommendations to save 3,300 MWh of energy 
+and 6,600 cubic meters of water and to eliminate 3,158 MT of CO2 
+emissions. Also in 2021, GPSC increased participation among selected 
+suppliers in its annual CDP Supply Chain Initiative to over 98% of 
+surveyed suppliers. Learn more in Supporting Supplier Responsibility.
+
+Please see our CDP Climate Change 2021 response (C1.1b, C1.2a, C2.2, 
+C2.2a, C2.3a) for more details.
+
+TCFD ResponseGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Metrics And Targets 
+
+Disclose the metrics and targets used to assess and manage relevant climate-related risks and opportunities where such information is material.
+
+a)  Disclose the 
+
+•  CO2 Emissions Metrics (WTW CO2 Emissions for LDV)
+
+c)  Describe the 
+
+metrics used by the 
+organization to assess 
+climate-related risks 
+and opportunities in 
+line with its strategy 
+and risk management 
+process.
+
+•  SBTi for Scopes 1, 2 and 3
+
+•  Energy Efficiency KWH/Vehicle 
+
+•  Percentage Renewable Energy and Sources 
+
+•  Material CO2 emissions avoidance 
+
+For more information on metrics please visit our Data Center.
+
+Please see our CDP Climate Change 2021 response (C4.1a, C4.1b, 
+C4.2a, C4.2b, C5., C6., C7., C8., C9.) for more details. 
+
+targets used by  
+the organization to 
+manage climate-
+related risks and 
+opportunities and 
+performance  
+against targets.
+
+b)  Disclose Scope 1,  
+Scope 2 and, if 
+appropriate, Scope 3 
+GHG emissions and  
+the related risks.
+
+2021 Emissions Performance
+
+Emissions
+
+Scope 1 (2021)
+
+Scope 2 (2021)
+
+Scope 3 (2020)
+
+Metric Tons CO2e1
+
+1,252,9062
+
+2,150,6943 
+
+296,411,3273
+
+For a comprehensive summary of the environmental metrics related to 
+GM’s products and operations, please see our Data Center. For emissions 
+methodology, please see our CDP Climate Change 2021 response (C5., C6.) for 
+more details. 
+
+1.  Reporting is based on GHG Protocol, and the source of emission factors is regulatory or IPCC. 
+
+2. Calculation includes CO2, CH4 and N20.
+
+3. Calculation includes CO2, CH4, N20, HFCs, PFCs, SF6 and NF3.
+
+Sustainability Office leaders are charged with innovating and advocating 
+for the acceleration of our zero crashes, zero emissions and zero 
+congestion vision. In this role, they provide thought leadership to 
+the entire organization on sustainability-related matters, including 
+strategy. Leaders also ensure that sustainability is integrated into 
+business functions and processes, often convening cross-functional 
+experts to identify opportunities and solve challenges that can be 
+implemented at the operational level.
+
+To manage and measure progress over the next decade and beyond, 
+the SO team will work toward a new comprehensive set of enterprise 
+goals that includes:
+
+•  Achieving carbon neutrality in global products and operations  
+
+by 2040.
+
+•  Eliminating tailpipe emissions from new light-duty vehicles  
+
+by 2035.
+
+•  Sourcing 100% renewable electricity in the United States by 
+
+2025 and globally by 2035.
+
+•  Reducing operational energy intensity by 35% by 2030 against 
+
+a 2010 baseline.
+
+•  Enrolling 100% of our “targeted Tier I supplies” in GM’s Supplier 
+
+Sustainability Program.
+
+A key consideration in developing these enterprise-level goals has been 
+to ensure all impacts of the business—both operational and product—are 
+managed and measured to support our zero emissions future.
+
+Please see our CDP Climate Change 2021 response (C4.) for more details.
+
+2021 SUSTAINABILITY SUPPLEMENT  33
+
+TCFD ResponseGRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+United Nations Sustainable Development Goals (UN SDG)
+
+The 2030 Agenda for Sustainable Development, adopted by all United Nations Member States in 2015, provides a shared blueprint for peace and prosperity for people and the planet, now 
+and into the future. At its heart are the 17 Sustainable Development Goals (SDGs), which are an urgent call for action by all countries—developed and developing—in a global partnership. 
+Below you can find how GM has mapped their most material topics and strategic priorities to targets within these 17 goals.
+
+Goal
+
+GM Material Topic
+
+Most Relevant Targets
+
+Examples of Impact
+
+•  Human Rights
+•  Climate Risk & Resilience
+•  Supply Chain Labor Conditions
+
+1.2  By 2030, reduce at least by half the proportion of men, women and children of all ages living in 
+
+•  Developing Talented & Diverse People—Justice & 
+
+poverty in all its dimensions according to national definitions
+
+Inclusion Fund
+
+1.3  Implement nationally appropriate social protection systems and measures for all, including floors, and 
+
+by 2030 achieve substantial coverage of the poor and the vulnerable
+
+1.5  By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure 
+and vulnerability to climate-related extreme events and other economic, social and environmental 
+shocks and disasters
+
+• Upholding Human Rights
+•  Building More Inclusive Communities—An Inclusive 
+
+Social Impact Strategy, Climate Equity Fund:  
+Year 1 Highlights
+
+•  Supporting Supplier Responsibility—Supply Chain 
+
+Compliance
+
+• Social Impact Report
+
+•  Vehicle Safety
+•  Community Engagement
+
+3.6 By 2020, halve the number of global deaths and injuries from road traffic accidents
+3.9  By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, 
+
+•  Keeping People Safe—Developing Safe Products
+•  Developing Talented & Diverse People—Justice & 
+
+water and soil pollution and contamination
+
+Inclusion Fund  
+
+•  Building More Inclusive Communities—An Inclusive 
+
+Social Impact Strategy
+
+• Social Impact Report
+
+•  STEM Education
+•  Community Engagement
+
+4.3  By 2030, ensure equal access for all women and men to affordable and quality technical, vocational 
+
+and tertiary education, including university
+
+•  Building More Inclusive Communities—An Inclusive 
+Social Impact Strategy, Investing in Our Hometown
+
+4.4  By 2030, substantially increase the number of youth and adults who have relevant skills, including 
+
+• Social Impact Report
+
+technical and vocational skills, for employment, decent jobs and entrepreneurship
+
+• Diversity, Equity & Inclusion
+• Supplier Diversity
+
+5.1   End all forms of discrimination against all women and girls everywhere
+5.5  Ensure women’s full and effective participation and equal opportunities for leadership at all levels of 
+
+• Developing Talented & Diverse People
+•  Supporting Supplier Responsibility—Supporting 
+
+decision-making in political, economic and public life
+
+5.b  Enhance the use of enabling technology, in particular information and communications technology, to 
+
+promote the empowerment of women
+
+Diverse Suppliers
+• Social Impact Report
+
+2021 SUSTAINABILITY SUPPLEMENT  34
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+UN SDG
+
+Goal
+
+GM Material Topic
+
+Most Relevant Targets
+
+Examples of Impact
+
+•  Supply Chain  
+
+Environmental Impacts
+
+• Water Management 
+• Biodiversity & Ecosystem Health 
+
+6.3  By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of 
+hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially 
+increasing recycling and safe reuse globally
+
+•  Designing for the Environment— 
+
+Nature Conservancy Programs, Reducing  
+Water Intensity
+
+6.4  By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable 
+
+•  Supporting Supplier Responsibility—Integrating 
+
+withdrawals and supply of freshwater to address water scarcity and substantially reduce the number 
+of people suffering from water scarcity
+
+Sustainability Into Our Supply Chain
+
+• Climate Risk & Resilience 
+• Operational GHG
+•  Supply Chain  
+
+Environmental Impacts 
+
+• STEM Education 
+
+6.5  By 2030, implement integrated water resources management at all levels, including through 
+
+transboundary cooperation as appropriate
+
+6.6  By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, 
+
+rivers, aquifers and lakes
+
+7.2 By 2030, increase substantially the share of renewable energy in the global energy mix
+7.3 By 2030, double the global rate of improvement in energy efficiency
+7.a  By 2030, enhance international cooperation to facilitate access to clean energy research and 
+
+technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel 
+technology, and promote investment in energy infrastructure and clean energy technology
+
+•  Employee Recruitment, Retention 
+
+8.2  Achieve higher levels of economic productivity through diversification, technological upgrading and 
+
+& Development
+
+• Diversity, Equity & Inclusion
+• Community Development
+
+• Product GHG Emissions
+• EV Infrastructure 
+• Socially Responsible Innovation
+
+innovation, including through a focus on high-value-added and labor-intensive sectors
+
+8.4  Improve progressively, through 2030, global resource efficiency in consumption and production and 
+endeavour to decouple economic growth from environmental degradation, in accordance with the  
+10-year framework of programmes on sustainable consumption and production, with developed 
+countries taking the lead
+
+8.5  By 2030, achieve full and productive employment and decent work for all women and men, including 
+
+for young people and persons with disabilities, and equal pay for work of equal value
+
+9.4  By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased 
+
+resource-use efficiency and greater adoption of clean and environmentally sound technologies and 
+industrial processes, with all countries taking action in accordance with their respective capabilities
+
+9.5  Enhance scientific research, upgrade the technological capabilities of industrial sectors in all 
+countries, in particular developing countries, including, by 2030, encouraging innovation and 
+substantially increasing the number of research and development workers per 1 million people and 
+public and private research and development spending
+
+•  Introduction—Our Climate Action Framework for an 
+
+Equitable Transition
+
+•  Reducing Carbon Emissions— 
+
+Scope 1 and 2 Emissions
+
+•  Building More Inclusive Communities— 
+Climate Equity Fund: Year 1 Highlights 
+
+• Social Impact Report
+
+• Developing Talented & Diverse People
+•  Building More Inclusive Communities—An Inclusive 
+
+Social Impact Strategy
+
+• Social Impact Report
+
+• Reducing Carbon Emissions
+• Designing for the Environment
+• Social Impact Report
+
+2021 SUSTAINABILITY SUPPLEMENT  35
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+UN SDG
+
+Goal
+
+GM Material Topic
+
+Most Relevant Targets
+
+• Diversity, Equity & Inclusion
+• Supplier Diversity
+• Community Development
+
+• Product GHG Emissions 
+• EV Infrastructure 
+• Socially Responsible Innovation
+• Community Development
+
+10.2  By 2030, empower and promote the social, economic and political inclusion of all, irrespective of 
+
+age, sex, disability, race, ethnicity, origin, religion or economic or other status
+
+10.3  Ensure equal opportunity and reduce inequalities of outcome, including by eliminating 
+
+discriminatory laws, policies and practices and promoting appropriate legislation, policies and action 
+in this regard
+
+10.4  Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve  
+
+greater equality
+
+11.2  By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, 
+
+improving road safety, notably by expanding public transport, with special attention to the needs of 
+those in vulnerable situations, women, children, persons with disabilities and older persons
+
+11.3  By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and 
+
+sustainable human settlement planning and management in all countries
+
+11.6  By 2030, reduce the adverse per capita environmental impact of cities, including by paying special 
+
+attention to air quality and municipal and other waste management
+
+• Circular Economy 
+• Waste Management
+
+12.2 By 2030, achieve the sustainable management and efficient use of natural resources
+12.4  By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their 
+life cycle, in accordance with agreed international frameworks, and significantly reduce their release to 
+air, water and soil in order to minimize their adverse impacts on human health and the environment
+12.5 By 2030, substantially reduce waste generation through prevention, reduction, recycling and reuse
+
+• Climate Risk & Resilience
+
+13.2 Integrate climate change measures into national policies, strategies and planning
+
+Examples of Impact
+
+• Developing Talented & Diverse People
+• Building More Inclusive Communities
+• Social Impact Report
+
+• Advancing Transformative Technologies
+• Reducing Carbon Emissions
+•  Designing for the Environment—Pursuing  
+
+Zero Waste
+
+•  Building More Inclusive Communities—An Inclusive 
+
+Social Impact Strategy, Funding to Support an 
+Equitable Transition, Climate Equity Fund:  
+Year 1 Highlights
+
+• Social Impact Report
+
+• Designing for the Environment
+
+•  Introduction—Sustainability Strategy, Our Climate 
+
+Action Framework for an Equitable Transition
+
+•  Sustainability Governance—Environmental 
+
+Management & Compliance
+• Reducing Carbon Emissions
+•  Building More Inclusive Communities—Climate 
+
+Equity Fund: Year 1 Highlights
+
+• TCFD Response
+
+2021 SUSTAINABILITY SUPPLEMENT  36
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+UN SDG
+
+Goal
+
+GM Material Topic
+
+Most Relevant Targets
+
+Examples of Impact
+
+• Biodiversity & Ecosystem Health
+•  Supply Chain  
+
+Environmental Impacts
+
+• Water Management
+
+15.1  By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater 
+ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with 
+obligations under international agreements
+
+•  Designing for the Environment—Sourcing 
+
+Sustainable Materials, Reducing Water Intensity
+
+•  Supporting Supplier Responsibility—Sourcing 
+
+15.5  Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of 
+
+Strategic Raw Materials
+
+biodiversity and, by 2020, protect and prevent the extinction of threatened species
+
+• Business Ethics
+
+16.5 Substantially reduce corruption and bribery in all their forms
+16.6 Develop effective, accountable and transparent institutions at all levels
+
+• Product GHG Emissions 
+• EV Infrastructure 
+• Socially Responsible Innovation
+
+17.6  Enhance North-South, South-South and triangular regional and international cooperation on and access 
+
+to science, technology and innovation and enhance knowledge sharing on mutually agreed terms, 
+including through improved coordination among existing mechanisms in particular at the United Nations 
+level, and through a global technology facilitation mechanism.
+
+17.7  Promote the development, transfer, dissemination and diffusion of environmentally sound technologies 
+to developing countries on favourable terms, including on concessional and preferential terms, as 
+mutually agreed.
+
+• Upholding Human Rights
+• Sustainability Governance—Ethics
+•  Supporting Supplier Responsibility—Supply  
+
+Chain Compliance
+
+• Reducing Carbon Emissions
+• Advancing Transformative Technologies 
+
+2021 SUSTAINABILITY SUPPLEMENT  37
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+The United Nations Global Compact (UNGC)
+
+UNGC Principles
+
+Human Rights
+
+1. Support and respect protection of internationally proclaimed human rights
+
+2. Make sure business is not complicit in human rights abuses
+
+Labor Standards
+
+3. Uphold freedom of association and the effective recognition of the right to collective bargaining
+
+4. Support elimination of all forms of forced and compulsory labor
+
+5. Support effective abolition of child labor
+
+6. Eliminate discrimination in employment and occupation
+
+2021 SUSTAINABILITY SUPPLEMENT  38
+
+Reference
+
+• Upholding Human Rights 
+• Supporting Supplier Responsibility 
+• Ensuring Responsible Governance—Ethics 
+• Code of Conduct 
+• Supplier Code of Conduct 
+• Conflict Minerals Policy 
+• Human Rights Policy
+
+• Upholding Human Rights 
+• Supporting Supplier Responsibility 
+• Ensuring Responsible Governance—Ethics  
+• Code of Conduct 
+• Supplier Code of Conduct 
+• Conflict Minerals Policy 
+• Human Rights Policy
+
+• Developing Talented & Diverse People—Labor Relations 
+• Upholding Human Rights 
+• Ensuring Responsible Governance—Ethics  
+• Code of Conduct 
+• Supplier Code of Conduct
+
+• Upholding Human Rights 
+• Supporting Supplier Responsibility—Supply Chain Compliance 
+• Ensuring Responsible Governance—Ethics  
+• Supplier Code of Conduct 
+• Conflict Minerals Policy 
+• Human Rights Policy
+
+• Upholding Human Rights 
+• Supporting Supplier Responsibility—Supply Chain Compliance, Sourcing Strategic Raw Materials  
+• Ensuring Responsible Governance—Ethics  
+• Code of Conduct 
+• Supplier Code of Conduct 
+• Conflict Minerals Policy 
+• Human Rights Policy
+
+• Developing Talented & Diverse People  
+• Upholding Human Rights 
+• Supporting Supplier Responsibility  
+• Ensuring Responsible Governance—Ethics    
+• Code of Conduct 
+• Supplier Code of Conduct 
+• Conflict Minerals Policy 
+• Human Rights Policy
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+UNGC
+
+UNGC Principles
+
+Environment
+
+7. Support a precautionary approach to environmental challenges
+
+8. Undertake initiatives to promote greater environmental responsibility
+
+9. Encourage the development and diffusion of environmentally friendly technologies
+
+Anti-Corruption
+
+10. Work against all forms of corruption, including extortion and bribery
+
+Reference
+
+• Reducing Carbon Emissions 
+• Designing for the Environment 
+• Ensuring Responsible Governance—Environmental Management & Compliance 
+• Global Environmental Policy
+
+• Reducing Carbon Emissions 
+• Designing for the Environment 
+• Advancing Transformative Technologies 
+• Supporting Supplier Responsibility—Integrating Sustainability into Our Supply Chain 
+• Ensuring Responsible Governance—Environmental Management & Compliance 
+• Global Environmental Policy
+
+• Reducing Carbon Emissions 
+• Designing for the Environment 
+• Advancing Transformative Technologies
+
+• Upholding Human Rights 
+• Supporting Supplier Responsibility—Supply Chain Compliance 
+• Ensuring Responsible Governance—Ethics  
+• Code of Conduct 
+• Supplier Code of Conduct
+
+2021 SUSTAINABILITY SUPPLEMENT  39
+
+Data Center
+Environmental
+
+Emissions
+
+Direct (Scope 1) GHG Emissions
+
+  Direct (Scope 1) GHG Emissions (gross direct) (metric tons CO2e)1,2
+
+Indirect (Scope 2) GHG Emissions
+
+  Gross Location-Based Indirect Emissions (metric tons CO2e)1
+
+  Gross Market-Based Indirect Emissions (metric tons CO2e)1,3
+
+Other Indirect (Scope 3) GHG Emissions 
+  Other Indirect (Scope 3) GHG Emissions (gross indirect) (metric tons CO2e)4
+
+Other
+
+  Reduction of GHG Emissions
+  NOX (metric tons) (nitrogen oxides emissions)5,6
+  SOX (metric tons) (sulfur oxides emissions)6
+  VOC (metric tons) (VOC emissions)6
+  # of Vehicles Represented with Carbon Avoidance8
+
+Global Volume (thousands of units)
+
+Total Number of Vehicles Manufactured 
+
+Total Number of Vehicles Sold
+
+Sales by Region (thousands of units)
+
+Sales by Region (North America)
+
+Sales by Region (South America)
+
+Sales by Region (Asia Pacific, Middle East, Africa)
+
+Sales by Region (Europe)
+
+U.S. Sales as a Percentage of Industry
+
+U.S. Sales as a Percentage of Industry—Trucks
+
+U.S. Sales as a Percentage of Industry—Cars
+
+U.S. Sales as a Percentage of Industry—Crossovers
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+2020
+
+2021
+
+ 1,589,700 
+
+ 1,214,124 
+
+ 1,252,906
+
+ 4,381,970 
+
+ 3,721,875 
+
+ 3,087,816 
+
+ 2,599,822 
+
+ 2,881,767
+
+ 2,150,694
+
+ 249,384,317 
+
+ 296,411,327
+
+Not Reported
+
+ Not Reported 
+
+ 11,528 
+
+ 30 
+
+ 154,9667
+14,9307
+
+ 26 
+
+Not Reported
+
+Not Reported
+
+Not Reported
+
+ 2,300,000 
+
+ 151,708 
+
+ 966
+
+ 43
+
+ 12,443
+
+ 2,128,906 
+
+ 7,332 
+
+ 7,718 
+
+3,367
+
+669
+
+3,678
+
+4
+
+46%
+
+13%
+
+40%
+
+ 6,131 
+
+ 6,826 
+
+ 2,924 
+
+ 470 
+
+ 3,431 
+
+ 1 
+
+49%
+
+9%
+
+41%
+
+ 5,585 
+
+ 6,295 
+
+ 2,574 
+
+ 394 
+
+ 3,327 
+
+ 1 
+
+55%
+
+6%
+
+39%
+
+  1.   Baseline year 2018, and includes all facilities under GM operational control. Calculation includes CO2, CH4 and N20. Reporting is based on GHG Protocol, and the source of emission factors is regulatory or IPCC Good Practice Guidelines. 
+ 2.  GM’s Scope 1 emissions are generated from use of fossil fuels, mostly natural gas for process and building heat and are verified by an independent third party.
+ 3.  GM’s Scope 2 emissions are mostly from electricity used in our operations for process and building with some purchased steam and delivered heat by third parties. We had an independent third party verify location- and market-based Scope 2 GHGs.
+ 4.  Scope 3 GHG emissions is a global calculation. 2021 data will be available in summer 2022.
+ 5.  Calculated using GHG Protocol on the basis of year-over-year reduction in 2021 from 2020 and includes all GHGs in Scope 1 and 2 emissions. We use internal project tracking tools to obtain this data.
+ 6.  Emissions from on-site stationary sources within reporting footprint boundaries, based on AP 42 Factors or site-specific measured emissions factors.
+  7.  Reported value has been updated from the value published in GM 2020 Sustainability Report.
+ 8.  U.S. light-duty only for model year 2021.
+
+2021 SUSTAINABILITY SUPPLEMENT  40
+
+Data Center
+Environmental
+
+Global EV Portfolio
+
+Global Models with Some Form of Electrification1
+
+Percent Sales Share of All-Electric Models
+
+Percent Share of Plug-In Hybrids and Hybrids
+
+Global Electric Portfolio2
+
+Global Sales Volume of Alternative Drive Train Vehicles
+
+ZEV
+
+Hybrid Vehicles
+
+Plug-in Hybrid
+
+Advanced Powertrain Technologies (Percent of Total U.S. Volume)
+
+Stop-Start Technology
+
+Aero-Shutter
+
+Engine/Transmission Management
+
+High Efficiency Alternators (72%+)
+
+Downsized-Turbo Engines
+
+Advanced Transmissions
+
+Sales-Weighted Average Passenger Fleet Fuel Economy by Region (gCO2/km)4,5
+
+USA
+
+China
+
+Brazil
+
+Total
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+2020
+
+2021
+
+ 13 
+
+87%
+
+13%
+
+ 18 
+
+99%
+
+1%
+
+ 16 
+
+97%
+
+3%
+
+85,8423
+
+202,6233
+
+ 493,343
+
+ 74,998 
+
+ 3,613 
+
+ 7,231 
+
+ 200,268 
+
+ 135 
+
+ 2,220 
+
+ 479,963
+
+ 15 
+
+ 13,365 
+
+70%
+
+84%
+
+Not Reported
+
+Not Reported
+
+Not Reported
+
+Not Reported
+
+Not Reported
+
+Not Reported
+
+43%
+
+55%
+
+293 
+
+208
+
+ 198 
+
+243 
+
+35%
+
+72%
+
+280
+
+206
+
+ 195
+
+240 
+
+74%
+
+83%
+
+56%
+
+88%
+
+32%
+
+82%
+
+Not Reported 
+
+ Not Reported
+
+ Not Reported
+
+Not Reported 
+
+  1.  Excluding discontinued models.
+ 2.  Global sales volume for total EVs and hybrids.
+ 3.  Reported value has been updated from the value published in GM 2020 Sustainability Report.
+ 4.  Weighted Average Passenger Fleet Fuel Economy reflects 2020 values; 2021 data will be available in summer 2022.
+ 5.   Data has been restated to align with SBTi for Scope 3, Use of Sold Products. The SBTi standards require well-to-wheel (from fuel production to vehicle driving) for vehicle CO2 intensity (gCO2e/km) calculations. We have revised our numbers for 2018 
+
+through 2020 for this requirement.
+
+2021 SUSTAINABILITY SUPPLEMENT  41
+
+Data Center
+Environmental
+
+Energy
+
+Global Energy Consumption Within the Organization (in GJ)
+
+  Total Fuel Consumption from Nonrenewable Sources (including heating)
+
+  Total Electricity Consumption (including cooling)
+
+  Steam Consumption
+
+  Total Fuel Consumption from Renewable Sources
+
+  Total Energy Consumption
+
+  Heating Consumption
+
+  Cooling Consumption
+
+  Electricity Sold
+
+  Heating Sold
+
+  Cooling Sold
+
+Energy Consumption Outside of the Organization (in GJ)2,3
+
+Energy Intensity (MWh/vehicle)4
+
+Global Reduction of Energy Consumption (in GJ)
+
+Reduction in Energy Requirements of Products and Services (in GJ)
+
+Percent of Global Electricity Needs Sourced from Renewable Energy
+
+Global Renewable Energy (MWh)
+
+Renewable Energy as a % of U.S. Electricity Use5
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+2020
+
+2021
+
+ 27,112,428 
+
+ 21,029,706 
+
+ 1,664,478 
+
+ 879,6131
+
+ 21,637,064 
+
+21,749,775
+
+ 1,113,784 
+
+ 860,141 
+
+ 21,048,701 
+
+ 21,489,324 
+
+ 938,548 
+
+ 1,713,704 
+
+ 56,342,466 
+
+ 45,407,476 
+
+ 45,190,276 
+
+ N/A 
+
+ N/A 
+
+ N/A 
+
+ N/A 
+
+ N/A 
+
+ N/A 
+
+ N/A 
+
+ N/A 
+
+ N/A 
+
+ N/A 
+
+ N/A 
+
+ N/A 
+
+ N/A 
+
+ N/A 
+
+ N/A 
+
+ 601,235,148 
+
+ 489,576,984 
+
+ Not Reported 
+
+ 2.13 
+
+ 2.06 
+
+ Not Reported 
+
+Not Reported
+
+ Not Reported 
+
+Not Reported
+
+ 2.25 
+
+1,970,953
+
+ 11,157,258
+
+Not Reported 
+
+Not Reported 
+
+23%1
+
+25%
+
+ 1,398,0471
+
+1,499,494
+
+Not Reported
+
+Not Reported
+
+47%
+
+  1.  Reported value has been updated from the value published in GM 2020 Sustainability Report.
+ 2.  Reported value has been updated from the value published in GM 2020 Sustainability Report due to a change in calculation methodology.
+ 3.  2021 not reported as it will not be available until summer 2022.
+ 4.  Based on the production of 5,585,048 global vehicles and includes all of our energy sources. The boundary for this is within the scope of our organization.
+ 5.  2035 goal of 100%: We are making significant progress toward our goal through physical and virtual power purchase agreements and on-site renewable energy projects, such as solar arrays and landfill gas projects.
+
+2021 SUSTAINABILITY SUPPLEMENT  42
+
+Data Center
+Environmental
+
+Water1
+
+Total Water Withdrawal by Source (megaliters)
+
+  Surface Water
+
+  Groundwater
+
+  Seawater
+
+  Produced Water
+
+  Third-Party Water
+
+Total Water Withdrawal from All Areas with Water Stress, by Source (megaliters)
+
+  Surface Water
+
+  Groundwater
+
+  Seawater
+
+  Produced Water
+
+  Third-Party Water
+
+Total Water Withdrawal by Source
+
+  Freshwater (<1,000 mg/L total dissolved solids)
+
+  Other Water (>1,000 mg/L total dissolved solids)
+
+Water Discharge by Destination (megaliters)
+
+  Surface Water
+
+  Groundwater
+
+  Seawater
+
+  Third-Party Water
+
+Total Water Discharge, by Category (megaliters)
+
+  Freshwater (<1,000 mg/L total dissolved solids)
+
+  Other Water (>1,000 mg/L total dissolved solids)
+
+Total Water Discharge to All Areas with Water Stress, by Category2
+
+  Total
+
+Water Discharge by Quality and Destination (million m3)
+
+  Direct Discharge (to surface water body)
+
+Indirect Discharge (to treatment facility)
+
+  Discharge to Groundwater
+
+  1.  Water data, other than municipal and well water, is collected from global facilities.
+ 2.  Represents metered wastewater discharge from all manufacturing facilities and some nonmanufacturing facilities.
+
+2021 SUSTAINABILITY SUPPLEMENT  43
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+2020
+
+2021
+
+ 31,255 
+
+•
+
+ 3,186 
+
+•
+
+•
+
+ 25,554 
+
+•
+
+ 2,572 
+
+•
+
+•
+
+ 25,340
+
+•
+
+ 2,649 
+
+•
+
+•
+
+ Not Reported 
+
+ 22,982 
+
+ 22,691 
+
+•
+
+ 1,515 
+
+•
+
+•
+
+ 1,855 
+
+ 28,069 
+
+ 3,186 
+
+ 12,016 
+
+ 139 
+
+•
+
+ 15,468 
+
+ 26,964 
+
+ 114 
+
+•
+
+ 875 
+
+•
+
+•
+
+ 1,083 
+
+ 22,982 
+
+ 2,572 
+
+ 11,410 
+
+ 97 
+
+•
+
+ 13,550
+
+ 24,960 
+
+ 97 
+
+•
+
+ 1,334 
+
+•
+
+•
+
+ 1,317 
+
+ 22,691 
+
+ 2,649 
+
+ 2,682 
+
+ 317 
+
+•
+
+ 13,047 
+
+ 16,046 
+
+•
+
+•
+
+ 1,377 
+
+ 1,178 
+
+ 12.02 
+
+ 15.47 
+
+ 0.14 
+
+ 11.41 
+
+ 13.55 
+
+ 0.097 
+
+ 2.68 
+
+ 13.05 
+
+ 0.32 
+
+ 
+Data Center
+Environmental
+
+Water (cont.)1
+
+Total Water Consumption from All Areas (megaliters)2
+
+Total Water Consumption from All Areas with Water Stress (megaliters)1
+
+Municipal
+
+Well Water
+
+Water Intensity (M3/vehicle)3
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+ 9,376 
+
+ 1,011 
+
+2020
+
+ 7,666 
+
+ 588 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+4.26
+
+4.17
+
+2021
+
+ 7,602
+
+ 795
+
+90%
+
+10%
+
+4.54
+
+  1.  Water data, other than municipal and well water, is collected from global facilities.
+ 2.  Engineering estimate from site water balance for evaporation in Assembly plants = 30%. Using standard calculation: Withdrawal—Discharge is inaccurate due to ground water infiltration at plant discharge.
+ 3.   GM measures and monitors 100% of our major facilities’ water withdrawals by source using either invoices or meter data on a monthly basis. It is tracked in a global utility database by source, and the data is verified by an independent third party annually. Some small facilities 
+(offices) have water service included in their lease rate, and we do not track the water withdrawal. Our estimate is that this represents less than 1% of our water withdrawal by source, so we measure and monitor 99% of water withdrawal by source. Intensity is calculated by 
+withdrawal/vehicle production (M-Schedule where we monitor water use).
+
+2021 SUSTAINABILITY SUPPLEMENT  44
+
+Data Center
+Environmental
+
+Waste1
+
+Total Waste Generated
+
+  Metals & Metal Scrap
+
+  Foundry
+
+  Corrugated & Cardboard
+
+  Wood
+
+  Trash, Nonhazardous from Plant
+
+  Grinding Swarf
+
+  Oils & Greases, Lubricating
+
+  Sludges, Other
+
+  Sludges, Paint
+
+  Painting & Coating Wastes
+
+  Other
+
+Total Waste Diverted from Disposal
+
+  Metals & Metal Scrap
+
+  Foundry
+
+  Corrugated & Cardboard
+
+  Wood
+
+  Trash, Nonhazardous from Plant
+
+  Grinding Swarf
+
+  Oils & Greases, Lubricating
+
+  Sludges, Other
+
+  Sludges, Paint
+
+  Painting & Coating Wastes
+
+  Other
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+2020
+
+2021
+
+Not Reported
+
+Not Reported
+
+1,464,097
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+Not Reported
+
+Not Reported
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ 914,932 
+
+ 198,382 
+
+ 67,360 
+
+ 70,481 
+
+ 47,690 
+
+ 28,401 
+
+ 22,129 
+
+ 19,870 
+
+ 9,780 
+
+ 14,747 
+
+ 70,326 
+
+ 1,211,064
+
+ 914,864 
+
+ 49,510 
+
+ 67,260 
+
+ 64,442 
+
+ 654 
+
+ 28,290 
+
+ 21,002 
+
+ 3,796 
+
+ 93 
+
+ 10,184 
+
+ 50,967 
+
+  1.  Waste generated from global facilities within the Zero Waste Program. This does not include construction, demolition or remediation waste.  
+
+2021 SUSTAINABILITY SUPPLEMENT  45
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Data Center
+Environmental
+
+Waste (cont.)1
+
+Total Waste Directed to Disposal
+
+  Metals & Metal Scrap
+
+  Foundry
+
+  Corrugated & Cardboard
+
+  Wood
+
+  Trash, Nonhazardous from Plant
+
+  Grinding Swarf
+
+  Oils & Greases, Lubricating
+
+  Sludges, Other
+
+  Sludges, Paint
+
+  Painting & Coating Wastes
+
+  Other
+
+Hazardous Waste by Type and Disposal Method (metric tons to nearest whole number)
+
+Hazardous Total
+
+  Reuse
+
+  Recycling
+
+  Composting
+
+  Recovery, Including Energy Recovery
+
+Incinerating (mass burn)
+
+  Landfill
+
+  Other
+
+Nonhazardous Waste by Type and Disposal Method (metric tons to nearest whole number)
+
+Nonhazardous Total
+
+  Reuse
+
+  Recycling
+
+  Composting
+
+  Recovery, Including Energy Recovery
+
+Incinerating (mass burn)
+
+  Landfill
+
+  Other
+
+  1.  Waste generated from global facilities within the Zero Waste Program. This does not include construction, demolition or remediation waste. 
+
+2021 SUSTAINABILITY SUPPLEMENT  46
+
+2019
+
+2020
+
+2021
+
+Not Reported
+
+Not Reported
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ 45,131 
+
+ 912 
+
+ 9,853 
+
+ 22 
+
+ 17,401 
+
+ 10,894 
+
+ 1,909 
+
+ 4,140 
+
+ 1,364,710 
+
+ 50,995 
+
+ 1,109,345 
+
+4,064 
+
+ 29,039 
+
+ 5,727 
+
+ 157,909 
+
+ 7,631 
+
+ 253,033
+
+ 67 
+
+ 148,872 
+
+ 99 
+
+ 6,039 
+
+ 47,035 
+
+ 111 
+
+ 1,127 
+
+ 16,074 
+
+ 9,687 
+
+ 4,563 
+
+ 19,358 
+
+ 42,080
+
+ 716 
+
+ 8,391 
+
+•
+
+ 17,116 
+
+ 10,534 
+
+ 1,606 
+
+ 3,718 
+
+ 1,422,017
+
+ 55,699 
+
+ 1,123,928 
+
+4,281
+
+ 32,265 
+
+ 4,445 
+
+ 187,069 
+
+ 14,330 
+
+ 
+ 
+Data Center
+Environmental
+
+Waste (cont.)1
+
+Total Waste by Type and Disposal Method (metric tons to nearest whole number)
+
+Total Waste
+
+  Reuse
+
+  Recycling
+
+  Composting
+
+  Recovery, Including Energy Recovery
+
+Incinerating (mass burn)
+
+  Landfill
+
+  Other (includes microwaving, enclaves, plasma processing and other treatments)
+
+Waste Diversion Rate2
+
+Average Recyclability of Vehicles3
+
+Postconsumer Recycled Content (pounds)
+
+  Window Support Brackets (nylon)
+
+  Wheelhouse Liners (recycled PET plastic made into fiber)4
+
+  Fans and Fan Shrouds (pounds of water bottles recycled)
+
+  Wiper Shield
+
+  HVAC Ducts
+
+  Underbody Shields
+
+  Tow Hook Covers
+
+  Hood Seal
+
+  Generator Cover
+
+  Center Console
+
+Significant Spills5
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+2020
+
+2021
+
+ 1,770,791 
+
+ 66,922 
+
+ 1,355,345 
+
+ 5,779 
+
+ 71,119 
+
+ 16,802 
+
+ 231,986 
+
+ 22,578 
+
+ 1,409,841 
+
+ 51,907 
+
+ 1,119,199 
+
+ 4,086 
+
+ 46,440 
+
+ 16,621 
+
+ 159,818 
+
+ 11,771 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+85%
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ 1,464,097
+
+ 56,415 
+
+ 1,132,319 
+
+ 4,281 
+
+ 49,380 
+
+ 14,978 
+
+ 188,674 
+
+ 18,048 
+
+86.4% 
+
+85%
+
+ 1,300,000 
+
+ 11,000,000 
+
+ 165,375 
+
+ 89,000 
+
+ Not Reported 
+
+ Not Reported 
+
+ 2,000,000 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ Not Reported 
+
+ 644,341 
+
+ 28,500 
+
+ 6,000 
+
+ 7,000 
+
+ Not Reported 
+
+ Not Reported 
+
+1,800,000
+
+ Not Reported 
+
+ •   
+
+ 1 
+
+  1.  Waste generated from global facilities within the Zero Waste Program. This does not include construction, demolition or remediation waste.  
+ 2.   GM Zero Waste represents the percentage of waste diverted from landfill, incinerators and energy recovery compared to a three-year average (2017–2019) baseline of total operational waste generated.
+ 3.   We enable, by mass, more than 85% reuse or recycling of our current vehicles at the end of their life. Uses ISO 22628 (Road Vehicles—Recyclability and Recoverability—Calculation Method).
+ 4.   Pounds of water bottles recycled.
+ 5.  GM defines significant spill as a spill that impacts environmental reserves.
+
+2021 SUSTAINABILITY SUPPLEMENT  47
+
+ 
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Data Center
+Safety
+
+Global Workplace Safety
+
+Lost Workday Case Rate (GM employees)1, 2
+
+Lost Workday Case Rate (Contractors)1, 2
+
+Number of Work-Related Incidents Resulting in Death (GM employees/contractors)1,4
+
+Recordable Incident Rate5,6
+
+Occupational Illness Frequency Rate
+
+  Employees (number/million work hours)
+
+  Data coverage (% of employees)
+
+Vehicle Safety
+
+Vehicle Volume for GM Safety & Noncompliance Recalls: Global (vehicle volume in millions)
+
+Vehicle Volume for GM Safety & Noncompliance Recalls: North America (vehicle volume in millions)
+
+Number of Recalls (with fewer than 10,000 vehicles)
+
+Number of GM Safety & Noncompliance Recalls: Global
+
+Number of GM Safety & Noncompliance Recalls: North America
+
+Number of Speak Up For Safety Submissions Since Program Inception
+
+Percentage of Vehicle Models Rated by NCAP Programs With an Overall 5-Star Safety Rating, by Region
+
+  U.S.
+
+  China
+
+  South Korea
+
+  Latin America
+
+  Australasia
+
+  ASEAN
+
+2019
+
+ 2.85 
+
+ 0.30 
+
+•
+
+ 6.20 
+
+ 0.84 
+
+98%
+
+ 8.58 
+
+ 7.34 
+
+ 15 
+
+ 44 
+
+ 28 
+
+2020
+
+ 1.40 
+
+ 0.253
+
+ 1 
+
+ 6.45 
+
+1.877
+
+98%
+
+ 1.80
+
+ 1.60
+
+ 30 
+
+ 57 
+
+ 43 
+
+2021
+
+ 2.28
+
+ 0.33
+
+ 2
+
+ 6.84
+
+2.15
+
+98%
+
+ 9.67 
+
+ 9.30 
+
+ 34 
+
+ 60 
+
+ 47 
+
+ 29,562 
+
+ 32,917 
+
+35,842
+
+51%
+
+83%
+
+67%
+
+Not Reported
+
+100%
+
+50%
+
+56%
+
+88%
+
+71%
+
+31%
+
+100%
+
+50%
+
+54%
+
+100%
+
+83%
+
+36%
+
+Not Reported
+
+Not Reported
+
+ Number of lost workday cases due to injuries and illnesses per 1,000,000 work hours. 
+
+  1. 
+  2.  This KPI focuses on those injuries and illnesses that resulted in employees and contractors losing days from work. This helps us identify areas and processes where we should center our focus to improve our safety controls.
+  3.  Reported value has been updated from the value published in GM 2020 Sustainability Report due to a transposing error.
+  4.  A work-related incident resulting in death. Our target is zero, so that every person who enters a GM facility leaves safe and unharmed.
+  5.  Number of incidents that resulted in injuries or illnesses that required medical treatment beyond simple first aid treatment per 1,000,000 work hours. 
+  6.  This metric helps to identify hazards, eliminate risks and drive reporting for all incidents so that we can identify and assess areas for improvement.
+  7.  Reported value has been updated from the value published in GM 2020 Sustainability Report.
+
+2021 SUSTAINABILITY SUPPLEMENT  48
+
+Data Center
+Workforce 
+
+Global Employees by Region
+
+Total
+
+North America
+
+South America
+
+International
+
+Global Workforce by Type and Gender1
+
+Regular Employees
+
+Total
+
+Male
+
+Female
+
+Temporary
+
+Total
+
+Male
+
+Female
+
+Managers
+
+Total
+
+Male
+
+Female
+
+Non-Managers
+
+Total
+
+Male
+
+Female
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+•
+
+•
+
+•
+
+•
+
+100.0%
+
+78.2%
+
+21.8%
+
+100.0%
+
+62.4%
+
+37.6%
+
+100.0%
+
+79.5%
+
+20.5%
+
+100.0%
+
+77.5%
+
+22.5%
+
+              2020
+
+            2021
+
+Number
+
+Percentage
+
+Number
+
+Percentage
+
+ 143,684 
+
+ 109,496 
+
+ 16,728 
+
+ 17,460 
+
+ 138,469 
+
+ 107,622 
+
+ 30,847 
+
+ 5,215 
+
+ 3,031 
+
+ 2,184 
+
+ 9,425 
+
+ 7,464 
+
+ 1,961 
+
+ 134,259 
+
+ 103,189 
+
+ 31,070 
+
+100.0%
+
+ 146,059 
+
+100.0%
+
+76.2%
+
+11.6%
+
+12.2%
+
+100.0%
+
+77.7%
+
+22.3%
+
+100.0%
+
+58.1%
+
+41.9%
+
+100.0%
+
+79.2%
+
+20.8%
+
+100.0%
+
+76.9%
+
+23.1%
+
+ 112,717 
+
+ 17,451 
+
+ 15,891 
+
+ 142,580 
+
+ 109,327 
+
+ 33,253 
+
+ 3,477 
+
+ 2,093 
+
+ 1,384 
+
+ 12,696 
+
+ 9,818 
+
+ 2,878 
+
+ 133,361 
+
+ 101,602 
+
+ 31,759 
+
+77.2%
+
+11.9%
+
+10.9%
+
+100.0%
+
+76.7%
+
+23.3%
+
+100.0%
+
+60.2%
+
+39.8%
+
+100.0%
+
+77.3%
+
+22.7%
+
+100.0%
+
+76.2%
+
+23.8%
+
+  1.  Gender, race and ethnicity information is self-reported and may not fully reflect the actual number of employees within each category, therefore totals may not equal to the sums of the categories.
+
+2021 SUSTAINABILITY SUPPLEMENT  49
+
+ 
+Data Center
+Workforce 
+
+Global Employees by Employment Type and Gender1
+
+Full-time
+
+Total
+
+Male
+
+Female
+
+Part-time
+
+Total
+
+Male
+
+Female
+
+U.S. Workforce by Hourly/Salary Employees
+
+Total
+
+Hourly
+
+Salary
+
+U.S. Hourly by Gender1
+
+Total
+
+Male
+
+Female
+
+Global Technology Positions by Gender1, 2
+
+Total
+
+Male
+
+Female
+
+Global Promotions by Gender1, 3
+
+Total
+
+Male
+
+Female
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+100.0%
+
+77.7%
+
+22.3%
+
+100.0%
+
+10.2%
+
+89.8%
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+100.0%
+
+81.8%
+
+18.2%
+
+100.0%
+
+•
+
+•
+
+              2020
+
+            2021
+
+Number
+
+Percentage
+
+Number
+
+Percentage
+
+ 141,908 
+
+ 109,780 
+
+ 32,128 
+
+ 1,776 
+
+ 873 
+
+ 903 
+
+ 84,851 
+
+ 45,803 
+
+ 39,048 
+
+ 45,803 
+
+ 32,456 
+
+ 13,347 
+
+ 33,553 
+
+ 27,333 
+
+ 6,220 
+
+ 6,769 
+
+ 4,922 
+
+ 1,847 
+
+100.0%
+
+77.4%
+
+22.6%
+
+100.0%
+
+49.2%
+
+50.8%
+
+100.0%
+
+54.0%
+
+46.0%
+
+100.0%
+
+70.9%
+
+29.1%
+
+100%
+
+81.5%
+
+18.5%
+
+100%
+
+72.7%
+
+27.3%
+
+ 143,914 
+
+ 110,260 
+
+ 33,654 
+
+ 2,143 
+
+ 1,160 
+
+ 983 
+
+ 88,435 
+
+ 44,405 
+
+ 44,030 
+
+ 44,405 
+
+ 31,517 
+
+ 12,888 
+
+ 37,793 
+
+ 30,486 
+
+ 7,307 
+
+ 10,229 
+
+ 7,195 
+
+ 3,034 
+
+100.0%
+
+76.6%
+
+23.4%
+
+100.0%
+
+54.1%
+
+45.9%
+
+100.0%
+
+50.2%
+
+49.8%
+
+100.0%
+
+71.0%
+
+29.0%
+
+100.0%
+
+80.7%
+
+19.3%
+
+100.0%
+
+70.3%
+
+29.7%
+
+  1.  Gender, race and ethnicity information is self-reported and may not fully reflect the actual number of employees within each category, therefore totals may not equal to the sums of the categories.
+ 2.   Includes these functions—Engineering Product Development, Research and Development, Information Technology, Manufacturing Engineering, Electric Vehicle and Autonomous.
+ 3.  Global promotions include any grade or level change of salaried employees only.
+
+2021 SUSTAINABILITY SUPPLEMENT  50
+
+ 
+Data Center
+Workforce 
+
+Global Open Positions Filled Internally1, 2
+
+Total
+
+Internally
+
+Global Hires by Region and Gender1, 3
+
+Female
+
+Total
+
+North America
+
+South America
+
+International
+
+Male
+
+Total
+
+North America
+
+South America
+
+International
+
+Global Hires by Gender1, 3
+
+Total
+
+Male
+
+Female
+
+Global Hires by Age and Gender1, 3
+
+Female
+
+Total
+
+Under 30
+
+30—49
+
+50 and Over
+
+Male
+
+Total
+
+Under 30
+
+30—49
+
+50 and Over
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+Number
+
+Percentage
+
+Number
+
+Percentage
+
+              2020
+
+            2021
+
+•
+
+•
+
+ 4,503 
+
+ 2,592 
+
+100.0%
+
+57.6%
+
+21,786
+
+ 7,921 
+
+100.0%
+
+36.4%
+
+100.0%
+
+88.5%
+
+8.2%
+
+3.3%
+
+100.0%
+
+81.5%
+
+14.2%
+
+4.3%
+
+100.0%
+
+63.1%
+
+36.9%
+
+100.0%
+
+53.6%
+
+41.0%
+
+5.4%
+
+100.0%
+
+59.8%
+
+35.0%
+
+5.2%
+
+ 3,574 
+
+ 3,208 
+
+ 297 
+
+ 69 
+
+ 8,269 
+
+ 7,057 
+
+ 957 
+
+ 255 
+
+ 11,843 
+
+ 8,269 
+
+ 3,574 
+
+ 3,574 
+
+ 1,798 
+
+ 1,540 
+
+ 236 
+
+ 8,269 
+
+ 4,384 
+
+ 3,291 
+
+ 594 
+
+100.0%
+
+89.8%
+
+8.3%
+
+1.9%
+
+100.0%
+
+85.3%
+
+11.6%
+
+3.1%
+
+100.0%
+
+69.8%
+
+30.2%
+
+100.0%
+
+50.3%
+
+43.1%
+
+6.6%
+
+100.0%
+
+53.0%
+
+39.8%
+
+7.2%
+
+ 5,709 
+
+ 4,770 
+
+ 741 
+
+ 198 
+
+ 11,800 
+
+ 10,003 
+
+ 1,337 
+
+ 460 
+
+ 17,509 
+
+ 11,800 
+
+ 5,709 
+
+ 5,709 
+
+ 2,475 
+
+ 2,641 
+
+ 593 
+
+ 11,800 
+
+ 5,432 
+
+ 5,146 
+
+ 1,222 
+
+100.0%
+
+83.6%
+
+13.0%
+
+3.5%
+
+100.0%
+
+84.8%
+
+11.3%
+
+3.9%
+
+100.0%
+
+67.4%
+
+32.6%
+
+100.0%
+
+43.4%
+
+46.3%
+
+10.4%
+
+100.0%
+
+46.0%
+
+43.6%
+
+10.4%
+
+  1.  All hire data excludes temporary and student population (interns, co-ops).
+ 2.  Global Open Positions Filled Internally—out of 22,146 positions filled. 
+ 3.  Gender, race and ethnicity information is self-reported and may not fully reflect the actual number of employees within each category, therefore totals may not equal to the sums of the categories.
+
+2021 SUSTAINABILITY SUPPLEMENT  51
+
+ 
+Data Center
+Workforce 
+
+Global Attrition by Gender1, 2
+
+Total
+
+Male
+
+Female
+
+Global Attrition by Region and Gender1, 2
+
+Female
+
+Total
+
+North America
+
+South America
+
+International
+
+Male
+
+Total
+
+North America
+
+South America
+
+International
+
+Global Attrition by Age and Gender1, 2
+
+Female
+
+Total
+
+Under 30
+
+30—49
+
+50 and Over
+
+Male
+
+Total
+
+Under 30
+
+30—49
+
+50 and Over
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+100%
+
+71.3%
+
+28.7%
+
+100%
+
+89.4%
+
+4.6%
+
+6.0%
+
+100%
+
+77.0%
+
+11.2%
+
+11.8%
+
+100%
+
+36.6%
+
+40.5%
+
+22.9%
+
+100%
+
+29.9%
+
+37.9%
+
+32.2%
+
+              2020
+
+            2021
+
+Number
+
+Percentage
+
+Number
+
+Percentage
+
+ 16,566 
+
+ 12,934 
+
+ 3,632 
+
+ 3,632 
+
+ 3,094 
+
+ 350 
+
+ 188 
+
+ 12,934 
+
+ 9,668 
+
+ 2,279 
+
+ 987 
+
+ 3,632 
+
+ 1,265 
+
+ 1,159 
+
+ 1,208 
+
+ 12,934 
+
+ 2,754 
+
+ 3,524 
+
+ 6,656 
+
+100.0%
+
+78.1%
+
+21.9%
+
+100.0%
+
+85.2%
+
+9.6%
+
+5.2%
+
+100.0%
+
+74.7%
+
+17.6%
+
+7.6%
+
+100.0%
+
+34.8%
+
+31.9%
+
+33.3%
+
+100.0%
+
+21.3%
+
+27.2%
+
+51.5%
+
+ 12,452 
+
+ 9,521 
+
+ 2,931 
+
+ 2,931 
+
+ 2,413 
+
+ 378 
+
+ 140 
+
+ 9,521 
+
+ 6,461 
+
+ 992 
+
+ 2,068 
+
+ 2,931 
+
+ 1,032 
+
+ 1,178 
+
+ 721 
+
+ 9,521 
+
+ 2,503 
+
+ 4,152 
+
+ 2,866 
+
+100.0%
+
+76.5%
+
+23.5%
+
+100.0%
+
+82.3%
+
+12.9%
+
+4.8%
+
+100.0%
+
+67.9%
+
+10.4%
+
+21.7%
+
+100.0%
+
+35.2%
+
+40.2%
+
+24.6%
+
+100.0%
+
+26.3%
+
+43.6%
+
+30.1%
+
+  1.  Attrition data excludes temporary and student population (interns, co-ops).
+ 2.  Gender, race and ethnicity information is self-reported and may not fully reflect the actual number of employees within each category, therefore totals may not equal to the sums of the categories.
+
+2021 SUSTAINABILITY SUPPLEMENT  52
+
+ 
+Data Center
+Workforce 
+
+U.S. Turnover Rate1, 2
+
+Total3
+
+Voluntary
+
+Involuntary
+
+Retirements
+
+Global Workforce by Gender and Region5
+
+Female
+
+Total
+
+North America
+
+South America
+
+International
+
+Male
+
+Total
+
+North America
+
+South America
+
+International
+
+U.S. Workforce by Gender5
+
+Total
+
+Male
+
+Female
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+10.7%
+
+4.7%
+
+•
+
+•
+
+100.0%
+
+87.6%
+
+5.7%
+
+6.7%
+
+100.0%
+
+71.4%
+
+13.5%
+
+15.1%
+
+•
+
+•
+
+•
+
+              2020
+
+            2021
+
+Number
+
+Percentage
+
+Number
+
+Percentage
+
+Attrition Rate
+
+Attrition Rate
+
+ 6,781 
+
+ 5,7934
+
+ 9884
+
+ 4,119 
+
+ 33,031 
+
+ 29,211 
+
+ 2,262 
+
+ 1,558 
+
+ 110,653 
+
+ 80,285 
+
+ 14,466 
+
+ 15,902 
+
+ 84,851 
+
+ 61,810 
+
+ 23,041 
+
+8.1%
+
+7.0%
+
+1.2%
+
+N/A
+
+100.0%
+
+88.4%
+
+6.8%
+
+4.7%
+
+100.0%
+
+72.6%
+
+13.1%
+
+14.4%
+
+100.0%
+
+72.8%
+
+27.2%
+
+ 5,697 
+
+ 4,439 
+
+ 1,258 
+
+ 1,865 
+
+ 34,637 
+
+ 30,352 
+
+ 2,632 
+
+ 1,653 
+
+ 111,420 
+
+ 82,365 
+
+ 14,819 
+
+ 14,236 
+
+ 88,435 
+
+ 64,366 
+
+ 24,069 
+
+7.2%
+
+5.6%
+
+1.6%
+
+N/A
+
+100.0%
+
+87.6%
+
+7.6%
+
+4.8%
+
+100.0%
+
+73.9%
+
+13.3%
+
+12.8%
+
+100.0%
+
+72.8%
+
+27.2%
+
+  1.  Attrition data excludes temporary and student population (interns, co-ops).
+ 2.  U.S. Turnover Rate—Voluntary: 1,865 of 4,439, or 42%, of all voluntary turnover is attributable to retirements. 
+ 3.  Total = voluntary and involuntary-distinguish-retirements.
+ 4.  Reported value has been updated from the value published in GM 2020 Sustainability Report due to a transposing error. 
+ 5.  Gender, race and ethnicity information is self-reported and may not fully reflect the actual number of employees within each category, therefore totals may not equal to the sums of the categories.
+
+2021 SUSTAINABILITY SUPPLEMENT  53
+
+ 
+Data Center
+Workforce 
+
+U.S. Workforce by Race, Ethnicity and Gender1
+
+Total
+
+Total
+
+White
+
+Black/African American
+
+Asian
+
+Hispanic/Latino
+
+American Indian or Alaskan Native
+
+Native Hawaiian or Pacific Islander
+
+Two or More Races
+
+Do Not Wish to Identify
+
+Female
+
+Total
+
+White
+
+Black/African American
+
+Asian
+
+Hispanic/Latino
+
+American Indian or Alaskan Native
+
+Native Hawaiian or Pacific Islander
+
+Two or More Races
+
+Do Not Wish to Identify
+
+Male
+
+Total
+
+White
+
+Black/African American
+
+Asian
+
+Hispanic/Latino
+
+American Indian or Alaskan Native
+
+Native Hawaiian or Pacific Islander
+
+Two or More Races
+
+Do Not Wish to Identify
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+100%
+
+68.3%
+
+18.4%
+
+6.8%
+
+5.5%
+
+•
+
+•
+
+•
+
+•
+
+100%
+
+59.0%
+
+27.6%
+
+7.0%
+
+5.4%
+
+•
+
+•
+
+•
+
+•
+
+100%
+
+71.5%
+
+15.1%
+
+6.9%
+
+5.5%
+
+•
+
+•
+
+•
+
+•
+
+              2020
+
+            2021
+
+Number
+
+Percentage
+
+Number
+
+Percentage
+
+ 84,851 
+
+ 56,552 
+
+ 16,095 
+
+ 6,197 
+
+ 4,859 
+
+ 406 
+
+ 59 
+
+ 557 
+
+ 126 
+
+ 23,041 
+
+ 13,298 
+
+ 6,447 
+
+ 1,668 
+
+ 1,309 
+
+ 103 
+
+ 19 
+
+ 165 
+
+ 32 
+
+ 61,810 
+
+ 43,254 
+
+ 9,648 
+
+ 4,529 
+
+ 3,550 
+
+ 303 
+
+ 40 
+
+ 392 
+
+ 94 
+
+100.0%
+
+66.6%
+
+19.0%
+
+7.3%
+
+5.7%
+
+0.5%
+
+0.1%
+
+0.7%
+
+0.1%
+
+100.0%
+
+57.7%
+
+28.0%
+
+7.2%
+
+5.7%
+
+0.4%
+
+0.1%
+
+0.7%
+
+0.1%
+
+100.0%
+
+70.0%
+
+15.6%
+
+7.3%
+
+5.7%
+
+0.5%
+
+0.1%
+
+0.6%
+
+0.2%
+
+ 88,435 
+
+ 57,636 
+
+ 16,249 
+
+ 7,510 
+
+ 5,406 
+
+ 393 
+
+ 55 
+
+ 738 
+
+ 448 
+
+ 24,069 
+
+ 13,626 
+
+ 6,456 
+
+ 2,096 
+
+ 1,440 
+
+ 101 
+
+ 18 
+
+ 220 
+
+ 112 
+
+ 64,366 
+
+ 44,010 
+
+ 9,793 
+
+ 5,414 
+
+ 3,966 
+
+ 292 
+
+ 37 
+
+ 518 
+
+ 336 
+
+100.0%
+
+65.2%
+
+18.4%
+
+8.5%
+
+6.1%
+
+0.4%
+
+0.1%
+
+0.8%
+
+0.5%
+
+100.0%
+
+56.6%
+
+26.8%
+
+8.7%
+
+6.0%
+
+0.4%
+
+0.1%
+
+0.9%
+
+0.5%
+
+100.0%
+
+68.4%
+
+15.2%
+
+8.4%
+
+6.2%
+
+0.5%
+
+0.1%
+
+0.8%
+
+0.5%
+
+  1.  Gender, race and ethnicity information is self-reported and may not fully reflect the actual number of employees within each category, therefore totals may not equal to the sums of the categories.
+
+2021 SUSTAINABILITY SUPPLEMENT  54
+
+ 
+Data Center
+Workforce 
+
+Global Workforce by Gender and Age Group1
+
+Total
+
+Total
+
+Under 30
+
+30—49
+
+50 and Over
+
+Female
+
+Total
+
+Under 30
+
+30—49
+
+50 and Over
+
+Male
+
+Total
+
+Under 30
+
+30—49
+
+50 and Over
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+Number
+
+Percentage
+
+Number
+
+Percentage
+
+              2020
+
+            2021
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+ 143,684 
+
+100.0%
+
+22,709 
+
+ 73,415 
+
+ 47,560 
+
+ 33,031 
+
+ 6,4533
+
+ 17,2813
+
+ 9,2973
+
+ 110,653 
+
+ 16,2563
+
+ 56,1343 
+
+ 38,2633
+
+15.8%
+
+51.1%
+
+33.1%
+
+100.0%
+
+19.5%
+
+52.3%
+
+28.1%
+
+100.0%
+
+14.7%
+
+50.7%
+
+34.6%
+
+ 146,0592
+
+ 22,728 
+
+ 73,425 
+
+ 49,904 
+
+ 34,637 
+
+ 6,618 
+
+ 18,057 
+
+ 9,962 
+
+ 111,420 
+
+ 16,110 
+
+ 55,368 
+
+ 39,942 
+
+100.0%
+
+15.6%
+
+50.3%
+
+34.2%
+
+100.0%
+
+19.1%
+
+52.1%
+
+28.8%
+
+100.0%
+
+14.5%
+
+49.7%
+
+35.8%
+
+  1.  Gender, race and ethnicity information is self-reported and may not fully reflect the actual number of employees within each category, therefore totals may not equal to the sums of the categories.
+ 2.  Two employees without gender identity.
+ 3.  Reported value has been updated from the value published in GM 2020 Sustainability Report due to a transposing error.
+
+2021 SUSTAINABILITY SUPPLEMENT  55
+
+ 
+Data Center
+Workforce 
+
+U.S. Workforce by Gender and Age Group1
+
+Total
+
+Total
+
+Under 30
+
+30—49
+
+50 and Over
+
+Female
+
+Total
+
+Under 30
+
+30—49
+
+50 and Over
+
+Male
+
+Total
+
+Under 30
+
+30—49
+
+50 and Over
+
+U.S. Hourly by Race and Ethnicity1
+
+Total
+
+White
+
+Black/African American
+
+Asian
+
+Hispanic/Latino
+
+American Indian or Alaskan Native
+
+Native Hawaiian or Pacific Islander
+
+Two or More Races
+
+Do Not Wish to Identify
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+100%
+
+11.8%
+
+45.0%
+
+43.2%
+
+100%
+
+12.9%
+
+49.7%
+
+37.4%
+
+100%
+
+11.4%
+
+43.3%
+
+45.3%
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+              2020
+
+            2021
+
+Number
+
+Percentage
+
+Number
+
+Percentage
+
+ 84,851 
+
+ 10,490 
+
+ 38,824 
+
+ 35,537 
+
+ 23,041 
+
+ 3,058 
+
+ 11,443 
+
+ 8,540 
+
+ 61,810 
+
+ 7,432 
+
+ 27,381 
+
+ 26,997 
+
+ 45,803 
+
+ 28,940 
+
+ 13,260 
+
+ 355 
+
+ 2,707 
+
+ 325 
+
+ 32 
+
+ 145 
+
+ 39 
+
+100.0%
+
+12.4%
+
+45.8%
+
+41.9%
+
+ 88,435 
+
+ 11,872 
+
+ 40,218 
+
+ 36,345 
+
+100.0%
+
+ 24,069 
+
+13.3%
+
+49.7%
+
+37.1%
+
+100.0%
+
+12.0%
+
+44.3%
+
+43.7%
+
+100.0%
+
+63.2%
+
+29.0%
+
+0.8%
+
+5.9%
+
+0.7%
+
+0.1%
+
+0.3%
+
+0.1%
+
+ 3,320 
+
+ 11,777 
+
+ 8,972 
+
+ 64,366 
+
+ 8,552 
+
+ 28,441 
+
+ 27,373 
+
+ 44,405 
+
+ 27,726 
+
+ 12,950 
+
+ 366 
+
+ 2,726 
+
+ 305 
+
+ 28 
+
+ 203 
+
+ 101 
+
+100.0%
+
+13.4%
+
+45.5%
+
+41.1%
+
+100.0%
+
+13.8%
+
+48.9%
+
+37.3%
+
+100.0%
+
+13.3%
+
+44.2%
+
+42.5%
+
+100.0%
+
+62.4%
+
+29.2%
+
+0.8%
+
+6.1%
+
+0.7%
+
+0.1%
+
+0.5%
+
+0.2%
+
+  1.  Gender, race and ethnicity information is self-reported and may not fully reflect the actual number of employees within each category, therefore totals may not equal to the sums of the categories.
+
+2021 SUSTAINABILITY SUPPLEMENT  56
+
+ 
+Data Center
+Workforce 
+
+U.S. Hires by Race and Ethnicity1, 2
+
+Total
+
+White
+
+Black/African American
+
+Asian
+
+Hispanic/Latino
+
+American Indian or Alaskan Native
+
+Native Hawaiian or Pacific Islander
+
+Two or More Races
+
+Do Not Wish to Identify
+
+U.S. Hires by Self-Identified Status2
+
+Total
+
+Disability
+
+Veteran
+
+Disabled Veteran
+
+U.S. Attrition by Race and Ethnicity1, 3
+
+Total
+
+White
+
+Black/African American
+
+Asian
+
+Hispanic/Latino
+
+American Indian or Alaskan Native
+
+Native Hawaiian or Pacific Islander
+
+Two or More Races
+
+Do Not Wish to Identify
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+Number
+
+Percentage
+
+Number
+
+Percentage
+
+              2020
+
+            2021
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+ 4,712 
+
+ 2,640 
+
+ 1,051 
+
+ 552 
+
+ 369 
+
+ 16 
+
+ 5 
+
+ 57 
+
+ 22 
+
+100.0%
+
+56.0%
+
+22.3%
+
+11.7%
+
+7.8%
+
+0.3%
+
+0.1%
+
+1.2%
+
+0.5%
+
+ 10,698 
+
+ 5,468 
+
+ 2,009 
+
+ 1,747 
+
+ 883 
+
+ 26 
+
+ 9 
+
+ 200 
+
+ 356 
+
+100.0%
+
+51.1%
+
+18.8%
+
+16.3%
+
+8.3%
+
+0.2%
+
+0.1%
+
+1.9%
+
+3.3%
+
+ 4,712 
+
+100.0%
+
+ 10,698 
+
+100.0%
+
+ 73 
+
+ 148 
+
+ 24 
+
+ 6,778 
+
+ 4,871 
+
+ 1,231 
+
+ 282 
+
+ 331 
+
+ 32 
+
+ • 
+
+ 27 
+
+ 4 
+
+1.5%
+
+3.1%
+
+0.5%
+
+100.0%
+
+71.9%
+
+18.2%
+
+4.2%
+
+4.9%
+
+0.5%
+
+0.0%
+
+0.4%
+
+0.1%
+
+ 521 
+
+ 399 
+
+ 107 
+
+ 5,697 
+
+ 3,705 
+
+ 1,061 
+
+ 478 
+
+ 330 
+
+ 27 
+
+ 7 
+
+ 60 
+
+ 29 
+
+4.9%
+
+3.7%
+
+1.0%
+
+100.0%
+
+65.0%
+
+18.6%
+
+8.4%
+
+5.8%
+
+0.5%
+
+0.1%
+
+1.1%
+
+0.5%
+
+  1.  Gender, race and ethnicity information is self-reported and may not fully reflect the actual number of employees within each category, therefore totals may not equal to the sums of the categories. 
+ 2.  All hire data excludes temporary and student population (interns, co-ops).
+ 3.  Attrition data excludes temporary and student population (interns, co-ops). 
+
+2021 SUSTAINABILITY SUPPLEMENT  57
+
+ 
+Data Center
+Workforce 
+
+U.S. Workforce Self-Identified as Having a Disability1
+
+Total
+
+Male
+
+Female
+
+U.S. Workforce Self-Identified Veteran Status and Gender1, 2
+
+Veteran
+
+Total
+
+Male
+
+Female
+
+Disabled Veteran
+
+Total
+
+Male
+
+Female
+
+U.S. Workforce Self-Identified as LGBTQ
+
+Total Self-Reported Responses
+
+LGBTQ
+
+U.S. Technology Positions by Race and Ethnicity2
+
+Total
+
+White
+
+Black/African American
+
+Asian
+
+Hispanic/Latino
+
+American Indian or Alaskan Native
+
+Native Hawaiian or Pacific Islander
+
+Two or More Races
+
+Do Not Wish to Identify
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+100.0%
+
+73.6%
+
+26.4%
+
+100.0%
+
+88.5%
+
+11.5%
+
+100.0%
+
+92.9%
+
+7.1%
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+              2020
+
+            2021
+
+Number
+
+Percentage
+
+Number
+
+Percentage
+
+ 645 
+
+ 536 
+
+ 109 
+
+ 5,005 
+
+ 4,400 
+
+ 605 
+
+ 404 
+
+ 374 
+
+ 30 
+
+ 6,568 
+
+ 3453 
+
+100.0%
+
+83.1%
+
+16.9%
+
+100.0%
+
+87.9%
+
+12.1%
+
+100.0%
+
+92.6%
+
+7.4%
+
+100.0%
+
+5.3%
+
+ 25,574 
+
+100.0%
+
+ 17,199 
+
+ 1,459 
+
+ 5,013 
+
+ 1,496 
+
+ 54 
+
+ 19 
+
+ 271 
+
+ 63 
+
+67.3%
+
+5.7%
+
+19.6%
+
+5.8%
+
+0.2%
+
+0.1%
+
+1.1%
+
+0.2%
+
+ 1,314 
+
+ 962 
+
+ 352 
+
+ 5,021 
+
+ 4,427 
+
+ 594 
+
+ 490 
+
+ 456 
+
+ 34 
+
+12,787
+
+521
+
+ 29,098 
+
+ 18,713 
+
+ 1,686 
+
+ 6,145 
+
+ 1,882 
+
+ 55 
+
+ 17 
+
+ 359 
+
+ 241 
+
+100.0%
+
+73.2%
+
+26.8%
+
+100.0%
+
+88.2%
+
+11.8%
+
+100.0%
+
+93.1%
+
+6.9%
+
+100%
+
+4.1%
+
+100.0%
+
+64.3%
+
+5.8%
+
+21.1%
+
+6.5%
+
+0.2%
+
+0.1%
+
+1.2%
+
+0.8%
+
+  1.  Includes disabled veterans that have also self-identified as disabled. Disabled employee counts include disabled veterans.
+ 2.  Gender, race and ethnicity information is self-reported and may not fully reflect the actual number of employees within each category, therefore totals may not equal to the sums of the categories.
+ 3.  Total self-reported responses from employees, 345 out of the total. 
+
+2021 SUSTAINABILITY SUPPLEMENT  58
+
+ 
+Data Center
+Workforce 
+
+Global Females in Top Management Positions1, 2
+
+Total
+
+Female
+
+U.S. Top Management Positions by Race and Ethnicity1
+
+Total
+
+White
+
+Black/African American
+
+Asian
+
+Hispanic/Latino
+
+American Indian or Alaskan Native
+
+Native Hawaiian or Pacific Islander
+
+Two or More Races
+
+Do Not Wish to Identify
+
+U.S. Executive-Level Positions by Race and Ethnicity1
+
+Total
+
+White
+
+Black/African American
+
+Asian
+
+Hispanic/Latino
+
+American Indian or Alaskan Native
+
+Native Hawaiian or Pacific Islander
+
+Two or More Races
+
+Do Not Wish to Identify
+
+Global Executive-Level Positions by Gender1
+
+Total
+
+Male
+
+Female
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+100.0%
+
+32.2%
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+100%
+
+79.9%
+
+20.1%
+
+              2020
+
+            2021
+
+Number
+
+Percentage
+
+Number
+
+Percentage
+
+ 90 
+
+ 27 
+
+ 84 
+
+ 71 
+
+ 3 
+
+ 5 
+
+ 2 
+
+•
+
+•
+
+ 2 
+
+ 1 
+
+ 900 
+
+ 744 
+
+ 44 
+
+ 55 
+
+ 45 
+
+ 4 
+
+•
+
+ 6 
+
+ 2 
+
+ 1,091 
+
+ 874 
+
+ 217 
+
+100.0%
+
+30.0%
+
+100.0%
+
+84.5%
+
+3.6%
+
+6.0%
+
+2.4%
+
+0.0%
+
+0.0%
+
+2.4%
+
+1.2%
+
+100.0%
+
+82.7%
+
+4.9%
+
+6.1%
+
+5.0%
+
+0.4%
+
+0.0%
+
+0.7%
+
+0.2%
+
+100.0%
+
+80.1%
+
+19.9%
+
+ 94 
+
+ 30 
+
+ 89 
+
+ 74 
+
+ 4 
+
+ 5 
+
+ 1 
+
+•
+
+•
+
+ 4 
+
+ 1 
+
+ 985 
+
+ 780 
+
+ 62 
+
+ 75 
+
+ 53 
+
+ 4 
+
+•
+
+ 8 
+
+ 3 
+
+ 1,169 
+
+ 909 
+
+ 260 
+
+100.0%
+
+31.9%
+
+100.0%
+
+83.1%
+
+4.5%
+
+5.6%
+
+1.1%
+
+0.0%
+
+0.0%
+
+4.5%
+
+1.1%
+
+100.0%
+
+79.2%
+
+6.3%
+
+7.6%
+
+5.4%
+
+0.4%
+
+0.0%
+
+0.8%
+
+0.3%
+
+100.0%
+
+77.8%
+
+22.2%
+
+  1.  Gender, race and ethnicity information is self-reported and may not fully reflect the actual number of employees within each category, therefore totals may not equal to the sums of the categories.
+ 2.  Maximum two levels away from CEO as a percent of total top management positions. Does not include administrative assistants.
+
+2021 SUSTAINABILITY SUPPLEMENT  59
+
+ 
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Data Center
+Workforce
+
+Talent Attraction
+
+Number of U.S. Colleges and Universities From Which GM Recruited College Graduates
+
+Number of Summer Intern and Co-op Program Opportunities for Students Provided
+
+Talent Engagement
+
+Number of Salaried Employees Who Provided Pulse Survey Feedback
+
+Number of People Leaders Globally Trained to Leverage a Comprehensive Talent-Spotting Framework
+
+Number of Mentors in Workday
+
+Global Training
+
+Average Number of Training Hours Each Employee Invested per Year (excluding compliance training)
+
+Percentage of Active Employees Receiving Regular Performance and Career Development Reviews
+
+Number of Team Leaders Who Took Unconscious Bias Training
+
+Number of People Leaders Who Received DEI Toolkits
+
+Number of Dealer Team Members Who Received DEI Training
+
+Remuneration
+
+Executive Level (base salary only)
+
+Executive Level (base salary + other cash incentives)
+
+Management Level (base salary only)
+
+Management Level (base salary + cash incentives)
+
+Nonmanagement Level
+
+Labor Relations
+
+Union Representation of Total Global Workforce
+
+Total Number of Represented Workforce
+
+Union Representation of Hourly Workforce
+
+Unions GM Works With Globally
+
+Number of Work Stoppages1
+
+Total Days Idle
+
+Minimum Notice Periods Regarding Operational Changes
+
+Operations and Suppliers in Which the Right to Freedom of Association and Collective Bargaining May Be at Risk
+
+  1.  There were two work stoppages in 2021 in South America that resulted in a total of nine days idle. There were zero work stoppages and lockouts in all other regions.
+
+2021 SUSTAINABILITY SUPPLEMENT  60
+
+2019
+
+2020
+
+2021
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+7.32
+
+100%
+
+N/A
+
+N/A 
+
+N/A
+
+100.3%
+
+Not Reported
+
+100.3%
+
+Not Reported
+
+97.0%
+
+64%
+
+N/A
+
+N/A
+
+N/A 
+
+N/A 
+
+N/A 
+
+9.49
+
+100%
+
+N/A
+
+N/A
+
+N/A
+
+104%
+
+106%
+
+100%
+
+100%
+
+96%
+
+61%
+
+ 500 
+
+ 600 
+
+ 34,000 
+
+ 5,000 
+
+ 2,000 
+
+ 20.12 
+
+100%
+
+ 1,300 
+
+ 9,000 
+
+ 100,000 
+
+100%
+
+100%
+
+100%
+
+100%
+
+96%
+
+61%
+
+ Not Reported 
+
+ Not Reported 
+
+ 95,000 
+
+ Not Reported 
+
+ Not Reported 
+
+33
+
+1
+
+29
+
+33
+
+•
+
+•  
+
+99%
+
+28
+
+2
+
+9
+
+ Confirmed 
+
+ Confirmed 
+
+Confirmed
+
+Confirmed
+
+Confirmed
+
+Confirmed
+
+Data Center
+Workforce
+
+Wellness and Benefits
+
+Number of Employees Who Took Paid Family Leave
+
+Average Number of Days of Paid Family Leave
+
+Number of Employees Who Took Short-Term Disability Leave
+
+Percent of Employees Who Took Short-Term Disability Leave
+
+Human Rights
+
+Human Rights Policy: Number of Languages Available
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+2020
+
+2021
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+ 1,919 
+
+ 37 
+
+ 12,587 
+
+14%
+
+ 8 
+
+2021 SUSTAINABILITY SUPPLEMENT  61
+
+Data Center
+Supply Chain
+
+Approximate Supply Chain Spend (USD billions)1
+
+Approximate Spend with Diverse Suppliers (Tier I) (USD billions)1
+
+Approximate Spend with Diverse Suppliers (Tier II) (USD billions)1
+
+Global Supplier Count 
+
+Materials and Services Purchased
+
+% Local Sourcing Out of Regional Spend: North America
+
+% Local Sourcing Out of Regional Spend: China
+
+% Local Sourcing Out of Regional Spend: International and South America
+
+  1.  Calculated using direct North America spend.
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+Not Reported
+
+ 3.4 
+
+ 3.3 
+
+Not Reported
+
+Not Reported
+
+Not Reported
+
+Not Reported
+
+Not Reported
+
+2020
+
+ 72 
+
+ 3.0 
+
+ 2.0
+
+2021
+
+ 76 
+
+ 3.8 
+
+ 2.2 
+
+ 13,500 
+
+ 277,000
+
+ 18,940 
+
+ 328,900
+
+90%
+
+95%
+
+80%
+
+92%
+
+96%
+
+73%
+
+2021 SUSTAINABILITY SUPPLEMENT  62
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Data Center
+Governance
+
+Governance
+
+Number of Board Members
+
+Independence of X out of X Directors
+
+Average Years of Tenure
+
+Board Members With 0–5 Years of Tenure 
+
+Board Members With 5–10 Years of Tenure 
+
+Board Members With 10+ Years of Tenure 
+
+Number of Males
+
+Number of Females
+
+Percentage of Directors Who Are Women
+
+Number of White Individuals
+
+Number of Diverse Race or Ethnicity Individuals
+
+Percentage of Directors Who Identify Themselves as Racially/Ethnically Diverse
+
+Average Age of Board Members
+
+Board Members in 50's
+
+Board Members in 60's
+
+Board Members in 70’s
+
+Number of Standing Committees
+
+Percentage of Board Committees Chaired by Women
+
+Number of New Directors Over Past Three Years
+
+Ethics
+
+Total Number of Reports to Awareline
+
+Total Number of Allegations
+
+Number of Corporate Required Training (CRT) Languages Available
+
+CRT Completion Rate (%)
+
+Code of Conduct Certification Program Completion Rate (%)
+
+Total Employees and Contract Workers Who Completed Compliance Training
+
+Total Number of Other Online Compliance Courses Taken by GM Employees
+
+Total Online Courses Delivered
+
+Total In-Person Advanced Compliance Training Modules Delivered With Assistance from the Compliance Group
+
+2021 SUSTAINABILITY SUPPLEMENT  63
+
+2019
+
+11
+
+2020
+
+ 13 
+
+2021
+
+ 13 
+
+10 out of 11
+
+ 12 out of 13 
+
+ 12 out of 13 
+
+4.8
+
+Not Reported
+
+Not Reported
+
+Not Reported
+
+0.45
+
+0.55
+
+ 6 
+
+ 6 
+
+ 4 
+
+ 10 
+
+ 5 
+
+ 7 
+
+Not Reported
+
+Not Reported
+
+10
+
+1
+
+ 9 
+
+ 3 
+
+Not Reported
+
+Not Reported
+
+62
+
+3
+
+7
+
+1
+
+62
+
+ 3 
+
+ 8 
+
+1
+
+Not Reported
+
+Not Reported
+
+Not Reported
+
+Not Reported
+
+Not Reported
+
+Not Reported
+
+4,263
+
+3,483
+
+ 3,654 
+
+ 2,732 
+
+Not Reported
+
+ Not Reported 
+
+Not Reported
+
+100%
+
+ 68,823 
+
+ 33,615 
+
+ 446,551 
+
+ 9,235 
+
+100%
+
+100%
+
+~70,000 
+
+ 32,759 
+
+ 354,990 
+
+ 23,345 
+
+ 6 
+
+ 6 
+
+ 4 
+
+ 3 
+
+ 6 
+
+ 7 
+
+54%
+
+ 9 
+
+ 4 
+
+31%
+
+63
+
+ 3 
+
+ 9 
+
+1
+
+ 6 
+
+67%
+
+ 4 
+
+ 4,170 
+
+ 3,048 
+
+ 8 
+
+100%
+
+100%
+
+~64,300 
+
+ Not Reported 
+
+~364,000 
+
+~6,000 
+
+Data Center
+Governance
+
+Environmental Governance
+
+Number of Notices of Violation (NOV) in the U.S.
+
+Number of Notices of Violation (NOV) Outside of the U.S.
+
+Penalties or Fines Over $10,000
+
+% of Global Operations ISO Third-Party Certified
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+2020
+
+2021
+
+ 9 
+
+ 3 
+
+ Not Reported 
+
+ Not Reported 
+
+ 12 
+
+ 4 
+
+•
+
+20%
+
+ 12 
+
+ 3 
+
+ 1 
+
+100%
+
+2021 SUSTAINABILITY SUPPLEMENT  64
+
+Data Center
+Customers and Technology
+
+Earning Customers for Life
+
+IHS Markit
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2019
+
+2020
+
+ #1 
+
+  Not Reported  
+
+2021
+
+ #1 
+
+2021 SUSTAINABILITY SUPPLEMENT  65
+
+2021 VERIFICATION STATEMENT - GENERAL MOTORS COMPANY 
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Statement of Verification 
+
+Introduction 
+Stantec  Consulting  Ltd.  (Stantec)  was  contracted  by  General  Motors  Company  (GM)  to  conduct  an  independent  third-party  verification  of  a 
+selection of greenhouse gas (GHG) and sustainability data assertions (the Assertions) for their Global Facilities.  
+
+In this work, GM was responsible for the collection of activity data used in the calculations, data management, completion of the calculations, and 
+preparation of the report that contains the Assertions. 
+
+Stantec was responsible for planning and executing the verification to deliver a limited level of assurance opinion as to whether the Assertions 
+are presented fairly and in accordance with the verification criteria. Stantec is accredited with the ANSI National Accreditation Board (ANAB), a 
+member of the International Accreditation Forum (IAF), in accordance with ISO 14065 (Accreditation ID #0805 issued to Stantec Consulting Ltd. 
+for GHG verification and validation).  
+
+Intended User 
+The results of the verification will be used by GM for internal and external sustainability reporting, and for reporting to CDP. The users of this 
+statement are GM, shareholders and the public. 
+
+Verification Objective 
+The objective of the verification was to assess whether the  GHG and sustainability data  assertions (as presented  in Table 1) for GM’s 2021 
+operations are accurately prepared in accordance with appropriate criteria.  
+
+Verification Boundaries 
+The boundaries of the verification include GM owned and operated facilities within General Motors North America (GMNA), General Motors South 
+America (GMSA) and General Motors International Operations (GMIO).  A subset of GM facilities has been excluded from the Assertions, and a 
+list of these excluded facilities has been provided to Stantec and included in the detailed verification report for transparency. 
+
+Reporting Period 
+The verification was conducted for the period of January 1, 2021 to December 31, 2021. 
+
+2021 SUSTAINABILITY SUPPLEMENT  66
+
+1 
+
+ 
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2021 VERIFICATION STATEMENT - GENERAL MOTORS COMPANY 
+
+GHG and Sustainability Data Assertions 
+The GHG and sustainability data assertions are provided in Table 1.  
+
+Table 1. General Motors Global Facilities - 2021 GHG and Sustainability Data Assertions 
+
+Metric 
+Metric tonnes of carbon dioxide 
+equivalent (tCO2e) 
+
+Notes 
+
+Parameter 
+
+Scope 1 GHG Emissions - Total 
+
+Scope 1 GHG Emissions – Stationary Fuel 
+Combustion 
+Scope 1 GHG Emissions – Mobile Fuel 
+Combustion (biogenic) 
+Scope 1 GHG Emissions – Mobile Fuel 
+Combustion (non-biogenic) 
+Scope 1 GHG Emissions – Facility Refrigerant 
+Use (Equipment) 
+
+Scope 1 GHG Emissions – Facility Refrigerant 
+Use (Products) 
+
+Scope 2 GHG Emissions (Location Based) 
+Scope 2 GHG Emissions (Market Based) 
+Total Energy Use 
+Total Water Use 
+
+Total Waste Generated 
+
+Assertion 
+
+1,252,906 
+
+1,104,792 
+
+761 
+
+71,403 
+
+63,753 
+
+12,198 
+
+2,881,767 
+2,150,694 
+12,552,855 
+25,340,350 
+
+1,464,097 
+
+tCO2e 
+
+tCO2e 
+
+tCO2e 
+
+tCO2e 
+
+tCO2e 
+
+tCO2e 
+tCO2e 
+MWh 
+m3 
+
+metric tonnes 
+
+Total Waste – Hazardous 
+
+42,080 
+
+metric tonnes 
+
+Total Waste – Non-Hazardous 
+
+1,422,017 
+
+metric tonnes 
+
+Waste Directed to Disposal 
+
+253,033 
+
+metric tonnes 
+
+GM Zero Waste Performance 
+
+Year Over Year Performance 
+Scope 1 & 2 GHG Emissions 
+
+86.4 
+
+-3.9 
+
+% 
+
+% 
+
+Does not include waste from 
+construction, demolition and 
+remediation 
+Does not include waste from 
+construction, demolition and 
+remediation 
+Does not include waste from 
+construction, demolition and 
+remediation 
+Does not include waste from 
+construction, demolition and 
+remediation 
+Percentage of waste diverted from 
+landfill, incinerators and energy 
+recovery compared to a three-year 
+average (2017-2019) baseline of 
+total operational waste generated 
+Location-Based  
+(Scopes 1 & 2) 
+
+2021 SUSTAINABILITY SUPPLEMENT  67
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2021 VERIFICATION STATEMENT - GENERAL MOTORS COMPANY 
+
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+Parameter 
+2021 vs 2020 
+(negative value represents decrease) 
+Year Over Year Performance 
+Total Energy Use 
+2021 vs 2020 
+(negative value represents decrease) 
+Year Over Year Performance 
+Scope 2 GHG Emissions (Market Based) 
+2021 vs 2020 
+(negative value represents decrease) 
+Year Over Year Performance 
+Total Water Use 
+2021 vs 2020 
+(negative value represents decrease) 
+Year Over Year Performance 
+Total Vehicles Produced 
+2021 vs 2020 
+(negative value represents decrease) 
+
+Total renewable electricity use 
+
+Total electricity use 
+Total GHG reductions applied due to renewable 
+energy use 
+Renewable electricity as a percentage of total 
+electricity use 
+GRI 302-1 Total Energy Use 
+GRI 303-1 Total Water Use and Effluents 
+GRI 305-1 Total Scope 1 GHG Emissions 
+GRI 305-1 Total Scope 2 GHG Emissions 
+GRI 305-7 Total Nitrogen Oxides (NOx), Sulfur 
+Oxides (SOx), and other significant air 
+emissions 
+
+Assertion 
+
+Metric 
+
+Notes 
+
+-0.5 
+
+-17.3 
+
+-0.8 
+
+-8.9 
+
+1,499,494 
+
+5,969,002 
+
+712,335 
+
+25.1 
+
+12,552,855 
+25,340,350 
+1,252,906 
+2,881,767 
+
+% 
+
+% 
+
+% 
+
+% 
+
+MWh 
+
+MWh 
+
+tCO2e 
+
+% 
+
+MWh 
+m3 
+tCO2e 
+tCO2e 
+
+SOx (as SO2): 0.043 
+NOx: 0.97 
+
+thousand metric tonnes 
+
+Scopes 1 & 2 
+
+Market-Based 
+
+RE100, Including Self-Generated 
+Electricity from Landfill Gas 
+
+Location-Based 
+
+Does not include combustion of 
+mobile fuels 
+
+Does not include waste from 
+construction, demolition and 
+remediation 
+
+GRI 306-3 Waste Generated 
+
+Production 
+
+1,464,097 
+
+5,585,048 
+
+metric tonnes 
+
+# Vehicles 
+
+2021 SUSTAINABILITY SUPPLEMENT  68
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2021 VERIFICATION STATEMENT - GENERAL MOTORS COMPANY 
+
+Verification Criteria  
+Stantec  has  conducted  sufficient  and  appropriate  procedures  to  express  a  limited  level  of  assurance  opinion  as  to  whether  the  GHG  and 
+sustainability data assertions for 2021 as quantified by GM satisfy the requirements of the following criteria: 
+
+(cid:120) 
+
+ISO 14064 Greenhouses Gases – Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse 
+gas emissions and removals, 2006 
+
+(cid:120)  World  Resources  Institute  (WRI)/World  Business  Council  for  Sustainable  Development  (WBCSD),  The  Greenhouse  Gas  Protocol:  A 
+
+Corporate Accounting and Reporting Standard (Revised Edition), March 2004 
+
+(cid:120)  WRI/WBCSD, GHG Protocol Scope 2 Guidance: An Amendment to the GHG Corporate Standard 
+
+(cid:120)  CDP Guidance for the 2021 reporting year 
+
+(cid:120)  GRI Sustainability Reporting Guidelines (various guidelines, updated from time to time) 
+
+Verification Standards 
+The  verification  is  being  conducted  in  accordance  with  ISO14064:3,  the  AA1000  AccountAbility  Principles  Standard  (2008)  and  Stantec’s 
+Standard Operating Procedures developed for accreditation to ISO 14065. 
+
+Verification Opinion 
+Based on the processes and procedures completed, there is no evidence that GM’s stated GHG and sustainability data assertions for the 2021 
+calendar year are not, in all material respects, fairly stated in accordance with the criteria noted herein.   
+
+Verifier’s Independence, Impartiality, and Competence 
+Stantec  provides  this  conclusion  as  an  independent  verifier.  Prior  to  entering  into  an  assurance  agreement  Stantec  assesses  for  any  real, 
+potential,  or  perceived  conflict.  Stantec  continues  to  monitor  for  compromised  impartiality  throughout  the  engagement.  No  real,  potential  or 
+perceived conflicts of interest were identified throughout the course of this verification. 
+
+Stantec provides this report to GM in accordance with our terms of agreement. We consent to its public release. Because of the inherent limitations 
+in any verification, Stantec accepts no responsibility by use of a third party. Stantec has undertaken all assignments in its role as an independent 
+verification body using professional effort consistent with ISO 14064:3. Stantec has assessed the 2021 GHG and sustainability data assertions 
+for GM Global Facilities using reasonably ascertainable information.  The assessment represents the conditions in the subject area at the time of 
+
+2021 SUSTAINABILITY SUPPLEMENT  69
+
+4 
+
+ 
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2021 VERIFICATION STATEMENT - GENERAL MOTORS COMPANY 
+
+the assessment.  Stantec did not conduct direct GHG emissions monitoring or other environmental sampling and analysis in conjunction with this 
+verification report. Stantec will retain all verification documents for a minimum of seven (7) years. 
+
+STANTEC CONSULTING LTD. 
+
+Gizem Gunal-Akgol, P.Eng 
+Lead Verifier 
+Environmental Services 
+Tel: (519) 569-8126 
+
+Daniel Hegg, M.Sc., CEM 
+Independent Peer Reviewer  
+Environmental Services 
+Tel: (250) 217-9729 
+
+Issued March 10, 2022 in Waterloo, Ontario, Canada 
+
+2021 SUSTAINABILITY SUPPLEMENT  70
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2020 VERIFICATION STATEMENT - GENERAL MOTORS COMPANY 
+
+Statement of Verification 
+
+Introduction 
+Stantec Consulting Ltd. (Stantec) was contracted by General Motors Company (GM) to conduct an independent third-party verification of a selection 
+of greenhouse gas (GHG) and sustainability data assertions (the Assertions) for their Global Facilities.  
+
+In this work, GM was responsible for the collection of activity data used in the calculations, data management, completion of the calculations, and 
+preparation of the report that contains the Assertions. 
+
+Stantec was responsible for planning and executing the verification to deliver a limited level of assurance opinion as to whether the Assertions are 
+presented fairly and in accordance with the verification criteria. Stantec is accredited with the ANSI National Accreditation Board (ANAB), a member 
+of the International Accreditation Forum (IAF), in accordance with ISO 14065 (Accreditation ID #0805 issued to Stantec Consulting Ltd. for GHG 
+verification and validation).  
+
+Intended User 
+The  results  of  the  verification  will  be  used  by  GM  for  internal  and  external  sustainability  reporting,  and  for  reporting  to  CDP.  The  users  of  this 
+statement are GM, shareholders and the public. 
+
+Verification Objective 
+The  objective  of  the  verification  was  to  assess  whether  the  GHG  and  sustainability  data  assertions  (as  presented  in  Table  1)  for  GM’s  2020 
+operations are accurately prepared in accordance with appropriate criteria.  
+
+Verification Boundaries 
+The boundaries of the verification include GM owned and operated facilities within General Motors North America (GMNA), General Motors South 
+America (GMSA) and General Motors International Operations (GMIO).  A subset of GM facilities has been excluded from the Assertions, and a 
+list of these excluded facilities has been provided to Stantec and included in the detailed verification report for transparency. 
+
+Reporting Period 
+The verification was conducted for the period of January 1, 2020 to December 31, 2020. 
+
+GHG and Sustainability Data Assertions 
+The GHG and sustainability data assertions are provided in Table 1.  
+
+1 
+
+2021 SUSTAINABILITY SUPPLEMENT  71
+
+ 
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2020 VERIFICATION STATEMENT - GENERAL MOTORS COMPANY 
+
+Table 1. General Motors Global Facilities - 2020 GHG and Sustainability Data Assertions 
+
+Parameter 
+Scope 3 Category 1 Purchased Goods & 
+Services 
+Scope 3 Category 2 Capital Goods 
+Scope 3 Category 4 Upstream Transportation 
+Scope 3 Category 6 Business Travel 
+Scope 3 Category 9 Downstream 
+Transportation 
+
+Assertion 
+
+38,359,951 
+
+2,438,131 
+2,704,814 
+9,897 
+
+1,298,332 
+
+Scope 3 Category 11 Use of Sold Product 
+
+248,218,958 
+
+GRI 305-1 Total Scope 3 GHG Emissions 
+
+Category 1: 38,359,951 
+Category 2: 2,438,131 
+Category 4: 2,704,814 
+Category 6: 9,897 
+Category 9: 1,298,332 
+Category 11: 248,218,958 
+
+Metric 
+
+tCO2e 
+
+tCO2e 
+tCO2e 
+tCO2e 
+
+tCO2e 
+
+tCO2e 
+
+tCO2e 
+
+Notes 
+
+Air travel only  
+
+Includes emissions from produced 
+vehicle travel and air conditioning 
+systems  
+
+Category 6 is air travel only 
+Category 11 Includes emissions from 
+produced vehicle travel and air 
+conditioning systems 
+
+Verification Criteria  
+Stantec  has  conducted  sufficient  and  appropriate  procedures  to  express  a  limited  level  of  assurance  opinion  as  to  whether  the  GHG  and 
+sustainability data assertions for 2020 as quantified by GM satisfy the requirements of the following criteria: 
+
+(cid:120) 
+
+ISO 14064 Greenhouses Gases – Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse 
+gas emissions and removals, 2006 
+
+(cid:120)  World Resources Institute (WRI)/World Business Council for Sustainable Development (WBCSD), The Greenhouse Gas Protocol: A Corporate 
+
+Accounting and Reporting Standard (Revised Edition), March 2004 
+
+(cid:120)  WRI/WBCSD, Greenhouse Gas Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard 
+
+(cid:120)  CDP Guidance for the 2020 reporting year 
+
+(cid:120)  GRI Sustainability Reporting Guidelines (various guidelines, updated from time to time) 
+
+2021 SUSTAINABILITY SUPPLEMENT  72
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+GRI Index       SASB Response       TCFD Response       UN SDGs       UNGC       Data Center       Assurance Statements
+
+2020 VERIFICATION STATEMENT - GENERAL MOTORS COMPANY 
+
+Verification Standards 
+The verification is being conducted in accordance with ISO14064:3, the AA1000 AccountAbility Principles Standard (2008) and Stantec’s Standard 
+Operating Procedures developed for accreditation to ISO 14065. 
+
+Verification Opinion 
+Based on the processes and procedures completed, there is no evidence that GM’s stated GHG and sustainability data assertions for the 2020 
+calendar year are not, in all material respects, fairly stated in accordance with the criteria noted herein.   
+
+Verifier’s Independence, Impartiality, and Competence 
+Stantec provides this conclusion as an independent verifier. Prior to entering into an assurance agreement Stantec assesses for any real, potential, 
+or perceived conflict. Stantec continues to monitor for compromised impartiality throughout the engagement. No real, potential or perceived conflicts 
+of interest were identified throughout the course of this verification. 
+
+Stantec provides this report to GM in accordance with our terms of agreement. We consent to its public release. Because of the inherent limitations 
+in any verification, Stantec accepts no responsibility by use of a third party. Stantec has undertaken all assignments in its role as an independent 
+verification body using professional effort consistent with ISO 14064:3. Stantec has assessed the 2020 GHG and sustainability data assertions for 
+GM Global Facilities using reasonably ascertainable information.  The assessment represents the conditions in the subject area at the time of the 
+assessment.    Stantec  did  not  conduct  direct  GHG  emissions  monitoring  or  other  environmental  sampling  and  analysis  in  conjunction  with  this 
+verification report. Stantec will retain all verification documents for a minimum of seven (7) years. 
+
+STANTEC CONSULTING LTD. 
+
+Gizem Gunal-Akgol, P.Eng 
+Lead Verifier 
+Environmental Services 
+Tel: (519) 569-8126 
+
+Daniel Hegg, M.Sc., CEM 
+Independent Peer Reviewer  
+Environmental Services 
+Tel: (250) 217-9729 
+
+Issued March 10, 2022 in Waterloo, Ontario, Canada 
+
+2021 SUSTAINABILITY SUPPLEMENT  73
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

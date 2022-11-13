@@ -1,0 +1,8 @@
+136Appendix
+Metric / Disclosure / Topic Source(s) Methodology / Definition
+Manufacturing Phase Emissions for Average Mid -Size Premium ICE Tesla, Sphera SolutionsIn order to estimate the cradle -to-gate carbon footprints (GWP100) of select benchmark vehicles, a simplified 
+approach of multiplying their curb weights by a carbon intensity of ~5.5 kg CO2e/kg was chosen. This reference 
+value is based on a currently produced mid -size premium sedan that is comparable to the Model 3. The accuracy of 
+this estimate for the other ICE vehicles directly depends on how their material compositions compared to that of 
+the reference vehicle as well as on the existing variability of environmental impact profiles across different 
+geographies and suppliers

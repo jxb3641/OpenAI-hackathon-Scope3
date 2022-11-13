@@ -1,0 +1,4 @@
+62Despite a higher -emissions grid in China, Model 3 still has lower emissions than comparable ICE vehicles
+In China, much of the grid is powered by coal. That said, even in this scenario, charging a T esla Model 3Y from 
+the grid is still less emission intensive than running an ICE vehicle. Just like in Europe, we have assumed a 
+vehicle lifetime of 150,000 miles

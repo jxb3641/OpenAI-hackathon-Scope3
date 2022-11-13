@@ -1,0 +1,30 @@
+Environmental
+2019 2020 2021
+Emissions
+Direct (Scope 1) GHG Emissions
+ Direct (Scope 1) GHG Emissions (gross direct) (metric tons CO2e)1,2 1,589,700  1,214,124  1,252,906
+Indirect (Scope 2) GHG Emissions
+ Gross Location-Based Indirect Emissions (metric tons CO2e)1 4,381,970  3,087,816  2,881,767
+ Gross Market-Based Indirect Emissions (metric tons CO2e)1,3 3,721,875  2,599,822  2,150,694
+Other Indirect (Scope 3) GHG Emissions  
+ Other Indirect (Scope 3) GHG Emissions (gross indirect) (metric tons CO2e)4 249,384,317  296,411,327 Not Reported
+Other
+ Reduction of GHG Emissions  Not Reported  154,9667 151,708 
+ NOX (metric tons) (nitrogen oxides emissions)5,6 11,528 14,9307 966
+ SOX (metric tons) (sulfur oxides emissions)6 30  26  43
+ VOC (metric tons) (VOC emissions)6Not Reported Not Reported  12,443
+ # of Vehicles Represented with Carbon Avoidance8Not Reported  2,300,000  2,128,906 
+Global Volume (thousands of units)
+Total Number of Vehicles Manufactured  7,332  6,131  5,585 
+Total Number of Vehicles Sold  7,718  6,826  6,295 
+Sales by Region (thousands of units)
+Sales by Region (North America) 3,367  2,924  2,574 
+Sales by Region (South America) 669  470  394 
+Sales by Region (Asia Pacific, Middle East, Africa) 3,678  3,431  3,327 
+Sales by Region (Europe) 4  1  1 
+U.S. Sales as a Percentage of Industry
+U.S. Sales as a Percentage of Industry—Trucks 46% 49% 55%
+U.S. Sales as a Percentage of Industry—Cars 13% 9% 6%
+U.S. Sales as a Percentage of Industry—Crossovers 40% 41% 39%Data Center
+ 1.  Baseline year 2018, and includes all facilities under GM operational control. Calculation includes CO2, CH4 and N20. Reporting is based on GHG Protocol, and the source of emission factors is regulatory or IPCC Good Practice Guidelines. 
+ 2. GM’s Scope 1 emissions are generated from use of fossil fuels, mostly natural gas for process and building heat and are verified by an independent third party

@@ -1,0 +1,3 @@
+Instead of defining safety as the absence of accidents, we define safety as the presence of capacity. Capacity 
+can be defined as the ability to mitigate outcomes and reduce system brittleness.People and Culture
+Safety

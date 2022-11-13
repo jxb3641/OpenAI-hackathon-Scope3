@@ -1,9 +1,64 @@
 """Utilities for 10K filings."""
+import streamlit as st
 import glob
 import re
 import random
 import json
 import pandas as pd
+import nltk
+import openai
+openai.api_key = st.secrets["openai_api_key"]
+
+from pathlib import Path
+
+ROOT_DATA_DIR = Path("data/ind_lists")
+
+#TODO: Refactor this into two functions: 
+# one that takes in a submission id, and creates a dict of item1/mda sources, and texts
+# another that takes in the directory, and outputs all submission ids
+# random sample filings should be done separately, or in a third function.
+
+def get_all_submission_ids(datadir=ROOT_DATA_DIR/'4_food_bev'/'10k'):
+    """get all the submission IDs of 10-K .txts.  
+    Assumes filing texts are of form (submission-id).txt, (submission-id)_item1.txt, (submission-id)_mda.txt
+
+    Args:
+        datadir (str): Where to look for the text files.
+    Returns:
+        (tuple(str)): Tuple of unique submission IDs.
+    """
+
+    tenk_all_filingnames = sorted(set([re.search("([A-Z]+)_\d+-\d+-\d+",str(fp)).group() for fp in datadir.glob("*.txt")]))
+
+    return tuple(tenk_all_filingnames)
+
+def get_text_from_files_for_submission_id(filename, datadir=ROOT_DATA_DIR/'4_food_bev'/'10k'):
+    """Read in the .txt files for submission_id, located in datadir. 
+
+    Args:
+        filename (str): Submission id of the filing.
+        datadir (str): filepath where all 3 files (.txt, item1.txt, mda.txt) for the submission id should be located.  
+
+    Returns:
+        dict: Dictionary containing the submission id, filepath of the .txt, item1.txt and mda.txt, files, 
+        and their texts read in as strings with keys full_txt, item1_txt, mda_txt.
+    """
+
+    
+
+    text_dict = {}
+    for fp in datadir.glob(f"{filename}*.txt"):
+        if re.search("item1.txt",str(fp)):
+            text_dict["item1"] = str(fp)
+            text_dict["item1_txt"] = fp.read_text(encoding="utf-8").replace("$","\$")
+        elif re.search("mda.txt",str(fp)):
+            text_dict["mda"] = str(fp)
+            text_dict["mda_txt"] = fp.read_text(encoding="utf-8").replace("$","\$")
+        else:
+            text_dict["fullFiling"] = str(fp)
+            text_dict["full_txt"] = fp.read_text(encoding="utf-8").replace("$","\$")
+
+    return text_dict
 
 
 def get_random_sample_filings(number_filings=10,seed=None):
@@ -50,7 +105,7 @@ def get_random_sample_filings(number_filings=10,seed=None):
     return df
 
 def split_text(text):
-    """split text into workable chunks.
+    """split text into workable chunks. Filter out header and footer.
 
     Args:
         text (str): original text.
@@ -59,7 +114,33 @@ def split_text(text):
         list(str): list of text chunks.
     """
 
-    return text.split(". ")
+    #TODO: Filter out table of contents, anything past item 15
+
+    split_text = text.split("\n\n")
+    start_index = 0 # Find the "Washington, DC" chunk, we will throw out all other chunks before this 
+    end_index = -1 # Find the the "Item 15" chunk, we will throw out all chunks after this
+    for i, chunk in enumerate(split_text):
+        if re.search("washington,",chunk.lower()):
+            start_index = i
+#        elif re.search(r"item 15\.",chunk.lower()):
+#            end_index = i
+
+
+
+    return split_text[start_index+1:end_index] 
+
+
+def filter_chunks(split_text):
+    """Filter split chunks."""
+
+    filtered_split = [] 
+    #Remove chunks less than some hard limit in length 
+    for chunk in split_text:
+        if len(chunk.split())>=15:
+            filtered_split.append(chunk)
+
+    return filtered_split 
+  
 
 def does_text_have_climate_keywords(text):
     """Checks if any of a preset list of keywords is in the text.
@@ -127,3 +208,66 @@ def concat_keyword_sentences(keyword_sentence_map,max_str_length=900):
         for keyword_sentence in keyword_sentence_list:
             concat_str += keyword_sentence+"\n\n" 
     return concat_str
+
+
+def get_chunks_from_file(filename):
+    import csv
+    chunks = []
+    with open(filename) as f:
+        #skip header
+        reader = csv.reader(f, delimiter=';')
+        next(reader)
+        for row in reader:
+            if row[3] == "Firm":
+                if row[4] and len(row[4]) > 75:
+                    if len(row[4]) > 200:
+                        sentences = nltk.sent_tokenize(row[4])
+                        #create chunks of 8 sentences
+                        for i in range(0, len(sentences), 8):
+                            chunk = "".join(sentences[i:i+8])
+                            if chunk:
+                                chunks.append(chunk)
+                    else:
+                        chunks.append(row[4])
+    return chunks
+
+def get_chunks_from_esg_report(filename):
+    with open(filename) as f:
+        text = f.read()
+        chunks = []
+        for line in text.split("\n\n"):
+            line = line.replace('\n', '').replace('\r', '')
+            if line and len(line) > 50:
+                if len(line) > 200:
+                    sentences = nltk.sent_tokenize(line)
+                    #create chunks of 8 sentences
+                    for i in range(0, len(sentences), 8):
+                        chunk = "".join(sentences[i:i+8])
+                        if chunk:
+                            chunks.append(chunk)
+                else:
+                    chunks.append(line)
+    #print(chunks)
+    return chunks
+
+
+if __name__ == "__main__":
+    from OpenAIUtils import file_to_embeddings, questions_to_answers
+
+    filename = "/Users/colemanhindes/hackathon/OpenAI-hackathon-Scope3/data/pdf_reports/Ford_2022_-_TCFD.txt"
+
+    questions = ['Has supply chain disruption affected the business? Will supply chain disruption affect the business?', 'Does the company have emissions targets? What are the company’s emissions targets?', 'Has this company’s emissions goals been approved by the Science Based Targets Initiative (SBTi)?', 'What is the percentage of energy used that is from renewable sources?', 'Is the company able to report Scope 3 emissions?', '(Sector Specific) What is the percentage of food ingredients sourced from regions with High or Extremely High Baseline Water Stress(F&B)?', 'What does the company say about the environmental & social impacts of their ingredient supply chain?', 'Does this company provide disclosures aligned with Sustainability Accounting Standards Board (SASB) standards?', 'Does this company provide disclosure aligned with Task Force on Climate Related Financial Disclosures (TCFD) standards?', 'Does this company provide disclosure aligned with Global Reporting Initiative (GRI) standards?']
+
+    #Only show matches above this level
+    match_threshold = 0.35
+
+    chunks = get_chunks_from_esg_report(filename)
+    for chunk in chunks:
+        if not chunk:
+            print("empty chunk")
+    embeddings = file_to_embeddings(Path(filename), chunks)
+
+    answers = questions_to_answers(questions, embeddings, min_similarity=match_threshold)
+
+        
+

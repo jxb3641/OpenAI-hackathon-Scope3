@@ -1,0 +1,35 @@
+Workforce  
+ 
+2019              2020             2021
+Number Percentage Number Percentage
+Global Open Positions Filled Internally1, 2
+Total •  4,503 100.0% 21,786 100.0%
+Internally •  2,592 57.6%  7,921 36.4%
+Global Hires by Region and Gender1, 3
+Female
+Total 100.0%  3,574 100.0%  5,709 100.0%
+North America 88.5%  3,208 89.8%  4,770 83.6%
+South America 8.2%  297 8.3%  741 13.0%
+International 3.3%  69 1.9%  198 3.5%
+Male
+Total 100.0%  8,269 100.0%  11,800 100.0%
+North America 81.5%  7,057 85.3%  10,003 84.8%
+South America 14.2%  957 11.6%  1,337 11.3%
+International 4.3%  255 3.1%  460 3.9%
+Global Hires by Gender1, 3
+Total 100.0%  11,843 100.0%  17,509 100.0%
+Male 63.1%  8,269 69.8%  11,800 67.4%
+Female 36.9%  3,574 30.2%  5,709 32.6%
+Global Hires by Age and Gender1, 3
+Female
+Total 100.0%  3,574 100.0%  5,709 100.0%
+Under 30 53.6%  1,798 50.3%  2,475 43.4%
+30—49 41.0%  1,540 43.1%  2,641 46.3%
+50 and Over 5.4%  236 6.6%  593 10.4%
+Male
+Total 100.0%  8,269 100.0%  11,800 100.0%
+Under 30 59.8%  4,384 53.0%  5,432 46.0%
+30—49 35.0%  3,291 39.8%  5,146 43.6%
+50 and Over 5.2%  594 7.2%  1,222 10.4%Data Center
+GRI Index        SASB Response        TCFD Response        UN SDGs        UNGC        Data Center        Assurance Statements
+ 1. All hire data excludes temporary and student population (interns, co-ops)

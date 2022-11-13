@@ -1,0 +1,15 @@
+While our total Scope 1 and Scope 2 emissions may increase on an absolute basis in the near term as we continue to open new factories, our goal is to reduce the emissions intensity from production as we push the 
+boundaries of sustainable manufacturing and improve the efficiency of our operations. As part of our 
+commitment to reducing our overall emissions in the long term we signed up for the Science -Based Target 
+Initiative (SBTi) in 2021.GHG Emissions
+Scope 1, 2 and 3
+Metric Unit of Measure Manufacturing SSD1 Other2 TOTAL
+Scope 1 GHG emissions tCO2e 124,000 31,000 30,000 185,000*
+Scope 2 GHG emissions 
+(location -based)tCO2e 342,000 35,000 26,000 403,000*
+Scope 3 | Category 11: 
+Use of Sold Products 
+(EV charging)tCO2e 1,954,000 
+1 SSD = Sales, Service & Delivery
+2 Other includes sites that c onduct research & development, administration, energy product warehousing and deployment, and other mixed -used 
+warehousing

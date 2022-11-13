@@ -1,0 +1,6 @@
+The Sustainability Accounting Standards Board (SASB) is an independent, standards-setting organization that promotes disclosure of material sustainability information to meet investor 
+needs. This table references the Standard for the Processed Foods industry as defined by SASB’s Sustainable Industry Classification System (SICS) and identifies how General Mills 
+addresses each topic. Note that some responses may not be fully aligned with SASB’s definition, but represent the content most closely aligned with that indicator. 
+Topic SASB indicator code General Mills response
+Energy Management FB-PF-130a.1 Total energy usage in FY21 for our owned production facilities was 10,201,111 gigajoules (GJ); 63% renewable electricity sourced for our 
+global operations

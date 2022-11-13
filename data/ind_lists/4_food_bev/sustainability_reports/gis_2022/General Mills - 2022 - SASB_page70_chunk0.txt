@@ -1,0 +1,22 @@
+Key manufacturing metrics  
+(wholly owned or controlled production facilities globally)*
+In thousands, except rate data 2017 2018 2019 2020 2021
+Energy usage rate (GJ/metric ton of product) 1.91 1.89 1.91 1.95 1.92
+Energy usage (GJ)  9,787   9,051   9,385  10,052  10,201 
+GHG emissions rate (metric tons CO2e/
+metric tons of product)**0.165 0.16 0.16 0.12 0.08
+GHG emissions (Scopes 1 and 
+2)** (metric tons CO2e)  831  811 812 633 446
+   Scope 1 (metric tons CO2e)  254  267 274 303 334
+   Scope 2 (metric tons CO2e)**  576  511 511 330 112
+Water consumption rate (cubic meters/metric ton of product)2.99 2.85 2.72 2.76 2.56
+Water consumption (cubic meters) 15,100 13,604  13,367 14,260 13,607
+   Groundwater (cubic meters)  6,400  5,772  5,545 5,714  5,226 
+   Municipal (cubic meters) 8,700 7,832  7,822  8,498  8,369 
+Solid waste generation rate (metric tons/metric ton of product)***0.045 0.065
+0.061 0.064 0.063
+Solid waste (metric tons)***  228 309 299 329 337
+   Food waste (metric tons)**** 2.24 1.71
+Percentage of owned production facilities that achieved zero waste to landfill***** (%)14% 20% 24% 30% 28%
+*Data in this table is reported on a fiscal year basis and represent wholly owned or controlled production facilities globally. 
+Past fiscal years have not been adjusted for acquisitions or divestitures. Some data are restated compared to reporting in prior years to reflect improvements in data gathering and tracking methodologies. Beginning in 2019, data reflects the acquisition of Blue Buffalo Pet Products, Inc., completed in April 2018.**Scope 2 GHG emissions data were calculated using the location-based method from 2017-2019 and the market-based method (applying RECS and European Residual Mix Factors) in 2020 and 2021. These data were externally verified for 2015-2019 by Bureau Veritas, and for 2020-2021 by Apex Companies LLC.***Solid waste data is from production and excludes waste associated with construction as well as nonproduction activities such as new product trials.**** General Mills defines food waste following the Food Loss & Waste Protocol Standard and the baseline year for our goal reduction is fiscal 2020 (not reported for earlier years).****These facilities sent no waste to landfill or incineration without energy recovery. Data includes facilities that were operatingat the end of the relevant fiscal year

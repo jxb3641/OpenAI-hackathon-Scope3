@@ -1,0 +1,31 @@
+Workforce  
+ 
+2019              2020             2021
+Number Percentage Number Percentage
+U.S. Workforce Self-Identified as Having a Disability1
+Total 100.0%  645 100.0%  1,314 100.0%
+Male 73.6%  536 83.1%  962 73.2%
+Female 26.4%  109 16.9%  352 26.8%
+U.S. Workforce Self-Identified Veteran Status and Gender1, 2
+Veteran
+Total 100.0%  5,005 100.0%  5,021 100.0%
+Male 88.5%  4,400 87.9%  4,427 88.2%
+Female 11.5%  605 12.1%  594 11.8%
+Disabled Veteran
+Total 100.0%  404 100.0%  490 100.0%
+Male 92.9%  374 92.6%  456 93.1%
+Female 7.1%  30 7.4%  34 6.9%
+U.S. Workforce Self-Identified as LGBTQ
+Total Self-Reported Responses •  6,568 100.0% 12,787 100%
+LGBTQ •  3453 5.3% 521 4.1%
+U.S. Technology Positions by Race and Ethnicity2
+Total •  25,574 100.0%  29,098 100.0%
+White •  17,199 67.3%  18,713 64.3%
+Black/African American •  1,459 5.7%  1,686 5.8%
+Asian •  5,013 19.6%  6,145 21.1%
+Hispanic/Latino •  1,496 5.8%  1,882 6.5%
+American Indian or Alaskan Native •  54 0.2%  55 0.2%
+Native Hawaiian or Pacific Islander •  19 0.1%  17 0.1%
+Two or More Races •  271 1.1%  359 1.2%
+Do Not Wish to Identify •  63 0.2%  241 0.8%Data Center
+ 1. Includes disabled veterans that have also self-identified as disabled. Disabled employee counts include disabled veterans

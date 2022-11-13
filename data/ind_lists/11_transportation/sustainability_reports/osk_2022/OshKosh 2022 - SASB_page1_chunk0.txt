@@ -1,0 +1,17 @@
+1
+OSHKOSH CORPORATION | 2021 SASB DISCLOSURETopic SASB Code Metric Unit of Measure Response
+Accounting Metrics RT-IG-000.A Number of units produced Number 69,771
+RT-IG-000.B Number of employees Number 14,481
+Energy Management RT-IG-130a. 1 Total energy consumed Gigajoules (GJ) 1.63 Million
+Percentage grid electricity Percentage (%) 30.5
+Percentage Renewable Percentage (%) 0
+Employee Health & Safety RT-IG-320a. 1 Total recordable incident rate (TRIR) Rate 2.44
+Fatality rate Number 0
+Near miss frequency rate (NMFR) Rate 8.04SASB index
+At Oshkosh Corporation, sustainability is extremely important to our 
+shareholders, customers, team members and the communities in which 
+we live and work. The goal of this report is to connect investors to topics 
+about accounting metrics, energy management, employee health and 
+safety, fuel economy and emissions in use-phase, materials sourcing 
+and remanufacturing design and services. All data shared is for fiscal 
+year 2021 unless noted otherwise.

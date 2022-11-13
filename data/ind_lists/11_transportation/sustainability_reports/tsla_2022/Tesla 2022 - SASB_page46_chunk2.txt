@@ -1,0 +1,4 @@
+In an ever -changing and dynamic work environment, we recognized the need to focus on creating the ability to 
+fail safely. Creating the ability to fail safely is comprised of three components:
+1.Engaged workers: workers who are connected to and care about the work they do. When workers are 
+engaged, they are more likely to identify and communicate vulnerabilities in the system

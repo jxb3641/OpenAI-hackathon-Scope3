@@ -1,0 +1,1 @@
+ 2. Engineering estimate from site water balance for evaporation in Assembly plants = 30%. Using standard calculation: Withdrawal—Discharge is inaccurate due to ground water infiltration at plant discharge

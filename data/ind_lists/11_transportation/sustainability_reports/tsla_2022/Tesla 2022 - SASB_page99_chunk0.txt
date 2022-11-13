@@ -1,0 +1,13 @@
+
+100The unique T esla approach: Going directly to the source
+The implementation of an OECD -aligned approach for cobalt, nickel and lithium is underpinned by the following 
+two pillars:
+1.Direct sourcing from mining companies: While cobalt, nickel and lithium go through multiple processing 
+steps by different companies, some of the more important environmental and social risks in this supply chain 
+are present at mine sites. Direct sourcing from mining companies allows Tesla to engage directly in local 
+contexts instead of having to rely on multiple midstream companies that typically sit between EV makers 
+and mining. It also enables more transparent and traceable supply chains and better environmental and 
+social data. In 2021, Tesla procured >95% of lithium hydroxide, >50% of cobalt and >30% of nickel for nickel-
+containing (NCA and NCM) cells directly from nine mining and chemicals companies. All nine binding 
+contracts include environmental and social requirements. As T esla’s battery supply chain continues to scale, 
+Tesla expects the proportion of directly sourced minerals to increase 

@@ -1,0 +1,28 @@
+Workforce  
+ 
+2019              2020             2021
+Number Percentage Number Percentage
+Global Employees by Region
+Total •  143,684 100.0%  146,059 100.0%
+North America •  109,496 76.2%  112,717 77.2%
+South America •  16,728 11.6%  17,451 11.9%
+International •  17,460 12.2%  15,891 10.9%
+Global Workforce by Type and Gender1
+Regular Employees
+Total 100.0%  138,469 100.0%  142,580 100.0%
+Male 78.2%  107,622 77.7%  109,327 76.7%
+Female 21.8%  30,847 22.3%  33,253 23.3%
+Temporary
+Total 100.0%  5,215 100.0%  3,477 100.0%
+Male 62.4%  3,031 58.1%  2,093 60.2%
+Female 37.6%  2,184 41.9%  1,384 39.8%
+Managers
+Total 100.0%  9,425 100.0%  12,696 100.0%
+Male 79.5%  7,464 79.2%  9,818 77.3%
+Female 20.5%  1,961 20.8%  2,878 22.7%
+Non-Managers
+Total 100.0%  134,259 100.0%  133,361 100.0%
+Male 77.5%  103,189 76.9%  101,602 76.2%
+Female 22.5%  31,070 23.1%  31,759 23.8%Data Center
+GRI Index        SASB Response        TCFD Response        UN SDGs        UNGC        Data Center        Assurance Statements
+ 1. Gender, race and ethnicity information is self-reported and may not fully reflect the actual number of employees within each category, therefore totals may not equal to the sums of the categories

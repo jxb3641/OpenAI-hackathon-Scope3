@@ -1,0 +1,25 @@
+Data Center
+Environmental
+2019 2020 2021
+Global EV Portfolio
+Global Models with Some Form of Electrification1 13  18  16 
+Percent Sales Share of All-Electric Models 87% 99% 97%
+Percent Share of Plug-In Hybrids and Hybrids 13% 1% 3%
+Global Electric Portfolio285,8423202,6233 493,343
+Global Sales Volume of Alternative Drive Train Vehicles
+ZEV  74,998  200,268  479,963
+Hybrid Vehicles  3,613  135  15 
+Plug-in Hybrid  7,231  2,220  13,365 
+Advanced Powertrain Technologies (Percent of Total U.S. Volume)
+Stop-Start Technology 70% 84% 74%
+Aero-Shutter Not Reported Not Reported 83%
+Engine/Transmission Management Not Reported Not Reported 56%
+High Efficiency Alternators (72%+) Not Reported Not Reported 88%
+Downsized-Turbo Engines 43% 35% 32%
+Advanced Transmissions 55% 72% 82%
+Sales-Weighted Average Passenger Fleet Fuel Economy by Region (gCO2/km)4,5
+USA 293 280 Not Reported 
+China 208 206  Not Reported
+Brazil  198  195  Not Reported
+Total 243 240 Not Reported 
+ 1. Excluding discontinued models

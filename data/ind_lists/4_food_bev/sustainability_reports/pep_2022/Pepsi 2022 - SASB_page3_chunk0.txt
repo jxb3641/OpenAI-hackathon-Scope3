@@ -1,0 +1,96 @@
+Metric Metric CodeReporting 
+StatusType of  
+DisclosureUnit of  
+MeasureResponse Reference
+Product Marketing and Labeling       
+Percentage of advertising 
+impressions made on children
+FB-PF-270a.1
+FB-NB-270a.1Alternate 
+disclosureSASB Metric:  
+Quantitative
+Reported:  
+QualitativeSASB Metric: 
+Percentage (%)
+Reported: 
+Qualitative 
+discussionPepsiCo is committed to marketing 
+our products responsibly to all 
+consumers, and recognizes the need 
+for special guardrails around whether 
+and how we market our products to 
+children. Our marketers are bound by 
+PepsiCo’s Global Policy on Responsible 
+Advertising and Marketing to Children, 
+as well as all relevant local pledge 
+programs, laws, and regulations.ESG Topics A-Z: Advertising 
+and Marketing to Children and 
+School Sales
+See policy documents:
+PepsiCo Global Policy on 
+Responsible Marketing to Childre n
+PepsiCo Ammended U.S. Pledge 
+to Children’s Food & Beverage 
+Advertising Initiative
+PepsiCo Global Policy on the Sale 
+of Beverages to SchoolsPercentage of advertising 
+impressions made on children 
+promoting products that meet 
+dietary guidelines
+Revenue from products labeled 
+as containing genetically 
+modified organisms (GMOs)
+FB-PF-270a.2
+FB-NB-270a.2Alternate 
+disclosureSASB Metric:  
+Quantitative
+Reported:  
+QualitativeSASB Metric: 
+Percentage (%)
+Reported: 
+Qualitative 
+discussionPepsiCo ensures that products 
+containing bioengineered materials 
+comply with local regulations for 
+their use, including any labeling 
+requirements. We want consumers to 
+have clear and helpful information 
+about their foods and beverages and 
+believe that any labeling standards 
+established in this regard should 
+be clear and consistent so that 
+consumers can better understand 
+the safety, prevalence, and benefits 
+of bioengineered ingredients and can 
+make informed choices for themselves 
+and their families. 
+We do not currently track revenue 
+from products containing 
+bioengineered ingredients or labeled 
+as non-GMO.ESG Topics A-Z: Bioengineered 
+Food and Ingredients
+Revenue from products labeled 
+as non-GMO
+Number of incidents of non-
+compliance with industry or 
+regulatory labeling and/or 
+marketing codesFB-PF-270a.3
+FB-NB-270a.3Alternate 
+disclosureQuantitativeSASB Metric: 
+Number
+Reported: 
+Qualitative 
+discussionSee Advertising and Marketing to 
+Children and School Sales for detail 
+on the marketing codes, policies, and 
+pledges we comply with. ESG Topics A-Z: Advertising 
+and Marketing to Children and 
+School Sales
+Total amount of monetary 
+losses as a result of legal 
+proceedings associated with 
+marketing and/or labeling 
+practicesFB-PF-270a.4
+FB-NB-270a.4Not 
+reportedQuantitativeReporting 
+currency

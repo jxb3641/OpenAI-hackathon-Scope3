@@ -1,0 +1,31 @@
+Workforce  
+ 
+2019              2020             2021
+Number Percentage Number Percentage
+Global Employees by Employment Type and Gender1
+Full-time
+Total 100.0%  141,908 100.0%  143,914 100.0%
+Male 77.7%  109,780 77.4%  110,260 76.6%
+Female 22.3%  32,128 22.6%  33,654 23.4%
+Part-time
+Total 100.0%  1,776 100.0%  2,143 100.0%
+Male 10.2%  873 49.2%  1,160 54.1%
+Female 89.8%  903 50.8%  983 45.9%
+U.S. Workforce by Hourly/Salary Employees
+Total •  84,851 100.0%  88,435 100.0%
+Hourly •  45,803 54.0%  44,405 50.2%
+Salary •  39,048 46.0%  44,030 49.8%
+U.S. Hourly by Gender1
+Total •  45,803 100.0%  44,405 100.0%
+Male •  32,456 70.9%  31,517 71.0%
+Female •  13,347 29.1%  12,888 29.0%
+Global Technology Positions by Gender1, 2
+Total 100.0%  33,553 100%  37,793 100.0%
+Male 81.8%  27,333 81.5%  30,486 80.7%
+Female 18.2%  6,220 18.5%  7,307 19.3%
+Global Promotions by Gender1, 3
+Total 100.0%  6,769 100%  10,229 100.0%
+Male •  4,922 72.7%  7,195 70.3%
+Female •  1,847 27.3%  3,034 29.7%Data Center
+GRI Index        SASB Response        TCFD Response        UN SDGs        UNGC        Data Center        Assurance Statements
+ 1. Gender, race and ethnicity information is self-reported and may not fully reflect the actual number of employees within each category, therefore totals may not equal to the sums of the categories

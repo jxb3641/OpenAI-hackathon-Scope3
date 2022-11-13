@@ -1,0 +1,6 @@
+142GHG Emissions Disclosure (cont.)
+5.Related to Scope 2 GHG emissions (location -based):
+•GHG emissions from the generation of electricity purchased by Tesla for site operations. 
+For sites that include Superchargers (electric vehicle fast charging stations), Tesla did 
+not include electricity procured for customer use through the Supercharger stations as 
+those emissions are included in Scope 3, Category 11 Use of Sold Products

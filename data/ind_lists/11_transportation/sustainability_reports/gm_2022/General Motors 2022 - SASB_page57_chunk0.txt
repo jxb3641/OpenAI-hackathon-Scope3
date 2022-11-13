@@ -1,0 +1,31 @@
+Workforce  
+ 
+2019              2020             2021
+Number Percentage Number Percentage
+U.S. Hires by Race and Ethnicity1, 2
+Total •  4,712 100.0%  10,698 100.0%
+White •  2,640 56.0%  5,468 51.1%
+Black/African American •  1,051 22.3%  2,009 18.8%
+Asian •  552 11.7%  1,747 16.3%
+Hispanic/Latino •  369 7.8%  883 8.3%
+American Indian or Alaskan Native •  16 0.3%  26 0.2%
+Native Hawaiian or Pacific Islander •  5 0.1%  9 0.1%
+Two or More Races •  57 1.2%  200 1.9%
+Do Not Wish to Identify •  22 0.5%  356 3.3%
+U.S. Hires by Self-Identified Status2
+Total •  4,712 100.0%  10,698 100.0%
+Disability •  73 1.5%  521 4.9%
+Veteran •  148 3.1%  399 3.7%
+Disabled Veteran •  24 0.5%  107 1.0%
+U.S. Attrition by Race and Ethnicity1, 3
+Total •  6,778 100.0%  5,697 100.0%
+White •  4,871 71.9%  3,705 65.0%
+Black/African American •  1,231 18.2%  1,061 18.6%
+Asian •  282 4.2%  478 8.4%
+Hispanic/Latino •  331 4.9%  330 5.8%
+American Indian or Alaskan Native •  32 0.5%  27 0.5%
+Native Hawaiian or Pacific Islander •  • 0.0%  7 0.1%
+Two or More Races •  27 0.4%  60 1.1%
+Do Not Wish to Identify •  4 0.1%  29 0.5%Data Center
+ 1. Gender, race and ethnicity information is self-reported and may not fully reflect the actual number of employees within each category, therefore totals may not equal to the sums of the categories. 
+ 2. All hire data excludes temporary and student population (interns, co-ops)

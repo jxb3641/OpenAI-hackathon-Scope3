@@ -1,0 +1,2 @@
+ 5. Number of incidents that resulted in injuries or illnesses that required medical treatment beyond simple first aid treatment per 1,000,000 work hours. 
+ 6. This metric helps to identify hazards, eliminate risks and drive reporting for all incidents so that we can identify and assess areas for improvement

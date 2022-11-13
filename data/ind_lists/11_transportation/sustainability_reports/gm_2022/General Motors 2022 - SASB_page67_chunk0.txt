@@ -1,0 +1,46 @@
+GRI Index        SASB Response        TCFD Response        UN SDGs        UNGC        Data Center        Assurance Statements
+2021 VERIFICATION STATEMENT  - GENERAL MOTORS COMPANY  
+2 
+ 
+GHG and Sustainability Data Assertions 
+The GHG and sustainability data assertions are provided in Table 1 .  
+Table 1. General Motors Global Facilities - 2021 GHG and Sustainability Data Assertions  
+Parameter  Assertion  Metric  Notes  
+Scope 1 GHG Emissions - Total  1,252,906  Metric tonnes of carbon dioxide 
+equivalent (tCO 2e)  
+Scope 1 GHG Emissions – Stationary Fuel 
+Combustion  1,104,792  tCO 2e  
+Scope 1 GHG Emissions – Mobile Fuel 
+Combustion (biogenic)  761 tCO 2e  
+Scope 1 GHG Emissions – Mobile Fuel 
+Combustion (non -biogenic)  71,403 tCO 2e  
+Scope 1 GHG Emissions – Facility Refrigerant 
+Use (Equipment)  63,753 tCO 2e  
+Scope 1 GHG Emissions – Facility Refrigerant 
+Use (Products)  12,198  
+tCO 2e  
+Scope 2 GHG Emissions (Location Based)  2,881,767  tCO 2e  
+Scope 2 GHG Emissions (Market Based)  2,150,694  tCO 2e  
+Total Energy Use  12,552,855  MWh   
+Total Water Use  25,340,350  m3  
+Total Waste Generated  1,464,097  metric tonnes  Does not include waste from 
+construction, demolition and 
+remediation  
+Total Waste – Hazardous  42,080 metric tonnes  Does not include waste from 
+construction, demolition and 
+remediation  
+Total Waste – Non-Hazardous  1,422,017  metric tonnes  Does not include waste from 
+construction, demolition and 
+remediation  
+Waste Directed to Disposal  253,033 metric tonnes  Does not include waste from 
+construction, demolition and 
+remediation  
+GM Zero Waste Performance  86.4 % Percentage of waste diverted from 
+landfill, incinerators and energy 
+recovery compared to a three -year 
+average (2017- 2019) baseline of 
+total operational waste generated  
+Year Over Year Performance  
+Scope 1 & 2 GHG Emissions  -3.9 % Location -Based  
+(Scopes 1 & 2)  
+2021 SUSTAINABILITY SUPPLEMENT  67

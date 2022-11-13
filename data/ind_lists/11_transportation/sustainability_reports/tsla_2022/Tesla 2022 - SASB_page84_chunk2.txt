@@ -1,0 +1,6 @@
+*Based on NHTSA’s most recent crash data.Vehicle Safety
+Autopilot Safety
+0.00.51.01.52.0
+Tesla Vehicles
+Autopilot EngagedTesla Vehicles
+No Active SafetyTotal U.S

@@ -1,0 +1,26 @@
+Workforce  
+ 
+2019              2020             2021
+Number Percentage Number Percentage
+U.S. Turnover Rate1, 2
+Attrition Rate Attrition Rate
+Total310.7%  6,781 8.1%  5,697 7.2%
+Voluntary 4.7%  5,79347.0%  4,439 5.6%
+Involuntary •  98841.2%  1,258 1.6%
+Retirements •  4,119 N/A  1,865 N/A
+Global Workforce by Gender and Region5
+Female
+Total 100.0%  33,031 100.0%  34,637 100.0%
+North America 87.6%  29,211 88.4%  30,352 87.6%
+South America 5.7%  2,262 6.8%  2,632 7.6%
+International 6.7%  1,558 4.7%  1,653 4.8%
+Male
+Total 100.0%  110,653 100.0%  111,420 100.0%
+North America 71.4%  80,285 72.6%  82,365 73.9%
+South America 13.5%  14,466 13.1%  14,819 13.3%
+International 15.1%  15,902 14.4%  14,236 12.8%
+U.S. Workforce by Gender5
+Total •  84,851 100.0%  88,435 100.0%
+Male •  61,810 72.8%  64,366 72.8%
+Female •  23,041 27.2%  24,069 27.2%Data Center
+ 1. Attrition data excludes temporary and student population (interns, co-ops)

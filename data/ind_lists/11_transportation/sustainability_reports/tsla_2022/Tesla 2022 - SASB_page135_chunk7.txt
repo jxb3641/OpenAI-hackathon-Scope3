@@ -1,0 +1,4 @@
+Figure exclusive of: capital goods (e.g., machinery, buildings), infrastructure (e.g., roads, power transmission systems), employee commute, external charging equipment and infrastructure, maintenance and service during use, 
+packaging, transport to recycler, disposal of manufacturing waste, inbound transportation from Tier 1 suppliers, 
+distribution to customers. Excluded activities are estimated to represent minor contributions to the cradle -to-gate 
+as well as the overall LCA results

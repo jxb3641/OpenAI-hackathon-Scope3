@@ -1,0 +1,15 @@
+10431%1%13%2%4%18%8%23% 100%
+Nickel Cobalt Lithium Aluminum Electricity
+(Cathode)Graphite Other Electricity
+(Cell Assembly)TotalBattery Supply Chain
+#2 Risk Identification2.3 GHG emissions hotspot identification
+In addition to the product -specific LCA described in the Environmental Impact section, Tesla also commissioned 
+LCA service provider Minviro to identify hotspots with high global warming potential across eight specific 
+processing routes from which we currently source cobalt, nickel and lithium. 
+The hotspot analysis found that main drivers of GHG emissions depend on the different battery compositions, 
+processing routes and countries of origin. Overall, key drivers are the cathode and anode supply chains. Within 
+the cathode supply chain, the hotspots are nickel and lithium, and cobalt was only a minimal contributor. Within 
+the cobalt, nickel and lithium supply chains, chemical processing (refining / smelting) was a larger driver than mining. 
+CO
+2e Contribution from Materials and Processes within Nickel- Based Battery Supply Chain
+Upstream of Tesla

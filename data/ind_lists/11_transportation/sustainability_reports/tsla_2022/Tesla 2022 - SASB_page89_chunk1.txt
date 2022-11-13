@@ -1,0 +1,10 @@
+When the media reports a story about a vehicle fire, it is usually reporting on an EV fire. This is likely a result of 
+chasing clicks, rather than the prevalence of EV -related fires compared to ICE vehicle- related fires. The reality is, 
+when compared to Tesla vehicles, ICE vehicles catch fire at a vastly higher rate. According to the latest available 
+data, in 2020, there were almost 173,000 vehicle fires in the U.S. alone.  
+From 2012 to 2021, there has been approximately five Tesla vehicle fires for every billion miles traveled. By 
+comparison, data from the National Fire Protection Association (NFPA) and U.S. Department of Transportation 
+show that in the U.S. there are 53 vehicle fires for every billion miles travelled.  
+In order to provide an apt comparison to NFPA data, Tesla’s data set includes instances of vehicle fires caused 
+by structure fires, arson and other reasons unrelated to the vehicle, which account for some of the T esla vehicle 
+fires over this time period
