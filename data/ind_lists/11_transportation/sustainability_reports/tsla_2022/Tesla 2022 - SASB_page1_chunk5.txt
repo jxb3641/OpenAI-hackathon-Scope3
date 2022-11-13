@@ -1,8 +1,0 @@
-On the product front, companies should be required to use 
-real-world data wherever remotely feasible and make it 
-clear when estimates are provided instead of real -world 
-figures. An example of this is vehicle “use -phase” 
-emissions, accounting for the vast majority of lifecycle 
-emissions. Automakers' estimates on lifetime vehicle mileage and lifetime fuel consumption vary dramatically 
-and almost never reflect real -world data. Automakers often 
-have access to this data, but they don’t disclose it

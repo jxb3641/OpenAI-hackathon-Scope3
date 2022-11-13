@@ -1,6 +1,0 @@
-Engaging the security community
-We are also focused on ensuring that our vehicles are the most secure on the road. T o do that, our team of 
-world -class engineers works day in and day out to ensure that our systems are always as secure as possible. 
-And while some of the best security engineers work at Tesla, we believe that in order to design and build 
-inherently secure systems, we cannot work alone. We work closely with the security research community to 
-benefit from their collective expertise and diversity of thought

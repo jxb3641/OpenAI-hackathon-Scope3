@@ -1,5 +1,0 @@
-64
-1.  Building new, better designed and more efficient factories
-Building a factory from the ground up with sustainability in mind can have a material impact on reducing energy 
-use. For each component that requires less movement around the factory, and as we use fewer robots in the 
-vehicle production process, energy consumption declines

@@ -1,7 +1,0 @@
-135Appendix
-Metric / Disclosure / Topic Source(s) Methodology / Definition
-Scope 1, 2 and 3 Emissions Definition Greenhouse Gas ProtocolScope 1 emissions are direct emissions from owned or controlled sources. 
-Scope 2 emissions (location -based) are indirect emissions from the generation of purchased energy. 
-Scope 3 emissions are all indirect emissions (not included in scope 2) that occur in the value chain of the reporting 
-company, including both upstream and downstream emissions. Emissions from the use of a company’s products are 
-included in Scope 3

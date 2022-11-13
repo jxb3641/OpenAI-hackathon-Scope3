@@ -1,2 +1,0 @@
-Model 3/Y Ridesharing Use (Grid Charged): What emissions per mile could be if a Model 3/Y were used for 
-ridesharing over one million miles using cell chemistry from Tesla energy products, charged from the grid

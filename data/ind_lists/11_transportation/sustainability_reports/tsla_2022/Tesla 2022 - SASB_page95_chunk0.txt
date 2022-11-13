@@ -1,9 +1,0 @@
-
-96
-Extracting raw 
-materialsA common question we receive is: “What happens to T esla battery packs once they reach the end of their life?” 
-An important distinction between fossil fuels and lithium -ion batteries as an energy source is that while fossil 
-fuels are extracted and used once, the materials in a lithium -ion battery are recyclable. When petroleum is 
-pumped out of the ground, chemically refined and then burned, it releases toxic emissions into the atmosphere 
-that are not recoverable for reuse. Battery materials, in contrast, are refined and put into a cell and will remain in 
-the cell at the end of their life when they can be recycled to recover valuable materials for reuse, repeatedly

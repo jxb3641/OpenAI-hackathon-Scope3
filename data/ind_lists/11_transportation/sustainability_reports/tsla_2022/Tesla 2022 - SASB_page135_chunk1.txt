@@ -1,5 +1,0 @@
-As such, the specific carbon footprint (GWP100/kg) of the reference vehicle is only a proxy for the average 
-premium mid -size ICE vehicle. Based on past work on automotive LCAs (Rohde- Brandenburger & Koffler, 2019) 
-(Koffler C. 873 , 2013) (Koffler C. , 2010) (Koffler C. , Krinke , Schebek , & Buchgeister , 2008) (Koffler C. , 2007), the 
-uncertainty of these estimates is estimated to be less than ±20% for a cradle -to-gate system boundary, and 
-therefore less than ±5% once the use -phase is added

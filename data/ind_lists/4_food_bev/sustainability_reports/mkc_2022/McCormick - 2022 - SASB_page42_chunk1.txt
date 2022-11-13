@@ -1,4 +1,0 @@
-—  Further , we encourage all employees to stop work if they deem the situation hazardous. Currently , 
-each site investigates any incidents internally , using root cause analysis, and we ensure any resulting 
-corrective actions are managed to closure. The future system will further formalize incident 
-investigation processes across the organization

@@ -1,7 +1,0 @@
-
-69
-Scope 3 GHG emissions calculations are highly academic, even those widely used and accepted like the GHG 
-Protocol. Most companies lack primary data as it relates to their supply chain, product use and so on. Therefore, 
-most Scope 3 GHG emissions reporting is done using lofty assumptions as well as estimates from databases –
-this can lead to figures that are magnitudes off from the actual impact. T esla has begun to measure the two 
-largest categories within our Scope 3 emissions: those from use of product and our supply chain

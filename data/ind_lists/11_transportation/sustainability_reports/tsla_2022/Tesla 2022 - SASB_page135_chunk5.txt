@@ -1,5 +1,0 @@
-Use-phase Emissions for Average Mid -Size Premium ICE Consumer ReportsFigured based on owner -reported fuel economy from Consumer Reports for the latest available model year (2018 -
-2020, depending on the make/model). 24.8 MPG is representative of the average of Alfa Romeo Giulia , Audi A4, 
-BMW 330i, Cadillac ATS, Infiniti Q50, Lexus IS 300, Mercedes -Benz C300, and Volvo S60. use -phase GWP100 of 
-~400 gCO2e/mi includes gasoline production and distribution emissions from GaBi 2019 databases as well as 
-consideration of bio -fuel mix of gasoline in the U.S. (~12%)

@@ -1,9 +1,0 @@
-*Latest estimate for water consumption based on factory design. Actual production figures will not be known until factories a re ramped to full production 
-speed.012345
-GF Berlin
-(est.)*BMW GF Texas
-(est.)*Tesla
-(2021)Ford Industry
-Avg.Toyota VW Group GM Daimler
-(cars)StellantisWater Withdrawal Intensity in Vehicle Manufacturing (m3/vehicle)
-Vehicle Manufacturing Cell Manufacturing

@@ -101,7 +101,7 @@ def query_similarity_search(embeddings, query, model_family="babbage", n=3, min_
 
     res = embeddings.sort_values("similarities", ascending=False).head(n)
     if pprint:
-        print(f"Query: {query}")
+        print(f"{'-'*50}\nQuery: {query}\n{'-'*50}")
         for _, series in res.iterrows():
             if float(series["similarities"]) > min_similarity:
                 print(f"Score: {series['similarities']:.3f}")
