@@ -1,7 +1,7 @@
 import finnhub
 import streamlit as st
 
-api_key = st.secrets["finnhub_api_key"]
+api_key = "cdo2dj2ad3i5o5oktnn0cdo2dj2ad3i5o5oktnng"
 finnhub_client = finnhub.Client(api_key=api_key)
 
 def get_symbol(company):
