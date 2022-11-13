@@ -61,7 +61,7 @@ def get_text_from_files_for_submission_id(filename, datadir=ROOT_DATA_DIR/'4_foo
     return text_dict
 
 
-def get_random_sample_filings(number_filings=10,seed=None):
+def get_random_sample_filings(number_filings=50,seed=None):
     """For a random sample of filings, parse their names, MDA, and Item1 .txt files
     and their text.
 
