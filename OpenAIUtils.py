@@ -5,7 +5,7 @@ import pandas as pd
 import os
 from transformers import GPT2TokenizerFast
 tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
-from EDGARFilingUtils import ROOT_DATA_DIR, filter_text, split_text
+from EDGARFilingUtils import ROOT_DATA_DIR, filter_chunks, split_text
 
 from tenacity import (
     retry,
@@ -64,8 +64,8 @@ def call_openai_api_completion(prompt, model_family='ada',temperature=0.0):
     )
     return response['choices'][0]['text']
 
-@retry(wait=wait_random_exponential(min=5, max=60), stop=stop_after_attempt(50))
-def get_embedding(text, query = True, model_family="babbage"):
+@retry(wait=wait_random_exponential(min=5, max=60), stop=stop_after_attempt(100))
+def get_embedding(text, model):
     """Given a string of long-form text, produce the embedding using the corresponding text-search-doc API endpoint.
 
     Args:
@@ -78,10 +78,6 @@ def get_embedding(text, query = True, model_family="babbage"):
     """
     embedding = None
     try:
-        if query:
-            model = f"text-search-{model_family}-query-001"
-        else:
-            model = f"text-search-{model_family}-doc-001"
         embedding = openai.Embedding.create(input = [text], model=model)['data'][0]['embedding']
     except Exception as e:
         raise e
@@ -100,7 +96,7 @@ def query_similarity_search(embeddings, query, model_family="babbage", n=3, min_
     Returns:
        DataFrame: Top n rows of the embeddings DataFrame, with similarity column added. Sorted by similarity score from highest to lowest. 
     """
-    embedded = get_embedding(query, True, EMBEDDING_MODELS[model_family]['query'])
+    embedded = get_embedding(query, EMBEDDING_MODELS[model_family]['query'])
     embeddings["similarities"] = embeddings["doc_embeddings"].apply(lambda x: cosine_similarity(x, embedded))
 
     res = embeddings.sort_values("similarities", ascending=False).head(n)
@@ -117,7 +113,14 @@ def questions_to_answers(list_of_questions,embeddings,answers_per_question=5, mi
 
     question_results = []
     for question in list_of_questions:
-        question_results.append(query_similarity_search(embeddings=embeddings,query=question,model_family=model_family,n=answers_per_question, min_similarity=min_similarity, pprint=pprint))
+        top_similar = query_similarity_search(embeddings=embeddings,
+                                              query=question,
+                                              model_family=model_family,
+                                              n=answers_per_question,
+                                              min_similarity=min_similarity,
+                                              pprint=pprint)
+        top_similar["Question"]=question
+        question_results.append(top_similar.drop(columns=["n_tokens","doc_embeddings"]))
 
     return question_results 
 
@@ -144,16 +147,16 @@ def file_to_embeddings(filepath, text_chunks = None, use_cache=True):
     # Read in and parse the file, if not passed in.
     if not text_chunks:
         raw_text = filepath.read_text(encoding="utf-8").replace("$","\$")
-        text_chunks = filter_text(split_text(raw_text))
+        text_chunks = filter_chunks(split_text(raw_text))
 
     embeddings = []
     for i, text in enumerate(text_chunks):
         embedding_row = {}
         embedding_row["text"] = text
         embedding_row["n_tokens"] = len(tokenizer.encode(text))
-        embedding_row["doc_embeddings"] = get_embedding(text, False)
+        embedding_row["doc_embeddings"] = get_embedding(text, EMBEDDING_MODELS["babbage"]["doc"])
         embeddings.append(embedding_row) 
-        sleep(1)
+        sleep(0.5)
         if (i+1)%10 == 0:
             print(f"{i+1} Chunks embedded.")
     df_embeddings = pd.DataFrame(embeddings)

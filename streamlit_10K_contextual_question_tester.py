@@ -4,7 +4,7 @@ import pandas as pd
 import json
 import requests
 from OpenAIUtils import get_embedding, call_openai_api_completion, produce_prompt, questions_to_answers, file_to_embeddings
-from EDGARFilingUtils import get_all_submission_ids, get_text_from_files_for_submission_id, split_text, filter_text, ROOT_DATA_DIR
+from EDGARFilingUtils import get_all_submission_ids, get_text_from_files_for_submission_id, split_text, filter_chunks, ROOT_DATA_DIR
 import openai
 openai.api_key = st.secrets["openai_api_key"]
 
@@ -17,6 +17,7 @@ st.set_page_config(layout="wide")
 ### Streamlit app starts here
 st.title("Play with GPT-3 Completion API and 10-Ks")
 
+#TODO: Christina/Simon add in list of relevant questions to search through 10-Ks
 list_of_questions = ["Climate change?"]
 
 industry_category_subdir = {"Food Beverage":"4_food_bev","Transportation":"11_transportation"}
@@ -70,22 +71,23 @@ with st.sidebar:
 
     st.subheader("GPT-3 Response")
     components.html(f'<span style="word-wrap:break-word;">{gpt3_response}</span>', height=800,scrolling=True)
-full_text_tab, search_tab = st.tabs([f"{file_to_use} text", "Search Results"])
+full_text_tab, search_tab = st.tabs([f"Filtered {file_to_use} text", "Search Results"])
 
 with full_text_tab:
-    st.markdown(text)
+    filtered_text = "\n\n".join(filter_chunks(split_text(text)))
+    st.markdown(filtered_text)
 
 with search_tab:
     relevant_questions = st.multiselect("Select questions to use for search within the text.",
-                                        list_of_questions)
+                                        list_of_questions,default=list_of_questions)
     full_file_path = datadir / f"{file_name}.txt"
-    re_embed = st.checkbox("Re-calculate Document Embeddings")
+    re_embed = not st.checkbox("Re-calculate Document Embeddings")
     if st.button("Search for relevant sections to list of questions"):
-        textChunks = split_text(filter_text(text))
-        st.write(f"{len(textChunks)} Chunks parsed.")
-        st.table(textChunks[:10])
+        textChunks = filter_chunks(split_text(text))
+        st.write(f"{len(textChunks)} Filtered chunks parsed.")
         st.write("Retrieving Embeddings...")
         embeddings = file_to_embeddings(full_file_path,text_chunks=textChunks,use_cache=re_embed)
         st.write("Embeddings Retrieved.")
         answers = questions_to_answers(relevant_questions,embeddings)
-        #st.dataframe(answers)
+        st.subheader("Top results")
+        st.table(pd.concat(answers))

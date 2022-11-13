@@ -105,7 +105,7 @@ def get_random_sample_filings(number_filings=50,seed=None):
     return df
 
 def split_text(text):
-    """split text into workable chunks.
+    """split text into workable chunks. Filter out header and footer.
 
     Args:
         text (str): original text.
@@ -116,20 +116,30 @@ def split_text(text):
 
     #TODO: Filter out table of contents, anything past item 15
 
-    return text.split("\n\n")
+    split_text = text.split("\n\n")
+    start_index = 0 # Find the "Washington, DC" chunk, we will throw out all other chunks before this 
+    end_index = -1 # Find the the "Item 15" chunk, we will throw out all chunks after this
+    for i, chunk in enumerate(split_text):
+        if re.search("washington,",chunk.lower()):
+            start_index = i
+#        elif re.search(r"item 15\.",chunk.lower()):
+#            end_index = i
 
 
-def filter_text(split_text):
-    """Filter text"""
+
+    return split_text[start_index+1:end_index] 
+
+
+def filter_chunks(split_text):
+    """Filter split chunks."""
 
     filtered_split = [] 
-    #Remove chunks less than some 
+    #Remove chunks less than some hard limit in length 
     for chunk in split_text:
-        if len(chunk)<5:
-            continue
-        filtered_split.append(chunk)
+        if len(chunk.split())>=15:
+            filtered_split.append(chunk)
 
-    return split_text
+    return filtered_split 
   
 
 def does_text_have_climate_keywords(text):
