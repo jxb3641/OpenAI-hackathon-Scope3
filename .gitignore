@@ -1,3 +1,5 @@
 .venv
 .env
 .streamlit/
+.streamlit/secrets.toml
+.venv

@@ -156,7 +156,6 @@ def file_to_embeddings(filepath, text_chunks = None, use_cache=True):
         embedding_row["n_tokens"] = len(tokenizer.encode(text))
         embedding_row["doc_embeddings"] = get_embedding(text, EMBEDDING_MODELS["babbage"]["doc"])
         embeddings.append(embedding_row) 
-        sleep(0.5)
         if (i+1)%10 == 0:
             print(f"{i+1} Chunks embedded.")
     df_embeddings = pd.DataFrame(embeddings)

@@ -287,35 +287,86 @@ def get_chunks_from_esg_report(filename):
             line = line.replace(' \n', ' ').replace('.\n', '.').replace('\r', '')
             print(line)
             if line and len(line) > 50:
-                if len(line) > 200:
-                    sentences = nltk.sent_tokenize(line)
-                    #create chunks of 8 sentences
-                    for i in range(0, len(sentences), 8):
-                        chunk = "".join(sentences[i:i+8])
-                        if chunk:
-                            chunks.append(chunk)
-                else:
-                    chunks.append(line)
-    #print(chunks)
+                chunks.append(line)
     return chunks
+
+
+def get_big_chunks_from_esg_report(filename):
+    with open(filename) as f:
+        text = f.read()
+        text = text.replace(' \n', ' ').replace('.\n', '.').replace('\r', '')
+        sentences = nltk.sent_tokenize(text)
+        #create chunks of 100 sentences
+        chunks = []
+        for i in range(0, len(sentences), 20):
+            chunk = "".join(sentences[i:i+20])
+            if chunk:
+                chunks.append(chunk)
+    return chunks
+
 
 
 if __name__ == "__main__":
     from OpenAIUtils import file_to_embeddings, questions_to_answers
 
-    filename = "/Users/colemanhindes/hackathon/OpenAI-hackathon-Scope3/data/pdf_reports/Tyson_-_2022_-_SASB.txt"
+    filename = "/Users/colemanhindes/hackathon/OpenAI-hackathon-Scope3/data/ind_lists/4_food_bev/sustainability_reports/gis_2022.txt"
 
-    questions = ['Has supply chain disruption affected the business? Will supply chain disruption affect the business?', 'Does the company have emissions targets? What are the company’s emissions targets?', 'Has this company’s emissions goals been approved by the Science Based Targets Initiative (SBTi)?', 'What is the percentage of energy used that is from renewable sources?', 'Is the company able to report Scope 3 emissions?', '(Sector Specific) What is the percentage of food ingredients sourced from regions with High or Extremely High Baseline Water Stress(F&B)?', 'What does the company say about the environmental & social impacts of their ingredient supply chain?', 'Does this company provide disclosures aligned with Sustainability Accounting Standards Board (SASB) standards?', 'Does this company provide disclosure aligned with Task Force on Climate Related Financial Disclosures (TCFD) standards?', 'Does this company provide disclosure aligned with Global Reporting Initiative (GRI) standards?']
+    text_questions = '''What does this company do? 
+What are the risks this company faces?
+What are the environmental risks this company faces?
+"What are the climate-related risks and opportunities the organization has identified over the short, medium, and long term?
+What is the impact of climate-related risks and opportunities on the organization’s business, strategy, and financial planning.
+What are the organization’s processes for identifying and assessing climate-related risks? 
+What are extreme climate events the firm is exposed to?
+What are lasting changes in the climate the firm is exposed to?
+What are climate-related regulations, rules, bills or standards that the entity must adhere to?
+What are new technologies that the entity is considering or requiring to decarbonize its business model?
+What are the reputational risks or concerns that the firm attributes to climate- or corporate socical responsibility-related issues?
+Does the firm rely on or employ any kind of green financing?
+Has the firm set up a committee (or other governance mechanism) that is concerned with climate- and ESG-related issues? 
+Has the firm set up a committee (or other governance mechanism) that is concerned with climate- and ESG-related issues? 
+What does the company disclose about its energy mix? 
+What is the percentage of energy or electricity used that is from renewable sources?
+What are the company's emissions targets and have they been validated as credible and substantial? 
+Does this company's emissions targets include Scope 3 (indirect) emissions?
+Does a discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance toward those targets exist? 
+What does the company say about its  impacts on biodiversity? 
+What does the company disclose about the waste it generates and what is it doing to reduce waste? 
+What are key aspects of "Product Safety" that the firm discusses in its sustainability report?
+What are key aspects of "Labor Practices" that the firm discusses in its sustainability report?
+What are key aspects of "Fuel Economy & Use-phase Emissions" that the firm discusses in its sustainability report?
+What are key aspects of "Material Sourcing" that the firm discusses in its sustainability report?
+What are key aspects of "Materials Efficiency & Recycling" that the firm discusses in its sustainability report?
+What are key aspects of "Water Management" that the firm discusses in its sustainability report?
+What are key aspects of "Food Safety" that the firm discusses in its sustainability report?
+What are key aspects of "Health & Nutrition" that the firm discusses in its sustainability report?
+What are key aspects of "Ingridient Sourcing" that the firm discusses in its sustainability report?
+What is this company's strategy to reduce the environmental impact of packaging throughout its lifecycle? 
+What is the company doing about the environmental and social impacts of their ingredient supply chain?'''
+
+    questions = text_questions.split("\n")
 
     #Only show matches above this level
     match_threshold = 0.35
 
-    chunks = get_chunks_from_esg_report(filename)
+    chunks = get_big_chunks_from_esg_report(filename)
     for chunk in chunks:
         if not chunk:
             print("empty chunk")
     embeddings = file_to_embeddings(Path(filename), chunks)
     answers = questions_to_answers(questions, embeddings, min_similarity=match_threshold)
+    for question, answer in zip(questions, answers):
+        prompt = f"If the answer to the question is in the excerpt below, answer it or else say N/A\n START CONTEXT\n{answer}\nEND CONTEXT \nAnswer the following question: {question}\nAnswer:"
+
+        response = openai.Completion.create(
+            model='text-davinci-002',
+            prompt=prompt,
+            max_tokens=200,
+            temperature=0.7,
+            stop=["\n","."]
+        ).choices[0].text
+        print(f"Question: {question}")
+        print(f"Answer: {response}")
 
 
 
