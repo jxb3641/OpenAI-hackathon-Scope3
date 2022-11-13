@@ -128,7 +128,7 @@ def split_text(text,form_type=None):
         previous_sentences_token_len = 0
         for sent_ind, sentence in enumerate(sentences):
             #Collect chunks with up to 1800 tokens. 
-            if len(tokenizer.encode(chunk)) <= 1800-previous_sentences_token_len:
+            if len(tokenizer.encode(chunk)) <= 1600-previous_sentences_token_len:
                 chunk += f" {sentence}"
             else: #Chunk token limit reached.  
                 chunk = chunk.strip() #Get rid of leading/trailing whitespace
