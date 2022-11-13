@@ -6,7 +6,7 @@ import json
 import pandas as pd
 
 
-def get_random_sample_filings(number_filings=50,seed=None):
+def get_random_sample_filings(number_filings=10,seed=None):
     """For a random sample of filings, parse their names, MDA, and Item1 .txt files
     and their text.
 
