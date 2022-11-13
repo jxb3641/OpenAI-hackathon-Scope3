@@ -255,11 +255,9 @@ if __name__ == "__main__":
     from OpenAIUtils import file_to_embeddings, questions_to_answers
 
     filename = "/Users/colemanhindes/hackathon/OpenAI-hackathon-Scope3/data/pdf_reports/Ford_2022_-_TCFD.txt"
-    text_questions = ['Question 1', 'Question 2']
 
+    questions = ['Has supply chain disruption affected the business? Will supply chain disruption affect the business?', 'Does the company have emissions targets? What are the company’s emissions targets?', 'Has this company’s emissions goals been approved by the Science Based Targets Initiative (SBTi)?', 'What is the percentage of energy used that is from renewable sources?', 'Is the company able to report Scope 3 emissions?', '(Sector Specific) What is the percentage of food ingredients sourced from regions with High or Extremely High Baseline Water Stress(F&B)?', 'What does the company say about the environmental & social impacts of their ingredient supply chain?', 'Does this company provide disclosures aligned with Sustainability Accounting Standards Board (SASB) standards?', 'Does this company provide disclosure aligned with Task Force on Climate Related Financial Disclosures (TCFD) standards?', 'Does this company provide disclosure aligned with Global Reporting Initiative (GRI) standards?']
 
-    questions = text_questions.split("\n")
-    print(questions)
     #Only show matches above this level
     match_threshold = 0.35
 
