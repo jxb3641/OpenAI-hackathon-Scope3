@@ -138,7 +138,7 @@ def query_to_summaries(list_of_query_questions, print_responses=True):
         print_responses (boolean, optional): whether to print the results to terminal. Default True.
 
     Returns:
-        pd.DataFrame(filing_filename, query, gpt3_completion): DataFrame containing the filename, query, and completion.
+        pd.DataFrame('filename', 'query', 'response'): DataFrame containing the filename, query, and completion.
     """
     questions_to_gpt3_completions = []
     for industry in ["4_food_bev","11_transportation"]:
