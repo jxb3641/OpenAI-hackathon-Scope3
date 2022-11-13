@@ -112,7 +112,8 @@ def split_text(text,form_type=None):
 
     Args:
         text (str): original text.
-        form_type (str, optional): flag to customize splitting for different form types. Default None.
+        form_type (str, optional): flag to customize splitting for different form types. Implements rolling text chunking with 5 sentences for 10KItemsOnly texts. 
+        Default None.
 
     Returns:
         list(str): list of text chunks.
@@ -124,23 +125,41 @@ def split_text(text,form_type=None):
         sentences = nltk.sent_tokenize(text)
         chunk = ""
         chunk_index = 0
+        previous_sentences_token_len = 0
         for sent_ind, sentence in enumerate(sentences):
             #Collect chunks with up to 1800 tokens. 
-            while len(tokenizer(chunk)) <= 1800:
+            if len(tokenizer.encode(chunk)) <= 1800-previous_sentences_token_len:
                 chunk += f" {sentence}"
-            chunk = chunk.strip() #Get rid of leading/trailing whitespace
-            chunk_index += 1
-            if chunk_index > 1: #For any chunks after the first
-                # Add in up to last 3 sentences of last chunk to this one, making sure we dont wrap around to negative indices 
-                if sent_ind -3 >= 0:
-                    previous_sentences = " ".join([sentences[sent_ind-3], sentences[sent_ind-2], sentences[sent_ind-1]]) 
-                elif sent_ind -2 >= 0:
-                    previous_sentences = " ".join([sentences[sent_ind-2], sentences[sent_ind-1]]) 
-                elif sent_ind -1 >= 0:
-                    previous_sentences = " ".join([sentences[sent_ind-1]]) 
-                chunk = " ".join([previous_sentences,chunk])
-            split_text.append(chunk)
-            chunk = ""
+            else: #Chunk token limit reached.  
+                chunk = chunk.strip() #Get rid of leading/trailing whitespace
+                chunk_index += 1
+                if chunk_index %10 == 0:
+                    print(chunk_index,"chunks processed.")
+                if chunk_index > 1: #For any chunks after the first
+                    # Add in up to last 5 sentences of last chunk to this one, making sure we dont wrap around to negative indices 
+                    if sent_ind -5 >= 0:
+                        previous_sentences = " ".join([sentences[sent_ind-5],sentences[sent_ind-4],sentences[sent_ind-3], sentences[sent_ind-2], sentences[sent_ind-1]]) 
+                    if sent_ind -4 >= 0:
+                        previous_sentences = " ".join([sentences[sent_ind-4],sentences[sent_ind-3], sentences[sent_ind-2], sentences[sent_ind-1]]) 
+                    if sent_ind -3 >= 0:
+                        previous_sentences = " ".join([sentences[sent_ind-3], sentences[sent_ind-2], sentences[sent_ind-1]]) 
+                    elif sent_ind -2 >= 0:
+                        previous_sentences = " ".join([sentences[sent_ind-2], sentences[sent_ind-1]]) 
+                    elif sent_ind -1 >= 0:
+                        previous_sentences = " ".join([sentences[sent_ind-1]]) 
+                    else:
+                        previous_sentences = ""
+                    previous_sentences_token_len = len(tokenizer.encode(previous_sentences))
+                    #print("\n\nBEFORE:\n\n", chunk)
+                    #print("\n\n LENGTH:",len(tokenizer.encode(chunk)))
+                    #print()
+                    chunk = " ".join([previous_sentences,chunk])
+                    #print(f"AFTER INCORPORATING SENTENCES BEFORE {sent_ind}:\n\n", chunk)
+                    #print("\n\n LENGTH:",len(tokenizer.encode(chunk)))
+                    #print()
+                split_text.append(chunk)
+                # Add in the current sentence.
+                chunk = sentence
         return split_text
 
 
