@@ -10,6 +10,7 @@ from transformers import GPT2TokenizerFast
 tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
 from pathlib import Path
 
+
 import openai
 openai.api_key = st.secrets["openai_api_key"]
 
@@ -122,13 +123,13 @@ def split_text(text,form_type=None):
     if form_type == "10KItemsOnly":
         # Implement super basic chunking (as big as possible, with a sliding window of 3 sentences)
         split_text = []
-        sentences = nltk.sent_tokenize(text)
+        sentences = nltk.sent_tokenize(text.replace(";",".").replace("\u2022",""))
         chunk = ""
         chunk_index = 0
         previous_sentences_token_len = 0
         for sent_ind, sentence in enumerate(sentences):
             #Collect chunks with up to 1800 tokens. 
-            if len(tokenizer.encode(chunk)) <= 1800-previous_sentences_token_len:
+            if len(tokenizer.encode(chunk)) <= 1700-previous_sentences_token_len:
                 chunk += f" {sentence}"
             else: #Chunk token limit reached.  
                 chunk = chunk.strip() #Get rid of leading/trailing whitespace
@@ -136,17 +137,15 @@ def split_text(text,form_type=None):
                 if chunk_index %10 == 0:
                     print(chunk_index,"chunks processed.")
                 if chunk_index > 1: #For any chunks after the first
-                    # Add in up to last 5 sentences of last chunk to this one, making sure we dont wrap around to negative indices 
-                    if sent_ind -5 >= 0:
-                        previous_sentences = " ".join([sentences[sent_ind-5],sentences[sent_ind-4],sentences[sent_ind-3], sentences[sent_ind-2], sentences[sent_ind-1]]) 
+                    # Add in up to last N sentences of last chunk to this one, making sure we dont wrap around to negative indices 
                     if sent_ind -4 >= 0:
                         previous_sentences = " ".join([sentences[sent_ind-4],sentences[sent_ind-3], sentences[sent_ind-2], sentences[sent_ind-1]]) 
-                    if sent_ind -3 >= 0:
-                        previous_sentences = " ".join([sentences[sent_ind-3], sentences[sent_ind-2], sentences[sent_ind-1]]) 
+                    elif sent_ind -3 >= 0:
+                        previous_sentences= " ".join([sentences[sent_ind-3], sentences[sent_ind-2], sentences[sent_ind-1]]) 
                     elif sent_ind -2 >= 0:
-                        previous_sentences = " ".join([sentences[sent_ind-2], sentences[sent_ind-1]]) 
+                        previous_sentences= " ".join([sentences[sent_ind-2], sentences[sent_ind-1]]) 
                     elif sent_ind -1 >= 0:
-                        previous_sentences = " ".join([sentences[sent_ind-1]]) 
+                        previous_sentences= " ".join([sentences[sent_ind-1]]) 
                     else:
                         previous_sentences = ""
                     previous_sentences_token_len = len(tokenizer.encode(previous_sentences))
@@ -157,7 +156,8 @@ def split_text(text,form_type=None):
                     #print(f"AFTER INCORPORATING SENTENCES BEFORE {sent_ind}:\n\n", chunk)
                     #print("\n\n LENGTH:",len(tokenizer.encode(chunk)))
                     #print()
-                split_text.append(chunk)
+                if len(tokenizer.encode(chunk)) <2048:
+                    split_text.append(chunk)
                 # Add in the current sentence.
                 chunk = sentence
         return split_text

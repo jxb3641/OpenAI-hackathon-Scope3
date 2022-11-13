@@ -6,6 +6,8 @@ import os
 from transformers import GPT2TokenizerFast
 tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
 from EDGARFilingUtils import ROOT_DATA_DIR, filter_chunks, split_text
+import backoff
+
 
 from tenacity import (
     retry,
@@ -64,7 +66,9 @@ def call_openai_api_completion(prompt, model_family='ada',temperature=0.0):
     )
     return response['choices'][0]['text']
 
-@retry(wait=wait_random_exponential(min=5, max=60), stop=stop_after_attempt(100))
+@backoff.on_exception(backoff.expo,
+                      openai.error.RateLimitError,
+                      max_tries=15)
 def get_embedding(text, model):
     """Given a string of long-form text, produce the embedding using the corresponding text-search-doc API endpoint.
 
@@ -109,7 +113,7 @@ def query_similarity_search(embeddings, query, model_family="babbage", n=3, min_
                 print()
     return res
 
-def questions_to_answers(list_of_questions,embeddings,answers_per_question=5, min_similarity=0.0, model_family="babbage",pprint=True):
+def questions_to_answers(list_of_questions,embeddings,answers_per_question=5, min_similarity=0.0, model_family="curie",pprint=True):
 
     question_results = []
     for question in list_of_questions:
@@ -154,7 +158,7 @@ def file_to_embeddings(filepath, text_chunks = None, use_cache=True):
         embedding_row = {}
         embedding_row["text"] = text
         embedding_row["n_tokens"] = len(tokenizer.encode(text))
-        embedding_row["doc_embeddings"] = get_embedding(text, EMBEDDING_MODELS["babbage"]["doc"])
+        embedding_row["doc_embeddings"] = get_embedding(text, EMBEDDING_MODELS["curie"]["doc"])
         embeddings.append(embedding_row) 
         if (i+1)%10 == 0:
             print(f"{i+1} Chunks embedded.")
