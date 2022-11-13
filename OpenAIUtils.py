@@ -2,7 +2,8 @@ import openai
 from openai.embeddings_utils import cosine_similarity
 import numpy as np
 import pandas as pd
-import os
+from glob import glob
+from pathlib import Path
 from transformers import GPT2TokenizerFast
 tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
 from EDGARFilingUtils import ROOT_DATA_DIR, filter_chunks, split_text
@@ -17,6 +18,8 @@ from time import sleep
 import logging
 logging.getLogger().setLevel(logging.ERROR)
 
+import re
+SECTION_DELIM_PATTERN = re.compile("####.+") # for pooled 10k files
 
 EMBEDDING_CACHE_DIR = ROOT_DATA_DIR / "embedding_cache"
 
@@ -126,6 +129,39 @@ def questions_to_answers(list_of_questions,embeddings,answers_per_question=5, mi
 
     return pd.concat(question_results)
 
+def query_to_summaries(list_of_query_questions, print_responses=True):
+    """Given a list of search queries, embed them, and search the chunk database for most similar response.
+    Then prompt GPT-3 to summarize the resulting sections. 
+
+    Args:
+        list_of_query_questions (list(str)): list of question strings to embed, searching for similar document chunks. 
+        print_responses (boolean, optional): whether to print the results to terminal. Default True.
+
+    Returns:
+        pd.DataFrame(filing_filename, query, gpt3_completion): DataFrame containing the filename, query, and completion.
+    """
+    questions_to_gpt3_completions = []
+    for industry in ["4_food_bev","11_transportation"]:
+        for fname in glob(f"data/ind_lists/{industry}/10k/*_pooled.txt"):
+            embeddings = file_to_embeddings(Path(fname),use_cache=True)
+            df_questions_to_relevant_passages = questions_to_answers(list_of_query_questions,
+                                                                     embeddings,
+                                                                     answers_per_question=1,
+                                                                     min_similarity=0.25,
+                                                                     model_family='curie',pprint=False)
+            for row, fields in df_questions_to_relevant_passages.iterrows():
+                completion_prompt = produce_prompt(fields["text"],"") 
+                completion_resp =call_openai_api_completion(completion_prompt,model_family="davinci",temperature=0.5) 
+                questions_to_gpt3_completions.append((Path(fname).stem,fields["Question"],completion_resp))
+    if print_responses:
+        for (fname, question, gpt3_completion) in questions_to_gpt3_completions:
+                print("For filing", fname)
+                print("For Question:")
+                print(question,"\n")
+                print("GPT-3 Responds:")
+                print(gpt3_completion)
+    return pd.DataFrame(data=questions_to_gpt3_completions,columns=["filename","query","response"]) 
+
 def file_to_embeddings(filepath, text_chunks = None, use_cache=True):
     """Given a filepath, produce a DataFrame containing the filtered text chunks, with their embeddings and number of tokens,
     if the DataFrame isn't cached. If it saved to disk, just load the DataFrame.
@@ -149,7 +185,15 @@ def file_to_embeddings(filepath, text_chunks = None, use_cache=True):
     # Read in and parse the file, if not passed in.
     if not text_chunks:
         raw_text = filepath.read_text(encoding="utf-8").replace("$","\$")
-        text_chunks = filter_chunks(split_text(raw_text))
+        if "pooled" in str(filepath): # pooled 10-K files are split into item1, item1a, item7 using a delimiter. 
+            items = re.split(SECTION_DELIM_PATTERN,raw_text)
+            text_chunks = []
+            for item in items:
+                section_chunked = split_text(item,form_type="10KItemsOnly")
+                for chunk in section_chunked:
+                    text_chunks.append(chunk)
+        else:
+            text_chunks = filter_chunks(split_text(raw_text))
 
     embeddings = []
     for i, text in enumerate(text_chunks):
