@@ -17,8 +17,16 @@ st.set_page_config(layout="wide")
 ### Streamlit app starts here
 st.title("Play with GPT-3 Completion API and 10-Ks")
 
-#TODO: Christina/Simon add in list of relevant questions to search through 10-Ks
-list_of_questions = ["Climate change?"]
+list_of_query_questions = [
+"What does this company do?", 
+"What are the risks this company faces?",
+"What are the environmental risks this company faces?",
+"What are extreme climate events the firm is exposed to? How does it handle or mitigate these extreme events? Examples of extreme climate events are hurricanes, storms, droughts, floods, wildfires, earthquakes, severe snowfall, snowstorms, or extreme cold.",
+"What are lasting changes in the climate the firm is exposed to? How does it handle or mitigate these changes? Examples of long-term climate changes are shifts in precipitation, temperature, sea levels, humidity, winds, water constraints, or variability in wheather patterns.",
+"What are climate-related regulations, rules, bills or standards that the entity must adhere to? Regulations, rules, bills and standards are climate-related if they have a climate positive impact.",
+"What are new technologies that the entity is considering or requiring to decarbonize its business model? Examples of climate technologies are electrification, solar power, green energy, recycling, car sharing or direct air capture.",
+"What are the reputational risks or concerns that the firm attributes to climate- or corporate socical responsibility-related issues?"
+]
 
 industry_category_subdir = {"Food Beverage":"4_food_bev","Transportation":"11_transportation"}
 
@@ -79,7 +87,7 @@ with full_text_tab:
 
 with search_tab:
     relevant_questions = st.multiselect("Select questions to use for search within the text.",
-                                        list_of_questions,default=list_of_questions)
+                                        list_of_query_questions,default=list_of_query_questions)
     full_file_path = datadir / f"{file_name}.txt"
     re_embed = not st.checkbox("Re-calculate Document Embeddings")
     if st.button("Search for relevant sections to list of questions"):
