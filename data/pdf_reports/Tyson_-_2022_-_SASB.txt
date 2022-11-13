@@ -1,0 +1,333 @@
+Sustainability Accounting 
+Standards Board (SASB) Index 
+—
+
+SUSTAINABILITY DISCLOSURE TOPICS & ACCOUNTING METRICS—MEAT, POULTRY & DAIRY
+
+TABLE 1. SUSTAINABILITY DISCLOSURE TOPICS & ACCOUNTING METRICS
+
+Topic
+Greenhouse Gas 
+Emissions
+
+Accounting Metric
+Gross global Scope 1 emissions
+
+2021 Response
+3.83 million metric tons CO2e
+ESG Data Center
+
+Energy 
+Management
+
+Water 
+Management
+
+Discussion of long-term and short-term 
+strategy or plan to manage Scope 1 
+emissions, emissions reduction targets, 
+and an analysis of performance against 
+those targets
+
+(1) Total energy consumed, 
+(2) percentage grid electricity, 
+(3) percentage renewable
+
+(1) Total water withdrawn, 
+(2) total water consumed, percentage of 
+each in regions with High or Extremely 
+High Baseline Water Stress
+
+Description of water management risks 
+and discussion of strategies and practices 
+to mitigate those risks
+
+Tyson Foods 2021 Sustainability Report > Working Toward 
+Sustaining Natural Resources and Achieving Net Zero > Climate
+
+(1) 64 million GJ
+(2) 27%
+(3) 1%
+ESG Data Center
+
+(1) 121 million m3 
+(2) 121 million m3
+
+18% in regions with High or Extremely High Baseline Water Stress
+ESG Data Center
+
+Tyson Foods 2021 Sustainability Report > Working Toward 
+Sustaining Natural Resources and Achieving Net Zero > Water
+
+Number of incidents of non-compliance 
+with water quality permits, standards,  
+and regulations
+
+13 for FY2021
+ESG Data Center
+
+Land Use & 
+Ecological 
+Impacts
+
+Amount of animal litter and manure 
+generated, percentage managed 
+according to a nutrient management plan
+
+Tysonsustainability.com > Agriculture > Land Stewardship
+
+Percentage of pasture and grazing  
+land managed to Natural Resources 
+Conservation Service (NRCS) 
+conservation plan criteria
+
+Animal protein production from 
+concentrated animal feeding  
+operations (CAFOs)
+
+Tysonsustainability.com > Agriculture > Land Stewardship
+
+Farms that supply Tyson’s U.S.-based poultry operations and 
+Tyson’s wholly owned subsidiaries of the Pork Group, Inc. and Cobb 
+Vantress, Inc. farms would be considered concentrated animal 
+feeding operations (CAFOs) as defined by the U.S. Environmental 
+Protection Agency. Due to lack of supply chain traceability, we are 
+unable to provide a quantitative value related to the livestock and 
+outside meat we procure that may be raised in CAFO production 
+systems. We invite you, however, to review the Environmental and 
+Agriculture sections of tysonsustainability.com to learn more about 
+the environmental and animal housing and raising practices of our 
+poultry and livestock supply chain partners. Additionally, our Supply 
+Code of Conduct establishes the environmental and animal welfare 
+expectations we have of our supply partners.
+
+1 — TYSON FOODS — 2021 SUSTAINABILITY REPORT
+
+SUSTAINABILITY DISCLOSURE TOPICS & ACCOUNTING METRICS—MEAT, POULTRY & DAIRY
+
+TABLE 1. SUSTAINABILITY DISCLOSURE TOPICS & ACCOUNTING METRICS
+
+Topic
+Food Safety
+
+Accounting Metric
+Global Food Safety Initiative (GFSI) audit  
+(1) non-conformance rate and  
+(2) associated corrective action rate for  
+(a) major and (b) minor non-conformances
+
+2021 Response
+We are providing our overall audit scoring, as this provides the 
+quantifiable detail of GFSI “nonconformance rate” as well as 
+additional context to avoid potential misinterpretation of the data 
+we are reporting. Note, SQF audits have a numerical score while 
+the BRC audits have a letter rating (AA, A, B, C, etc.).
+Of the SQF-audited facilities in 2021:  
+100% scored 85% or higher; 
+90% scored 90% or higher; and  
+74% scored 95% or higher. 
+Of the BRC-audited facilities in 2020: 
+100% scored a “B” or higher; 
+97% scored an “A” or higher; and 
+68% scored the highest “AA” rating.
+For both the SQF and BRC audits, a 100% corrective action rate 
+(including auditor review and approval) is required in order to 
+close out the audit and maintain GFSI certification
+
+Percentage of supplier facilities certified to 
+a Global Food Safety Initiative (GFSI) food 
+safety certification program
+
+97.30%
+Tysonsustainability.com > People > Consumers > Ingredient Sourcing
+Tysonsustainability.com > People > Consumers > Food Safety & Audits
+
+(1) Number of recalls issued and  
+(2) total weight of products recalled
+
+USDA-FSIS Class 1 Recall–Dexter MO [7/3/21]; 8.5MM Lbs  
+Listeria Monocytogenes: FDA Class 3 Recall–Holcomb KS  
+[3/22/21]; 145000 lbs for beef tallow for animal feed use for 
+insoluble impurities
+ESG Data Center
+
+(1) Total number of notices of food safety 
+violation received,  
+(2) percentage corrected
+
+100% of routine USDA/FDA noncompliance is corrected  
+and responded to in writing. Zero regulatory enforcement  
+events in FY2021.
+
+Discussion of markets that ban imports of 
+the entity’s products
+
+Tyson Foods’ products are subject to the mandates of countries  
+of export as related to any food sanitary and phytosanitary 
+requirements. Tyson Foods complies fully and voluntarily with all 
+export library requirements for countries we ship product into.
+
+(1) 0 USD 
+(2) 0 USD
+
+(1) 0 USD 
+(2) 0 USD
+
+Tysonsustainability.com > Agriculture > Animal Welfare in the 
+Value Chain
+
+(1) 2.73 
+(2) Unfortunately, we were saddened during the year to 
+experience two team member fatalities—one road-related and one 
+related to manufacturing. Such incidents make us even more 
+committed to ongoing training, communication and oversight so 
+that we can continue building a safe work environment for all.
+ESG Data Center
+
+Tysonsustainability.com > People > Employees > Health & Safety
+
+Product Labeling  
+& Marketing
+
+Antibiotic Use in 
+Animal Production
+
+Revenue from products labeled as  
+(1) containing genetically modified 
+organisms (GMOs) and  
+(2) non-GMO
+
+Revenue from products labeled as  
+(1) containing genetically modified 
+organisms (GMOs) and  
+(2) non-GMO
+
+Percentage of animal production  
+that received 
+(1) medically important antibiotics and  
+(2) not medically important antibiotics,  
+by animal type
+
+Workforce 
+Health & Safety
+
+(1) Total recordable incident rate (TRIR) and  
+(2) fatality rate"
+
+Description of efforts to assess, monitor, 
+and mitigate acute and chronic respiratory 
+health conditions
+
+2 — TYSON FOODS — 2021 SUSTAINABILITY REPORT
+
+SUSTAINABILITY DISCLOSURE TOPICS & ACCOUNTING METRICS—MEAT, POULTRY & DAIRY
+
+TABLE 1. SUSTAINABILITY DISCLOSURE TOPICS & ACCOUNTING METRICS
+
+Topic
+Animal Care & 
+Welfare
+
+Accounting Metric
+Percentage of pork produced without the 
+use of gestation crates
+
+2021 Response
+We support housing systems that are well managed and maintain good 
+animal health and welfare. Tyson owns and raises less than 10% of the 
+pigs used in our pork business, and we work hard to make sure they’re 
+as comfortable as possible in their housing environment. We support 
+our farmer partners in continuous improvement of the housing they  
+use for pregnant mother pigs, known as sows. We also verify good 
+management practices by the independent farmers who supply us.  
+We do this through our FarmCheck® program, which is an extensive 
+audit process involving a third-party auditor that ensures pig farms are 
+monitored for proper access to food and water, human-animal interaction 
+and worker training.
+
+Percentage of cage-free shell egg sales
+
+We do not sell shell eggs.
+
+Percentage of production certified to a 
+thirdparty animal welfare standard
+
+Tysonsustainability.com > Agriculture > Animal Welfare in the 
+Value Chain
+
+Environmental & 
+Social Impacts of 
+Animal Supply 
+Chain
+
+Percentage of livestock from suppliers 
+implementing the Natural Resources 
+Conservation Service (NRCS) conservation 
+plan criteria or the equivalent
+
+Due to lack of supply chain traceability, we are unable to provide a 
+quantitative value related to the percentage of livestock we source 
+from suppliers implementing the NRCS conservation plan criteria 
+or the equivalent. We invite you, however, to review the Agriculture 
+section of tysonsustainability.com to learn more about our land 
+stewardship and cattle grazing goals.
+
+Percentage of supplier and contract 
+production facilities verified to meet 
+animal welfare standards
+
+100%
+Tysonsustainability.com > Agriculture > Animal Welfare in the 
+Value Chain
+
+Ingredient Sourcing
+
+List of priority food ingredients and 
+discussion of sourcing risks due to 
+environmental and social considerations
+
+Tyson Foods Forest Protection Standard
+
+Animal & Feed 
+Sourcing
+
+Percentage of animal feed sourced from 
+regions with High or Extremely High 
+Baseline Water Stress
+
+6%
+
+Percentage of contracts with producers 
+located in regions with High or Extremely 
+High Baseline Water Stress
+
+In fiscal year FY2021, we initiatied a process to evaluate water 
+stress risk in our contract poultry production. This work will be 
+completed in FY2022.
+
+Discussion of strategy to manage 
+opportunities and risks to feed  
+sourcing and livestock supply  
+presented by climate change
+
+Tysonsustainability.com > Agriculture > Land Stewardship
+
+SUSTAINABILITY DISCLOSURE TOPICS & ACCOUNTING METRICS—MEAT, POULTRY & DAIRY
+
+TABLE 2. ACTIVITY METRICS
+
+Activity Metric
+Number of processing and manufacturing facilities
+
+2021 Response
+Tyson Foods 2021 Form 10-K, published November 15, 2021, page 19
+
+Animal protein production, by category; percentage outsourced Beef: 155,000 head per week; 100% from independent producers
+Pork: 469,000 head per week; 90% from independent producers
+Chicken: 47 million head per week; 100% from independent producers
+Prepared Foods: 73 million pounds per week
+Tyson Foods 2021 Form 10-K, published November 15, 2021, page 19
+
+3 — TYSON FOODS — 2021 SUSTAINABILITY REPORT
+
+

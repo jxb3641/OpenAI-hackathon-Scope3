@@ -1,0 +1,440 @@
+Sharing Goodness for
+
+2019 SASB INDEX
+
+SASB Index 2019
+
+Topic
+
+Accounting  Metric
+
+Category
+
+Unit of Measure Code
+
+Response
+
+Energy 
+Management
+
+(1) Total energy consumed, (2) percentage 
+grid electricity, (3) percentage renewable
+
+Quantitative
+
+Gigajoules (GJ), 
+Percentage (%)
+
+FB-PF-130a.1
+
+(1)  4,144,498 GJ
+(2)  Nearly all energy consumed represents grid electricity 
+(3)  Percentage renewable not available.
+
+Water Management 
+
+(1) Total water withdrawn, (2)  total water
+consumed, percentage of each in regions 
+with High or Extremely High Baseline 
+Water Stress
+
+Quantitative
+
+Thousand cubic 
+meters (m³), 
+Percentage (%)
+
+FB-PF-140a.1
+
+(1)   2,647,823 m3 in 2019 (0% withdrawn in regions of Extremely High Baseline Water Stress, 20.5% 
+
+withdrawn in regions of High Baseline Water Stress)
+
+(2)   708,481.5 m3 megaliters in 2019  (0% in regions of Extremely High Baseline Water Stress, 48.2%  
+
+in regions of High Baseline Water Stress)
+
+Note for 2019, this data represents water usage at our manufacturing facilities only and excludes our 
+Malaysian and Amplify/ONE properties. Based on the WRI Aqueduct tool, our manufacturing plants in  
+El Salto and Monterrey are in High Baseline Water Stress Areas.
+
+Number of incidents of non-compliance 
+associated with water quantity and/or 
+quality permits, standards, and regulations
+
+Quantitative
+
+Number
+
+FB-PF-140a.2 During the reporting period, we did not identify any non-compliance with environmental laws and/or 
+regulations, including water quantity/quality permits, standards and regulations that would give rise to 
+significant fines or sanctions.
+
+Description of water management risks 
+and discussion of strategies and practices 
+to mitigate those risks
+
+Discussion  
+and Analysis
+
+n/a
+
+FB-PF-140a.3
+
+Planet: Protecting Our Water Supply p. 39
+
+Food Safety 
+
+Global Food Safety Initiative (GFSI) 
+audit (1) non-conformance rate and (2) 
+associated corrective action rate for (a) 
+major and (b) minor non-conformances
+
+Quantitative
+
+Rate
+
+FB-PF-250a.1
+
+All Hershey-owned manufacturing facilities were certified against a recognized GFSI Standard. As such, 
+all facilities are audited annually to assess compliance against the provisions of the standards. In all, 15 
+facilities, including 8 in the U.S., 2 each in Canada and Mexico, and 1 each in Brazil, India and Malaysia, 
+were certified against a GFSI standard. 
+
+There were no major non-conformances identified at any of the 15 manufacturing facilities. This 
+translated to a major non-conformance rate of 0.0. There were 49 minor non-conformances identified 
+across the 15 facilities, resulting in a minor non-conformance rate of just under 3.3. Corrective actions 
+were implemented for 100% of the minor non-conformances identified and submitted to and accepted 
+by the GFSI certifying body for confirmation.  
+
+Percentage of ingredients sourced  
+from Tier 1 supplier facilities certified  
+to a Global Food Safety Initiative  
+(GFSI) recognized food safety 
+certification program
+
+Quantitative
+
+Percentage (%) 
+by cost 
+
+FB-PF-250a.2 Globally, 87% of our suppliers (by count) were GFSI certified. Those not certified represented a very 
+
+small portion of our ingredient spend as they were either contingency suppliers required to back up 
+our traditional suppliers or they provided low-volume specialty ingredients. For example, in our North 
+American operations, 99.92% of our ingredients were procured from GFSI certified suppliers (by spend).   
+
+(1) Total number of notices of food  
+safety violation received, (2) percentage 
+corrected 
+
+Quantitative
+
+Number, 
+Percentage (%)
+
+(1) Number of recalls issued, (2) total 
+amount of food product recalled
+
+Quantitative
+
+Number,  
+Metric tons (t)  
+
+Health & Nutrition
+
+Revenue from products labeled and/or 
+marketed to promote health and nutrition 
+attributes
+
+Quantitative
+
+Reporting 
+currency
+
+FB-PF-250a.3 On a global basis, Hershey received no notices of food safety violations during 2019.
+
+FB-PF-250a.4  On a global basis, Hershey conducted no recalls of its products during 2019.
+
+FB-PF-260a.1 Current Hershey data collection protocols do not include this metric. 
+
+Discussion of the process to identify and 
+manage products and ingredients related 
+to nutritional and health concerns  
+among consumers
+
+Discussion  
+and Analysis
+
+n/a 
+
+FB-PF-260a.2 We maintain a Food Claims Review Council in the U.S. that acts as a collaborative, cross-functional team 
+
+of regulatory, nutrition and legal partners. The council provides guidance with regards to product claims, 
+labeling, marketing and advertising early in the innovation process to ensure products are compliant 
+and address consumer needs. In providing guidance, the council touches upon a wide variety of topics, 
+including nutrition, ingredients, sustainability, responsible sourcing and product certifications.
+
+2
+
+THE HERSHEY COMPANY  |  2019 SASB INDEXTopic
+
+Accounting  Metric
+
+Category
+
+Unit of Measure Code
+
+Response
+
+Product Labeling  
+& Marketing
+
+Packaging Lifecycle 
+Management
+
+Percentage of advertising impressions  
+(1) made on children and (2) made on 
+children promoting products that meet 
+dietary guidelines
+
+Revenue from products labeled as  
+(1) containing genetically modified 
+organisms (GMOs) and (2) non-GMO
+
+Number of incidents of non-compliance 
+with industry or regulatory labeling and/or 
+marketing codes
+
+Total amount of monetary losses as a 
+result of legal proceedings associated with 
+labeling and/or marketing practices
+
+(1) Total weight of packaging,  
+(2) percentage made from recycled  
+and/or renewable materials, and  
+(3) percentage that is recyclable, reusable, 
+and/or compostable
+
+Discussion of strategies to reduce the 
+environmental impact of packaging 
+throughout its lifecycle
+
+Environmental  
+& Social Impacts  
+of Ingredient 
+Supply Chain
+
+Percentage of food ingredients sourced 
+that are certified to third-party 
+environmental and/or social standards, and 
+percentages by standard
+
+Suppliers’ social and environmental 
+responsibility audit (1) non-conformance 
+rate and (2) associated corrective action 
+rate for (a) major and (b) minor non-
+conformances
+
+Quantitative
+
+Percentage (%)
+
+FB-PF-270a.1
+
+Business: Marketing Responsibly p. 17 
+
+Quantitative
+
+Reporting 
+currency
+
+FB-PF-270a.2 Current Hershey data collection protocols do not include this metric.
+
+Quantitative
+
+Number
+
+FB-PF-270a.3 No substantiated incidents of non-compliance in calendar year 2019.  
+
+Quantitative
+
+Reporting 
+currency
+
+FB-PF-270a.4
+
+In calendar year 2019, the company resolved an unsubstantiated claim for $22,500, which alleged that  
+a product’s name was misleading. No corrective action was taken.
+
+Quantitative Metric tons (t), 
+Percentage (%)
+
+FB-PF-410a.1
+
+(1)  129,946 t for North America only
+
+(2)   65% of packaging was sustainably sourced renewable virgin materials, 22% of our packaging in North 
+
+America was post-consumer recycled material
+
+(3)  80% of our packaging by weight was recyclable
+
+Discussion 
+and 
+Analysis 
+
+Quantitative
+
+n/a 
+
+FB-PF-410a.2
+
+Planet: Exploring Sustainable Packaging p. 41
+
+Percentage (%) 
+by cost
+
+FB-PF-430a.1
+
+In 2019, 51% of food ingredients sourced (by cost) were certified to third-party environmental and/or 
+social standards. Representative standards included: Fair Trade USA, Rainforest Alliance, Roundtable on 
+Sustainable Palm Oil and Bonsucro. 
+
+Business: Responsible Sourcing p. 19
+
+Quantitative
+
+Rate 
+
+FB-PF-430a.2 We evaluated all of our Tier 1 raw material and packaging suppliers as well as co-manufacturers,  
+
+co-packers and licensees. We then developed a prioritized list for further supplier due diligence, which 
+will include assessing environmental and social impact as part of our newly revised Responsible Sourcing 
+Supplier program to launch in 2020. 
+We monitor and investigate actors in our palm oil supply chain for whom we’ve received allegations 
+of potential or negative environmental/social impacts. Updates about these actors, description about 
+allegations raised and the status of the monitoring and investigation of these potential or actual 
+environmental/social impacts can be reviewed on our Palm Oil Grievance Log, updated quarterly. 
+
+3
+
+THE HERSHEY COMPANY  |  2019 SASB INDEXTopic
+
+Accounting  Metric
+
+Category
+
+Unit of Measure Code
+
+Response
+
+Ingredient Sourcing
+
+Percentage of food ingredients sourced 
+from regions with High or Extremely High 
+Baseline Water Stress
+
+Quantitative
+
+Percentage (%) 
+by cost 
+
+FB-PF-440a.1 Hershey has not yet conducted a water risk analysis of our supply chain, but doing so is part of our 
+
+corporate efforts to re-evaluate our sustainability goals to be in line with the best available science and 
+data. We believe over the next two years there will be more to share on this topic. 
+
+List of priority food ingredients and 
+discussion of sourcing risks due to 
+environmental and social considerations
+
+Discussion 
+and 
+Analysis
+
+n/a 
+
+FB-PF-440a.2 Hershey does its part to support the long-term sustainability of the ingredients and raw materials 
+
+we source. The methodology below was followed to define our priority ingredients and raw materials 
+most important to Hershey’s business where we can make the biggest impact in addressing pressing 
+environmental, social and economic issues. 
+
+1.   We collected 2018 spend by ingredients and raw materials that Hershey sources across all regions  as well 
+as the list of countries from where we source the majority of the specific ingredients and raw materials. 
+Business: Where We Source Our Ingredients p. 18
+
+2.  We partnered with human rights NGO Verité to develop a heatmap to analyze risk as defined by  
+our salient and material issues (inclusive of environmental issues such as climate change, water  
+access and deforestation) across our key value chains and geographic footprint. Read more about  
+the methodology, key data sources references and partnership with Verité here and on our  
+Human Rights web page.  
+
+3.  Based on the heatmap, we conducted an internal gap analysis to understand what risks per ingredient 
+and raw material our responsible sourcing policies and programs currently address. The gap analysis 
+reviewed specific ingredient and raw material policies and programs, not general policies and programs 
+such as Supplier Code of Conduct and Supplier Program, Human Rights Policy, Environmental  
+Policy, or any other umbrella policy that would provide overall language for a risk across all  
+ingredients and raw materials. 
+
+4.  We defined priority ingredients based on the spend and risk data overlaid with the internal gap  
+
+analysis findings.
+
+As a result of this work, Hershey defined its priority ingredients and raw materials as: 
+•  High priority: cocoa, sugar and dairy 
+•  Medium priority: palm oil, and pulp and paper 
+•   Other key ingredients and raw materials: peanuts,* tree nuts,* soy,* beef,* corn, flour, coconut, egg, 
+
+poultry, pork, tin and aluminum 
+
+* 
+
+ Denotes an ingredient to watch that has associated environmental risks and will be re-assessed as 
+Hershey’s environmental strategy develops.
+
+Priority materials will be revisited annually to assess possible reprioritization based on:
+
+1.  Changes in our supply chain (e.g., due to mergers and acquisitions or new products)
+
+2. Developments in our environmental and human rights strategies
+
+3. Changes in ingredients’ sustainability risks 
+
+In 2020, we are updating many of our priority ingredients’ and raw materials’ policies, strategies and 
+goals as well as our Hershey Responsible Sourcing web page to be in line with and reflective of our new 
+2020–2022 Responsible Sourcing Strategy. For updates on the responsible sourcing of ingredients and 
+raw materials and to monitor future updates of our priority ingredient and raw material strategies, please 
+visit our Hershey Responsible Sourcing web page.
+
+Activity Metric 
+
+Weight of products sold 
+
+Category
+
+Unit of Measure Code
+
+Response
+
+Quantitative Metric tons (t) 
+
+FB-PF-000.a
+
+907,205 t (note this reflects weight of product produced in 2019 at Hershey-owned facilities not weight 
+of product sold)
+
+Number of production facilities
+
+Quantitative
+
+Number
+
+FB-PF-000.b
+
+15
+
+4
+
+THE HERSHEY COMPANY  |  2019 SASB INDEX

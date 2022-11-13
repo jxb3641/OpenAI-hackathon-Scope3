@@ -1,0 +1,271 @@
+Innovating for 
+a better world
+
+OSHKOSH CORPORATION | 2021 SASB DISCLOSURE REPORT
+
+1
+
+OSHKOSH CORPORATION | 2021 SASB DISCLOSURESASB index
+
+At Oshkosh Corporation, sustainability is extremely important to our 
+shareholders, customers, team members and the communities in which 
+we live and work. The goal of this report is to connect investors to topics 
+about accounting metrics, energy management, employee health and 
+safety, fuel economy and emissions in use-phase, materials sourcing 
+and remanufacturing design and services. All data shared is for fiscal 
+year 2021 unless noted otherwise.
+
+Topic
+
+SASB Code
+
+Metric
+
+Unit of Measure
+
+Response
+
+Accounting Metrics
+
+RT-IG-000.A
+
+Number of units produced
+
+Number
+
+RT-IG-000.B
+
+Number of employees
+
+Number
+
+69,771
+
+14,481
+
+Energy Management
+
+RT-IG-130a. 1
+
+Total energy consumed
+
+Gigajoules (GJ)
+
+1.63 Million
+
+Percentage grid electricity
+
+Percentage (%)
+
+Percentage Renewable
+
+Percentage (%)
+
+Employee Health & Safety
+
+RT-IG-320a. 1
+
+Total recordable incident rate (TRIR)
+
+Rate
+
+Fatality rate
+
+Number
+
+Near miss frequency rate (NMFR)
+
+Rate
+
+30.5
+
+0
+
+2.44
+
+0
+
+8.04
+
+1
+
+OSHKOSH CORPORATION | 2021 SASB DISCLOSURETopic
+
+SASB Code
+
+Metric
+
+Unit of Measure
+
+Response
+
+Fuel Economy & Emissions in 
+Use-Phase
+
+RT-IG-410a. 1
+
+Sales-weighted fuel efficiency for 
+medium- and heavy-duty vehicles
+
+Gallons per 1,000 ton-miles
+
+27.8
+
+In 2021 the EPA changed the GEM 
+model used to calculate fuel 
+economy and emissions. The 
+change in the calculation from the 
+EPA changed the value this year. The 
+distribution and characteristics of 
+the trucks in scope were essentially 
+the same as last year. 
+
+Note: The data shared reflects 
+trucks Oshkosh builds from the 
+frame up (S-Series, P-Series, and all
+Pierce fire trucks). Defense vehicles 
+are built under the national security 
+exemption and no data is included. 
+Commercial vehicles built from 
+chassis built by other companies 
+are not included.
+
+RT-IG-410a. 3
+
+Sales-weighted fuel efficiency for 
+stationary generators
+
+Watts per gallon
+
+N/A
+
+RT-IG-410a. 2
+
+Sales-weighted fuel efficiency for 
+non-road equipment
+
+Gallons per hour
+
+RT-IG-410a. 4
+
+Sales-weighted emissions of: (1) nitrogen 
+oxides (NOx) and (2) particulate matter 
+(PM) for: (a) marine diesel engines, (b) 
+locomotive diesel engines, (c) non-road 
+medium- and heavy-duty engines and (d) 
+other non-road diesel engines
+
+Grams per kilowatt-hour
+
+Due to the diversity of applications 
+of our non-road products, we do not 
+calculate sales-weighted fuel
+efficiency for non-road equipment. 
+Nor do we calculate NOx and PM 
+emissions on a sales-weighted 
+basis. We continue to expand our 
+offering of hybrid and electric
+vehicles. For more information on 
+sustainable products, see pages 
+23-24 of the 2021 Sustainability 
+Report.
+
+2
+
+OSHKOSH CORPORATION | 2021 SASB DISCLOSURE 
+Topic
+
+SASB Code
+
+Metric
+
+Unit of Measure
+
+Response
+
+Materials Sourcing
+
+RT-IG-440a. 1
+
+N/A
+
+Description of the 
+management of risks 
+associated with the use 
+of critical materials
+
+Oshkosh Corporation manufactures products that depend on critical 
+materials to ensure the performance, durability and longevity of our 
+vehicles. In cooperation with our global supply chain partners, we strive 
+to manage the business, social and environmental risks associated with 
+procuring critical materials. We utilize different tools and strategies to be 
+socially responsible and understand the reputation of Oshkosh Corporation 
+and its products may be impacted by the supply, price, and regulation of 
+these materials, including conflict minerals.
+
+Oshkosh Corporation’s global supply chain partners are vetted through a 
+series of controls to better understand how our partners determine and 
+ensure traceability of content throughout the product life cycle; some of
+these controls include quality audits and operational assessments. In 
+addition, Oshkosh Corporation mitigates risk in the global supply chain 
+through the use of our Supplier Code of Ethics and Conduct, Supplier 
+Standards Guide and Country of Origin processes found within our Terms 
+and Conditions.
+
+Oshkosh Corporation’s Supplier Code of Ethics and Conduct requires Tier 1 
+suppliers to adhere to the following policies regarding conflict minerals:
+•  Make reasonable inquiries about the country of origin of products, 
+
+containing 3TG materials, delivered to any Oshkosh Corporation facility, 
+whether sourced directly or through a sub-supplier.
+Conduct due diligence to verify 3TG materials were sourced from a 
+conflict-free source.
+Disclose evidence of due diligence to Oshkosh Corporation.
+
+• 
+
+• 
+
+We have set a goal to require 100% of our global supply chain, directly or 
+through sub-suppliers, to comply with the Oshkosh Supplier Code of Ethics 
+and Conduct, Supplier Standards Guide and our Terms and Conditions.
+
+Critical material will always be available; however, it may experience price
+volatility depending on supply and demand. Oshkosh Corporation’s 
+purchasing strategy is to recognize changes in market behavior and 
+consider buying strategic inventories, lead time reduction and long term 
+agreements. Oshkosh Corporation works hard to source product and
+materials ethically and utilizes controls to partner with our global supply 
+chain to identify and control the use of critical materials.
+
+3
+
+OSHKOSH CORPORATION | 2021 SASB DISCLOSURETopic
+
+SASB Code
+
+Metric
+
+Unit of Measure
+
+Response
+
+Remanufacturing Design 
+& Services
+
+RT-IG-440b. 1
+
+Revenue from remanufactured products 
+and remanufacturing services
+
+U.S. $ in millions
+
+412.8
+
+4
+
+OSHKOSH CORPORATION | 2021 SASB DISCLOSURE1917 Four Wheel Drive
+Oshkosh, WI 54902
++1 920.502.3009
+
+

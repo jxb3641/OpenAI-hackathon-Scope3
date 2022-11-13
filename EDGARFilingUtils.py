@@ -231,16 +231,39 @@ def get_chunks_from_file(filename):
                         chunks.append(row[4])
     return chunks
 
+def get_chunks_from_esg_report(filename):
+    with open(filename) as f:
+        text = f.read()
+        chunks = []
+        for line in text.split("\n\n"):
+            line = line.replace('\n', '').replace('\r', '')
+            if line and len(line) > 50:
+                if len(line) > 200:
+                    sentences = nltk.sent_tokenize(line)
+                    #create chunks of 5 sentences
+                    for i in range(0, len(sentences), 8):
+                        chunk = "".join(sentences[i:i+5])
+                        if chunk:
+                            chunks.append(chunk)
+                else:
+                    chunks.append(line)
+    #print(chunks)
+    return chunks
+
 
 if __name__ == "__main__":
     from OpenAIUtils import file_to_embeddings, questions_to_answers
 
-    filename = "/Users/colemanhindes/OpenAI-hackathon-Scope3/data/ind_lists/4_food_bev/transcripts/TSN_2020-11-16.csv"
-    questions = ["What is the impact of extreme weather", "What is the impact of climate change", "What is the impact of pollution"]
-    #Only show matches above this level
-    match_threshold = 0.25
+    filename = "/Users/colemanhindes/hackathon/OpenAI-hackathon-Scope3/data/pdf_reports/Ford_2022_-_TCFD.txt"
+    text_questions = ['Question 1', 'Question 2']
 
-    chunks = get_chunks_from_file(filename)
+
+    questions = text_questions.split("\n")
+    print(questions)
+    #Only show matches above this level
+    match_threshold = 0.35
+
+    chunks = get_chunks_from_esg_report(filename)
     for chunk in chunks:
         if not chunk:
             print("empty chunk")

@@ -1,0 +1,5012 @@
+TCFD Report 
+2022 
+
+sustainability.ford.com  I  shareholder.ford.com 
+
+Contents 
+
+Introduction 
+
+Our Climate-Related 
+Risks and Opportunities 
+
+Our Strategic 
+Response 
+
+Approach and 
+Introduction to Scenarios 
+
+Ford’s Risk 
+Management Approach 
+
+Metrics and Targets 
+
+TCFD Index 2022 
+
+Appendix 
+
+Contents 
+
+Introduction 
+Letter from Bill Ford and Jim Farley  
+
+Company Purpose  
+
+Ford’s Road to Carbon Neutrality  
+
+Responding to the Climate Challenge  
+
+Governance and Accountability  
+
+Public Policy and Engagement  
+
+3 
+3 
+
+4 
+
+5 
+
+7 
+
+9 
+
+Approach and Introduction to Scenarios  
+Our Approach to Scenario Analysis  
+
+Introduction to the Scenarios  
+
+Common Assumptions for WEO Scenarios  
+
+2030-2040 Scenario Comparison Overview  
+
+Methodologies and Assumptions  
+
+10 
+
+Implications of Scenarios  
+
+Resilience of Ford’s Strategy  
+
+Our Climate-Related Risks and Opportunities  
+Climate-related risks and their impact  
+on the business  
+
+Climate-related opportunities for the business  
+
+Our Strategic Response  
+Electrification Plan  
+
+Advances in Engine and Transmission Technologies  
+
+Enhancing Customer Experience  
+
+Considering a Just Transition and Climate Justice   
+
+Improving the Transportation Ecosystem  
+
+Migrating to Sustainable Materials  
+
+Transforming our own Operations  
+
+Decarbonization of the Supply Chain  
+
+Sustainable Financing  
+
+12 
+
+12 
+
+13 
+
+14 
+14 
+
+17 
+
+17 
+
+17 
+
+18 
+
+18
+
+19
+
+22 
+
+22 
+
+Our Risk Management Approach  
+Process for Monitoring Climate-Related Issues  
+
+Metrics and Targets  
+
+TCFD Index 2022  
+Appendix 
+
+24 
+24 
+
+24 
+
+24 
+
+24 
+
+25 
+
+25 
+
+26 
+
+27 
+27 
+
+29 
+
+34 
+35 
+
+2  |  TCFD Report 2022 
+
+About this report 
+Our climate is changing faster than the world can keep 
+up. Rising sea levels, droughts, and forest fires indicate 
+the urgency of the situation. A comprehensive effort 
+is needed to meet the goals of the Paris Agreement. 
+At Ford, we’re doing our part to address the urgency 
+of climate change and to help build a better world 
+for everyone. 
+
+Ford has published a Task Force on Climate-Related 
+Financial Disclosure (TCFD) Index and a Climate Change 
+Scenario Report since 2019 to be transparent around our 
+climate change resiliency efforts. Using the TCFD 
+framework, this year, we are releasing our first TCFD 
+narrative report, which combines our TCFD Index and 
+Climate Change Scenario Report and provides a progress 
+update across each of the TCFD pillars: Governance, 
+Strategy, Risk Management, and Metrics and Targets. 
+
+It sets out our current understanding of the risks and 
+opportunities associated with climate change and the 
+resilience of Ford’s strategy and business model under 
+different climate scenarios. 
+
+The TCFD report supplements our Integrated Sustainability 
+and Financial Report 2022 and sits alongside our 
+standalone  Human Rights Report 2022, both of which 
+also examine aspects of climate change. It is aligned with 
+the  UN Sustainable Development Goals (SDGs) and our 
+response to CDP (formerly known as the Climate 
+Disclosure Project). 
+
+Not only does it build on our prior TCFD and Climate 
+Change Scenario Reports, but this report also represents 
+a step in our deepening understanding of climate risks 
+and opportunities – for Ford, our industry and the world. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Contents 
+
+Introduction 
+
+Our Climate-Related 
+Risks and Opportunities 
+
+Our Strategic 
+Response 
+
+Approach and 
+Introduction to Scenarios 
+
+Ford’s Risk 
+Management Approach 
+
+Metrics and Targets 
+
+TCFD Index 2022 
+
+Appendix 
+
+Introduction 
+
+Bill Ford 
+Executive 
+Chair 
+
+Jim Farley 
+President and Chief 
+Executive Officer 
+
+3  |  TCFD Report 2022 
+
+measure up. Countries around the world are defining 
+access to clean air and water as fundamental human 
+rights. We at Ford agree – and are setting clear targets for 
+reducing the global emissions of our entire supply chain. 
+
+Whenever the world faces disruption and uncertainty, 
+Ford has stepped up to shape it for the better. We are at 
+our best when we are creating something larger than 
+ourselves. In this time of profound change, we will answer 
+the call to lead our industry towards a more sustainable 
+future, while giving our customers the very best of Ford. 
+
+Bill Ford  
+Executive Chair 
+
+Jim Farley 
+President and Chief Executive Officer 
+
+Letter From Bill Ford and Jim Farley 
+For all of us at Ford, the truest mark of success is whether 
+we leave the world a better place for the next generation. 
+From our earliest days to the present day, Ford has 
+followed that north star. 
+
+We invented the moving assembly line and the $5 
+workday, scaled the Model T, forged the Arsenal of 
+Democracy, and converted our plants to make ventilators 
+and masks during the pandemic. Each generation faces 
+different challenges, but our purpose has always been the 
+same: to help build a better world, where every person is 
+free to move and pursue their dreams. 
+
+Today, our industry and our world are going through a 
+period of immense change. We believe it gives us the 
+opportunity to create the most value for the company and 
+our customers since Henry Ford scaled the Model T. But 
+the change in our industry makes it even more important 
+to stay true to the values that have defined our company. 
+We publish this report to hold ourselves accountable and 
+determine if we are truly moving the needle on the issues 
+that matter. 
+
+Climate change, for example, is among the biggest 
+challenges of our generation. We all share the 
+responsibility to address the threat it poses our economy, 
+our health, and our way of life. Just like the Model T 
+revolutionized mobility, we believe electrification can do 
+the same for reducing carbon emissions. So, we have 
+been transforming our business to lead the electric 
+revolution at scale, creating distinct but complementary 
+businesses – Ford Model e, Ford Blue and Ford Pro – 
+that will help us compete and win in the new era of 
+electric and connected vehicles. 
+
+We are introducing all-electric versions of our most 
+popular, iconic nameplates – the F-150 Lightning, the 
+Mustang Mach-E, and the E-Transit van – and scaling 
+production to reach a target of producing more than 
+2 million electric vehicles per year by 2026. We are also 
+
+leading a new era of sustainable manufacturing, re-
+thinking not just what we build, but how we build. In 
+Tennessee and Kentucky, we have made the largest 
+one-time U.S. investment by any automotive 
+manufacturer to construct the most sustainable 
+manufacturing facilities in our history. Around the world, 
+we are dedicating more than $50 billion through 2026 to 
+accelerate our zero-emission vehicle plan and create an 
+ultra-efficient manufacturing system for our vehicles and 
+the batteries that power them, helping us achieve our 
+goal of carbon neutrality by 2050. Our aspiration is to 
+achieve a business model that goes beyond net-zero and 
+becomes a net-positive for both the environment and 
+the  economy. 
+
+Investing in electric vehicles is the right thing to do for 
+our children and grandchildren. It is also the right thing to 
+do for our business. The demand for our first-generation 
+electric vehicles has far exceeded expectations. We 
+believe we can profitably grow as we invest in electric 
+vehicles, connectivity, and modernization. We plan to 
+maximize the potential offered by digital, connected 
+vehicles to make our products more accessible, more 
+inclusive, and safer to drive than ever before. We are 
+proving that you can drive prosperity and protect the 
+planet at the same time, and investors are taking notice. 
+
+At Ford, we have always strived to take the long view 
+on the environment, even when it was unpopular. 
+We were one of the first industrial companies to publish 
+our progress towards sustainability, one of the first 
+automakers to support the Paris Agreement, and the only 
+full-line American automaker to partner with California 
+on more stringent emissions standards. Now, we intend 
+to lead the industry in another respect by putting a 
+spotlight on human rights. 
+
+Ford is publishing stand-alone Human Rights Report –  
+a first for the company and for the U.S. auto industry.  
+It will examine how our materials are sourced, where our 
+products are manufactured, and how our labor standards 
+
+ 
+  
+Contents 
+
+Introduction 
+
+Our Climate-Related 
+Risks and Opportunities 
+
+Our Strategic 
+Response 
+
+Approach and 
+Introduction to Scenarios 
+
+Ford’s Risk 
+Management Approach 
+
+Metrics and Targets 
+
+TCFD Index 2022 
+
+Appendix 
+
+Introduction  continued 
+
+– 
+
+Company Purpose 
+We’ve been building the future for 118 years now, and we 
+continue to invest to help build a better tomorrow. We 
+take action because the future of this company centers 
+on a purpose bigger than building vehicles and services. 
+We are helping to build a better world, where every 
+person is free to move and pursue their dreams. A world 
+that is fully electric. A world that is more equitable, 
+inclusive, and sustainable. And in doing so, we are putting 
+people, the planet, and our shared prosperity first. 
+
+We are directing our investments toward what’s good for 
+people and the planet, which is also good for our 
+business, and will help achieve our goal of carbon 
+neutrality no later than 2050. 
+
+Through our work in advancing our climate change  
+activities, we are contributing to the following UN SDGs: 
+
+4  |  TCFD Report 2022 
+
+Environmental   
+Aspirational Goals 
+
+Climate Change: Achieve carbon  
+neutrality no later than 2050 
+
+Air: Attain zero emissions from  
+our vehicles and facilities 
+
+Water: Make zero water withdrawals  
+for manufacturing processes 
+
+Use freshwater only for human consumption 
+
+Energy: Use 100 percent carbon-free 
+electricity in all manufacturing by 2035 
+
+Materials: Utilize only recycled or renewable  
+content in vehicle plastics 
+
+Waste: Reach true zero waste to landfill  
+across our operations 
+
+Eliminate single-use plastics from  
+our operations by 2030 
+
+ 
+  
+Contents 
+
+Introduction 
+
+Our Climate-Related 
+Risks and Opportunities 
+
+Our Strategic 
+Response 
+
+Approach and 
+Introduction to Scenarios 
+
+Ford’s Risk 
+Management Approach 
+
+Metrics and Targets 
+
+TCFD Index 2022 
+
+Appendix
+
+Introduction  continued 
+ – 
+
+Ford’s Road to  
+Carbon Neutrality 
+Over the past 20 years, Ford has 
+progressively developed our 
+understanding of climate-related 
+risks and opportunities while 
+updating and setting increasingly 
+ambitious goals. We are proud of  
+the progress we have made to date 
+and look forward to achieving  
+the milestones ahead as we  
+continue on our journey to  
+carbon neutrality. 
+
+5  |  TCFD Report 2022 
+
+1999: 
+Published our first 
+Corporate Citizenship 
+Report, “Connecting  
+with Society” 
+
+2018: 
+Met our goal to reduce 
+operational GHG emissions 
+per vehicle produced by  
+30% eight years early 
+
+2004: 
+Reopened our Ford Rouge 
+Center with a living roof (the 
+world’s largest green roof at 
+the time), daylighting system 
+and waste minimization 
+
+Launched the Escape Hybrid 
+
+2015: 
+Launched the lightweight,  
+all-aluminum F-150 Lightning 
+
+2007: 
+Joined the United States 
+Climate Action Partnership 
+and UN Global Compact 
+
+2009: 
+Launched the EcoBoost 
+engine, which optimizes 
+power and efficiency using 
+turbocharging and direct 
+gasoline injection 
+
+2014: 
+Implemented Partnership for a 
+Cleaner Environment (PACE) 
+supplier program 
+
+Signed the UN CEO Water Mandate 
+
+Announced saving of more than 
+10 billion gallons of water 
+
+2011: 
+Launched the full 
+electric Focus EV 
+
+2020: 
+Set aspiration to be carbon neutral no later than 2050 
+
+Launched all-electric Mustang Mach-E 
+
+Achieved 75% absolute reduction in water use since 2000 
+
+Offered 155,000 charging stations in Europe on the FordPass 
+Charging Network, in partnership with NewMotion 
+
+2021: 
+Set approved science-based emissions targets (SBTi) for our 
+operations and vehicles  
+
+Joined RouteZero working toward 100% zero-emissions vehicles 
+(ZEVs) globally in 2040 
+
+Launched new Sustainable Financing Framework and the first 
+transaction from it, a $2.5 billion green bond 
+
+Tied Corporate and Supplemental Credit Revolvers to  
+sustainability-linked KPIs 
+
+Required suppliers to submit science-based GHG reduction targets 
+
+ 
+  
+Contents 
+
+Introduction 
+
+Our Climate-Related 
+Risks and Opportunities 
+
+Our Strategic 
+Response 
+
+Approach and 
+Introduction to Scenarios 
+
+Ford’s Risk 
+Management Approach 
+
+Metrics and Targets 
+
+TCFD Index 2022 
+
+Appendix 
+
+Introduction  continued 
+
+– 
+
+2022: 
+Launch all-electric F-150 Lightning and all-electric E-Transit 
+
+Plan to spend $5 billion on electric vehicles (EVs) in 2022,  
+a two-fold increase over 2021 
+
+Power Dearborn Truck Plant, Michigan Assembly Plant and  
+several new buildings on our Research and Engineering and  
+Corktown campuses with 100% renewable electricity 
+
+2026: 
+Invest  $50 billion in EVs since 2022 
+
+Reach 100% passenger vehicle range in Europe with 
+zero-emissions capable, all-electric or plug-in hybrid 
+
+Produce more than 2 million electric vehicles annually, 
+about one-third of Ford’s global volume 
+
+2023: 
+Begin EV manufacturing in Cologne 
+
+Raise global EV capacity to 
+600,000 by year end 
+
+2024: 
+Achieve zero emissions 
+capability for full range of 
+European Light Commercial  
+Vehicles 
+
+2025: 
+Build electric F-Series and battery packs with SK  
+Innovation at BlueOval City 
+
+Source 100 percent carbon-free electricity for all Michigan  
+manufacturing facilities  
+
+Launch new North American and EU programs with 20%  
+recycled or renewable content in plastics (and programs  
+from China and Turkey with 10%) 
+
+2030: 
+Achieve EV commitments 
+
+– Globally: 50% 
+– US: 50% 
+–  EU: 100% of passenger cars, 2/3 of commercial vehicle sales 
+– Lincoln: 100% 
+
+Reduce greenhouse gas (GHG) emissions from U.S.  
+manufacturing facilities 50% (Better Climate Initiative) 
+
+Eliminate single-use plastics from our operations 
+
+2035: 
+Meet our SBTi science-based  
+emission targets for operations 
+and vehicles 
+
+Work towards 100% zero-
+emission vehicles (ZEVs) in 
+leading markets (RouteZero) 
+
+Achieve 100 percent carbon-free 
+electricity for our global 
+operations 
+
+2040: 
+Work towards 100% zero-
+emission cars and vans 
+globally (RouteZero) 
+
+2050: 
+Carbon  
+Neutrality 
+
+6  |  TCFD Report 2022 
+
+ 
+ 
+ 
+ 
+ 
+  
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Introduction – continued
+
+Responding to the Climate Challenge
+Climate is changing faster than the world can keep up. 
+Rising sea levels, more frequent droughts, severe storms, 
+and forest fires combined with environmental 
+degradation threaten food, water, health, and energy 
+security. Ford is working to minimize its impact on the 
+climate aligned with the United Nations Framework 
+Convention on Climate Change (the Paris Agreement). 
+Ford identified addressing Just Transition as part of how 
+we manage climate change, one of our salient human 
+rights issue.
+
+à	
+
+Read more on our salient issues in our Human Rights 
+Report 2022 
+
+Global Trends Impacting our Business
+The world is facing an array of challenges, from the ongoing 
+pandemic, to income inequality, to climate change.
+
+Extreme weather events are becoming more frequent, the 
+costs and challenges of which fall disproportionately on 
+the developing world. The physical impacts of floods, 
+droughts, heatwaves, and storms, combined with 
+environmental degradation, threaten food, water, health, 
+and energy security.
+
+The World Economic Forum (WEF) Global Risks Report 
+2022 identified climate action failure as the most severe 
+risk on a global scale over the next 10 years. Ford’s 2022 
+trend report showed that 81% of adults, globally, say 
+climate change makes them concerned for their future. 
+Yet, more than half of millennials and Gen Z-ers believe 
+that by 2035 we’ll have the technology in place to reverse 
+the effects of climate change.
+
+Infrastructure is also top of mind, as we contend with 
+supply chain disruptions, changes in consumer preference 
+for safer modes of travel, and increasing emphasis on 
+developing sustainable infrastructure. 
+
+Technology trends, notably automation, artificial 
+intelligence, digitalization of tasks and services, are 
+dramatically improving efficiency and productivity but 
+may pose higher cyber- and data-security risks. The 
+adoption of these technologies will also continue to shift 
+the employment landscape.
+
+Social justice concerns also extend to the automotive 
+industry. At a time when technology is transforming 
+vehicles and how they are made and operated, workers 
+from manufacturing through to customer service may 
+need new skills and knowledge. This is a part of the Just 
+Transition challenge.
+
+A select number of governments supported the 
+conditions for a Just Transition internationally at COP26. 
+This includes ensuring environmental sustainability as 
+well as decent work, social inclusion, and poverty 
+eradication. The creation of new industries, new jobs, and 
+new skills also gives us the opportunity to create more 
+equal and resilient economies and communities. 
+
+Our Comprehensive Response
+The Paris Agreement calls for limiting the global 
+temperature rise to well below 2°C above pre-industrial 
+levels and working to limit the temperature increase to 
+1.5°C above pre-industrial levels. 
+
+Road transportation accounts for 18% of global carbon 
+emissions.* Ford’s emissions, along with that of other 
+automakers, are a part of road transportation. Ford 
+focuses on reducing emissions from our vehicles, 
+operations and supply chain which represent over 95% of 
+our total emissions.
+
+Our carbon neutrality goal is comprehensive. It includes 
+less developed regions (which will progress at a slower 
+pace than advanced economies), all our product 
+segments (including larger commercial vehicles), and the 
+fuels which power our vehicles. 
+
+*https://www.iea.org/data-and-statistics/data-product/greenhouse-gas-emissions-from-
+energy-highlights
+
+7  |  TCFD Report 2022
+
+2019 Global CO2 Emissions from Energy
+
+   Electrical & heat 
+production: 42%
+
+   Other: 7%
+   Manuf. industries and 
+construction: 19%
+
+   Transport (less road): 7%
+   Road Transport: 18%
+   Residential: 7%
+
+Vehicles-tailpipe: 77%
+
+Vehicles-energy 
+production: 7%
+
+Suppliers: 13%
+
+Operations: 1%
+
+Misc: 2%
+
+2020 Ford CO2 Emissions
+
+We are taking concrete steps to address the challenges 
+outlined above and capture the opportunities they 
+present as we reduce our emissions on the path towards 
+carbon neutrality. 
+
+Carbon Neutrality no later than 2050
+We are committed to doing our part to reduce greenhouse 
+gases and have set a path to achieving zero carbon 
+emissions by balancing carbon emissions with carbon 
+removal no later than 2050. Ford is the only full-line U.S. 
+automaker to align with the Paris Agreement and to stand 
+with the California Air Resources Board in support of 
+stronger vehicle greenhouse gas (GHG) emissions 
+standards. We support the UN Business Ambition for 
+1.5°C, which calls on companies to commit to set science-
+based targets aligned with limiting global temperature 
+rise to 1.5°C above pre-industrial levels, and the U.S. 
+Nationally Determined Contribution to the Paris 
+Agreement, which calls for an economy-wide approach to 
+reducing greenhouse gas by 50-52% by 2030. We are 
+cutting GHG emissions across the life cycle of our 
+vehicles, driving energy efficiency and conservation in our 
+facilities and manufacturing processes, and partnering 
+with our suppliers to reduce their environmental impacts. 
+
+As we work to achieve our goal we understand that we 
+face significant challenges, including customer 
+acceptance, government regulations, economic 
+conditions, and the availability of renewable, carbon-
+neutral electricity and renewable fuels. However, over the 
+last year we have made significant progress:
+
+• Vehicles: At COP26, we joined RouteZero, a global 
+
+coalition of public and private sector leaders working 
+towards 100% zero-emission cars and vans globally by 
+2040, and in leading markets no later than 2035. 
+
+ 
+   
+   
+   
+   
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Introduction – continued
+
+• Operations: Ford is the first automaker to join the Better 
+
+Climate initiative by committing to reduce GHG 
+emissions from our manufacturing facilities in the U.S. 
+by 50% by 2030, in line with our global commitment to 
+power our facilities with 100 percent carbon-free 
+electricity by 2035.
+
+• Suppliers: We are working with our suppliers to develop 
+science-based emissions reduction targets in line with 
+the Paris Agreement while providing resources to help 
+them achieve these goals.
+
+Why 2050
+A cross-functional Ford team from the U.S., Europe, and 
+China developed the company’s carbon-neutral approach 
+after analyzing information on the environment, 
+customers, technology, legislation, energy, competitive 
+approaches, life-cycle assessments, and other trends.
+
+Achieving global carbon neutrality no later than 2050 
+demonstrates our commitment to the Paris Agreement. 
+However, the challenge of reaching the 2050 goal for our 
+industry and company should not be underestimated. 
+Enormous changes will be required to decarbonize the 
+global energy and transportation systems. It will take 
+time to update infrastructure, for the technology to 
+become affordable, and other obstacles to be addressed, 
+which is why we expect the goal of carbon neutrality to be 
+reached in different product segments and regions at 
+different times. For example, we expect passenger 
+vehicles to be carbon neutral before larger commercial 
+vehicles with more demanding duty cycles. Given 
+favorable policy, we expect the European Union and the 
+U.S. Green (Section 177) States to be carbon neutral 
+before the rest of the world. Our interim targets reflect 
+these differences.
+
+It is important to note that carbon neutrality can be 
+achieved using emission reductions and carbon offsets. 
+Our philosophy is to focus on emission reductions using 
+minimal carbon offsets. We also recognize that to be 
+successful, we need to collaborate with key stakeholders 
+to advocate for many external factors including 
+government policies, technical solutions, and a carbon 
+neutral grid. Despite these challenges, we are actively 
+looking for opportunities to accelerate our timing.
+
+SBTi Targets
+We have set interim science-based targets for our vehicle 
+emissions (from a well-to-wheels perspective) and 
+operations (which include Scope 1 and 2 emissions for 
+manufacturing and non-manufacturing locations). Our 
+approved 2035 science-based targets (from SBTi, the 
+Science Based Targets initiative) are:
+
+• 50% reduction in Scope 3 GHG emissions per vehicle 
+kilometer from use of sold products by 2035 from a 
+2019 base year
+
+• 76% reduction in Scope 1 and 2 GHG emissions by 2035 
+
+from a 2017 base year
+
+Our use of sold products (vehicle) target is consistent 
+with the well below 2°C target* while our Scope 1 and 2 
+target is aligned with a 1.5°C path.* We have also 
+committed to reduce our global manufacturing Scope 1 
+and 2 GHG emissions by 18% by 2023 from a 2017 base 
+year. These targets do not include offsets and are strictly 
+GHG reduction targets. The chart below shows our 
+emissions path toward meeting our SBTi targets.
+
+* Vehicle sector pathways for 1.5°C target setting have not yet been developed by SBTi.
+
+8  |  TCFD Report 2022
+
+CO2 Emission Reduction Plan
+
+SBTi 
+Targets 
+Met
+
+Carbon
+Neutral
+
+2019
+
+2035
+
+2050
+
+Vehicles and Charging
+Our transition to electrification is central to our carbon 
+neutrality goal. We are committed to developing and 
+manufacturing EVs that are sustainable, accessible, 
+and affordable. 
+
+A robust public charging infrastructure is essential for 
+electric vehicles to be fully accepted by consumers and 
+commercial customers. Actual charging capacity is just as 
+important as the number of charge points. Our charging 
+networks in North America and Europe help address this 
+barrier. It will also be important to transform the grid 
+quickly to renewable electricity.
+
+Operations
+We’re reimagining how EVs – and the batteries that 
+power them – are designed, manufactured, and recycled, 
+creating an all-new electric vehicle manufacturing 
+ecosystem. In 2021, we announced plans to bring electric 
+vehicles at scale to American customers by expanding 
+production capacity at the Rouge Electric Vehicle Center 
+and building two new massive, environmentally and 
+technologically advanced campuses in Tennessee 
+and Kentucky.
+
+BlueOval City in Tennessee will become a vertically 
+integrated ecosystem for Ford to assemble an expanded 
+lineup of electric F-Series vehicles and will include a 
+BlueOval SK battery plant, key suppliers, and recycling. 
+Ford’s new Tennessee assembly plant is designed to 
+be carbon neutral and send zero-waste to landfill once 
+fully operational.
+
+ 
+ 
+ 
+ 
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Introduction – continued
+
+Sustainable Supply Chains
+
+With approximately 4,500 Tier 1 supplier sites around the 
+world, it is a challenge to bring our complex supply chain 
+along with us as we strengthen our global sustainability 
+commitment. We are primarily focused on four areas: 
+protecting and respecting human rights, protecting the 
+environment, responsibly sourcing materials, and 
+maintaining responsible business practices. Our Supplier 
+Code of Conduct mandates that Tier 1 production 
+suppliers minimize their impact on climate change, 
+establish science-based targets, action plans, and 
+transparent reporting mechanisms, and require their 
+subcontractors to do the same. 
+
+Just Transition 
+An expectation of the Paris Agreement is to achieve 
+a Just Transition as we move towards a low-carbon 
+economy. A Just Transition should address the human 
+rights implications of the decarbonization and energy 
+transformation with attention on workers and 
+communities that may need reskilling and upskilling, job 
+creation, and responsible sourcing. Customers should 
+also be considered in the Just Transition, such as by 
+developing accessible and inclusive products (e.g. the 
+availability and affordability of electric vehicles).
+
+As Ford moves towards carbon neutrality, we are 
+mindful of the impacts of the energy transition on our 
+employees, our supply chain, our communities, and our 
+customers. We are addressing and evolving our Just 
+Transition strategy. 
+
+à	
+
+Read more about Ford’s Just Transition strategy  
+in our Human Rights Report 
+
+9  |  TCFD Report 2022
+
+Sustainability Governance
+
+Board of Directors
+Sustainability, Innovation 
+and Policy Committee
+
+Executive Cabinet
+Ford Leadership Team & CEO
+
+VP, Chief Sustainability, 
+Environment and Safety Officer
+
+External Stakeholder 
+Engagements
+Sustainability Partnerships
+
+Global Sustainability & ESG Meeting
+Monthly Executive Officer Review 
+
+Strategic Priorities, 
+Objectives & Performance
+Integrating Sustainability into all our Operations 
+
+Mobility
+
+Finance
+
+Ford Land
+
+Purchasing
+
+Treasury
+
+Communications
+
+Global Manufacturing
+
+Sustainability
+
+Research & Innovation
+
+Investor Relations
+
+Global Data Analytics 
+& Insights
+
+Diversity, Equity & Inclusion
+
+People Matters
+
+Marketing
+
+General Counsel
+
+Environmental
+
+Quality
+
+Product Design & 
+Development
+
+Automotive Safety
+
+Human Resources
+
+Team Edison
+
+Ford Credit
+
+Ford Fund
+
+Governance and Accountability
+Our response to climate change is embedded across our 
+business, with governance sitting at the highest level of 
+our company, our Board of Directors.
+
+Board Oversight
+We employ a variety of governance systems and 
+processes to manage different aspects of sustainability 
+across our business. 
+
+The newly named Sustainability, Innovation and Policy 
+Committee, formerly the Sustainability and Innovation 
+Committee, is responsible for reviewing and advising 
+Ford’s pursuit of innovative policies and technologies that 
+promote product safety, improve environmental and 
+social sustainability, including human rights, working 
+conditions, and responsible sourcing. The Committee’s 
+focus reflects Ford’s increased emphasis on policy 
+relating to all aspects of our business to achieve our 
+sustainable goals and innovation pursuits.
+
+The Committee discusses and advises management 
+regarding the development of strategies, policies, and 
+practices that assist the Company in addressing public 
+sentiment and shaping policy in the areas of energy 
+consumption, climate change, greenhouse gas and criteria 
+pollutant emissions, waste disposal, and water use. 
+
+The Committee reviews the Company’s Integrated 
+Sustainability and Financial Report Summary as well 
+as Company initiatives related to sustainability and 
+innovation.
+
+à	
+
+Read more about the Charter of the Sustainability, Innovation 
+and Policy Committee 
+
+Management’s Role
+We have a number of management processes, systems, 
+committees, and groups in place that are designed to 
+help us improve our sustainability performance, and act 
+responsibly and ethically.
+
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Introduction – continued
+
+Ford’s Vice President, Chief Sustainability, Environment 
+and Safety Officer has primary responsibility for 
+sustainability issues and oversees the Sustainability and 
+Vehicle Environmental Matters group, the Environmental 
+Quality Office, the Vehicle Homologation and Compliance 
+group and the Automotive Safety Office. He leads a multi-
+disciplinary senior-level team to oversee our actions in 
+response to our climate change and sustainable mobility 
+strategies. Other executives across functional areas also 
+have responsibility for sustainability-related issues. 
+
+The Sustainability and Vehicle Environmental Matters 
+team coordinates our company-wide sustainability 
+strategy and activities and leads our sustainability 
+reporting and stakeholder engagement. They also 
+collaborate with other functional areas and skill teams to 
+integrate sustainability throughout the Company. 
+
+The Vice President, Chief Sustainability, Environment and 
+Safety Officer leads the Global Sustainability & ESG 
+Meeting (GSM). This multidisciplinary executive-level 
+team oversees actions in response to our sustainability 
+strategies and integration and issues related to our We 
+are Committed to Protecting Human Rights and the 
+Environment Policy. The GSM approves our carbon 
+neutrality strategy and monitors progress towards 
+reducing CO2 through metrics for our fleet, suppliers, and 
+manufacturing. We also track metrics for low-carbon 
+policies in North America, Europe, and China.
+
+The GSM is scheduled to meet monthly to provide 
+strategic direction for compliance, govern vehicle 
+environmental compliance policies and strategies, 
+evaluate and report sustainability business environment 
+and impact to Ford, approve and govern each functional 
+team’s sustainability plan, long-term goals and metrics, 
+and provide guidance and governance for key 
+Sustainability & ESG trends that enable “Leadership.”
+
+Public Policy and Engagement 
+Addressing climate change is a global issue that no 
+company, industry, country, or organization can achieve 
+on its own. It requires collaboration to drive progress. We 
+continue to work with partners in the public and private 
+sectors to advance consistent market-driven policies 
+(such as an effective carbon tax) supporting 
+electrification, the EV charging infrastructure, the carbon 
+neutral grid, and battery recycling.
+
+Several policy approaches are underway to address 
+climate change:
+
+• At COP26 Ford joined RouteZero, a global coalition of 
+governments and private industry working towards 
+100% zero-emission cars and vans globally by 2040, 
+and in leading markets no later than 2035.
+
+• In the U.S., the Biden administration proposed legislation 
+that included measures to increase adoption of electric 
+vehicles in the U.S. In August 2021, Ford issued a joint 
+statement with GM and Stellantis calling for “the timely 
+deployment of the full suite of electrification policies… 
+including purchase incentives, a comprehensive charging 
+network of sufficient density to support the millions of 
+vehicles these targets represent, investments in R&D, 
+and incentives to expand the electric vehicle 
+manufacturing and supply chains in the United States.” 
+
+• The European Union (EU) Green Deal foresees a 55% 
+cut in greenhouse gas emissions by 2030, compared 
+with 1990 levels, and a zero net emission target by 
+2050. The legislative proposals target a wide range of 
+areas, including the transport sector. The EU has 
+proposed an effective ban on the sale of new petrol and 
+diesel cars from 2035 and some European countries 
+and cities are starting earlier. The move aims to 
+accelerate the switch to zero-emission electric vehicles. 
+Ford supports the objectives of the Green Deal. 
+
+10  |  TCFD Report 2022
+
+However, despite these advances, the policy approach 
+has been fragmented. Aligned public policies are needed 
+across the globe that help drive market requirements 
+and support corporate financial sustainability through 
+the transition. 
+
+Ford is participating openly and transparently in the 
+political process, supporting local, regional, national, and 
+international policies that are economically, 
+environmentally, and socially sustainable for our 
+company, our customers and their communities. Ford 
+advocates for positions which are: 
+
+• Science-based
+
+• Sustainable (i.e. address climate change and are 
+
+aligned with the Paris Agreement)
+
+• Market-based (e.g., carbon pricing)
+
+• Performance-based and technology agnostic
+
+• Harmonized
+
+We are focused on issues including consistent policy 
+toward electrification in all markets, an EV charging 
+infrastructure, the carbon neutral grid, battery recycling 
+polices, and an effective carbon tax.
+
+At the same time, we are working to ensure that 
+policymakers understand our commitment to reduce GHG 
+emissions in our vehicles, our facilities, and our supply chain, 
+and to expand our focus on electric vehicles – highlighting 
+our $50 billion global investment in EVs through 2026. Our 
+message to regulators at the federal and state level is to 
+urge collaboration towards one common standard that 
+ensures regulatory certainty for product planning.
+
+Our new internal policy framework
+Achieving our carbon neutrality aspiration requires a 
+greater emphasis within the company on policy, and even 
+greater engagement with policymakers and with those 
+who influence policymaking processes. This is important 
+given the number of unsettled public policy issues that 
+are central to Ford’s success. To this end, a new policy 
+framework – bringing organizational, procedural, and 
+cultural change – will enhance Ford’s policy capabilities 
+and best advance the company’s interests and values. 
+This framework will leverage the existing capabilities 
+across the Office of General Counsel, Government Affairs, 
+and the Sustainability, Environment, and Safety 
+Engineering offices, as well as the new Privacy office and 
+provide a mechanism for these components to function 
+as one team.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Introduction – continued
+
+Tracking policy development 
+We track policy development in North America, the EU, 
+and China to shape policies that support carbon 
+neutrality. We support various policy measures which 
+enhance market-driven adoption of lower/zero carbon 
+transportation. Our policy ratings of a region are judgment 
+calls based on progress toward their goals over the next 
+seven years as well as a balance of supply and demand 
+side drivers. We track the following policy categories:
+
+• Demand Side Drivers: Carbon pricing, Incentives, HOV 
+
+lanes, Free parking, Parking bans
+
+• Supply Side Drivers
+
+– Refueling Infrastructure: Electric Charging, Hydrogen, 
+
+Low-Carbon Fuels
+
+– OEM/Fuel Requirements: Fuel Economy Standards, 
+OEM Sales Mandates, Low-Carbon Fuel Standard, 
+ICE bans
+
+– Carbon Neutral Grid
+
+Ratings are made by a cross-functional, regional team 
+which includes Government Affairs and are used to inform 
+our policy approach. We believe that EU policies are on 
+track to meet carbon neutrality but that in North America 
+and China, additional policies are needed.
+
+We continue to strive to improve our efforts in 
+transparency to help build trust. Each year we publish 
+a U.S. Political Engagement Report in an effort to be 
+transparent about the principles that govern our 
+participation in the political process, including the 
+disclosure of the company’s membership in organizations 
+that contribute to debates on policy issues. We are proud 
+that Ford was rated as a trendsetter in political disclosure 
+and accountability in the 2021 CPA-Zicklin Index of 
+Corporate Political Disclosure.
+
+à	
+
+Read more in our US Political Engagement Report
+
+11  |  TCFD Report 2022
+
+We realize that we can’t do it 
+alone – it will take collaboration to 
+drive progress. That’s why we are 
+sitting down with governments 
+and NGOs around the globe, as 
+well as partners in the public 
+and private sector, to show our 
+leadership and advocate for 
+stronger policies. Partnerships 
+like RouteZero can help build 
+momentum and deliver solutions.”
+
+Cynthia Williams, Ford’s Global Director of 
+Sustainability, Homologation and Compliance,  
+told NPR after the COP26 conference  
+in November 2021.
+
+Memberships and Associations
+As a global company, it is critical that Ford uses its voice 
+to help inform the policies affecting our employees, 
+customers, and shareholders. Ford works with a broad 
+range of coalitions, industry groups, and trade 
+associations in the markets where we operate to leverage 
+our resources effectively on key issues. These 
+connections help the company exchange ideas and 
+collaborate to develop and promote sensible policies that 
+benefit our company, our industry, and society. These 
+organizations often bring diverse viewpoints to the 
+debate, and sometimes their views are not shared by 
+Ford. We make our positions clear and when necessary, 
+have taken an alternative path. 
+
+American Automotive Policy Council 
+The American Automotive Policy Council (AAPC), in 
+coordination with Ford, GM, and Stellantis, is taking a 
+comprehensive, all-inclusive approach to “going green.” 
+Ford continues to promote alignment with U.S. standards 
+in global export markets to ensure harmonization with 
+fuel economy and safety initiatives. When an economy-
+wide carbon pricing initiative gains traction, AAPC will 
+advocate for inclusion of a carbon border adjustment that 
+will encourage other countries to implement similar 
+climate policies and level the playing field for U.S. 
+manufacturers.
+
+Climate Leadership Council
+Ford joined the Climate Leadership Council (CLC) in 2019. 
+The CLC is an international policy institute founded in 
+collaboration with business, opinion and environmental 
+leaders to promote a carbon fee and dividends framework 
+as the most cost-effective, equitable, and politically viable 
+climate solution. Ford is educating members of Congress 
+on a growing group of businesses and NGOs working 
+towards the meaningful solutions needed to achieve 
+significant reductions in GHG emissions. 
+
+CEO Climate Dialogue
+Ford is the first automaker to join the CEO Climate 
+Dialogue and looks forward to exchanging ideas as we 
+work with lawmakers to shape climate policy. Ford 
+continues to highlight the need for a comprehensive 
+market-based solution. We believe this will be necessary 
+to achieve reductions needed for net-zero carbon 
+emissions by 2050.
+
+Electric Drive Transportation Association
+The Electric Drive Transportation Association (EDTA) is 
+a trade association promoting electric drive technologies 
+and infrastructure. EDTA is aligned with Ford on the need 
+to accelerate the ICE to EV transition while extending/
+expanding EV incentives including consumer tax credit, 
+commercial incentives for EV, EV charging, investment 
+tax credit for U.S. facilities for EV components like 
+batteries. 
+
+ 
+ 
+ 
+  
+ 
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Our Climate-Related Risks  
+and Opportunities
+
+Climate-Related Risks and their Impact 
+on the Business Activity
+We divide climate-related risks into two categories:
+
+• Transition risks – those that arise from actions 
+associated with the transition to a low-carbon 
+economy, including the introduction of new climate 
+policies or low-carbon technologies, and
+
+• Physical risks – those that arise from the physical 
+
+impacts of climate change.
+
+Both categories are examined through short term  
+(< 5 years), medium term (5 – 10 years), and long-term  
+(> 10 years) timeframes. 
+
+Timing of the major risks for leading markets currently in 
+the transition to electrification cover the three examined 
+timeframes and are listed below. We expect technology, 
+market, and workforce risks to lessen in the long-term 
+timeframe in leading markets as electrification becomes 
+more widespread. Other markets will reach the 
+electrification inflection point later, extending technology 
+and market risks. The table is not a complete listing of the 
+risks we considered but is an overview of major risks in 
+the most pertinent categories.
+
+Major Climate-Related Risks 
+
+TRANSITION RISKS
+
+Regulation
+
+Technology
+
+Ford is subject to emissions, fuel economy, zero emissions, and other regulations that govern product characteristics, and these can differ locally, regionally, and nationally. New regulations are 
+continuously being proposed to address environmental concerns and the regulatory landscape can change quickly. To comply, we may need to substantially modify product plans.
+
+If cost-effective and timely hardware and software solutions are not available to meet our CO2 reduction goals, we are subject to technology risk. As we make further CO2 reductions, it becomes 
+more challenging to make cost-effective improvements. Technology may not be available to make the improvements at the rate required, and the carbon neutral grid and charging infrastructure 
+may not keep pace with vehicle electrification which could negatively impact sales.
+
+Financial
+
+There is a potential that our carbon neutrality plan would need to be accelerated which would require increased investments.
+
+Ford tied our Corporate and Supplemental Revolvers to three sustainability-linked KPIs such as reducing greenhouse gas emissions from the company’s manufacturing plants and lowering Ford of 
+Europe’s CO2 tailpipe emissions per passenger vehicle. The applicable margin and facility fees may be adjusted if Ford fails to achieve, the specified targets.
+
+Legal
+
+Market
+
+Non-compliance with requirements can lead to fines or sales restrictions.
+
+Meeting our climate goals relies on wide market acceptance of electrified vehicles. There is a risk that our offerings do not meet sales volume expectations. Low market acceptance could be 
+caused by low gas prices, changes required to fueling behavior, or by more product entries than are supported by demand. Excessive supply could lead to decreased revenue and profitability.
+
+Reputation
+
+Reputation risk is tied to other risks such as meeting product emission targets or sales volumes for environmentally friendly vehicles. Our reputation can suffer if we do not reduce vehicle CO2 in 
+line with expected progress for climate stabilization, which could result in lower sales.
+
+Resource Scarcity
+
+As electrified products proliferate, there is a risk that scarce materials such as cobalt will increase in price slowing the growth of EV sales if an alternative to the material cannot be quickly found. 
+
+Workforce
+
+With the significant shift in capabilities needed to deliver the transition to electrification, there is a risk of lack of skilled workers and programs necessary to reskill the workforce.
+
+PHYSICAL RISKS
+
+Extreme weather
+
+Climate change can lead to increased extreme weather events such as storms or floods that can disrupt production or component supplies, while droughts can affect our access to water for our 
+operations, especially in water-scarce areas.
+
+12  |  TCFD Report 2022
+
+ 
+ 
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Our Climate-Related Risks and Opportunities – continued
+
+Climate-Related Opportunities  
+for the Business 
+At Ford we see opportunities across the time horizon 
+for addressing climate-related issues. Timing of some 
+major opportunities for leading markets is shown below. 
+The opportunities related to adoption of electrification 
+in lagging markets will occur later in the time horizon. 
+The table is an overview of opportunities and is not a 
+complete listing of what Ford is pursuing. 
+
+Major Climate-Related Opportunities 
+
+Product
+
+Developing a portfolio of electrified vehicles for the transition away from the internal combustion engine is an 
+opportunity for Ford. Our portfolio includes all-electric, plug-in hybrid, hybrid, and fuel-efficient internal combustion 
+engines (e.g., EcoBoost). This portfolio provides Ford with the opportunity for growth and increased market share as 
+the transition occurs. 
+
+Financial
+
+There is an opportunity to drive scale, vertical (battery) integration in manufacturing, and battery innovation to deliver 
+cost efficiency and improved profitability. 
+
+Ford tied our Corporate and Supplemental Revolvers to three sustainability-linked KPIs. The applicable margin and 
+facility fees may be adjusted if Ford achieves the specified targets. 
+
+Conserving  
+Resources 
+
+Reputation
+
+We see several opportunities to conserve resources such as battery materials and energy, as well as improve business 
+productivity. Our partnership with Redwood Materials will help localize the battery supply chain network and ramp up 
+lithium-ion battery recycling in the U.S. We are reducing energy consumption in operations through efficiency projects 
+which will reduce our energy costs. Ford Pro helps commercial vehicle owners improve fleet efficiency and uptime. 
+
+An increasing number of consumers think it’s important for companies to take action on climate change. These 
+consumers say they are willing to pay more for products that are better for the environment. Meeting customer 
+expectations by delivering electrified products and solutions, an always-on relationship with customers, and an 
+ever-improving user experience will strengthen our reputation and improve our bottom line. We believe Ford is well 
+positioned to establish a “green” reputation with customers based on our electrification plans supplemented with 
+improved customer experience and our broader sustainability efforts which include carbon neutral manufacturing and 
+circular economy actions. 
+
+Workforce
+
+Electrification represents a revolution in the auto industry as it reshapes the future of work. We are mindful of the 
+impacts on our employees, our supply chain, our communities and our customers. The creation of new industries, new 
+jobs, and new skills gives us the opportunity to also create more equal and resilient economies and communities.
+
+13  |  TCFD Report 2022
+
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Our Strategic Response 
+
+Addressing climate change is an essential part of our commitment to help build a better world.  
+Our response to climate risks and opportunities is centered on three areas that account for  
+approximately 95% of our CO2 emissions – our products, our operations, and our supply chain. 
+
+Electrification Plan 
+Electrification is a key part of our plan to reach carbon 
+neutrality no later than 2050 which includes: 
+
+•  Providing a portfolio of electrified solutions as we 
+
+transition to fully electrified vehicles. 
+
+•  Electrifying our iconic vehicles beginning with the 
+
+Mustang Mach-E, the F-150 Lightning, and the E-Transit. 
+We expect fully electric vehicles to account for 50% of 
+our global sales volume by 2030. 
+
+•  Investing in sustainable manufacturing to create an 
+efficient, carbon neutral manufacturing ecosystem. 
+
+•  Accelerating R&D to remove obstacles to electrification 
+– we have 2,500 patents in EV technology with another 
+4,300 pending. 
+
+•  Expanding charging networks. 
+
+A Portfolio of Electrified Solutions 
+We are accelerating electrification investments to ramp 
+up production in North America, Europe, and China. At the 
+same time, we are investing in battery development and 
+deriving efficiencies from Ford’s flexible EV architecture 
+and modular technologies. We understand what it takes 
+to scale electric vehicle production quickly. We are 
+focused on building a profitable electric vehicle portfolio 
+at scale while building an ecosystem of highly desirable 
+software and services around them. Our expansion of EV 
+production capacity bodes well for the scenario where 
+EVs are rapidly adopted. This scenario plays into Ford’s 
+strength, the production of must-have, affordable 
+vehicles for the masses. 
+
+14  |  TCFD Report 2022
+
+However, reducing vehicle carbon emissions is 
+challenging. Over the past decade, consumer preferences 
+have shifted away from cars towards trucks and SUVs, 
+and fuel prices have fluctuated, remaining relatively low in 
+some regions. As the transition to electrification occurs, 
+our portfolio of electrified vehicles and improvements to 
+internal combustion engine (ICE) technology provides 
+resiliency to variations in the speed of the transition to 
+electrification in various markets. 
+
+We understand that for the foreseeable future, ICE vehicles 
+will continue to play a role in most markets. Our technology 
+migration plan is based on delivering high-quality vehicles 
+that consumers desire while responding to the risks 
+associated with climate change. As technologies and 
+infrastructure develop and requirements become 
+increasingly stringent, traditionally powered vehicles will be 
+increasingly displaced by electrified options. Our technology 
+migration plan includes providing hybrids, plug-in hybrids, 
+and all-electric versions of our most popular vehicles based 
+on customer needs and preferences. 
+
+Hybrids and PHEVs 
+Our PowerBoost™ Full Hybrid F-150 exemplifies our 
+portfolio approach. This vehicle couples our 3.5L 
+EcoBoost engine with hybrid technology to offer 
+significant fuel savings along with enhanced capability, 
+such as providing exportable power. Additionally, 
+we’ve incorporated advanced full and plug-in hybrid 
+systems in multiple vehicles globally, including our new 
+Maverick hybrid truck, achieving EPA-estimated 42 
+miles per gallon in the city* for under $20,000 in the 
+U.S. In Europe, the Kuga is number 1 in its segment for 
+all plug-in hybrid electric vehicles (PHEVs). 
+
+*2.5L Hybrid powertrain. Actual mileage will vary.
+
+Hybrid**
+
+PHEV
+
+EV 
+
+Escape/ 
+Kuga 
+Explorer / 
+Aviator 
+Maverick 
+F-150 
+Mondeo 
+Fiesta 
+Focus 
+Puma 
+S-Max 
+Galaxy 
+Tourneo 
+Custom 
+
+Launched
+
+Announced 
+(upcoming) 
+
+Mustang Mach-E 
+E-Transit 
+
+Escape/Kuga 
+Corsair 
+Explorer 
+Aviator 
+Tourneo 
+Custom 
+
+F-150 Lightning 
+Explorer 
+Lincoln SUV 
+Puma 
+Medium Sized 
+Crossover 
+Sport Crossover 
+Transit Courier 
+Tourneo Courier 
+Transit Custom 
+Tourneo Custom 
+
+Additional unannounced vehicles are planned which are 
+not shown. 
+
+**Includes full and mild hybrid vehicles. 
+
+
+
+Y
+D
+U
+T
+S
+E
+S
+A
+C
+
+Bidirectional charging 
+The F-150 hybrid and electric model both feature 
+optional Pro-Power Onboard, a power back-
+up system that transforms the vehicle into a 
+generator that can supply enough power to run 
+tools at your workplace or appliances on the go. 
+
+The F-150 Lightning’s power source can even 
+be used to power a home using Ford Intelligent 
+Backup Power. Instead of installing a home 
+generator or battery backup, the truck can be 
+used to power a typical-size home up to three 
+days in the event of a power outage.* 
+
+“There are so many new opportunities to innovate 
+with features and functions made possible only 
+through electrification,” said Patrick Soderborg, 
+Ford e-powertrain systems engineer. “This really 
+hit home during the Texas power crisis in 2021, 
+which left millions in the cold. F-150 Hybrid 
+helped many Texans keep warm and powered up 
+during those difficult times thanks to Pro Power 
+Onboard – and we’re trying to do even more with  
+F-150 Lightning.” 
+
+And in August 2021, one happy couple in Michigan 
+was able to keep their wedding reception going 
+during a power outage. As Ford CEO Jim Farley 
+tweeted, “Last weekend, there was a power 
+outage during this couple’s wedding. Thankfully 
+their friends – two @Ford employees – used 
+their F-150 PowerBoost Hybrid with Pro Power 
+Onboard to bring the party back to life! Love 
+seeing the F-150 save the day.” 
+
+*When home is properly equipped and home transfer switch disconnects 
+home from the grid. Based on 30 kWh use per day using the F-150 Lightning 
+with the extended-range battery. Your results may vary depending on energy 
+usage. Rationing power assumes limiting the number of devices and turning 
+the truck off when not needed.
+
+ 
+ 
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Our Strategic Response – continued
+
+Electrifying our  
+Iconic Vehicles 
+For the transition to electrification  
+to be successful, we must make 
+electric vehicles that our customers 
+want and demand. We are 
+responding by electrifying our most 
+popular vehicles with features that 
+surprise and delight customers. 
+
+The reception of these products 
+gives us confidence that we are on 
+track to achieve 50% fully electric 
+vehicle sales globally, 100% fully 
+electric passenger vehicle sales  
+in Europe, and two-thirds all-electric 
+or plug-in hybrid commercial vehicle 
+sales in Europe by 2030. 
+
+15  |  TCFD Report 2022
+
+F-150 Lightning 
+
+Mustang Mach-E 
+
+E-Transit 
+
+The F-150 Lightning is the smartest truck Ford has ever 
+built. With customer reservations for the F-150 Lightning 
+nearing 200,000, there is clear demand for an electric 
+pickup truck. The Lightning is drawing interest from new 
+customers at a record rate in North America, with more 
+than 75% of reservation holders new to the Ford brand.* 
+To meet high customer demand, Ford is planning to 
+nearly double production capacity to 150,000 trucks by 
+the end of 2023. 
+•  EPA-estimated range of 320 miles on LARIAT and XLT 
+
+with the available extended-range battery.** 
+
+•  Models with extended-range batteries are targeted to 
+
+go from 0-60 mph in the mid-4-second range.*** 
+
+•  Mega Power Frunk – washable, lockable, and 400L. 
+
+*As of Jan 4, 2022. 
+**Excludes Platinum models. Based on full charge. USA EPA-targeted range reflecting current 
+status based on analytical projection consistent with U.S. EPA combined drive cycle. Actual 
+range varies with conditions such as external environment, vehicle use, vehicle maintenance, 
+lithium-ion battery age, and state of health. Final EPA-estimated ratings available in 2022 
+calendar year. 
+***Targeted performance reflects current status based on analytical projections consistent 
+with U.S. Automotive publication processes. Final performance times will be available in the 
+2022 calendar year. 
+
+The all-electric, Mustang Mach-E creates a unique driving 
+experience while retaining the Mustang feel. Ford brought 
+the Mustang Mach-E to life through a development 
+process concentrated entirely on customer needs and 
+desires. With strong consumer demand, we are tripling  
+the production of the Mach-E and expect to reach more 
+than 200,000 units per year by the end of 2023. 
+•  EPA-estimated range of 314 miles for the CA Route 1 
+Extended Range Model with extended-range battery 
+and RWD.* 
+
+•  GT Performance Edition 0-60 mph in 3.5 seconds.** 
+
+•  Seamless connectivity. 
+
+•  Ford Power-Up software updates. 
+
+*Based on full charge. Actual range varies with conditions such as external environment, 
+vehicle use, vehicle maintenance, lithium-ion battery age and state of health. 
+**Ford test data based on typical industry methodology using 1-ft rollout. Your results 
+may vary. 
+
+The E-Transit is a smart workhorse providing customers 
+cost and productivity improvements generated by a fully 
+electric powertrain, software innovations and Pro Power 
+Onboard options. Ford’s commercial vehicle ecosystem 
+is expanding to include EV monitoring software and 
+connectivity that seamlessly integrate electric fleets into 
+day-to-day operations. Demand for the 2022 E-Transit 
+has been strong with more than 300 customers placing 
+orders for more than 10,000 vans. 
+•   2022 Ford E-Transit Cargo Van Low Roof models have 
+
+a targeted range of 126 miles.* 
+
+•   Up to 487.3 cubic feet of cargo space.** 
+•   8-year, 100,000-mile electric vehicle component 
+
+warranty (whichever comes first). 
+
+•   Lower maintenance requirements.*** 
+•  Available Pro Power OnBoard provides 2.4W of power, 
+
+enough to charge tools.****  
+
+*Based on full charge. USA targeted range reflecting current capability based on analytical 
+projection consistent with US EPA MCT drive cycle methodology. Actual range varies with 
+conditions such as external elements, driving behaviors, vehicle maintenance, and lithium-ion 
+battery age. **Cargo Van low-roof models. ***Scheduled maintenance costs for the E-Transit 
+are estimated to be 40% lower than those of a gas-powered 2020 Transit. ****Like saws, 
+drills, and jackhammers. 
+
+ 
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Our Strategic Response – continued
+
+
+
+Y
+D
+U
+T
+S
+E
+S
+A
+C
+
+Alliance to speed 
+recharging time 
+Ford researchers have successfully completed 
+an early step in collaboration with Purdue 
+University: we have invented a new, patent-
+pending method for charging stations that 
+could one day deliver significantly more power 
+compared to today’s leading systems. 
+
+Using liquid as an active cooling agent, the 
+concept uniquely changes the liquid to vapor 
+and could combine with in-development 
+vehicle charging technology to lower the 
+average time to recharge electric vehicles. This 
+innovation could one day deliver significantly 
+more power to charge electric vehicles than 
+today’s leading systems, making possible 
+faster re-charging times if vehicle charging 
+and other technology enhancements are 
+made in parallel. Ultimately, this could lead to 
+re-charging EVs as quickly as conventional gas 
+station fill-ups. 
+
+We also will continue researching and 
+developing hydrogen fuel cell technology, with 
+a primary focus on medium and heavy-duty 
+vehicles. Ford is partnering with the U.S. 
+Department of Energy to develop and 
+demonstrate five hydrogen fuel cell electric 
+Class-5 Super Duty trucks. 
+
+à 
+
+Read more about Electrification, Batteries and 
+Alternative Fuels in our Integrated Sustainability 
+and Financial Report 
+
+16  |  TCFD Report 2022
+
+Investing In Sustainable Manufacturing 
+Ford has electric vehicle manufacturing footprints across 
+the world, including four plants in North America, as well 
+as locations in Germany, Turkey, and China. 
+
+Early in 2021 we announced a $1 billion investment in a 
+new electric vehicle manufacturing center in Cologne 
+with our first European-built, volume all-electric 
+passenger vehicle for European customers scheduled to 
+roll off the line in 2023. We also announced plans to bring 
+electric vehicles at scale to American customers with two 
+new campuses in Tennessee and Kentucky that will 
+produce the next generation of electric F-Series trucks 
+and the batteries to power future electric Ford and 
+Lincoln vehicles. 
+
+à 
+
+Read more about BlueOval City on p.21 
+
+After investing $7 billion in Michigan since 2016 and 
+committing $700 million for the Rouge Electric Vehicle 
+Center in 2020, we are investing an additional 
+$250 million across the Rouge Electric Vehicle Center, Van 
+Dyke Electric Powertrain Center and Rawsonville 
+Components Plant to help increase production capacity 
+of the F-150 Lightning to 150,000 trucks a year by the end 
+of 2023. 
+
+Accelerating R&D to Remove Obstacles 
+To accelerate research and development of battery and 
+battery cell technology, we announced the establishment 
+of the Ford Ion Park global battery center in southeast 
+Michigan. Here, state-of-the-art equipment will be used 
+to pilot new manufacturing techniques that will help the 
+company quickly test and scale battery cell designs with 
+novel materials. 
+
+We also recently increased our investment in Solid Power, 
+an industry-leading producer of all-solid-state batteries 
+for electric vehicles. Showing great promise, these 
+batteries are designed to power longer-range, lower-cost 
+
+and safer electric vehicles using existing lithium-ion 
+battery manufacturing infrastructure. 
+
+access and payment via FordPass** for a seamless retail 
+customer experience. 
+
+Expanding the Charging Network 
+For consumers to adopt electric vehicles, it is critical that 
+the public charging infrastructure grows substantially. 
+Actual charging capacity is equally important as the 
+number of charge points. We are helping to address this 
+barrier through our BlueOval and IONITY charging 
+networks. 
+
+With more than 20,500 stations (over 70,000 plugs) and 
+growing, Ford’s BlueOval Charge Network is the largest 
+public charging network in North America offered by 
+automotive manufacturing.* Built-in cloud-connected 
+navigation routes customers to nearby charging stations, 
+recommends where to charge on trips and provides easy 
+
+In Europe, the BlueOval Charging Network has over 
+250,000 charge points. Ford is also a founding member 
+and shareholder in the IONITY consortium – which aims 
+to offer high-power charging stations along major 
+highways in Europe. The number of IONITY high-power 
+charging points will more than quadruple to around 7,000 
+by 2025. 
+
+Ford is working with key stakeholders and government 
+partners to accelerate deployment of the EV 
+infrastructure needed to encourage consumer adoption. 
+
+*Based on original equipment manufacturers (OEM)/automotive manufacturers that sell 
+all-electric vehicles and have active charging networks. Department of Energy data used. 
+**FordPass and Lincoln Way, compatible with select smartphone platforms, is available via 
+a download. Message and data rates may apply.
+
+ 
+ 
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Our Strategic Response – continued
+
+Despite these actions, sufficient growth of charging 
+infrastructure remains a risk and a limiting factor on 
+EV adoption. 
+
+Advances in Engine and Transmission 
+Technologies 
+Recognizing that our customers are at different points along 
+the path towards carbon neutrality, and will be transitioning 
+at different times, we are continuing to improve the 
+efficiency of our hybrid and internal combustion engine 
+products as we electrify our nameplates and address the 
+associated charging infrastructure. 
+
+For the foreseeable future, vehicles with internal 
+combustion engines will continue to play a role in  
+most markets. So, we are continuing to make progress 
+here as well. 
+
+Gasoline Engines 
+We are ensuring that our internal combustion engine (ICE) 
+powertrains continue to provide a desirable balance of 
+performance, fuel economy, and durability while meeting 
+increasingly stringent criteria emissions requirements. 
+Our EcoBoost engines are deployed across nearly 100% 
+of the portfolio. 
+
+Diesel Engines 
+Modern diesel engines offer reduced CO2 emissions and 
+fuel consumption, especially in commercial applications 
+requiring heavy load and towing capability. They can 
+achieve 20-30% better fuel economy than comparable 
+gasoline engines in specific markets and segments, such 
+as light commercial vehicles and heavy-duty vehicles. We 
+continue to optimize these benefits in our EcoBlue and 
+Powerstroke offerings. 
+
+Advanced Transmissions and Drivelines 
+We continue to optimize our transmissions by upgrading 
+electronic controls to improve fuel economy and 
+
+emissions. We have introduced a 7-speed automatic 
+transmission for Ford Fiesta and Puma (including mild-
+hybrid variants), while most Ford vehicles will continue to 
+use the 8-speed automatic transmissions for front-
+wheel-drive vehicles, and a 10-speed automatic for 
+rear-wheel-drive vehicles. 
+
+Alternative Fuels and Powertrains 
+Alternative fuel vehicles enable our customers to reduce 
+their carbon footprint during the transition to 
+electrification. Our path toward a long-term carbon-
+neutral portfolio will be powered by some combination of 
+electricity, hydrogen, and hydrocarbon fuels from 
+sustainable sources. 
+
+Alternative fuel vehicles can reduce GHGs on a well-to-
+wheels basis, which includes emissions from both 
+producing and consuming the fuels. We offer our 
+customers many vehicles that are capable of using 
+reduced-GHG fuels. 
+
+à 
+
+Read more in our Integrated Sustainability and 
+Financial Report 2022 
+
+Enhancing Customer Experience 
+Enhancing the customer experience is a key part of the 
+transition to electric vehicles. Consequently, we are 
+prioritizing connected, all-electric vehicles with distinctive 
+services that help people more easily manage their 
+lifestyles and businesses. From remote pick up and 
+delivery, to over-the-air software updates, to our 
+partnership with Google, we aim to give our customers 
+ample reasons to make the switch to EVs. 
+
+Ford built almost 1 million over-the-air (OTA) capable 
+vehicles by the end of 2021 and we expect to scale that to 
+more than 30 million by 2028. This capability (and 
+connectivity more broadly) helps strengthen our always-
+on relationship with customers through digitally enabled 
+tools, online ordering, simplified financing and renewal 
+options, vehicle pick-up and delivery services, and mobile 
+
+17  |  TCFD Report 2022
+
+repairs. In addition, Ford has created Ford Pro for 
+commercial and government customers which provides a 
+suite of solutions including EV consulting, charging, 
+telematics, service, and financing. We believe this 
+approach to provide an engaging customer experience 
+will help ensure the success of our transition to electric 
+vehicles. 
+
+Ford and Google are reinventing the connected vehicle 
+experience through a unique strategic partnership that 
+will push the boundaries of Ford’s transformation, unlock 
+personalized consumer experiences, and drive disruptive, 
+data-driven opportunities. Ford has also named Google 
+Cloud its preferred cloud provider to leverage Google’s 
+world-class expertise in data, artificial intelligence (AI), 
+and machine learning (ML). 
+
+
+
+Y
+D
+U
+T
+S
+E
+S
+A
+C
+
+Ford Pro: Redefining Value 
+for Commercial Customers 
+Ford Pro, a global vehicle services and distribution 
+business, will help our commercial customers 
+integrate all-electric E-Transit vans into their 
+fleets. It will digitize and simplify transportation 
+with capabilities spanning: 
+
+•  Ford Pro Vehicles: Commercial trucks and vans, 
+
+including gas, diesel, hybrid, and electric 
+versions, with upfitting to meet the needs of 
+almost any business – E-Transit is the latest 
+example of Ford’s continuing commercial 
+vehicle innovation. 
+
+•  Ford Pro Charging: Integrated and end-to-end 
+solutions for home, public, and depot charging 
+for customers to make a seamless transition to 
+electric vehicles. 
+
+•  Ford Pro Software: Business productivity tools 
+
+that link gas, diesel, and electric vehicles together 
+to manage fleets holistically, on Ford or non-Ford 
+vehicles, to improve uptime and cut costs. 
+
+à  Read more about the customer experience in our Integrated 
+
+•  Ford Pro Service: A network of commercial-
+
+focused dealers across the country with uptime 
+tools embedded like mobile service which 
+reduces downtime by servicing customer needs 
+where convenient for their business. 
+
+•  Ford Pro Financing: Simplified financing, 
+invoicing, and bundled solutions to make 
+back-office management as hassle-free as 
+possible.
+
+Sustainability and Financial Report 2022 
+
+Considering a Just Transition and 
+Climate Justice 
+We are addressing and evolving our Just Transition 
+strategy. While transforming our business to electrification, 
+Ford should consider our ability to reskill, upskill, and 
+better develop our employees and invest in the 
+communities where we live, work, and serve. We are 
+introducing a new learning strategy to prepare Ford for 
+today and into the future. The future of Ford will rely on 
+the talent pipelines needed for the jobs of today – 
+and tomorrow. 
+
+Climate change is having a disproportionate effect on 
+underserved and poor communities in the U.S. and 
+around the world, underscoring the need for climate 
+justice. To address this, we are democratizing electric 
+vehicles beginning with our iconic nameplates: the 
+Mustang Mach-E, the F-150 Lightning and the 
+E-Transit van. 
+
+ 
+ 
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Our Strategic Response – continued
+
+The topic of climate justice is important to us and part of 
+our sustainability planning and commitments. We are: 
+
+•  Increasing Vehicle Access – Ford is working to make 
+zero-emission vehicles more affordable by offering 
+equitable and non-discriminatory financing for products 
+that serve underserved borrowers. 
+
+•  Increasing Charging Access –We are working with 
+partners to ensure EV charging is accessible in low 
+income and disadvantaged communities, to ensure an 
+electric lifestyle can be for everyone. 
+
+Improving the Transportation Ecosystem 
+Our vision for the future of urban mobility is a 
+transportation ecosystem that helps improve how people 
+get from point A to point B more seamlessly, deliveries to 
+get people the goods they need, better parking, and traffic 
+flow, while addressing such challenges as climate change 
+and air pollution. We continue to collaborate directly with 
+cities and other key stakeholders to help them solve their 
+mobility issues and deliver our own mobility products and 
+services to help make lives better. 
+
+•  Developing new mobility solutions – In Detroit, we are 
+restoring Michigan Central Station to create a new 
+mobility innovation district in Detroit’s oldest 
+neighborhood and launch new urban transportation 
+solutions. 
+
+Ford remains focused on large-scale deployment of 
+autonomous vehicles as a service – ride-hailing to move 
+people and delivery to move goods – across multiple U.S. 
+cities starting in our launch city markets of Austin, Texas, 
+Miami, and Washington, D.C. 
+
+Supporting both a Just Transition and climate justice will 
+take ongoing effort. We believe that our initiatives to 
+create employment at BlueOval City, invest in job training 
+and career readiness initiatives, introduce a new learning 
+strategy at Ford, and lead the electric revolution at scale 
+are steps in the right direction. Continued effort will be 
+needed to increase electrified vehicle and charging access 
+as well as to develop new mobility solutions. We are 
+working towards to finding the solutions. 
+
+à 
+
+Read more about Ford’s Just Transition strategy in our  
+Human Rights Report 
+
+18  |  TCFD Report 2022
+
+While we continue to improve the technology and build 
+a robust self-driving system with our partner Argo AI, 
+we have also made progress over the last year in bringing 
+these services to life through our collaboration with Lyft 
+and Walmart. Together with Lyft, Walmart and Argo AI, 
+we are deploying autonomous vehicle demonstration 
+projects in various cities to lay the groundwork for scaling 
+operations. 
+
+Read more about our work to improve the transportation 
+ecosystem in our Integrated Sustainability and Financial 
+Report. 
+
+à 
+
+Read more about Mobility and Autonomous Vehicles in our 
+Integrated Sustainability and Financial Report 2022 
+
+Migrating to Sustainable Materials 
+We aspire to use only recycled or renewable content in 
+vehicle plastics and have established an interim target 
+of 20% renewable or recycled plastics in new vehicle 
+designs for North America and Europe by 2025, and 10% 
+in China and Turkey. 
+
+Recycling plastics keeps waste out of landfills and 
+decreases the consumption of natural resources and 
+energy. We transform recycled plastic bottles into 
+carpeting, underbody shields and wheel liners and use 
+post-consumer nylon and polypropylene carpeting for 
+cylinder head covers, fans and shrouds, cam covers, and 
+carbon canisters. 
+
+We are adding to our legacy of using sustainable materials 
+in vehicles by being the first automaker to use 100% 
+recycled ocean plastics to produce automotive parts. Wiring 
+harness clips in Ford Bronco Sport models are made of 
+ocean-harvested plastic from discarded fishing nets. 
+
+Renewable, plant-based materials. Ford currently has 
+launched a dozen industry-first, plant-based materials in 
+production vehicles since 2007, establishing a reputation 
+as a leader in this space. These robust materials are 
+often lighter in weight, improving fuel economy. They 
+also sequester carbon during the plants growing phase, 
+reducing global warming impacts, and they require less 
+energy to manufacture. Ford’s first sustainable materials 
+include soy foam, wheat straw, rice hulls, tree-based 
+cellulose, coconut fiber, and coffee chaff. 
+
+For example, soy seat cushions, backs, and headrests have 
+been used on every Ford North American built vehicle (over 
+18.5 million vehicles) for more than a decade. Bio-based 
+foams on Ford vehicles have collectively reduced 
+greenhouse gas emissions by over 240 million pounds 
+using over 730 billion soybeans, which also produces extra 
+revenue for U.S. farmers. Soy foam reduces petroleum 
+dependence by over 5 million pounds annually.
+
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Our Strategic Response – continued
+
+These materials can be recycled and remanufactured in a 
+closed-loop where Redwood produces anode copper foil 
+and cathode active materials for future battery production. 
+Using domestically produced battery materials from as 
+much recycled content as available, will help ensure 
+valuable materials in products re-enter the supply chain, 
+reducing our reliance on the existing commodities supply 
+chain and overseas component manufacturers that will be 
+quickly overwhelmed by industry demand. 
+
+Longer-term, Ford and Redwood plan to work together on 
+the best approach to collect and disassemble end-of-life 
+batteries from Ford’s electric vehicles for recycling and 
+remanufacturing to help reduce the cost associated with 
+battery components and raw materials to manufacture 
+all-new batteries.
+
+Transforming our own Operations 
+We have worked extensively to ensure our facilities and 
+those of our suppliers are resilient to severe weather 
+conditions and water resource constraints. We’re also 
+using energy more efficiently, increasing our use of power 
+from renewable sources, reducing the GHG emissions 
+from operations and making our transport more fuel 
+efficient. As a result, we believe our operations are 
+resilient to the effects of climate change in the short to 
+medium term.
+
+Energy Efficiency and Conservation 
+Our energy efficiency and conservation efforts over the 
+past decade have focused on improvements to lighting, 
+compressed air, rotating equipment (fans, pumps, and 
+motors), and heating systems. We’ve also improved 
+processes and consolidated and/or closed plants to 
+improve utilization of operations. In fact, we achieved our 
+previous manufacturing GHG emissions target in 2017, 
+eight years early. 
+
+Our present manufacturing target is an 18% absolute 
+reduction in GHG emissions by 2023. To achieve this, 
+we are focused on securing a local carbon-free energy 
+supply for our manufacturing plants, making these 
+facilities even more efficient, and leveraging data to drive 
+decisions. (See Carbon-Free Electricity and Energy 
+Section on next page.)
+
+We report our global Scope 1 and 2 GHG emissions, 
+participate in emissions trading schemes such as the EU 
+European Trading Scheme (EU ETS), and adhere to a 
+number of carbon reduction initiatives in the United 
+States, Europe, Mexico, Canada, and other countries.
+
+As we move ahead, we are driving energy efficiency 
+throughout our global operations and procuring local 
+carbon-free electricity to achieve our 2035 SBTi target of 
+76% GHG reduction which includes both our 
+manufacturing and non-manufacturing locations. We’re 
+incorporating energy efficient best practices as we build 
+new offices. Our Research and Engineering and Corktown 
+campuses will achieve an Energy Utilization Intensity that 
+is 50% better than historical Ford office spaces. And in 
+Dearborn, the new Research and Engineering Center 
+under construction is designed to be carbon neutral when 
+it is occupied in 2025.
+
+Funds from our Sustainable Financing Framework will 
+help further reduce the environmental footprint of our 
+operations through local carbon-free electricity, 
+sustainable water and wastewater management, waste 
+management, and energy efficient buildings. (See 
+Sustainable Financing Framework section below.)
+
+à 
+
+Read more in our Integrated Sustainability and Financial 
+Report 2022
+
+Ford was also the first in the industry to launch wheat 
+straw storage bins, rice hull filled electrical wiring covers, 
+and tree-based cellulose composite armrest substrates 
+and console substrates. 
+
+Through a partnership with McDonald’s USA we have 
+incorporated coffee chaff — the dried skin of the coffee 
+bean – to reinforce headlamp housings. Our goal is to 
+migrate these sustainable materials to other vehicles and 
+applications.
+
+Aluminum. Ford recovers up to 20 million pounds of 
+high-strength, military-grade aluminum alloy per month 
+through our aluminum recycling program. In fact, Ford is 
+the largest automotive closed-loop aluminum recycler in 
+the world. Recycled aluminum avoids 95% of the GHG 
+emissions associated with primary aluminum production 
+and uses significantly less energy and water.
+
+19  |  TCFD Report 2022
+
+Through our closed-loop recycling system, Ford 
+minimizes the need for primary metal. We worked closely 
+with our aluminum sheet suppliers to create unique alloys 
+specifically for closed-loop recycling. The system 
+recovers aluminum scrap during parts stamping but 
+keeps the various aluminum alloys separated so they can 
+be recycled back into fresh alloy for new vehicles. 
+
+Batteries. We are collaborating with Redwood Materials 
+to integrate battery recycling into our domestic battery 
+strategy. Redwood’s recycling technology can recover, on 
+average, more than 95% of strategic materials such as 
+nickel, cobalt, lithium, and copper. 
+
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Our Strategic Response – continued
+
+Local Carbon-Free Electricity and Energy 
+Our goal of achieving 100 percent local carbon-free 
+electricity in all manufacturing by 2035 will be bolstered 
+by potential dedicated investments in wind, solar, 
+geothermal, hydropower, and biomass. 
+
+We are committed to reducing the effects of our 
+operations and supply chains. In addition to developing 
+world-class facilities, sourcing 100 percent local carbon-
+free electricity for our global operations by 2035 is a key 
+strategy to help us achieve this goal.
+
+To replace fossil-based generation, we’ll be procuring a 
+mix of wind, solar power, nuclear, geothermal, biomass, 
+energy storage, and hydro. One strategy is to secure 
+carbon-free electricity locally through relationships with 
+local utilities, power producers, and independent project 
+developers. And we’re already making progress. 
+
+All manufacturing facilities in Ohio, New York, and Mexico 
+will be sourced with 100 percent carbon-free electricity by 
+2022 year end. All manufacturing and large commercial 
+facilities in Michigan are expected to be sourced with 
+100 percent carbon-free electricity by 2025. Not only does 
+this reduce our emissions, but it also creates jobs, 
+improves air quality, and adds resiliency to the local grid. 
+
+Sustainability-linked performance metrics include 
+increasing the percentage of renewable electricity 
+consumed in Ford’s global manufacturing plants.
+
+Reducing GHG emissions from the Company’s 
+manufacturing plants is one of the sustainability-linked 
+performance metrics aligning our financing actions with 
+our commitment to operate a safe, sustainable, and 
+successful business.
+
+Global Effort 
+We expect that Europe will be among the first global 
+regions to become carbon neutral. Ford is already using 
+100 percent carbon-free electricity to power: Dunton and 
+Daventry in the UK, the Craiova plant in Romania and all 
+facilities in Cologne, Germany including the vehicle 
+assembly and engine plants, as well as the Research 
+Center in Merkenich. 
+
+We’re modernizing plants in South Africa and Thailand to 
+improve energy efficiency. In Thailand we’re making 
+significant efforts to support environmentally friendly 
+initiatives, including using renewable energy, reducing CO2 
+emissions, and practicing zero waste to landfill. Our 
+Silverton plant in South Africa will have a new robotic 
+body shop and a new high-tech stamping plant on-site 
+for the first time, modernizing and streamlining the 
+integrated manufacturing process while contributing to 
+higher quality and reducing overall cost and waste. 
+
+And Ford manufacturing facilities in China have reduced 
+VOC emissions by more than 600 tons per year since 2015 
+through various management and engineering 
+investment measures, contributing to cleaner air. In 
+Argentina, our Pacheco plant achieved more than 40% of 
+renewable electrical energy consumption and recycled 
+93% of total waste generated as of November 2021. It is 
+reducing kWh usage in compressed air generation from 
+36% to 25% and completing energy meter installation in 
+all manufacturing facilities.
+
+20  |  TCFD Report 2022
+
+Rooftop Solar Array 
+In Michigan, DTE Energy, the state’s largest producer of 
+renewable energy has commissioned a new rooftop solar 
+array at a parking garage at Ford Research & Engineering 
+Center in Dearborn. The 2,159-panel array includes an 
+integrated battery storage system and will be used to 
+power newly installed electric vehicle (EV) chargers. The 
+solar array can generate 1,127 megawatt hours of clean 
+energy, avoiding 880 tons of CO2, which has the 
+environmental benefit equal to the carbon sequestered 
+by nearly 980 acres of U.S. forests in one year.
+
+The new solar array is just one of several steps both 
+companies are taking to reduce carbon emissions. In 2019, 
+Ford became the first corporate customer to enroll in 
+DTE’s MIGreenPower voluntary renewable energy 
+program. Through the program, Ford is purchasing 
+525,000 megawatt hours annually of Michigan wind 
+energy from DTE’s Isabella and Fairbanks wind parks.
+
+This is our moment – our biggest 
+investment ever – to help  
+build a better future for America. 
+We are moving now to deliver 
+breakthrough electric vehicles 
+for the many rather than the few. 
+It’s about creating good jobs that 
+support American families, an 
+ultra-efficient, carbon-neutral 
+manufacturing system, and a 
+growing business that delivers 
+value for communities, dealers, 
+and shareholders.”
+
+Jim Farley, Ford president and CEO
+
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Our Strategic Response – continued
+
+
+
+Y
+D
+U
+T
+S
+E
+S
+A
+C
+
+Responding to risks of extreme weather on our 
+operations
+Extreme weather events can disrupt production or 
+component supplies, while droughts can affect our 
+access to water for our operations. We have worked with 
+S&P Global Trucost to analyze the exposure of over 70 of 
+our manufacturing and non-manufacturing sites across 17 
+countries to the physical impacts of climate change. The 
+most significant risk for Ford from the analysis is water 
+stress, with Ford plants in India, China, South Africa, and 
+Mexico among those identified most affected. Flooding, 
+hurricanes and typhoons are also high risks for some sites 
+in Asia. 
+
+Every year, we assess business continuity and resumption 
+plans for our facilities and suppliers as a part of our risk 
+management process. Business continuity plans include 
+climate-related risks to our facilities, such as shifting 
+patterns of extreme weather. We have taken actions to 
+reduce these risks, including risks to the energy supplies 
+we need to operate our manufacturing facilities. 
+
+Additionally, Ford has acted to reduce water 
+consumption, focusing on freshwater use by facilities in 
+water stressed areas. Our goal is to minimize the use of 
+freshwater while aiming for a goal of zero impact on 
+freshwater sources in the future. 
+
+21  |  TCFD Report 2022
+
+BlueOval City
+Ford is creating an all-new electric vehicle 
+manufacturing ecosystem that reimagines how 
+electric vehicles – and the batteries that power 
+them – are designed, manufactured, and recycled.
+
+The all-new mega campus in Stanton, Tennessee, 
+called BlueOval City, will be among the largest 
+auto manufacturing campuses in U.S. history. Like 
+the iconic Rouge complex in Michigan did a century 
+earlier, BlueOval City will usher in a new era for 
+American manufacturing.
+
+BlueOval City will be a hive of technical innovation 
+to build next-generation electric F-Series trucks. 
+This growth opportunity will allow Ford to reach 
+new customers with an expanded electric truck 
+lineup.
+
+The 3,600-acre campus covering nearly 6 square 
+miles will encompass vehicle assembly, battery 
+production, and a supplier park in a vertically 
+integrated system that delivers cost efficiency while 
+minimizing the carbon footprint of the 
+manufacturing process. The assembly plant will use 
+always-on cloud-connected technologies to drive 
+vast improvements in quality and productivity. The 
+mega campus is designed to add more 
+sustainability solutions, including the potential to 
+use local renewable energy sources such as 
+geothermal, solar, and wind power.
+
+BlueOval City is designed to achieve carbon 
+neutrality, send zero waste to landfill, and use 
+freshwater for human consumption only once fully 
+operational.
+
+Together with the BlueOval SK battery plants in Kentucky, 
+BlueOval City will enable 129 gigawatt hours a year of U.S. 
+production capacity for Ford. 
+
+Battery Recycling: Ford is collaborating with Redwood 
+Materials, a leading battery materials company, to make 
+electric vehicles more sustainable and affordable for 
+Americans by localizing the supply chain network, creating 
+recycling options for scrap and end-of-life vehicles, and 
+ramping up lithium-ion recycling. Ford believes battery 
+recycling is essential for the success of an electrified future 
+and has the potential to offer significant economic benefits 
+as it closes the battery recycling loop at BlueOval City.
+
+Next-Generation Workforce: Together BlueOval 
+City and the battery plants in Tennessee will create 
+approximately 11,000 jobs. In addition, Ford is investing 
+$90 million in Texas alone as part of a $525 million 
+total investment across the U.S. during the next five 
+years to transform America’s auto technician industry. 
+The investment will go toward job training and career 
+readiness initiatives for the current and next generation 
+of technicians. 
+
+These programs aim to develop highly skilled 
+technicians and will support Ford’s growing portfolio 
+of connected electric vehicles as we work towards a 
+Just Transition.
+
+ 
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Our Strategic Response – continued
+
+Decarbonization of the Supply Chain
+
+Building Supplier Capability 
+We actively work with our suppliers to reduce their carbon 
+emissions, energy consumption, water, use and waste.
+
+Our new Supplier Code of Conduct mandates that all Tier 
+1 production suppliers minimize their impact on climate 
+change aligned with the United Nations Framework 
+Convention on Climate Change (Paris Agreement), 
+striving towards carbon neutrality. It also requires that our 
+suppliers enforce a similar code of practice and require 
+that their subcontractors do the same. Supplier Code of 
+Conduct requires suppliers to: 
+
+•  Report their Scope 1, 2, and 3 emissions and water usage 
+
+data to Ford if requested.
+
+•  Establish science-based GHG reduction targets, action 
+
+plans, and transparent reporting mechanisms.
+
+In 2021, we conducted a supplier survey to identify our 
+high-impact suppliers’ GHG reduction targets, and we will 
+continue to survey the rest of our suppliers in 2022. If 
+suppliers do not yet have targets set, they are required to 
+submit them by the end of 2022. Then we can develop a 
+joint roadmap with our suppliers on our journey towards 
+carbon neutrality. 
+
+We have also established internal targets for increasing 
+engagement with our supply chain partners, including 
+building on our successful CDP Supply Chain reporting 
+program and our Partnership for A Cleaner Environment 
+(PACE) programs.
+
+In an accelerated transition to electrified vehicles, material 
+and battery supply chains represent a risk. The increasing 
+demand for raw materials for batteries is a fundamental 
+issue that must be addressed to support the transition to 
+electric vehicles. The Ford policy team is working to secure 
+supply chains to support electric vehicle production. As 
+noted above, we are also collaborating with Redwood 
+Materials to make electric vehicles more sustainable and 
+affordable by localizing the supply chain network, creating 
+
+22  |  TCFD Report 2022
+
+Winning businesses are 
+financially healthy and  
+lead in sustainability –  
+it’s not a choice, they rely  
+on each other.” 
+
+Ford CFO John Lawler
+
+recycling options for scrap and end-of-life vehicles, and 
+ramping up lithium-ion recycling.
+
+Helping our suppliers build a better world 
+We rely on thousands of suppliers to provide materials, 
+components and services for our vehicles. By sharing 
+what has worked well at Ford, we can help them cut 
+costs, improve quality, and become more sustainable. We 
+engage with our supply chain to understand our collective 
+environmental footprint and work with selected suppliers 
+through target setting and cascading best practices to 
+reduce their carbon emissions, energy consumption, 
+water use, and waste.
+
+By sharing successful initiatives with nearly 80 key 
+suppliers through our PACE program, we are cascading 
+best practices through our supply chain. So far, our 
+
+suppliers have implemented projects in at least 13 
+countries: United States, Argentina, Brazil, Canada, China, 
+Czech Republic, Germany, India, Mexico, Poland, Serbia, 
+South Africa, and Thailand. FastPACE, a streamlined 
+version of PACE, is helping reduce the impact of key 
+partners in China, India, Thailand, and South Africa. 
+Supplier participation has increased from 2020 to 2021 by 
+over 60%. As a result, PACE and FastPACE suppliers are 
+on track to save an estimated 17,652 metric tons of CO2 
+and 17.7 million gallons of water over the next three years.
+
+Responsible Materials Council
+Ford launched the Responsible Materials Council 
+(RMC) in 2021 to focus on integrating materials with 
+reduced embedded carbon, recycled materials, and 
+responsibly sourced raw materials in our vehicles. 
+In addition to supporting our aspiration to become 
+carbon neutral by 2050, the RMC aims to help Ford 
+comply with growing global legislative requirements 
+and align us with global leaders. It will also reduce 
+reputational risk in our supply chain and help us meet 
+stakeholder expectations including fleet customers, 
+ESG investors, and NGOs. 
+
+Led by the Supply Chain Sustainability Responsible 
+Materials Sourcing team, the RMC brings together  
+key members of the Purchasing and Product 
+Development teams. 
+
+à 
+
+Read more on our supplier programs in our Human Rights 
+Report 2022
+
+Sustainable Financing
+Our commitment to clean transportation and 
+manufacturing requires investment, which is why we have 
+established a holistic Ford and Ford Credit Sustainable 
+Financing Framework – the first fully integrated 
+framework of its kind covering both an automotive 
+manufacturer and its captive finance company.
+
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Our Strategic Response – continued
+
+company’s financing actions with its commitment to 
+operate a safe, sustainable, and successful business – 
+elements that are fundamental to the Ford+ plan for 
+growth and value creation. 
+
+Specifically, the groundbreaking arrangement comprises 
+extensions of three revolving credit lines: a five-year, 
+$10.1 billion facility maturing in September 2026, along 
+with a three-year, $3.4 billion facility and a three-year, 
+$2.0 billion supplemental facility, both maturing in 
+September 2024. 
+
+The facility renewals are distinguished by their inclusion 
+of well-rounded measures demonstrating how Ford’s 
+environmental, social, and corporate governance, or ESG, 
+initiatives are integrated throughout its business – 
+including how the company is leading the electric vehicle 
+revolution. 
+
+Sustainability-linked performance metrics reflecting 
+Ford’s actions and progress toward fighting climate 
+change include: 
+
+•  Reducing GHG emissions from the company’s 
+
+manufacturing plants, in line with the Paris Agreement’s 
+long-term temperature goal of limiting global warming 
+and a 1.5-degrees Celsius path 
+
+•  Increasing the percentage of renewable electricity 
+
+consumed in Ford’s global manufacturing plants, and 
+
+•  Lowering Ford of Europe’s CO2 tailpipe emissions for the 
+passenger vehicle fleet consistent with Ford’s carbon 
+neutrality goal.
+
+Together, the Sustainable Financing Framework, green 
+bond, and revolvers will help power our mission of 
+revolutionizing the power of mobility and accelerate our 
+journey to becoming carbon neutral no later than 2050. 
+
+Ford has implemented robust processes to monitor 
+performance to our key metrics associated with the 
+sustainable financing framework and revolving credit lines.
+
+The framework, which was announced on the fifth 
+anniversary of the Paris Agreement, guides how we 
+obtain financing for environmental and social projects in 
+four key areas: clean transportation, clean manufacturing, 
+making lives better, and community revitalization.
+
+The first transaction under the framework was Ford’s 
+inaugural green bond in November 2021 that raised 
+$2.5 billion. The net proceeds from the 10-year green 
+bond, another first for a North American OEM, will be 
+allocated to our new portfolio of electric vehicles, 
+including the Mustang Mach-E, F-150 Lightning, and 
+E-Transit.
+
+Guided by aggressive environmental and social goals, 
+a significant portion of related financing will go toward 
+accelerating Ford’s leadership in electric vehicles and to 
+drive investment in disadvantaged and underserved 
+communities. Objectives include expanding EV 
+technology and charging infrastructure to remove 
+obstacles to adoption and improve the customer 
+
+experience, and EV and battery manufacturing to reduce 
+emissions. Net proceeds from sustainable financing will 
+be invested and expended as follows:
+
+Clean Transportation includes designing, developing, and 
+manufacturing zero-emissions transportation, focusing on 
+electric vehicles and the batteries that power them across 
+the full range of design, development, manufacturing, and 
+end-of-life. Examples include our announcement of the 
+largest U.S. investment in electric vehicles at one time by 
+an automotive manufacturer, together with SK Innovation, 
+in our new Tennessee and Kentucky mega-sites; our 
+collaboration with Redwood Materials on recycling options 
+for scrap and end-of-life EVs and lithium-ion batteries; 
+and offering financing products and wholesale loans to 
+establish or improve the EV charging infrastructure.
+
+Clean Manufacturing includes further reducing the 
+environmental footprint of Ford’s operations through 
+renewable energy, sustainable water and wastewater 
+management, waste management, and energy-efficient 
+
+buildings. As examples, Ford’s new advanced campuses 
+in Tennessee and Kentucky will be designed to have 
+as minimal an impact as possible on the surrounding 
+environment.
+
+Investments will also be made to help make lives better 
+and revitalize communities. 
+
+The Sustainable Financing Framework will support Ford’s 
+progress in developing and manufacturing EVs and the 
+batteries that power them in ways that are positive for the 
+environment as well as enhancing the health and mobility 
+of our neighbors by making EVs more accessible and 
+more affordable. Together Ford will generate growth 
+that’s sustained and sustainable, driving the electric 
+revolution forward, helping every person to move and 
+pursue their dreams. 
+
+$15.5 Billion Credit Facilities
+We’ve also extended $15.5 billion in revolving credit lines, 
+which now include key metrics that further align the 
+
+23  |  TCFD Report 2022
+
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Approach and Introduction to Scenarios
+
+Our Approach to Scenario Analysis
+Scenario planning defines possible future environments 
+companies might face over a set time period. By engaging 
+in scenario analysis, we explore a wide range of economic, 
+regulatory, technological, and societal conditions, and 
+consider how Ford’s businesses and strategies might fare 
+under varying operating environments. 
+
+During the timeframe of our analysis, 2030 to 2040, the 
+temperature rise variation between the scenarios is less 
+severe than in 2100. As such, we only use the two extreme 
+scenarios as they “bookend” what is expected in the 2030 
+to 2040 time frame, which makes them best suited to 
+test the resiliency of our strategies. The two scenarios are 
+described below.
+
+•  Stated Policies Scenario (STEPS) does not take for 
+granted that governments will reach all announced 
+goals. Instead, it explores where the energy system 
+might go without additional policy implementation.
+
+•  Net Zero Emissions by 2050 Scenario (NZE) shows the 
+global energy sector achieving net zero CO2 emissions 
+by 2050, with advanced economies reaching net zero 
+emissions ahead of others.
+
+For our 2019 climate change scenario report, we had 
+developed our own, unique scenarios which we also 
+reference in our 2020 report. The alignment of these 
+scenarios with WEO scenarios is shown in the Appendix.
+
+Common Assumptions  
+for WEO Scenarios*
+The following assumptions are common between STEPS 
+and NZE:
+
+•  The global economy is assumed to grow by ~ 3% per 
+year on average over the period to 2050, with large 
+variations by region and over time. 
+
+•  Over the longer term, emerging market and developing 
+economies are the main drivers of an expanding global 
+economy.
+
+•  The global population is assumed to rise from just 
+
+WEO Scenarios Global Median Surface Temperatures
+
+Time frame under
+consideration
+
+3
+
+1.5
+
+0
+
+Stated Policies Scenario
+
+Net Zero Scenario
+
+2000
+
+2010
+
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+2070
+
+2080
+
+2090
+
+2100
+
+Aside from the economic implications, older 
+populations have higher residential energy consumption 
+offset by a lower propensity to travel.
+
+• Urbanization is a key driver. Some 56% of the global 
+population lived in cities and towns in 2020, and they 
+accounted for two-thirds of global energy consumption 
+and over 70% of CO2 emissions. The share of the global 
+population living in towns and cities is expected to rise 
+to almost 70% in 2050. 
+
+• Technologies across the energy sector get progressively 
+
+cheaper over time. The pace at which this happens 
+varies by scenario as cost reductions are linked to 
+cumulative deployment: the more a technology is 
+deployed, the larger the assumed reductions in costs. 
+Policies play a crucial role in this process, particularly in 
+determining how quickly new, innovative clean 
+technologies are scaled up.
+
+*Excerpts from “International Energy Agency | World Energy Outlook 2021”, pp. 96-105
+
+2030 – 2040 Scenario Comparison Overview
+
+Net Zero Emissions Scenario (NZE)
+
+Stated Policies Scenario (STEPS)
+
+Temperature increase
+
+~1.5°C
+
+~1.7°C
+
+Policy
+
+Global policy implemented to limit temp. rise to 1.5°C
+
+Today’s policies with no changes
+
+under 8 billion today to 8.5 billion in 2030 and 9.7 billion 
+in 2050, an increase of just over 25% in 30 years. 
+
+Technology
+
+CO2 pricing rises rapidly in all regions
+
+High policy support & collaboration 
+Speed of scaling unprecedented
+
+Existing & planned CO2 pricing
+
+Evolutionary growth
+
+•  A rising share of older people in the global population is 
+an increasingly important demographic trend. This has 
+not been a major issue at the global level. However, it is 
+already a noticeable trend in high income countries. 
+
+Energy Prices in 2030s Oil averages $35/bbl +50% wind/solar supply
+
+Oil averages $90/bbl +20% wind/solar supply
+
+% EVs in 2030
+
+Environment
+
+Economy
+
+Higher EV adoption across markets
+
+Lower EV adoption in advanced economies
+
+Less severe weather events
+
+3% average annual growth
+
+Increasingly severe weather events
+
+3% growth slows due to high rebuilding costs
+
+We recognize that individual countries’ efforts to mitigate 
+climate change and unexpected technological innovations 
+introduce additional uncertainty into the range of outcomes 
+for regulations and consumer behaviors. Because of today’s 
+uncertain context, we do not assign probabilities to 
+scenarios nor plan to a probable scenario; rather, we 
+examine the resilience of our strategies to differing futures 
+and adjust accordingly. Therefore, these scenarios are not 
+predictions of the future and do not represent forecasts.
+
+Introduction to the Scenarios
+We are at the start of a profound change toward a 
+decarbonized transportation system. It will take time to 
+update infrastructure, for technologies to become 
+affordable, and other obstacles to be addressed. We expect 
+carbon neutrality will be reached in different product 
+segments and regions at different times. Passenger vehicles 
+will be carbon neutral before larger commercial vehicles, 
+and advanced economies with progressive policies will be 
+carbon neutral before the rest of the world. Our scenario 
+analysis covers the 2030 to 2040 period as decarbonization 
+of our sector will be well underway during this time and it is 
+not so far in the future to be completely speculative.
+
+We use the International Energy Agency (IEA) World Energy 
+Outlook (WEO) scenarios as the IEA is an authoritative 
+source for global energy projections. WEO scenarios provide 
+insight into energy supply and demand with implications for 
+climate targets and economic development. Of the four 
+WEO scenarios, we use the Stated Policies Scenario and the 
+Net Zero Scenario shown in the graph opposite. 
+
+24  |  TCFD Report 2022
+
+ 
+ 
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Approach and Introduction to Scenarios – continued
+
+The Net Zero Emissions by 2050 Scenario (NZE)** 
+This is a normative IEA scenario that shows a narrow but 
+achievable pathway for the global energy sector to 
+achieve net zero CO2 emissions by 2050, with advanced 
+economies reaching net zero emissions in advance of 
+others. This scenario also meets key energy-related 
+United Nations Sustainable Development Goals (SDGs), 
+in particular by achieving universal energy. The NZE does 
+not rely on emissions reductions from outside the energy 
+sector to achieve its goals, but assumes that non-energy 
+emissions will be reduced in the same proportion as 
+energy emissions. It is consistent with limiting the global 
+temperature rise to 1.5 °C without a temperature 
+overshoot (with a 50% probability).
+
+The Stated Policies Scenario (STEPS)
+The Stated Policies Scenario (STEPS) provides a more 
+conservative benchmark for the future, because it does 
+not take it for granted that governments will reach all 
+announced goals. Instead, it takes a more granular, 
+sector-by-sector look at what has actually been put in 
+place to reach these and other energy-related objectives, 
+taking account not just of existing policies and measures 
+but also of those that are under development... The 
+STEPS explores where the energy system might go 
+without a major additional steer from policy makers.
+
+**International Energy Agency | World Energy Outlook 2021, pp. 94-95
+
+Methodologies and Assumptions
+Ford aspires to reach carbon neutrality no later than 
+2050 for vehicles, operations, and suppliers. We 
+recognize that individual country efforts to mitigate 
+climate change introduce uncertainty in regulations as 
+well as consumer behaviors. To better understand the 
+impact of these uncertainties, a team of experts 
+evaluated our corporate strategies assessing our 
+resilience to each scenario. The team reviewed the 
+scenario assumptions, brainstormed scenario 
+implications to industry and Ford, and considered 
+whether our announced strategies and investments 
+are resilient to future business environments. 
+
+In the scenarios we considered, urbanization will be an 
+important feature of the new automotive landscape, 
+and therefore we expect future urban environment 
+trends will be a major determinant of consumer vehicle 
+choice. How urbanization presents itself may differ 
+between the scenarios. 
+
+Scenario analysis highlights that, while consumer 
+preferences and technology choices are changing, there 
+is uncertainty associated with the pace of uptake of 
+new technologies such as all-electric and autonomous 
+vehicles. One critical take-away from this future 
+scenario deep dive is that Ford must position itself to 
+meet the need for a diverse set of environmentally 
+friendly technology solutions globally. Across all 
+scenarios, customers will be expecting Ford to be part 
+of the solution.
+
+Implications of Scenarios
+
+Net Zero Emissions Scenario (NZE)
+
+Scenario
+
+Industry Implications
+
+Policy: What-it-takes policies to 
+achieve net zero. CO2 pricing in all 
+regions
+
+Environment: Lower climate 
+change. Severe weather events 
+increase
+
+Social: More local/personal 
+environmental activism
+
+Economy: Global growth ~ 3% 
+per year. Economy is driven by 
+new industries providing green 
+solutions and technologies
+
+Energy prices – Oil demand 
+drops by 30% by 2030 and 
+prices ~ $35 per barrel
+
+Technology: Speed of scaling up 
+innovation is rapid. Governments 
+support R&D and collaborate to 
+reduce costs. ZEV sales robust
+
+•  Massive competition in green space with small, agile companies entering
+
+•  Increased collaboration across sectors and within auto industry on key challenges
+
+•  Fast paced shift in skills and jobs
+
+•  Innovation allows for seamless coordination of private and public transportation
+
+•  Requires multiple mobility solutions for urban, suburban, and rural applications
+
+Ford Implications
+
+•  Rapid migration to electric vehicles in developed countries while less-developed regions have diverse, low-cost 
+
+solutions
+
+•  Fuel cell emphasis and technological advancement needed to retain commercial truck leadership
+
+•  Struggle to switch to electric vehicles fast enough in developed countries
+
+•  Mix of public and private, first-mile and last-mile solutions
+
+•  Less developed regions require low cost of ownership electrified solutions and maintaining internal combustion 
+
+engine option
+
+•  Intense competition causes niche focus by smaller players causing Ford to buy up smaller innovative companies 
+
+and incorporate them into the company’s technology portfolio or increase focus on “major” segments
+
+•  Rapidly changing technology requires upskilling and reskilling of workforce
+
+Ford ASSESSMENT: Technology opportunities and environmental needs align to deliver diverse solution sets addressing 
+climate change. Swift action required due to heightened competition. Challenge in finding winners globally to achieve scale. 
+
+Stated Policies Scenario (STEPS)
+
+Scenario
+
+Industry Implications
+
+Policy: Assumes only policies 
+already announced
+
+Environment: Higher climate 
+change. Significant migration 
+and rebuilding from frequent 
+natural disasters
+
+Social: Middle class constrained 
+due to pressure on urban areas. 
+Urbanization is a key driver
+
+Economy: Global economy grows 
+~ 3% per year but slows due to 
+increasing rebuilding costs
+
+Energy prices: Oil demand 
+rebounds, ~ $90 per barrel
+
+Technology: Technologies get 
+slowly cheaper. ZEV sales lower 
+than expected and primarily in 
+advanced economies
+
+•  Mobility hampered by congestion, air pollution, and severe weather
+
+•  Healthcare, safety, and education systems strained by climate events and social unrest
+
+•  Decreased demand for personal vehicles due to environmental impact and urban congestion. Increased 
+
+reliance on public transportation
+
+•  Increased supply chain disruptions lead to more complexity to avoid dependence on single suppliers or regions
+
+•  Buy local initiatives/nationalism increase and undermine global brands
+
+Ford Implications
+
+•  Vehicle solutions must be environmentally friendly (air quality and CO2) and simultaneously rugged enough to 
+
+handle severe weather
+
+•  Lower than expected electric vehicle demand requires pricing and policy support
+
+•  Electric vehicles can provide electricity during power outages and extreme weather events
+
+•  Electric vehicles are required but are expensive. Low demand and lack of policy hinder their profitability. Micro-
+
+mobility, such as e-bikes and e-scooters, satisfy the market for environmentally friendly solutions
+
+•  Smart mobility does not reach full potential foreseen in 2022; autonomous vehicles are a niche market
+
+•  Supply chain redundancy needed to prevent weather-related supply chain disruptions
+
+Ford ASSESSMENT: Most difficult scenario to develop strategies for since the environment and economy are challenging. 
+Increasing extreme weather events are a clear threat making it easier to gain multi-stakeholder support. Product, service, 
+and supply chain diversification is critical to maintain resilience. Ford continues to focus on working towards developing 
+meaningful, market-driven policy solutions to address climate change with urgency.
+
+25  |  TCFD Report 2022
+
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Approach and Introduction to Scenarios – continued
+
+•  there is increased production stoppage at Ford’s or its 
+
+suppliers’ facilities as a result of climate-related 
+natural disasters
+
+In this scenario, a significant disruption to our production 
+schedule and lower volumes of more profitable products 
+could have a substantial adverse effect on our financial 
+condition. 
+
+A major shortcoming with this scenario is the lack of a 
+market-driven, comprehensive carbon pricing solution. 
+For this reason, Ford continues to focus on working 
+towards developing meaningful, market-driven policy 
+solutions focused on carbon pricing, such as a carbon 
+fee and/or cap and trade, to address climate change 
+with urgency.
+
+The process of climate scenario analysis is evolving, and 
+we expect the approaches and data quality to improve 
+over time, which will contribute to our understanding of 
+climate risks and opportunities and help strengthen our 
+resilience and adaptation to climate change. This is Ford’s 
+third climate change scenario analysis, and we believe 
+that our recent progress towards electrification and 
+improved customer experiences has made the company 
+more resilient to its effects.
+
+Although we cannot suppress climate change through our 
+actions alone, we are committed to doing our part. We 
+will support the needed actions of other companies, 
+governments, and stakeholders so that collectively, we 
+can meet the challenges of climate change.
+
+Resilience of Ford’s Strategy
+The risks and opportunities associated with climate 
+change shape the way we do business, including our 
+carbon reduction strategy focused on reducing emissions 
+from our vehicles, operations, and supply chain. Ford 
+leaders and experts evaluated each scenario against our 
+strategies to assess our resilience to climate change and 
+to confirm we are robust for potential futures. The 
+themes we identified as critical to success are: 
+electrification, public policy, workforce, customer 
+experience, finance, mobility/AI, operations, suppliers, 
+and reputation. The Our Strategic Response section of 
+this report includes more detail on each theme. 
+
+Our scenario development process helps identify risks 
+and opportunities as we work towards our goal to achieve 
+carbon neutrality no later than 2050 allowing Ford 
+leaders and subject matter experts to discuss associated 
+challenges. Even with positive scenarios, there are 
+challenges with customer adoption of sustainable 
+solutions. 
+
+The scenario analysis process continues to impress on us 
+the importance of maintaining flexibility in offering 
+diverse solutions that allow us to be responsive to the 
+changing needs of consumers. Based on the analysis of 
+the scenarios against our strategies, we believe we are 
+investing in the appropriate technologies, products, and 
+customer experiences to increase our resiliency with 
+various outcomes.
+
+Ford, along with most industries, faces risks in the Stated 
+Policies Scenario where:
+
+•  the cost of available technologies to reduce CO2 is 
+
+higher leading to lower consumer acceptance
+
+•  engineering and financial resources are required to 
+deploy new technologies while maintaining existing 
+ones across a range of products
+
+26  |  TCFD Report 2022
+
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Our Risk Management 
+Approach
+
+Process for Monitoring Climate-Related 
+Issues
+We conduct materiality assessments every two years, 
+and carried out our most recent analysis in early 2021. We 
+consider material information to be of greatest interest to 
+our stakeholders, so they can make informed decisions 
+and judgments about the company’s commitment to 
+environmental, social, and economic progress.
+
+The process involves:
+
+•  Identification: We created and maintain a list of 
+potential issues, grouped into four categories: 
+Environment, Social, Governance, and Economic. These 
+were identified through research that included a peer 
+review, stakeholder interviews, a media scan and an 
+assessment of sustainability thought leadership from 
+industry experts and associations.
+
+•  Prioritization: We continue to identify and prioritize key 
+challenges and opportunities that we address through 
+our Ford+ plan and other initiatives.
+
+•  Review: The results of the analysis were reviewed by a 
+range of internal and external stakeholders. We made 
+revisions based on the analysis to ensure that our 
+process and list of issues were comprehensive and well 
+understood, and reflected stakeholder views and 
+feedback.
+
+Materiality Results
+Climate-related issues were identified among our most 
+material issues which are:
+
+•  Electrification and alternative fuels/batteries
+
+•  Vehicle product safety and quality
+
+•  Economic performance
+
+27  |  TCFD Report 2022
+
+•  Climate change, air quality and renewable energy 
+
+energy future
+
+We acknowledge emerging trends and assess them for 
+inclusion as they arise. The emerging trends identified as 
+affecting our business are climate change, public health, 
+geopolitics, safety standards, data protection, privacy 
+and security, and sustainable cities.
+
+Our Materiality Matrix
+The materiality matrix plots the ratings of each issue. 
+The x-axis represents the impact that economic, 
+environmental, and societal issues have on our business, 
+while the y-axis represents the influence on stakeholder 
+decision-making. Issues found toward the upper right-
+hand corner of the matrix are of higher influence and 
+importance to both Ford and stakeholders.
+
+Aligning with the thoughts of some of our stakeholders, 
+we believe that Just Transition and climate justice sit at 
+the intersection of many material issues, but do not need 
+to be called out specifically.
+
+à	
+
+Read more about on our approach to materiality and for 
+definitions of material issues in our GRI Index in our ESG 
+Data Book
+
+Management Processes
+We have a number of management processes, systems, 
+committees, and groups in place that are designed to 
+help us identify, assess, and manage climate-related risks 
+as well as improve our sustainability performance, act 
+responsibly and ethically, and take responsibility for the 
+impact our activities have on society and the world 
+around us.
+
+4
+
+1
+
+7
+
+8
+
+5
+
+6
+
+2
+
+3
+
+12
+
+9
+
+10
+
+13
+
+11
+
+Materiality Matrix
+Materiality Matrix
+
+h
+g
+H
+
+i
+
+i
+
+g
+n
+k
+a
+M
+-
+n
+o
+i
+s
+i
+
+c
+e
+D
+r
+e
+d
+l
+o
+h
+e
+k
+a
+t
+S
+n
+o
+e
+c
+n
+e
+u
+fl
+n
+I
+
+i
+
+m
+u
+d
+e
+M
+
+16
+
+17
+
+15
+
+14
+
+Medium
+
+Impact on Ford
+
+High
+
+Materiality matrix based on internal and external rankings, and validation workshop
+
+1   Electrification and Alternative Fuels/Batteries
+
+10   Data Protection, Privacy and Security
+
+ Vehicle/Product Safety and Quality
+
+2  
+
+ Economic Performance
+
+3  
+
+  Climate Change, Air Quality and  
+
+4  
+
+Renewable Energy/Energy Future
+
+ Employee Wellness, Health and Safety
+
+5  
+
+ Human Rights and Supply Chain Management
+
+6  
+
+ Transparency, Ethics and Integrity
+
+7  
+
+ Human Capital and Diversity, Equity and Inclusion
+
+8  
+
+ Mobility Solutions and Autonomous Vehicles
+
+9  
+
+ Customer Engagement, Marketing and Satisfaction
+
+ Government Regulations, Policy and Engagement
+
+ Accountable and Inclusive Governance
+
+  Socioeconomic Contribution and  
+
+Community Engagement
+
+  Sustainable Materials – Material Design and 
+
+Management
+
+ Water Use/Water Stewardship
+
+ Waste Management
+
+11  
+
+12  
+
+13  
+
+14  
+
+15  
+
+16  
+
+17  
+
+ Environment    
+
+ Economic/Innovation    
+
+ Society    
+
+ Governance
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Ford’s Risk Management Approach – continued
+
+Board’s Role in Risk Management
+The oversight responsibility of the Board and its 
+committees is supported by Company management and 
+the risk management processes that are currently in 
+place. Ford has extensive and effective risk management 
+processes, relating specifically to compliance, reporting, 
+operating, and strategic risks. 
+
+We believe that key success factors in the risk 
+management at Ford include a strong risk analysis tone 
+set by the Board and senior management, which is shown 
+through their commitment to effective top-down and 
+bottom-up communication (including communication 
+between management and the Board and Committees), 
+and active cross-functional participation among the 
+Business Units and Functional Skill Teams. 
+
+We have institutionalized a regular Forecast, Controls and 
+Risk Review and Special Attention Review process where 
+the senior leadership of the Company reviews the status 
+of the business, the risks, and opportunities presented to 
+the business (in the areas of compliance, reporting, 
+operating, and strategic risks), and develops specific 
+plans to address those risks and opportunities.
+
+The Enterprise Risk Management process adopted by the 
+Company identifies the top critical enterprise risks 
+identified through a survey process of senior management 
+and the Board of Directors. Once identified, each of the top 
+risks is assigned an executive risk owner who is responsible 
+to oversee risk assessment, develop mitigation plans, and 
+provide regular updates. The Enterprise Risk Management 
+process also engages Business Units and Skill Teams to 
+determine which of the enterprise risks are most relevant 
+to their specific objectives, and identify any additional risks 
+that can be managed at a lower level in the organization. 
+Risks at all levels are shared and aligned for a top-down 
+and bottom-up view and management of risk. The Audit 
+Committee and Board annually review the process to 
+update the list of critical risks and monitor risk movement 
+and emerging trends.
+
+28  |  TCFD Report 2022
+
+Ford’s Vice President, Chief Sustainability, Environment & 
+Safety Officer has responsibility for climate-related 
+issues governed by our ERM process and assists the Chair 
+of the Board of Directors’ Sustainability, Innovation and 
+Policy Committee in coordinating topics for review and 
+decision. 
+
+We monitor climate-related issues through the following 
+reviews: 
+
+Operations Flash Review (Ops Flash): The senior 
+leadership team, led by the CEO, and representing all skill 
+teams and business units, holds Ops Flash meetings to 
+review our management of sustainability and review of 
+the overall business environment, competitor actions, 
+and risks and opportunities. Ford’s sustainability 
+scorecard is reviewed alongside our business units’ 
+scorecards at these meetings. 
+
+Enterprise Special Attention Review (SAR): The SAR is 
+a meeting to review and decide on topics related to the 
+overall enterprise. The senior leadership team reviews 
+significant matters in more detail and develops action 
+plans and strategies to address more specific risks and 
+opportunities. 
+
+The Strategy Forum is a review of key corporate and 
+automotive strategic decisions driving the broader 
+corporate directives with a focus on key transformational 
+workstreams, validating actions, portfolio choices, 
+process enhancements, and strategic choices.
+
+Global Sustainability & ESG Meeting (GSM): The GSM 
+is a meeting to review and decide on sustainability topics 
+related to the overall enterprise. The senior leadership 
+team reviews climate risks and opportunities in more 
+detail and develops action plans and strategies to 
+address them.
+
+The People Forum enables us to review key people-
+related matters, leadership development and 
+organization fitness elements of our business. 
+
+Management Processes
+
+Board Committees
+
+Executive Management
+
+Function Areas
+
+Oversight of Risk Management
+
+Sustainability, Innovation and Policy Committee 
+• Meets at least three times a year 
+• Primary responsibility for assessing the company’s progress on strategic economic, product 
+
+safety, environmental and social issues, as well as the degree to which sustainability 
+principles have been integrated into the various skill teams 
+
+• Evaluates and advises on innovations and technologies that improve our economic, product 
+safety, environmental and social sustainability, enrich our customers’ experiences, increase 
+shareholder value, and improve people’s lives 
+
+• Reviews the Integrated Sustainability and Financial Report summary as well as any Company 
+
+initiatives related to sustainability and innovation
+
+à	Read the Charter of the Sustainability, Innovation and Policy Committee
+
+Other Board committees: Audit, Compensation, Talent and Culture, Nominating and 
+Governance, and Finance
+
+Vice President, Chief Sustainability, Environment and Safety Officer
+• Primary responsibility for sustainability issues
+• Oversees the Sustainability and Vehicle Environmental Matters group, the Environmental 
+
+Quality Office, the Vehicle Homologation and Compliance group and the Automotive Safety 
+Office
+
+• Leads a multi-disciplinary executive-level team that oversees actions in response to our 
+sustainability strategies and integration and issues related to our We Are Committed to 
+Human Rights and the Environment Policy
+
+Other executive and group vice presidents across our functional areas also have 
+responsibility for sustainability-related issues. These include our Chief People and Employee 
+Experiences Officer and our Chief Diversity Officer.
+
+Sustainability and Vehicle Environmental Matters
+• Coordinates our company wide sustainability strategy and activities
+• Leads our sustainability reporting and stakeholder engagement
+• Collaborates with other functional areas and skill teams to integrate sustainability throughout 
+
+the company
+
+Compliance and Reporting
+
+Operating and Strategic
+
+Ford Board 
+Oversight
+
+Audit Committee
+
+Ford Management 
+Day to Day
+
+Compliance Reviews 
+Sarbanes-Oxley Compliance 
+Internal Controls 
+Disclosure Committee
+
+Sustainability, Innovation and Policy 
+Committee 
+Compensation, Talent and Culture 
+Committee 
+Finance Committee 
+Audit Committee
+
+Business Units and Skill Teams 
+Forecast, Controls and Risk Review 
+Special Attention Review 
+Product, Strategy and People Forums
+
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Metrics and Targets
+
+Metrics Used To Assess Climate-Related 
+Risks And Opportunities
+To manage climate risks and opportunities, our primary 
+vehicle metrics are fuel economy, CO2 tailpipe emissions 
+and fuel consumption. Our primary facility metrics are 
+absolute tCO2e and % renewable electricity. These 
+metrics as well as some additional ones, are 
+shown opposite.
+
+Metric
+
+Performance
+
+Comment
+
+Scope 1 Emissions  
+(metric tonnes CO2e) 
+
+Scope 2 Emissions 
+(metric tonnes CO2e) 
+
+Scope 3 Emission 
+(metric tonnes CO2e) 
+
+Vehicles
+
+Sales weighted average 
+fleet fuel economy for 2021
+
+Geographic breakdown  
+of vehicle GHG emissions 
+for 2021
+
+2020
+
+1,129,402
+
+2,473,273
+
+2019
+
+1,418,056
+
+3,040,293
+
+2018
+
+1,442,963
+
+3,219,716
+
+349,281,992
+
+435,144,438
+
+398,915,810
+
+Ford U.S. corporate average fuel economy, combined car, and truck fleet (miles per gallon): 29.0 
+Ford (China) Import corporate average fuel consumption (L/100km): 10.68 
+Changan Ford Automobile Corporation (CAF) corporate average fuel consumption (L/100km): 7.25 
+Jiangling Motors Corporation (JMC) corporate average fuel consumption (L/100km): 9.25
+
+Ford U.S. CO2 tailpipe emissions per vehicle (grams per mile): 289 
+Ford Europe CO2 tailpipe emissions per passenger vehicle (grams per kilometer): Data available June 2022. 
+Ford Switzerland CO2 tailpipe emissions per passenger vehicle (grams per kilometer): Data available May 2022 
+Ford Switzerland CO2 tailpipe emissions per light commercial vehicle (grams per kilometer): Data available May 2022 
+Ford (China) Import CO2 corporate average tailpipe emissions (grams per 100 kilometers): 253.12 
+Changan Ford Automobile Corporation CO2 corporate average tailpipe emissions (grams per 100 kilometers): 171.83 
+Jiangling Motors Corporation CO2 corporate average tailpipe emissions (grams per 100 kilometers): 219.23
+
+Global fleet efficiency  
+for 2020
+
+The fleet average on-road well-to-wheels gCO2e/km intensity decreased from 330 to 311 between 2019 and 2020, a 6% 
+decrease, due to fleet efficiency improvements and vehicle mix changes. 
+
+Life Cycle Reporting of 
+Vehicle GHG Emissions  
+for 2021
+
+We estimate that our vehicles sold in 2021 will produce approximately 250 million metric tons of of CO2e from fuel 
+production and combustion over a 150,000 mile lifetime (based on preliminary data)
+
+Vehicle sales by category 
+for 2021
+
+55,692 Electric Vehicles
+
+64,460 Plug-In Hybrid Vehicles
+
+126,663 Hybrid Vehicles
+
+Emissions are market based
+
+Emissions are well to wheel. In 2020 we updated our Scope 3 
+Category 11 (Use of Sold Products) vehicle emissions calculation 
+to be more comprehensive, adding upstream (well-to-tank) 
+emissions, adjusting for on-road fuel consumption, and 
+increasing lifetime miles travelled. In our 2018 and 2019 CDP 
+Scope 3 reporting we used TTW emissions, which we have 
+updated here to our more comprehensive methodology.
+
+Changan Ford (CAF) and Jiangling Motors Corp (JMC) are joint 
+ventures with Ford Motor Company
+
+Changan Ford (CAF) and Jiangling Motors Corp (JMC) are joint 
+ventures with Ford Motor Company
+
+Our Scope 3 SBTi target tracks fleet average gCO2e/km for 
+our U.S., EU+UK, and China vehicles. Light-duty (passenger 
+and commercial) vehicles are included for all three regions, 
+and medium/heavy duty commercial vehicles are included 
+for the U.S. These vehicles represent about 88% of global 
+vehicle emissions. Annual sales and tank-to-wheels gCO2e/km 
+emissions data are collected and converted to on-road well-to-
+wheels gCO2e/km. 
+
+Using the GHG Protocol methodology, estimated emissions 
+shown are from vehicle on-road use, on a well-to-wheels basis. 
+This estimate does not include emissions from materials, 
+manufacturing or end of life.
+
+29  |  TCFD Report 2022
+
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Metrics and Targets – continued
+
+Financial
+
+Performance
+
+Comment
+
+Revenues/savings from 
+investments in low-carbon 
+alternatives
+
+Energy efficiency in buildings estimated annual savings is $1.8 million
+
+Energy efficiency in production processes estimated annual savings is $1.9 million
+
+Expenditures (OpEx) for 
+R&D
+
+Year 
+2019 
+2020 
+2021
+
+Expenses(in Billions) 
+$7.4 
+$7.1 
+$7.6
+
+Investments (CapEx) in our
+low-carbon future
+
+  We’re investing $50 billion from 2022 to 2026 in electric vehicles and battery production. This includes $5 billion in 
+
+2022, including capital expenditures, expenses, and direct investments, a two-fold increase over 2021. Some of the EV 
+investments we have underway include:
+
+$700 million in the new Rouge Electric Vehicle Center for the production of F-150 Lightning.
+
+$100 million for the manufacture of the all-new E-Transit at our Kansas City Assembly Plant.
+
+$1.35 billion to build the next generation of electric vehicles at the Oakville Assembly Complex in Ontario.
+
+$11.4 billion planned investment by Ford and SK Innovation in Stanton, Tennessee and Glendale, Kentucky for production 
+of electric vehicles and batteries to begin in 2025. 
+
+$1 billion to modernize our vehicle assembly facility in Cologne to turn it into the Ford Cologne Electrification Center.
+
+£230 million in the Halewood, UK Transmission Facility to build EV components for Europe.
+
+Investments made in global manufacturing locations to improve 
+energy and process efficiency while generating savings sufficient 
+to self-fund the capital investments (including LED Lighting, 
+Compressed Air Systems, Paint Process, Machining and Building 
+Management Systems Improvements)
+
+Engineering, research, and development expenses primarily 
+consist of salaries, materials, and associated costs
+
+30  |  TCFD Report 2022
+
+ 
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Metrics and Targets – continued
+
+Sustainability  
+Aspirations
+
+Goals 
+
+Progress 
+
+Links to 
+SDGs
+
+Climate 
+Change
+
+Achieve carbon  
+neutrality no later 
+than 2050
+
+à
+
+Find out more in our Integrated 
+
+Sustainability and Financial Report 
+
+2022 on page 83
+
+Vehicles:
+•  Accelerate our electrification strategy
+•  Improve fuel economy across our 
+
+global vehicle lineup, consistent with 
+regulatory requirements and our 
+commitment to the Paris Agreement 
+
+•  Offer alternative fuel vehicles
+
+Facilities:
+•  Reduce global facility GHG emissions 
+
+by 18% (2019–2023)
+
+Vehicles:
+•  We are on track to meet our SBTi target of 50% reduction in Scope 3 GHG emissions per vehicle kilometer from use of 
+
+sold products by 2035 from a 2019 base year. 
+
+•  Sales of 27,140 Mustang Mach-E vehicles in 2021 making it the nation’s second bestselling full electric SUV behind 
+
+Tesla’s Model Y.
+
+•  Launched the E-Transit with more than 10,000 small, medium, and large business customers’ reservations.
+•  Launching the all-electric F-150 Lightning pickup in 2022 with 200,000 customer reservations. 
+•  By the end of 2023, expand global capacity to produce 600,000 electric vehicles annually.
+•  More than 2 million electric vehicles produced annually by 2026, representing about one-third of Ford’s global volume.
+•  Investing $50 billion in electric vehicles from 2022 to 2026. 
+•  Ford expects 50% of its global vehicle volume to be fully electric by 2030.
+•  Joined RouteZero, a global coalition working towards 100% zero-emissions cars and vans globally in leading markets 
+
+no later than 2035.
+
+Facilities:
+•  We are on track to meet our SBTi target of 76% reduction in Scope 1 and 2 GHG emissions by 2035 from a 2017 base year. 
+•  Achieved a 35% reduction in our absolute manufacturing GHG footprint since 2017.
+•  In Europe, Ford is already using 100 percent carbon-free electricity to power: Dunton and Daventry in the U.K., the 
+
+Craiova plant in Romania, and all facilities in Cologne, Germany including the vehicle assembly and engine plants, as 
+well as the Research Center in Merkenich.
+
+•  Dearborn Truck Plant, Michigan Assembly Plant, and several new buildings on our Research and Engineering and 
+
+Corktown campuses powered by 100% local renewable electricity.
+
+•  All remaining manufacturing and large commercial facilities in Michigan will be sourced with 100 percent local carbon-
+
+free electricity by 2025.
+
+•  Invested $1 billion to modernize our vehicle assembly facility in Cologne to turn it into the Ford Cologne Electrification 
+
+Center.
+
+•  Ford and SK Innovation plan to invest $11.4 billion and create nearly 11,000 new jobs in Tennessee and Kentucky with 
+
+production of the electric vehicles and lithium-ion batteries in 2025, creating our first greenfield carbon neutral facilities.
+•  Joined the U.S. Department of Energy’s Better Climate Challenge to reduce GHG emissions from our facilities by at least 
+
+half by 2030.
+
+Suppliers:
+•  Establish baseline for supplier CO2 
+
+emissions and develop a joint roadmap 
+for performance improvements
+
+•  Work with selected suppliers to reduce 
+our collective environmental footprint 
+through PACE
+
+Suppliers:
+•  We are on track to meet our supplier emissions target. 
+•  We received GHG emissions data from 262 production suppliers (12% more than last year) using CDP Supply Chain 
+
+program’s Climate Change questionnaire.
+
+•  We have shared GHG emission reduction best practices with nearly 80 key Tier 1 suppliers through our Partnership for 
+
+a Cleaner Environment (PACE) program.
+
+•  Increased FastPACE participation by over 60% from 2020, sharing Ford best practices in GHG emission reduction with 
+
+suppliers from China, India, Thailand, and South Africa.
+
+•  PACE and FastPACE suppliers are projected to save an estimated 17,650 metric tons of CO2 emissions from their 
+
+operations over the next three years.
+
+31  |  TCFD Report 2022
+
+ 
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Metrics and Targets – continued
+
+Sustainability  
+Aspirations
+
+Goals 
+
+Progress 
+
+Links to 
+SDGs
+
+Air emissions reductions 
+other than CO2
+
+•  The tailpipe emissions of our vehicle fleet will drop significantly as our EV sales percentage grows.
+•  Working to reduce vehicle emissions of non-CO2 pollutants, in accordance with increasingly stringent standards around 
+
+the world.
+
+•  Ford manufacturing facilities in China have reduced VOC emissions by more than 600 tons per year since 2015 through 
+
+various management and engineering investment measures, contributing to cleaner air.
+
+•  Shared air emission reduction best practices with nearly 80 key Tier 1 suppliers through PACE.
+
+Reduce waste to landfill by 35% when 
+measured in kg per unit
+
+•  Beginning in the third quarter of 2021, Ford manufacturing plants in China have achieved zero waste to landfill (ZWTL). 
+Waste generated in all factories are either being managed for thermal destruction with or without energy recovery or 
+recycled, instead of being sent to landfills for final disposal.
+
+•  89 zero waste to landfill (ZWTL) sites globally, including manufacturing and non-manufacturing sites.
+•  74% of manufacturing facilities are true ZWTL.
+•  In 2021, Ford facilities around the world sent approximately 16,300 metric tons of waste to landfill, 7% less than in 2020. 
+
+Reduce general trash by 25% when 
+measured in kg per unit
+
+•  Standardizing the tracking and sorting of waste to increase recycling and reuse.
+
+Improve waste avoidance by 15% 
+when measured in kg per unit
+
+•  Implementing technologies and programs that minimize waste.
+•  Working with suppliers to increase the use of eco-friendly packaging.
+
+Work with selected suppliers to reduce 
+our collective environmental footprint
+
+•  Shared waste reduction best practices with nearly 80 key Tier 1 suppliers through PACE.
+
+• 
+
+Increased FastPACE participation by over 60% from 2020, sharing Ford best practices in waste reduction with 
+suppliers from China, India, Thailand, and South Africa.
+
+Air
+
+Attain zero emissions  
+from our vehicles  
+and facilities
+
+à
+
+Find out more in our Integrated 
+
+Sustainability and Financial Report 
+
+2022 on page 92
+
+Waste
+
+Reach true zero waste to 
+landfill across our operations
+
+Eliminate single-use plastics 
+from our operations by 2030
+
+à
+
+Find out more in our Integrated 
+
+Sustainability and Financial 
+
+Report 2022 on page 95
+
+Links to SDGs
+
+32  |  TCFD Report 2022
+
+ 
+ 
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Metrics and Targets – continued
+
+Sustainability  
+Aspirations
+
+Goals 
+
+Progress 
+
+Links to 
+SDGs
+
+Reduce absolute freshwater use by 
+15% by 2025
+
+Continue to work towards using 
+freshwater sources for human 
+consumption 
+
+Work with selected suppliers to 
+reduce our collective environmental 
+footprint through PACE
+
+Engage with our supply chain to 
+understand and reduce its water 
+footprint
+
+Expand our use of 
+sustainable materials 
+focusing on plastics, 
+battery recycling, and 
+sustainable sourcing
+
+•  More than 12.5 billion gallons of water saved since 2000.
+
+•  Installed more non-water-based technologies and are using alternative sources such as other companies’ treated 
+
+wastewater.
+
+•  Increased the use of offsite alternative water by 6%.
+•  Incorporating more water processes and technologies in our assembly plants, including water reuse and recycling 
+
+systems.
+
+•  PACE suppliers expect to save an estimated 182 million gallons of water in their operations from 2020 to 2030. 
+•  Increased FastPACE participation by over 60% from 2020, sharing Ford best practices in water conservation with 
+
+suppliers from China, India, Thailand, and South Africa.
+
+•  196 of our suppliers (14% increase over last year) responded to the CDP Water questionnaire.
+
+•  More than 85%* of vehicle parts and materials are recycled and reused at their end of life.
+•  Established an interim target of 20% renewable and recycled plastics by 2025 in new vehicle designs for North America 
+
+and Europe, and 10% in China and Turkey.
+
+•  Ford is the first automaker to use 100% recycled ocean plastics to produce automotive parts.
+•  The closed loop recycling system used to build F-Series recovered up to 20 million pounds of high-strength, military-
+
+grade, aluminum alloy per month.
+
+•  Collaborating with Redwood Materials to integrate battery recycling into our domestic battery strategy.
+•  Since 2000, we have used 12 industry- and world-first plant-based materials in our production vehicles.
+•  Researching the possible use of tomato skin, bamboo, agave fiber, dandelion root, algae, almond shells, and hemp fiber 
+
+as materials.
+
+•  Created a cross-functional Responsible Materials Council to improve visibility to sustainable materials.
+
+*For North America and the EU.
+
+Water
+
+Make zero water withdrawals 
+for manufacturing processes
+
+Use freshwater only for human 
+consumption
+
+à
+
+Find out more in our Integrated 
+
+Sustainability and Financial Report 
+
+2022 on page 93
+
+Materials
+
+Utilize only recycled or renewable 
+content in vehicle plastics
+
+à
+
+Find out more in our Integrated 
+
+Sustainability and Financial Report 
+
+2022 on page 96
+
+33  |  TCFD Report 2022
+
+ 
+ 
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+TCFD Index 2022
+
+The Task Force on Climate-related Disclosures (TCFD) published its recommendations on information regarding climate change 
+for companies in June 2017. The table below identifies the actions taken by Ford in response to these recommendations.  
+
+TCFD recommended disclosure
+
+Location (section, page reference) and notes
+
+GOVERNANCE: Disclose the organization’s governance around climate-related risks and opportunities.
+
+a. Describe the Board’s oversight of climate-related risks and opportunities.
+
+Governance and Accountability – Board Oversight, page 9
+
+b. Describe management’s role in assessing and managing climate-related risks and opportunities.
+
+Governance and Accountability – Management’s Role, page 9
+
+Strategy: Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s business, strategy, and financial planning where such information is material.
+
+a. Describe the climate-related risks and opportunities the organization has identified over the short, medium, and long term.
+
+b. Describe the impact of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning.
+
+Our Climate-Related Risks and Opportunities – Climate-Related Risks and their Impact on the Business Activity, page 12 
+Our Climate-Related Risks and Opportunities – Climate-Related Opportunities for the Business, page 13 
+Our Risks Management Approach – Process for Monitoring Climate-Related Issues, page 27 
+Responding to the Climate Challenge – Carbon Neutrality No Later than 2050, page 7
+
+Our Climate-Related Risks and Opportunities – Climate-Related Risks and their Impact on the Business Activity, page 12 
+Our Climate-Related Risks and Opportunities – Climate-Related Opportunities for the Business, page 13 
+Our Strategic Response, page 14
+
+c. Describe the resilience of the organization’s strategy, taking into consideration different climate-related scenarios,  
+including a 2°C or lower scenario.
+
+Approach and Introduction to Scenarios – Introduction to the Scenarios, page 24 
+Approach and Introduction to Scenarios – Implications of the Scenarios, page 24 
+Approach and Introduction to Scenarios – Resilience of Ford’s Strategy, page 26 
+
+Risk Management: Disclose how the organization identifies, assesses, and manages climate-related risks.
+
+a. Describe the organization’s processes for identifying and assessing climate-related risks.
+
+Our Risks Management Approach – Process for Monitoring Climate-Related Issues, page 27
+
+b. Describe the organization’s processes for managing climate-related risks.
+
+Our Risks Management Approach – Management Processes, page 27
+
+c. Describe how processes for identifying, assessing, and managing climate-related risks are integrated into the organization’s overall risk 
+management.
+
+Our Risks Management Approach – Management Processes, page 27
+
+Metrics And Targets: Disclose the metrics and targets used to assess and manage relevant climate-related risks and opportunities where such information is material.
+
+a. Disclose the metrics used by the organization to assess climate-related risks and opportunities in line with its strategy  
+and risk management process.
+
+b. Disclose Scope 1, Scope 2, and if appropriate, Scope 3 greenhouse gas (GHG) emissions and the related risks.
+
+c. Describe the targets used by the organization to manage climate-related risks and opportunities and performance against targets.
+
+Metrics and Targets – Metrics Used to Assess Climate-Related Risks and Opportunities, page 29 
+Metrics and Targets – Progress Against Aspirations (Climate Change), page 31 
+Metrics and Targets – Progress Against Aspirations (Air), page 32 
+Metrics and Targets – Progress Against Aspirations (Waste), page 32 
+Metrics and Targets – Progress Against Aspirations (Water), page 33 
+Metrics and Targets – Progress Against Aspirations (Materials), page 33
+
+Metrics and Targets – Metrics Used to Assess Climate-Related Risks and Opportunities, page 29 
+Metrics and Targets – Progress Against Aspirations (Climate Change), page 31
+
+Metrics and Targets – Progress Against Aspirations (Climate Change), page 31 
+Metrics and Targets – Progress Against Aspirations (Air), page 32 
+Metrics and Targets – Progress Against Aspirations (Waste), page 32 
+Metrics and Targets – Progress Against Aspirations (Water), page 33 
+Metrics and Targets – Progress Against Aspirations (Materials), page 33
+
+34  |  TCFD Report 2022
+
+Contents
+
+Introduction
+
+Our Climate-Related 
+Risks and Opportunities
+
+Our Strategic 
+Response
+
+Approach and  
+Introduction to Scenarios
+
+Ford’s Risk 
+Management Approach
+
+Metrics and Targets
+
+TCFD Index 2022
+
+Appendix
+
+Appendix
+
+For our 2019 climate change scenario report, we developed our own, unique scenarios  
+which we also reference in this report. The alignment of these scenarios with  
+WEO scenarios is shown below.
+
+2030 – 2040 Ford/WEO Scenario Alignment
+
+Ford Scenario
+
+IEA WEO Scenario
+
+Description
+
+Too Little, Too Late 
+Speed of Adaptation Wins
+
+Stated Policies Scenario
+
+One Size Does Not Fit All 
+Life Is Good, Speed Is Key
+
+Net Zero Emissions Scenario
+
+Today’s policies with no changes Existing and planned CO2 pricing 
+Evolutionary technology growth Oil averages $90/bbl Lower ZEV 
+adoption in advanced economies
+
+What it takes policy to limit temperature rise to 1.5°C CO2 prices rise 
+rapidly in all regions High policy support and collaboration around 
+technology results in unprecedented speed of scaling Oil averages 
+$35/bbl Higher ZEV adoption across markets
+
+35  |  TCFD Report 2022
+
+Ford Motor Company 
+One American Road (207-E6)  
+Dearborn, MI 48126, U.S.A. 
+
+sustainability.ford.com 
+shareholder.ford.com
+
+
