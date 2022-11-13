@@ -1,6 +1,0 @@
-GM identifies water stress using WRI Aqueduct model and internal company knowledge. GM measures and monitors 100% of our water 
-withdrawals by source from water-stressed areas, using either invoices or meter data on a monthly basis. It is tracked in a global utility 
-database by source, and the data is verified by an independent third party annually. 
-See also: Data Center
-303-4 Water discharge GM sites must have a system in place to identify wastewater generated and discharged by current activities at the site, and as these 
-activities change in the future, sites should also identify any additional potentially contaminated flows from on-site sources

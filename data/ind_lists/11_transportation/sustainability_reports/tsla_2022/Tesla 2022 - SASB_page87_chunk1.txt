@@ -1,5 +1,0 @@
-Added benefit of enhanced performance
-Based on the advanced architecture of Model S and Model X, we engineered Model 3 and Model Y to be some 
-of the safest cars built to date, anywhere. Even though Model 3 and Model Y have no engine, their performance is similar to a “mid -engine internal combustion car” due to a centered battery pack and the fact that the rear 
-motor is placed slightly in front of the rear axle rather than behind it. Not only does this architecture add to the overall agility and handling of the car, but it also improves stability control effectiveness by minimizing 
-rotational kinetic energy

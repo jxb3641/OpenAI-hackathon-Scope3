@@ -1,8 +1,0 @@
-
-18
-Privacy from day one
-Tesla’s Privacy Principles and commitments are illustrated throughout all our products. For Tesla vehicles, 
-customer personal data is protected from the moment they take delivery, ensuring that by default the vehicle 
-data generated when driving is not associated with the customer's account or vehicle identification number. 
-Tesla also puts customers in the driver’s seat when it comes to data sharing by providing a dedicated in -vehicle 
-menu to adjust preferences at any time

@@ -1,9 +1,0 @@
-
-670%20%40%60%80%100%
-0 25 50 75 100 125 150 175 200
-Distance Traveled (thousands of miles)Tesla Model S/X Battery Capacity Retention per Distance Traveled
-Standard Deviation RetentionOur batteries are designed to function for the entire life of the vehicle
-Tesla’s battery packs are designed to outlast the vehicle. We estimate that a vehicle gets scrapped after 
-approximately 200,000 miles of usage in the U.S. and roughly 150,000 miles in Europe. Creating a battery that 
-could last for 1,000,000 miles (4,000 charging cycles) would dramatically reduce the emissions per mile driven 
-for high -mileage vehicles such as taxis, delivery vans or trucks

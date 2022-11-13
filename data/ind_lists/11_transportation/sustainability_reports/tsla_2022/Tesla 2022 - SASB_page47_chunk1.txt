@@ -1,4 +1,0 @@
-Foremost in this effort was our improvement suggestion module —Take Charge. Combined with Action Tracker, 
-this module allows workers to submit improvement suggestions in various categories, including environment, 
-health, safety, security, people and accuracy, while connecting with their supervisors and other work groups to 
-identify and implement solutions to improve the presence of safeguards

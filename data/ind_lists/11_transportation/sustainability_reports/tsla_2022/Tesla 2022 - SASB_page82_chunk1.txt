@@ -1,5 +1,0 @@
-Pedal Misapplication Mitigation (accelerator pressed inadvertently)
-Pressing the accelerator pedal when the circumstances indicate you should be pressing the brake instead, like 
-when pulling into a parking space, is relatively common no matter what vehicle you're in. However, if you are in a Tesla, when our cameras recognize an object in front of the car, “Pedal Misapplication Mitigation” system cuts 
-torque from the electric motor to prevent a collision if you happen to press hard on the accelerator. This 
-technology has prevented or mitigated hundreds of collisions every month

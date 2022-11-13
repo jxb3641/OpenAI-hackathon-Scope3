@@ -1,3 +1,0 @@
-Real-world observed efficiency of Model 3 and Model Y over ~30 billion miles, inclusive of energy losses from grid 
-to battery, utilized for use -phase emissions calculations (converting gCO
-2e/kWh to gCO2e/mi).

@@ -1,5 +1,0 @@
-2021 Monster Water Usage2021 Monster Water Usage
-(direct operations, megaliters)
-020406080100120140
-DischargeDischarge
- WithdrawalWithdrawal

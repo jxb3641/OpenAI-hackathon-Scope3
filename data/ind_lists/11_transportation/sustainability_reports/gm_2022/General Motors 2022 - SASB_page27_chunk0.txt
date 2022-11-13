@@ -1,6 +1,0 @@
-TCFD Responsecomparable EVs that use cylindrical battery packs. Designing common 
-cells that work across many applications yields benefits of scale, 
-enabling us to develop the best possible customer value proposition  
-for each EV entry. 
-In addition, GM is committed to creating a superior EV ownership 
-experience through the introduction of Ultium Charge 360 

@@ -1,2 +1,0 @@
- 5.  Data has been restated to align with SBTi for Scope 3, Use of Sold Products. The SBTi standards require well-to-wheel (from fuel production to vehicle driving) for vehicle CO2 intensity (gCO2e/km) calculations. We have revised our numbers for 2018 
-through 2020 for this requirement

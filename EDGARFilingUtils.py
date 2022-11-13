@@ -251,25 +251,46 @@ def get_chunks_from_file(filename):
                 if row[4] and len(row[4]) > 75:
                     if len(row[4]) > 200:
                         sentences = nltk.sent_tokenize(row[4])
-                        #create chunks of 5 sentences
-                        for i in range(0, len(sentences), 5):
-                            chunk = "".join(sentences[i:i+5])
+                        #create chunks of 8 sentences
+                        for i in range(0, len(sentences), 8):
+                            chunk = "".join(sentences[i:i+8])
                             if chunk:
                                 chunks.append(chunk)
                     else:
                         chunks.append(row[4])
     return chunks
 
+def get_chunks_from_esg_report(filename):
+    with open(filename) as f:
+        text = f.read()
+        chunks = []
+        for line in text.split("\n\n"):
+            line = line.replace('\n', '').replace('\r', '')
+            if line and len(line) > 50:
+                if len(line) > 200:
+                    sentences = nltk.sent_tokenize(line)
+                    #create chunks of 8 sentences
+                    for i in range(0, len(sentences), 8):
+                        chunk = "".join(sentences[i:i+8])
+                        if chunk:
+                            chunks.append(chunk)
+                else:
+                    chunks.append(line)
+    #print(chunks)
+    return chunks
+
 
 if __name__ == "__main__":
     from OpenAIUtils import file_to_embeddings, questions_to_answers
 
-    filename = "/Users/colemanhindes/OpenAI-hackathon-Scope3/data/ind_lists/4_food_bev/transcripts/TSN_2020-11-16.csv"
-    questions = ["What is the impact of extreme weather", "What is the impact of climate change", "What is the impact of pollution"]
-    #Only show matches above this level
-    match_threshold = 0.25
+    filename = "/Users/colemanhindes/hackathon/OpenAI-hackathon-Scope3/data/pdf_reports/Ford_2022_-_TCFD.txt"
 
-    chunks = get_chunks_from_file(filename)
+    questions = ['Has supply chain disruption affected the business? Will supply chain disruption affect the business?', 'Does the company have emissions targets? What are the company’s emissions targets?', 'Has this company’s emissions goals been approved by the Science Based Targets Initiative (SBTi)?', 'What is the percentage of energy used that is from renewable sources?', 'Is the company able to report Scope 3 emissions?', '(Sector Specific) What is the percentage of food ingredients sourced from regions with High or Extremely High Baseline Water Stress(F&B)?', 'What does the company say about the environmental & social impacts of their ingredient supply chain?', 'Does this company provide disclosures aligned with Sustainability Accounting Standards Board (SASB) standards?', 'Does this company provide disclosure aligned with Task Force on Climate Related Financial Disclosures (TCFD) standards?', 'Does this company provide disclosure aligned with Global Reporting Initiative (GRI) standards?']
+
+    #Only show matches above this level
+    match_threshold = 0.35
+
+    chunks = get_chunks_from_esg_report(filename)
     for chunk in chunks:
         if not chunk:
             print("empty chunk")

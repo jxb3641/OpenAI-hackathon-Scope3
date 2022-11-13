@@ -1,5 +1,0 @@
-The fuels burned onsite are used to generate steam and heat, as 
-well as electricity at locations with cogeneration facilities. To ensure 
-proper accounting, any electricity produced by our cogeneration 
-facilities that gets sold to the grid is subtracted from our total 
-energy consumption

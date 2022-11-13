@@ -1,2 +1,0 @@
-Vehicle-to-Vehicle (V2V) safety commu
-nication systems•Ford envisions that the future of transportation will be increasingly electric, connected, and autonomous. C-V2X is an essential component of the next generation connected transportation network. Ford plans to deploy cellular vehicle-to-everything (C-V2X) as soon as practicable subject to a conducive regulatory environment in individual markets. The ability to interact with vehicles, infrastructure, pedestrians, bicyclists, and others can help ensure safer streets to the benefit of all citizens

@@ -1,6 +1,0 @@
-Cost data is based on data collected from our fleet
-The advantage of having a fleet of vehicles that is constantly online is the ability to analyze real- world data 
-rather than only being able to use estimates. We have an extensive database of Model 3 residual values and cost 
-of repairs, maintenance, energy use, etc.  Additionally, the insurance cost for the Model 3 RWD below is based on 
-the projected median insurance rate in the U.S. for Tesla Model 3 drivers. Our analysis shows that over five years 
-and 60,000 miles, running a Model 3 RWD costs 63 cents per mile

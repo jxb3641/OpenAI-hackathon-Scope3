@@ -1,4 +1,0 @@
-Internal Tracking System Enhancement: An enhancement to our internal tracking system now allows HR to 
-document all employee concerns that are raised to ensure there is follow through and resolution for tracking 
-purposes. Additionally, handling concerns at the initial stage helps prevent them from becoming bigger issues. 
-The case management system also allows the appropriate teams to review data to trend and issue spot, which then can lead to proactive solutions before concerns arise

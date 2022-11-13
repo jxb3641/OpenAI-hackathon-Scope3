@@ -1,7 +1,0 @@
-3
-In 2021, the global fleet of Tesla vehicles, energy storage and solar panels
-enabled our customers to avoid emitting 8.4 million metric tons of CO2e
-The 6.8 million metric tons of vehicle CO2e savings estimate is based on the net CO2e savings during the use -phase of a Tesla vehicle compared to an ICE vehicle with a real -world fuel economy of 
-~24 mpg (of which 0.9 million metric tons was avoided through annual renewables matching for the global Supercharger network and home charging in California). The 1.6 million metric tons of 
-solar + storage CO2e savings estimate is based on CO2e avoided through generation of zero -emission electricity from Tesla solar panels, including energy stored and later dispatched from our 
-energy storage products. Geographic distribution of our deliveries (both vehicle and solar), grid mix at the country, state and province level and upstream emissions are reflected in these figures.

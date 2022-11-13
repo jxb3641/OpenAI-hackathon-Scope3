@@ -1,6 +1,0 @@
-Water usage and power generation
-While many recognize the impact that power generation has on GHG emissions, its impact on water 
-consumption is less appreciated. Power generation is one of the leading causes of water withdrawal in the U.S., 
-as water for thermoelectric power is used to generate electricity with steam -driven turbine generators andto 
-cool power -producing equipment. This means that every kilowatt -hour (kWh) of clean solar energy produced 
-not only lowers GHG emissions, but also lowers water consumption

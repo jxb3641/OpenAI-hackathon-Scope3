@@ -1,7 +1,0 @@
-79Vehicle Usage
-EVs as the Primary VehicleCustomers are using their Tesla as their main car
-For an EV to have an impact on the environment, it must be genuinely displacing internal combustion engine 
-miles, rather than sitting in the driveway as a secondary car used for errands or short trips only. Our data shows 
-that Tesla vehicles are being driven more than average vehicles in the U.S., suggesting that they are generally 
-being used as a customer’s primary vehicle. We fundamentally believe that you shouldn’t have to choose 
-between price, quality, usability and sustainability. An EV should be the best vehicle in every way, so consumers don’t ever need to use ICE vehicles
