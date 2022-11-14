@@ -3,6 +3,60 @@
     "score": "A",
     "qa_pairs": [
         {
+            "question":"Environmental laws, environmental risks, environmental regulations",
+            "category":"General",
+            "answers":[
+                {
+                "answer":"\nThe risks include the possibility that Ford may need to make substantial changes to its product plans in order to comply with various safety, emissions, fuel economy, and autonomous vehicle regulations. Additionally, new or increased regulations could be proposed at any time which could impact Ford's compliance status and require additional expenditures of time and resources.",
+                "confidence":0.8483086316875845
+                },
+                {
+                "answer":"\nThere are several environmental regulation risks mentioned in the text snippet. These include the risk of diverging requirements in European markets, the risk of city access restrictions for internal combustion engine powered vehicles, and the risk of new requirements for tailpipe and non-tailpipe emissions.",
+                "confidence":0.676171782056751
+                },
+                {
+                "answer":"\nThe risks associated with environmental regulations include the potential for increased product development costs, warranty costs, and vehicle recalls. In addition, regulatory changes could affect a manufacturer\u2019s ability to comply with emissions standards, which could in turn impact warranty costs.",
+                "confidence":0.6494089013595994
+                }
+            ]
+        },
+        {
+            "question":"What are the risks this company faces?",
+            "category":"General",
+            "answers":[
+                {
+                "answer":"\nThe risks this company faces include:\n\n-Competition from existing and new entrants in the automotive, mobility, and digital services industries\n-The success of new or existing products and services in the marketplace\n-Differentiating their products and services from those of their competitors\n-Developing innovative new products and services\n-Sufficiently tailoring their products and services to customers in other markets\n-Recruiting and retaining talented and diverse employees\n-Up-skilling and developing existing employees\n-The future of electric and autonomous vehicles, digital and physical services, and mobility services.",
+                "confidence":0.7775771479155202
+                },
+                {
+                "answer":"\nThe company faces risks related to public health issues, including epidemics, pandemics, and other outbreaks, as well as risks related to the global economy and financial markets.",
+                "confidence":0.7066633060006355
+                },
+                {
+                "answer":"\nThis company faces the risks of cyberattacks, data breaches, and production disruptions.",
+                "confidence":0.701904141978571
+                }
+            ]
+        },
+        {
+            "question":"What does this company do?",
+            "category":"General",
+            "answers":[
+                {
+                "answer":"\nThis company produces and sells automobiles, provides financial services, and is committed to helping build a better world.",
+                "confidence":0.29807344532448155
+                },
+                {
+                "answer":"\nThis company is focused on attracting, developing, and retaining talent. They are leveraging best practices in assessments and talent management to strengthen their current capabilities and future pipeline while reinforcing a culture of belonging, empowerment, and innovation. They are also creating targeted learning experiences, democratizing learning and career development opportunities across the organization, and empowering employees to design their own career paths with skill development targeted for the roles of today and the future.",
+                "confidence":0.22483540721596473
+                },
+                {
+                "answer":"\nThis company provides financing for Ford vehicles and also offers other automotive financing products. It has a large portfolio of finance receivables and operating leases, which it classifies into two portfolios: \u201cconsumer\u201d and \u201cnon-consumer.\u201d Retail financing includes retail installment sale contracts for new and used vehicles and finance leases (comprised of sales-type and direct financing leases) for new vehicles to retail and commercial customers, including leasing companies, government entities, daily rental companies, and fleet customers. Finance receivables in the non-consumer portfolio include products offered to automotive dealers.",
+                "confidence":0.2079713200958483
+            }
+            ]
+        },
+        {
             "question": "What lasting changes in the climate is the firm exposed to?",
             "category": "Impact of Climate on Firm",
             "answers": [
