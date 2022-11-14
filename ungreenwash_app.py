@@ -13,7 +13,7 @@ import stock_api
 from PIL import Image
 import os
 
-primary_color = "#91b36b"
+primary_color = "#0F3F8E"
 background_color = "#FFFFFF"
 secondary_background_color = "#F0F2F6"
 
@@ -77,6 +77,8 @@ def load_json_data():
                         answer["confidence"] = (conf - min_confidence) / (max_confidence - min_confidence)
                         qa_pair["answers"][i] = answer
                     qa_pairs[qa_pair["category"]].append(qa_pair)
+                
+
 
                 temp_data["qa_pairs"] = qa_pairs
                 data.append(temp_data)
@@ -285,14 +287,16 @@ if page == "Company Lookup":
                             for company in param_companies:  
                                 company_info = ss[company]                      
                                 with mui.Card(key=company, sx={"display": "flex", "flexDirection": "column"}, raised=True):
-                                    mui.CardHeader(title=company, subheader=f'Disclosure Score: {company_info["score"]}', sx={"color": "white", "background-color": primary_color, "padding": "5px 15px 5px 15px", "borderBottom": 2, "borderColor": "divider"})
+                                    subheader = mui.Typography(f'Disclosure Score: {company_info["score"]}', sx={"color": "white"})
+                                    mui.CardHeader(title=company, subheader=subheader, sx={"color": "white", "text-color": "white", "background-color": primary_color, "padding": "5px 15px 5px 15px", "borderBottom": 2, "borderColor": "divider"})
                                     with mui.CardContent(sx={"flex": 1, "minHeight": 0, "background-color": secondary_background_color}):
                                         # with mui.List():
                                         #     for qa_pair in company_info["qa_pairs"]:
                                         #         with mui.ListItem(sx={"background-image": get_confidence_style(qa_pair, secondary_background_color)}):
                                         #             mui.ListItemText(primary= f'Q: {qa_pair["question"]}', secondary= f'A: {qa_pair["answer"]}', sx={"padding": "0px 0px 0px 0px"})
                                         
-                                        for category, qa_pairs in company_info["qa_pairs"].items():
+                                        for category in sorted(company_info["qa_pairs"].keys()):
+                                            qa_pairs = company_info["qa_pairs"][category]
                                             expanded = category == "General"
                                             with mui.Accordion(defaultExpanded=expanded):
                                                 with mui.AccordionSummary(expandIcon=mui.icon.ExpandMore):
@@ -330,7 +334,8 @@ if page == "Company Lookup":
                         with col2:
                             get_investment_profile(curr_company)
                         col3.metric(label="Disclosure Score", value=company_info["score"])
-                        for category, qa_pairs in company_info["qa_pairs"].items():
+                        for category in sorted(company_info["qa_pairs"].keys()):
+                            qa_pairs = company_info["qa_pairs"][category]
                             expanded = category == "General"
                             with st.expander(category, expanded=expanded):
                                 for qa_pair in qa_pairs:
@@ -432,7 +437,7 @@ company_references = {
         "Fisker Inc. Earnings Conference Call (2022-02-16): https://seekingalpha.com/article/4487648-fisker-inc-fsr-ceo-henrik-fisker-on-q4-2021-results-earnings-call-transcript",
         "Fisker Inc. Company ESG Impact Report (2021): https://assets.ctfassets.net/cghen8gr8e1n/2sBPf0jjfZa20R8Ycwar4Q/ff96bb41c1348978af542610f3f7a88e/2021_Fisker_ESG_Report.pdf",
     ],
-    "Pepsico": [
+    "PepsiCo": [
         "PepsiCo, Inc. 10-K filing (0000077476-22-000010): https://www.sec.gov/ix?doc=/Archives/edgar/data/77476/000007747622000010/pep-20211225.htm",
         "PepsiCo, Inc. Earnings Conference Call (2022-02-10): https://seekingalpha.com/article/4485846-pepsico-inc-pep-ceo-ramon-laguarta-on-q4-2021-results-earnings-call-transcript",
         "PepsiCo, Inc. SASB Index (2021): https://www.pepsico.com/docs/default-source/sustainability-and-esg-topics/2021-sasb-index.pdf",
