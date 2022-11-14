@@ -1,0 +1,81 @@
+{
+    "name": "Ford",
+    "score": 0.9,
+    "qa_pairs": [
+      {
+        "question": "What is the company doing to reach net-zero targets?",
+        "category": "General",
+        "answers": [
+          {
+            "answer": "Not much.",
+            "confidence": 0.7
+          },
+          {
+            "answer": "We are evaluating our supply chain and will be working with our suppliers to reduce their emissions.",
+            "confidence": 0.4
+          }
+        ]
+      },
+      {
+        "question": "Do you like cars?",
+        "category": "General",
+        "answers": [
+          {
+            "answer": "love em.",
+            "confidence": 0.1
+          },
+          {
+            "answer": "not at all.",
+            "confidence": 0.6
+          }
+        ]
+      },
+      {
+        "question": "How many lightbulbs?",
+        "category": "Impact of Climate on Firm",
+        "answers": []
+      },
+      {
+        "question": "What is the company doing to reach net-zero targets?",
+        "category": "Impact of Firm on Climate",
+        "answers": [
+          {
+            "answer": "Not much.",
+            "confidence": 0.1
+          },
+          {
+            "answer": "We are evaluating our supply chain and will be working with our suppliers to reduce their emissions.",
+            "confidence": 0.1
+          }
+        ]
+      },
+      {
+        "question": "What materials do you use in your food and beverage?",
+        "category": "Industry-Specific",
+        "answers": [
+          {
+            "answer": "Plastic and beans.",
+            "confidence": 0.7
+          },
+          {
+            "answer": "Fresh fruit.",
+            "confidence": 0.4
+          }
+        ]
+      },
+      {
+        "question": "What materials do you use in your food and beverage?",
+        "category": "Industry-Specific",
+        "answers": [
+          {
+            "answer": "Plastic and beans.",
+            "confidence": 0.9
+          },
+          {
+            "answer": "Fresh fruit.",
+            "confidence": 0.9
+          }
+        ]
+      }
+    ]
+  }
