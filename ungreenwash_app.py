@@ -86,7 +86,7 @@ def load_json_data():
 
 data = load_json_data()
 
-st.set_page_config(layout="wide", initial_sidebar_state="collapsed")
+st.set_page_config(page_title="Ungreenwash", layout="wide", initial_sidebar_state="collapsed")
 
 ### Streamlit app starts here
 
