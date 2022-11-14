@@ -1,0 +1,102 @@
+{
+    "name": "PepsiCo",
+    "score": "A-",
+    "qa_pairs": [
+        {
+            "question": "What lasting changes in the climate is the firm exposed to?",
+            "category": "General",
+            "answers": []
+        },
+        {
+            "question": "What new technologies is the organization considering using to decarbonize its business model?",
+            "category": "General",
+            "answers": []
+        },
+        {
+            "question": "Does the firm rely on or employ any kind of green financing?",
+            "category": "General",
+            "answers": []
+        },
+        {
+            "question": "What is the percentage of energy or electricity used that is from renewable sources?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "More than 70% of electricity consumed in company-owned operations was from renewable sources ",
+                    "confidence": 0.7393655221418812
+                }
+            ]
+        },
+        {
+            "question": "What are the company's emissions targets and have they been validated as credible and substantial? ",
+            "category": "General",
+            "answers": []
+        },
+        {
+            "question": "Does this company's emissions targets include Scope 3 (indirect) emissions?",
+            "category": "General",
+            "answers": []
+        },
+        {
+            "question": "What does the company say about its  impacts on biodiversity? ",
+            "category": "General",
+            "answers": []
+        },
+        {
+            "question": "What does the company disclose about the waste it generates and what is it doing to reduce waste?",
+            "category": "General",
+            "answers": []
+        },
+        {
+            "question": "What does the company say about its water management?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Description of water management risks and discussion of strategies and practices to mitigate those risks",
+                    "confidence": 0.6964911531801956
+                }
+            ]
+        },
+        {
+            "question": "What does the company say about its products' health and nutrition?",
+            "category": "General",
+            "answers": []
+        },
+        {
+            "question": "What is this company's strategy to reduce the environmental impact of its packaging?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "PepsiCo aims to use 50% recycled content in its plastic packaging by 2030. Across our global company-\nowned and franchise beverage operations in 2021, PepsiCo used 6% recycled plastic in its plastic packaging.",
+                    "confidence": 0.7350127851527873
+                },
+                {
+                    "answer": "PepsiCo has set a goal to design 100% of packaging to be recyclable, compostable, biodegradable or reusable by 2025. In 2021, 87% of our packaging met this requirement. ",
+                    "confidence": 0.7230832556177669
+                },
+                {
+                    "answer": "Our vision is A World Where Packaging Never Becomes Waste. As we pursue our ambition to build a circular economy, we are working on a broad set of initiatives to introduce more sustainable packaging, develop appropriate end-of-life solutions, improve the carbon footprint of our packaging, as well as other environmental impacts, and ensure protection of human rights especially in the informal recycling sector. For more on our efforts to reduce the impact of our packaging, see ESG Topics A-Z: Packaging.",
+                    "confidence": 0.6843530872207773
+                }
+            ]
+        },
+        {
+            "question": "What is the company doing about the environmental and social impacts of their ingredient supply chain?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Making our products requires a wide variety of crops and ingredients and we believe that regenerative agricultural practices will be pivotal in meeting the increasing demand for food, while also addressing some of the key risks that can be associated with agriculture, such as freshwater scarcity, deforestation, biodiversity loss, soil degradation, and human rights. For a list of our key ingredients, see ESG Topics A-Z: Agriculture. ",
+                    "confidence": 0.7033034593206052
+                },
+                {
+                    "answer": "Our vision is A World Where Packaging Never Becomes Waste. As we pursue our ambition to build a circular economy, we are working on a broad set of initiatives to introduce more sustainable packaging, develop appropriate end-of-life solutions, improve the carbon footprint of our packaging, as well as other environmental impacts, and ensure protection of human rights especially in the informal recycling sector. For more on our efforts to reduce the impact of our packaging, see ESG Topics A-Z: Packaging.",
+                    "confidence": 0.6976407833064158
+                },
+                {
+                    "answer": "Approximately 50% of our key ingredients were sustainably-sourced, including more than 90% of grower-\nsourced crops. For grower-sourced crops, sustainable sourcing refers to meeting the independently verified environmental, social and economic principles of PepsiCo\u2019s Sustainable Farming Program (SFP). For supplier-\nsourced crops, sustainable sourcing is achieved through a third party standard that has been benchmarked as equivalent to the SFP or, in limited regions, a continuous improvement program addressing the main environmental and social risks with growing the relevant crop.",
+                    "confidence": 0.6550766119900048
+                }
+            ]
+        }
+    ]
+}

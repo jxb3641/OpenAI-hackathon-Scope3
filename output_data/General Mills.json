@@ -1,0 +1,163 @@
+{
+    "name": "General Mills",
+    "score": "A",
+    "qa_pairs": [
+        {
+            "question": "What lasting changes in the climate is the firm exposed to?",
+            "category": "General",
+            "answers": []
+        },
+        {
+            "question": "What new technologies is the organization considering using to decarbonize its business model?",
+            "category": "General",
+            "answers": []
+        },
+        {
+            "question": "Does the firm rely on or employ any kind of green financing?",
+            "category": "General",
+            "answers": []
+        },
+        {
+            "question": "What is the percentage of energy or electricity used that is from renewable sources?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Total energy usage in FY21 for our owned production facilities was 10,201,111 gigajoules (GJ); 63% renewable electricity sourced for our global operations.",
+                    "confidence": 0.7018238840224869
+                },
+                {
+                    "answer": "During fiscal 2021, we generated and used 270,381 gigajoules (GJ) of renewable energy ",
+                    "confidence": 0.6714009387460564
+                },
+                {
+                    "answer": "Source 100% renewable electricity for our global operations by 2030 (% achieved)",
+                    "confidence": 0.663180572954298
+                }
+            ]
+        },
+        {
+            "question": "What are the company's emissions targets and have they been validated as credible and substantial? ",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "We work with Quantis to calculate our global GHG emissions footprint each fiscal year, following the guidelines of the GHG Protocol Corporate Accounting and Reporting Standard. This footprint covers our complete value chain. For our 2030 science-based target, we define our emissions boundaries in alignment with the Science-based Target Initiative (SBTi):",
+                    "confidence": 0.7666644073606007
+                },
+                {
+                    "answer": "*Consistent with Science Based Target Initiative (SBTi) guidelines, our goal focuses on the categories of GHG emissions that are the most impactful and actionable for General Mills (approximately 77% of our total value chain footprint in ",
+                    "confidence": 0.7420020140424568
+                },
+                {
+                    "answer": "Consistent with SBTi guidelines, our targets focus on the categories of GHG emissions that are the most impactful and actionable for General Mills, and exclude emissions such as low-\nvolume ingredients, capital goods, employee commuting, franchises, downstream warehouse and storage at retail, consumer trips to store and end of life (consumer food waste).",
+                    "confidence": 0.7318891861258522
+                }
+            ]
+        },
+        {
+            "question": "Does this company's emissions targets include Scope 3 (indirect) emissions?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Scope 3: Indirect GHG emissions occurring from assets not owned or controlled by the reporting organization, but that the organization indirectly impacts in its value chain. Scope 3 emissions include all sources not within an organization\u2019s scope 1 and 2 boundary, as outlined by the GHG Protocol. General Mills uses operational control to categorize those emissions within its organizational boundary. ",
+                    "confidence": 0.7658761726398224
+                },
+                {
+                    "answer": "*See below for GHG calculation methodology and definitions. Scope 1 and 2 totals differ from the Key manufacturing metrics to the left as the data in this table include those locations as well as other wholly owned or controlled facilities globally (such as offices and H\u00e4agen-Dazs shops) as well as fleet vehicles. **General Mills uses the market-based emissions methodology for Scope 2 emissions, which considers any contractual instruments that may be used in competitive energy markets, such as green tariffs, renewable certificates, or PPAs. Both market-based and location-based emissions are reported in our CDP Climate disclosure..",
+                    "confidence": 0.7242692014093188
+                },
+                {
+                    "answer": "*Emissions noted in million MT CO2e\n**Market-based Scope 2 reporting considers any  contractual instruments that may be used in competitive  energy markets, such as green tariffs, renewable certificates, or PPAs.",
+                    "confidence": 0.714963850659891
+                }
+            ]
+        },
+        {
+            "question": "What does the company say about its  impacts on biodiversity? ",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Manage the impact on biodiversity loss and habitat destruction through the company\u2019s activities related to operations and land use. ",
+                    "confidence": 0.7424224655722558
+                }
+            ]
+        },
+        {
+            "question": "What does the company disclose about the waste it generates and what is it doing to reduce waste?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "No water bodies are significantly affected by company discharges. Our production facilities are governed by applicable regulations as well as our compliance management program.",
+                    "confidence": 0.7403908048838672
+                },
+                {
+                    "answer": "We do not discharge untreated sanitary wastewater to land or surface waters at any of our locations. Wastewater discharges primarily consist of organic matter from ingredient handling, food production and cleaning processes. Our production facilities are governed by applicable regulations as well as our compliance management program.",
+                    "confidence": 0.6950185314925308
+                }
+            ]
+        },
+        {
+            "question": "What does the company say about its water management?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Reduce water use and ensure appropriate water management throughout our value chain, especially in water-stressed areas.",
+                    "confidence": 0.8287081328037823
+                },
+                {
+                    "answer": "WATER MANAGEMENT:  Regenerative agriculture helps maximize  water infiltration and use efficiency, and can  reduce agriculture\u2019s impact on water quality,  helping to protect and restore clean water in  nearby streams, rivers and lakes.",
+                    "confidence": 0.75448703425495
+                },
+                {
+                    "answer": "n   We implement local solutions to mitigate these risks, often focused on water use reduction and efficiency",
+                    "confidence": 0.6596954771404081
+                }
+            ]
+        },
+        {
+            "question": "What does the company say about its products' health and nutrition?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "n    Climate change\nn    Food safety and quality\nn    Health and nutrition\nn    Ingredient sourcing\nn    Packaging\nn    Regenerative agriculture",
+                    "confidence": 0.6538899935384246
+                }
+            ]
+        },
+        {
+            "question": "What is this company's strategy to reduce the environmental impact of its packaging?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Reduce the environmental impact of packaging by increasing use of recycled, recyclable, reusable and innovative bio-based materials and collaborating to promote recycling and improve recycling infrastructure.",
+                    "confidence": 0.7635340871701148
+                },
+                {
+                    "answer": "We continually work to reduce the environmental impact of packaging by increasing use of recycled and recyclable materials, innovating to make our materials better, and leading through external collaboration. See Packaging for details.",
+                    "confidence": 0.7587924961379652
+                },
+                {
+                    "answer": "In FY21, 89% of our packaging was recyclable (by weight) and 48% of our packaging was made from recyclable content.",
+                    "confidence": 0.7404296757914516
+                }
+            ]
+        },
+        {
+            "question": "What is the company doing about the environmental and social impacts of their ingredient supply chain?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Water issues are local, so we take a risk-based approach to address risks in priority watersheds across our global supply chain.  Our goal is to champion the activation of water stewardship plans for the company\u2019s most material and at-risk watersheds.  See Water stewardship and CDP Water for details. ",
+                    "confidence": 0.7319269770427117
+                },
+                {
+                    "answer": "Improve the social, environmental and economic impacts of raw materials through verification/certification programs and origin-direct investment that improves farmer livelihoods, protects environmental resources and enhances ingredient quality.",
+                    "confidence": 0.7147937961355313
+                },
+                {
+                    "answer": "Our footprint consists of approximately 60 key ingredient and manufacturing watersheds that are the most critical for operations.  Of those, 10 are prioritized as high risk. See Water stewardship and CDP Water for details.",
+                    "confidence": 0.7135011643149292
+                }
+            ]
+        }
+    ]
+}
