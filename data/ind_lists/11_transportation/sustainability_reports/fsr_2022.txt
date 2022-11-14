@@ -1446,11 +1446,7 @@ with manufacturing partner Magna to support
 
 this initiative.
 
-Our Fisker Ocean life cycle analysis is informed 
-
-by environmental management frameworks, 
-
-such as ISO 14040, ISO 14044, and ISO 14067. 
+Our Fisker Ocean life cycle analysis is informed by environmental management frameworks, such as ISO 14040, ISO 14044, and ISO 14067. 
 
 Considerations within each phase of the life 
 
@@ -1497,40 +1493,23 @@ Suppliers moving forward have agreed to this policy, along with annual
 
 adherence verification. 
 
-“We will strive to use the least water and yield the lowest emissions  
+“We will strive to use the least water and yield the lowest emissions in our supply chain, materials, and processes. We commit to following a path of continual improvement through scientific measurement, audit processes, and meaningful targets. We expect our suppliers to commit to these same values and help us to achieve the lightest footprint on our planet."
 
-in our supply chain, materials, and processes. We commit to following 
-
-a path of continual improvement through scientific measurement, audit 
-
-processes, and meaningful targets. We expect our suppliers to commit 
-
-to these same values and help us to achieve the lightest footprint on our 
-planet."—Responsible Supplier Policy 
+—Responsible Supplier Policy 
 
 We recognize the challenges of producing and delivering products 
 
-without greenhouse gas (GHG) emissions. The supply chains of our 
+without greenhouse gas (GHG) emissions. 
 
-suppliers and logistics partners may contain offsets to achieve climate 
-
-neutrality. Fisker will not purchase offsets, and our goal is to utilize only 
-
-climate-neutral materials in our products and use only climate-neutral 
-
-services to support our business.
+The supply chains of our suppliers and logistics partners may contain offsets to achieve climate neutrality. Fisker will not purchase offsets, and our goal is to utilize only climate-neutral materials in our products and use only climate-neutral services to support our business.
 
 PG.23
 
-We pre-qualify our suppliers through a sustainability filter that identifies 
+
 
-those organizations meeting a series of criteria from the International 
+We pre-qualify our suppliers through a sustainability filter that identifies those organizations meeting a series of criteria from the International Material Database System (IMDS), a global standard in collecting, maintaining, analyzing, and archiving all materials used for manufacturing automobiles.
 
-Material Database System (IMDS), a global standard in collecting, 
-
-maintaining, analyzing, and archiving all materials used for manufacturing 
-
-automobiles. ESG is present within supplier contracts. Where possible, 
+ESG is present within supplier contracts. Where possible, 
 
 localization is prioritized, with most suppliers within 1,000 km of production. 
 
@@ -1540,13 +1519,9 @@ of our ESG ethos. Magna provides both engineering and tech-forward
 
 innovation to production, and its production facilities are run with 100% 
 
-green electricity. Magna sets an example for creative ingenuity and a 
+green electricity.
 
-sustainable mindset by mapping and tracking its water use and re-use 
-
-carefully. Water efficiency and responsible discharge can be attributed  
-
-to processes within production for a clearer footprint. 
+Magna sets an example for creative ingenuity and a sustainable mindset by mapping and tracking its water use and re-use carefully. Water efficiency and responsible discharge can be attributed to processes within production for a clearer footprint. 
 
 Choosing Materials  
 
@@ -1574,25 +1549,9 @@ practices. We will begin reporting to the US Security and Exchange
 
 Commission next year. 
 
-Fisker teams consider materials from a series of criteria: quality, 
+Fisker teams consider materials from a series of criteria: quality, recyclability, expense, contribution to carbon footprint, performance,  and appearance. Materials engineers review and analyze each part to identify where products could be lighter, have purer materials for recyclability at end-of-use, and lessen impact on the environment. 
 
-recyclability, expense, contribution to carbon footprint, performance,  
-
-and appearance. Materials engineers review and analyze each part  
-
-to identify where products could be lighter, have purer materials  
-
-for recyclability at end-of-use, and lessen impact on the environment. 
-
-An internal research study shows that efforts focused on reducing  
-
-mass and carbon footprint of materials will return a significant  
-
-reduction in overall carbon emissions for the life cycle of a vehicle.  
-
-The Fisker Ocean will have more than 50 kg of recycled polymers and 
-
-biobased materials.
+An internal research study shows that efforts focused on reducing mass and carbon footprint of materials will return a significant reduction in overall carbon emissions for the life cycle of a vehicle. The Fisker Ocean will have more than 50 kg of recycled polymers and biobased materials.
 
 PG.24
 
@@ -1606,11 +1565,9 @@ by electricity sourced from 100% renewable energy. An additional
 
 photovoltaic energy source will be dedicated to Fisker production. 
 
-Magna teams have diligently identified Fisker Ocean processes and are 
+Magna teams have diligently identified Fisker Ocean processes and are isolating data to provide water and energy usage. Magna will support Fisker in reporting Scopes 1 and 2 greenhouse gas emissions. 
 
-isolating data to provide water and energy usage. Magna will support 
-
-Fisker in reporting Scopes 1 and 2 greenhouse gas emissions. Before 
+Before 
 
 the first Fisker Ocean rolls off the production line, 14 UN SDG-aligned key 
 
@@ -1679,15 +1636,11 @@ per charge range.
 
 PG.25
 
-In addition to meeting environmental and safety standards in the EU, US, 
+
 
-and China, the company will submit the Fisker Ocean for a Green NCAP 
+In addition to meeting environmental and safety standards in the EU, US, and China, the company will submit the Fisker Ocean for a Green NCAP certification in 2022. Green NCAP is an independent initiative promoting the development of cars that are clean, energy-efficient, and not harmful to the environment. 
 
-certification in 2022. Green NCAP is an independent initiative promoting 
-
-the development of cars that are clean, energy-efficient, and not harmful  
-
-to the environment. Green NCAP aims to improve the air quality 
+Green NCAP aims to improve the air quality 
 
 we breathe, maximize the use of resources used for passenger 
 
@@ -1697,15 +1650,7 @@ transportation, and reduce global warming.
 
 Fisker considers a vehicle's end-of-life well before production.  
 
-Through meticulous consideration of materials and further refined  
-
-through its engineering study, Fisker has parts that are bio-based,  
-
-mono-based, and free of paint where possible, made of clean material  
-
-for recyclability without compromising the high-end aesthetic and vehicle 
-
-safety and capability. 
+Through meticulous consideration of materials and further refined through its engineering study, Fisker has parts that are bio-based, mono-based, and free of paint where possible, made of clean material for recyclability without compromising the high-end aesthetic and vehicle safety and capability. 
 
 Case Study: Materials Engineering Study 
 
