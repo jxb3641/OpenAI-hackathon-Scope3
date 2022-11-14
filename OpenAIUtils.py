@@ -62,15 +62,13 @@ def call_openai_api_completion(prompt, model_family='ada',temperature=0.0):
     response = openai.Completion.create(
       model=EMBEDDING_MODELS[model_family]["completion"],
       prompt=prompt,
-      max_tokens=200,
+      max_tokens=400,
       temperature=temperature,
-      stop=["."]
+      stop=[".\n\n"]
     )
     return response['choices'][0]
 
-@backoff.on_exception(backoff.expo,
-                      openai.error.RateLimitError,
-                      max_tries=15)
+@retry(wait=wait_random_exponential(min=6, max=30), stop=stop_after_attempt(10))
 def get_embedding(text, model):
     """Given a string of long-form text, produce the embedding using the corresponding text-search-doc API endpoint.
 
