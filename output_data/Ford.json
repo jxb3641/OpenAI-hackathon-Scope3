@@ -1,10 +1,10 @@
 {
     "name": "Ford",
-    "score": "A-",
+    "score": "A",
     "qa_pairs": [
         {
             "question": "What lasting changes in the climate is the firm exposed to?",
-            "category": "General",
+            "category": "Impact of Climate on Firm",
             "answers": [
                 {
                     "answer": "Climate Change: The risks and opportunities associated with climate change shape the way we do business, including our global carbon reduction strategy focused on reducing emissions from our vehicles, operations, and supply chain. Extreme weather events such as storms or floods can disrupt production or component supplies, while droughts can affect our access to water for our operations, especially in water-scarce areas. ",
@@ -22,7 +22,7 @@
         },
         {
             "question": "What new technologies is the organization considering using to decarbonize its business model?",
-            "category": "General",
+            "category": "Impact of Climate on Firm",
             "answers": [
                 {
                     "answer": "Our goal of achieving 100 percent carbon-\nfree electricity in all manufacturing by 2035 will be bolstered by the potential dedicated investments in wind, solar, geothermal, hydropower, and biomass. ",
@@ -40,7 +40,7 @@
         },
         {
             "question": "Does the firm rely on or employ any kind of green financing?",
-            "category": "General",
+            "category": "Impact of Climate on Firm",
             "answers": [
                 {
                     "answer": "Our dealer and supply chain network will be critical to this transformation. Our Sustainable Financing Framework outlines how we\u2019re investing in environmental and social projects in this way \u2013 issuing an inaugural $2.5 billion Green Bond \u2013 is a first for a North American automaker. ",
@@ -58,7 +58,7 @@
         },
         {
             "question": "What is the percentage of energy or electricity used that is from renewable sources?",
-            "category": "General",
+            "category": "Impact of Firm on Climate",
             "answers": [
                 {
                     "answer": "Our goal of achieving 100 percent carbon-\nfree electricity in all manufacturing by 2035 will be bolstered by the potential dedicated investments in wind, solar, geothermal, hydropower, and biomass. ",
@@ -76,7 +76,7 @@
         },
         {
             "question": "What are the company's emissions targets and have they been validated as credible and substantial? ",
-            "category": "General",
+            "category": "Impact of Firm on Climate",
             "answers": [
                 {
                     "answer": "Approved science-based emissions targets (SBTi) for our operations and vehicles",
@@ -94,7 +94,7 @@
         },
         {
             "question": "Does this company's emissions targets include Scope 3 (indirect) emissions?",
-            "category": "General",
+            "category": "Impact of Firm on Climate",
             "answers": [
                 {
                     "answer": "Ford\u2019s 2021 GHG inventory (including Scope 1, 2 and 3) is third-party verified by an organization with a Certification of Accreditation to ISO 14065:2013 by the ANSI National Accreditation Board and will become available at a later date. In addition, some manufacturing operations, as required by regulation, are also third-party verified following the respective regulatory requirements, such as EU-ETS. Find out more about EU-ETS in our CDP Climate Response, section 11.1.",
@@ -111,8 +111,8 @@
             ]
         },
         {
-            "question": "What does the company say about its  impacts on biodiversity? ",
-            "category": "General",
+            "question": "What does the company say about its impacts on biodiversity? ",
+            "category": "Impact of Firm on Climate",
             "answers": [
                 {
                     "answer": "Protecting nature and its biodiversity is vital for the economy; all businesses depend on natural resources to support their commercial activities. Through the G7 2030 Nature Compact, the G7 Leaders called for the world to not only become net zero, but also nature positive. Nature and biodiversity were meaningfully incorporated into global climate negotiations for the first time at COP26. This represents a real paradigm shift in how nations, businesses, investors, and consumers view nature. Our economic activities should not only minimize impact, but also enhance ecosystems.",
@@ -129,22 +129,8 @@
             ]
         },
         {
-            "question": "What does the company disclose about the waste it generates and what is it doing to reduce waste?",
-            "category": "General",
-            "answers": [
-                {
-                    "answer": "water withdrawals for manufacturing. This includes establishing local ecosystem performance goals and improving water discharge quality, with a focus on direct discharge plants. We are examining how water cycling impacts communities and how to better emulate the natural system. ",
-                    "confidence": 0.7174361712952984
-                },
-                {
-                    "answer": "We are applying freshwater reduction methods as well as improving our water quality discharges at our sites that mimic the behavior and performance of the local ecosystem. ",
-                    "confidence": 0.6667674693661759
-                }
-            ]
-        },
-        {
             "question": "What does the company say about its labor practices?",
-            "category": "General",
+            "category": "Industry-specific",
             "answers": [
                 {
                     "answer": "Our Human Rights Commitments\nAligned with the UNGP on Business and Human Rights, we are committed to respecting the United Nations Universal Declaration of Human Rights, the International Labour Organization (ILO)\u2019s Declaration on Fundamental Principles and Rights at Work, the Organisation for Economic Co-operation and Development (OECD) Guidelines for Multinational Enterprises, the United Nations Women\u2019s Empowerment Principles, and the United Nations Global Compact (UNGC). Our Global Framework Agreement (GFA) with industriALL Global Union reiterates our commitments to our global labor community.",
@@ -158,7 +144,7 @@
         },
         {
             "question": "What does the company say about its fuel efficiency?",
-            "category": "General",
+            "category": "Industry-specific",
             "answers": [
                 {
                     "answer": "Standards Continue to Tighten Internal combustion engine vehicles (ICEVs) emit hydrocarbons, carbon monoxide, nitrogen oxides, and particulate matter. These pollutants can affect air quality, particularly in urban areas, and potentially impact human health. ",
@@ -176,7 +162,7 @@
         },
         {
             "question": "What does the company say about its decarbonization of production processes?",
-            "category": "General",
+            "category": "Industry-specific",
             "answers": [
                 {
                     "answer": "Sustainable Materials Strategy\nWe are committed to recycling plastics and using renewable, plant-based materials in production vehicle parts. Our closed loop recycling system maximizes aluminum recycling in our plants and minimizes the need for primary metal. We aspire to utilize only recycled or renewable content in vehicle plastics.",
@@ -194,7 +180,7 @@
         },
         {
             "question": "What does the company say about its approach to handling water shortage and reduction of water usage?",
-            "category": "General",
+            "category": "Industry-specific",
             "answers": [
                 {
                     "answer": "Reducing Operational Water Use Water use and recycling are occurring at Ford plants around the world. We continue to integrate more water-\nefficient processes and technologies as we work to further decrease our water consumption. ",

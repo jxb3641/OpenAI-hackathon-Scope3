@@ -4,22 +4,22 @@
     "qa_pairs": [
         {
             "question": "What lasting changes in the climate is the firm exposed to?",
-            "category": "General",
+            "category": "Impact of Climate on Firm",
             "answers": []
         },
         {
             "question": "What new technologies is the organization considering using to decarbonize its business model?",
-            "category": "General",
+            "category": "Impact of Climate on Firm",
             "answers": []
         },
         {
             "question": "Does the firm rely on or employ any kind of green financing?",
-            "category": "General",
+            "category": "Impact of Climate on Firm",
             "answers": []
         },
         {
             "question": "What is the percentage of energy or electricity used that is from renewable sources?",
-            "category": "General",
+            "category": "Impact of Firm on Climate",
             "answers": [
                 {
                     "answer": "More than 70% of electricity consumed in company-owned operations was from renewable sources ",
@@ -29,27 +29,22 @@
         },
         {
             "question": "What are the company's emissions targets and have they been validated as credible and substantial? ",
-            "category": "General",
+            "category": "Impact of Firm on Climate",
             "answers": []
         },
         {
             "question": "Does this company's emissions targets include Scope 3 (indirect) emissions?",
-            "category": "General",
+            "category": "Impact of Firm on Climate",
             "answers": []
         },
         {
-            "question": "What does the company say about its  impacts on biodiversity? ",
-            "category": "General",
-            "answers": []
-        },
-        {
-            "question": "What does the company disclose about the waste it generates and what is it doing to reduce waste?",
-            "category": "General",
+            "question": "What does the company say about its impacts on biodiversity? ",
+            "category": "Impact of Firm on Climate",
             "answers": []
         },
         {
             "question": "What does the company say about its water management?",
-            "category": "General",
+            "category": "Industry-specific",
             "answers": [
                 {
                     "answer": "Description of water management risks and discussion of strategies and practices to mitigate those risks",
@@ -59,12 +54,12 @@
         },
         {
             "question": "What does the company say about its products' health and nutrition?",
-            "category": "General",
+            "category": "Industry-specific",
             "answers": []
         },
         {
             "question": "What is this company's strategy to reduce the environmental impact of its packaging?",
-            "category": "General",
+            "category": "Industry-specific",
             "answers": [
                 {
                     "answer": "PepsiCo aims to use 50% recycled content in its plastic packaging by 2030. Across our global company-\nowned and franchise beverage operations in 2021, PepsiCo used 6% recycled plastic in its plastic packaging.",
@@ -82,7 +77,7 @@
         },
         {
             "question": "What is the company doing about the environmental and social impacts of their ingredient supply chain?",
-            "category": "General",
+            "category": "Industry-specific",
             "answers": [
                 {
                     "answer": "Making our products requires a wide variety of crops and ingredients and we believe that regenerative agricultural practices will be pivotal in meeting the increasing demand for food, while also addressing some of the key risks that can be associated with agriculture, such as freshwater scarcity, deforestation, biodiversity loss, soil degradation, and human rights. For a list of our key ingredients, see ESG Topics A-Z: Agriculture. ",

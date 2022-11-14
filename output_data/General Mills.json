@@ -1,25 +1,25 @@
 {
     "name": "General Mills",
-    "score": "A",
+    "score": "A-",
     "qa_pairs": [
         {
             "question": "What lasting changes in the climate is the firm exposed to?",
-            "category": "General",
+            "category": "Impact of Climate on Firm",
             "answers": []
         },
         {
             "question": "What new technologies is the organization considering using to decarbonize its business model?",
-            "category": "General",
+            "category": "Impact of Climate on Firm",
             "answers": []
         },
         {
             "question": "Does the firm rely on or employ any kind of green financing?",
-            "category": "General",
+            "category": "Impact of Climate on Firm",
             "answers": []
         },
         {
             "question": "What is the percentage of energy or electricity used that is from renewable sources?",
-            "category": "General",
+            "category": "Impact of Firm on Climate",
             "answers": [
                 {
                     "answer": "Total energy usage in FY21 for our owned production facilities was 10,201,111 gigajoules (GJ); 63% renewable electricity sourced for our global operations.",
@@ -37,7 +37,7 @@
         },
         {
             "question": "What are the company's emissions targets and have they been validated as credible and substantial? ",
-            "category": "General",
+            "category": "Impact of Firm on Climate",
             "answers": [
                 {
                     "answer": "We work with Quantis to calculate our global GHG emissions footprint each fiscal year, following the guidelines of the GHG Protocol Corporate Accounting and Reporting Standard. This footprint covers our complete value chain. For our 2030 science-based target, we define our emissions boundaries in alignment with the Science-based Target Initiative (SBTi):",
@@ -55,7 +55,7 @@
         },
         {
             "question": "Does this company's emissions targets include Scope 3 (indirect) emissions?",
-            "category": "General",
+            "category": "Impact of Firm on Climate",
             "answers": [
                 {
                     "answer": "Scope 3: Indirect GHG emissions occurring from assets not owned or controlled by the reporting organization, but that the organization indirectly impacts in its value chain. Scope 3 emissions include all sources not within an organization\u2019s scope 1 and 2 boundary, as outlined by the GHG Protocol. General Mills uses operational control to categorize those emissions within its organizational boundary. ",
@@ -72,8 +72,8 @@
             ]
         },
         {
-            "question": "What does the company say about its  impacts on biodiversity? ",
-            "category": "General",
+            "question": "What does the company say about its impacts on biodiversity? ",
+            "category": "Impact of Firm on Climate",
             "answers": [
                 {
                     "answer": "Manage the impact on biodiversity loss and habitat destruction through the company\u2019s activities related to operations and land use. ",
@@ -82,22 +82,8 @@
             ]
         },
         {
-            "question": "What does the company disclose about the waste it generates and what is it doing to reduce waste?",
-            "category": "General",
-            "answers": [
-                {
-                    "answer": "No water bodies are significantly affected by company discharges. Our production facilities are governed by applicable regulations as well as our compliance management program.",
-                    "confidence": 0.7403908048838672
-                },
-                {
-                    "answer": "We do not discharge untreated sanitary wastewater to land or surface waters at any of our locations. Wastewater discharges primarily consist of organic matter from ingredient handling, food production and cleaning processes. Our production facilities are governed by applicable regulations as well as our compliance management program.",
-                    "confidence": 0.6950185314925308
-                }
-            ]
-        },
-        {
             "question": "What does the company say about its water management?",
-            "category": "General",
+            "category": "Industry-specific",
             "answers": [
                 {
                     "answer": "Reduce water use and ensure appropriate water management throughout our value chain, especially in water-stressed areas.",
@@ -115,7 +101,7 @@
         },
         {
             "question": "What does the company say about its products' health and nutrition?",
-            "category": "General",
+            "category": "Industry-specific",
             "answers": [
                 {
                     "answer": "n    Climate change\nn    Food safety and quality\nn    Health and nutrition\nn    Ingredient sourcing\nn    Packaging\nn    Regenerative agriculture",
@@ -125,7 +111,7 @@
         },
         {
             "question": "What is this company's strategy to reduce the environmental impact of its packaging?",
-            "category": "General",
+            "category": "Industry-specific",
             "answers": [
                 {
                     "answer": "Reduce the environmental impact of packaging by increasing use of recycled, recyclable, reusable and innovative bio-based materials and collaborating to promote recycling and improve recycling infrastructure.",
@@ -143,7 +129,7 @@
         },
         {
             "question": "What is the company doing about the environmental and social impacts of their ingredient supply chain?",
-            "category": "General",
+            "category": "Industry-specific",
             "answers": [
                 {
                     "answer": "Water issues are local, so we take a risk-based approach to address risks in priority watersheds across our global supply chain.  Our goal is to champion the activation of water stewardship plans for the company\u2019s most material and at-risk watersheds.  See Water stewardship and CDP Water for details. ",
