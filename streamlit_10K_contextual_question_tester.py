@@ -26,9 +26,11 @@ st.set_page_config(layout="wide")
 st.title("Play with GPT-3 Completion API and 10-Ks")
 
 list_of_questions = list(QUESTION_TO_CATEGORY.keys())
-list_of_questions.append("What are the climate opportunities this company faces?")
+#Change this question to add to the UI
+question_to_add = "What are the climate opportunities this company faces?"
+list_of_questions.append(question_to_add)
 relevant_questions = st.multiselect("Select questions to use for search within the text.",
-                                    list_of_questions,default=["What are the climate opportunities this company faces?"])
+                                    list_of_questions,default=[question_to_add])
 re_embed = not st.checkbox("Re-calculate Document Embeddings")
 temperature = st.number_input("GPT-3 Temperature",min_value = 0., max_value = 1., value=0.5, step=0.05)
 if st.button("Search for relevant sections to list of questions"):
