@@ -334,7 +334,12 @@ if page == "Company Lookup":
                             expanded = category == "General"
                             with st.expander(category, expanded=expanded):
                                 for qa_pair in qa_pairs:
-                                    st.write(f'**Q: {qa_pair["question"]}**')
+                                    question_html = """
+                                    <div style="font-weight:bold">
+                                        Q: {}
+                                    </div>
+                                    """.format(qa_pair["question"])
+                                    st.markdown(question_html, unsafe_allow_html=True)
                                     if len(qa_pair["answers"]) == 0:
                                         answer_html = """
                                         <div style="background-image: {}; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
