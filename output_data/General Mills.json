@@ -3,20 +3,20 @@
     "score": "A-",
     "qa_pairs": [
         {
-            "question":"Environmental laws, environmental risks, environmental regulations",
+            "question":"What does this company do?",
             "category":"General",
             "answers":[
                 {
-                "answer":"\nThe main environmental regulation risks for this company are related to food safety and employee health and safety. If the company fails to comply with laws and regulations, it could be subject to lawsuits, penalties, and recalls. Additionally, new laws or regulations could restrict the company's ability to advertise its products, which could have a negative impact on its business.",
-                "confidence":0.5555300663534213
+                "answer":"\nThis company manufactures and markets branded consumer foods, as well as supplying branded and unbranded food products to the North American foodservice and commercial baking industries. They also have a joint venture that manufactures and markets food products sold in more than 120 countries worldwide. Finally, they manage and review the financial results of their business under five operating segments: North America Retail, Convenience Stores & Foodservice, Europe & Australia, Asia & Latin America, and Pet.",
+                "confidence":0.376707731963441
                 },
                 {
-                "answer":"\nThe environmental regulation risks include the Clean Air Act, Clean Water Act, Resource Conservation and Recovery Act, Comprehensive Environmental Response, Compensation, and Liability Act, and the Federal Insecticide, Fungicide, and Rodenticide Act.",
-                "confidence":0.43950767205525876
+                "answer":"\nThis company manufactures and distributes products. In response to the COVID-19 pandemic, they implemented social distancing, temperature checks, enhanced sanitation, mask use, and other protective measures in their facilities. They also shifted most of their office staff to working remotely.",
+                "confidence":0.32862876992986567
                 },
                 {
-                "answer":"\nEnvironmental regulation risks include the risk of damage or disruption to raw material supplies or our manufacturing or distribution capabilities due to weather, climate change, natural disaster, fire, terrorism, cyber-attack, pandemics (such as the COVID-19 pandemic), governmental restrictions or mandates, strikes, import/export restrictions, or other factors.",
-                "confidence":0.2559817040828145
+                "answer":"\nThis company operates information technology systems that enable communication among employees, customers, and other parties. These systems may be vulnerable to damage, interruption, or shutdown due to various causes, including natural disasters, fires, power outages, system failures, telecommunications failures, security breaches, computer viruses, hackers, and employee error or malfeasance. If these systems fail to perform as expected, it could disrupt the company's business and result in transaction errors, processing inefficiencies, data loss, legal claims or proceedings, regulatory penalties, and the loss of sales and customers.",
+                "confidence":0.2982413840704107
                 }
             ]
         },
@@ -39,20 +39,20 @@
             ]
         },
         {
-            "question":"What does this company do?",
+            "question":"What are the environmental regulations risks this company faces? ",
             "category":"General",
             "answers":[
                 {
-                "answer":"\nThis company manufactures and markets branded consumer foods, as well as supplying branded and unbranded food products to the North American foodservice and commercial baking industries. They also have a joint venture that manufactures and markets food products sold in more than 120 countries worldwide. Finally, they manage and review the financial results of their business under five operating segments: North America Retail, Convenience Stores & Foodservice, Europe & Australia, Asia & Latin America, and Pet.",
-                "confidence":0.376707731963441
+                "answer":"\nThe main environmental regulation risks for this company are related to food safety and employee health and safety. If the company fails to comply with laws and regulations, it could be subject to lawsuits, penalties, and recalls. Additionally, new laws or regulations could restrict the company's ability to advertise its products, which could have a negative impact on its business.",
+                "confidence":0.5555300663534213
                 },
                 {
-                "answer":"\nThis company manufactures and distributes products. In response to the COVID-19 pandemic, they implemented social distancing, temperature checks, enhanced sanitation, mask use, and other protective measures in their facilities. They also shifted most of their office staff to working remotely.",
-                "confidence":0.32862876992986567
+                "answer":"\nThe environmental regulation risks include the Clean Air Act, Clean Water Act, Resource Conservation and Recovery Act, Comprehensive Environmental Response, Compensation, and Liability Act, and the Federal Insecticide, Fungicide, and Rodenticide Act.",
+                "confidence":0.43950767205525876
                 },
                 {
-                "answer":"\nThis company operates information technology systems that enable communication among employees, customers, and other parties. These systems may be vulnerable to damage, interruption, or shutdown due to various causes, including natural disasters, fires, power outages, system failures, telecommunications failures, security breaches, computer viruses, hackers, and employee error or malfeasance. If these systems fail to perform as expected, it could disrupt the company's business and result in transaction errors, processing inefficiencies, data loss, legal claims or proceedings, regulatory penalties, and the loss of sales and customers.",
-                "confidence":0.2982413840704107
+                "answer":"\nEnvironmental regulation risks include the risk of damage or disruption to raw material supplies or our manufacturing or distribution capabilities due to weather, climate change, natural disaster, fire, terrorism, cyber-attack, pandemics (such as the COVID-19 pandemic), governmental restrictions or mandates, strikes, import/export restrictions, or other factors.",
+                "confidence":0.2559817040828145
                 }
             ]
         },

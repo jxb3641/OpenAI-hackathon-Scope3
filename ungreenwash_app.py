@@ -64,8 +64,8 @@ def load_json_data():
 
                 # change qa_pairs list to map of category to qa_pair
                 qa_pairs = {}
-                # sort qa_pairs, put all the ones with empty temp_data["qa_pairs"]["answers"] at the end
-                temp_data["qa_pairs"].sort(key=lambda x: len(x["answers"]) == 0)
+                # # sort qa_pairs, put all the ones with empty temp_data["qa_pairs"]["answers"] at the end
+                # temp_data["qa_pairs"].sort(key=lambda x: len(x["answers"]) == 0)
                 for qa_pair in temp_data["qa_pairs"]:
                     if qa_pair["category"] not in qa_pairs:
                         qa_pairs[qa_pair["category"]] = []

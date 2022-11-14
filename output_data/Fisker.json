@@ -3,20 +3,20 @@
     "score": "N/A",
     "qa_pairs": [
         {
-            "question":"Environmental laws, environmental risks, environmental regulations",
+            "question":"What does this company do?",
             "category":"General",
             "answers":[
                 {
-                "answer":"\nThe risks associated with environmental regulation include the possibility of civil and criminal fines, penalties, and orders to cease operations or conduct corrective works in the event of violations. Additionally, environmental regulations are subject to periodic modifications and may become increasingly stringent over time, which could impact the company's ability to continue its operations.",
-                "confidence":0.9098282002793424
+                "answer":"This company is an automaker that is focused on electric vehicles and sustainable practices.",
+                "confidence":0.37858897656989965
                 },
                 {
-                "answer":"\nThe risks include the potential for changes in international environmental regulations that could make it more difficult or expensive to sell or lease vehicles in certain markets, and the possibility that we may not be able to offset any foreign taxes against taxes imposed in the United States.",
-                "confidence":0.7043612953797102
+                "answer":"\nThis company makes electric vehicles.",
+                "confidence":0.36417548454201365
                 },
                 {
-                "answer":"\nThe environmental regulation risks are that regulations may lead to an oversupply of EVs, which could promote price decreases and adversely impact Fisker's margins. Additionally, trade restrictions and tariffs could impact Fisker's ability to meet projected sales or margins.",
-                "confidence":0.7041710593823747
+                "answer":"\nThis company makes electric vehicles.",
+                "confidence":0.34597905769075676
                 }
             ]
         },
@@ -39,20 +39,20 @@
             ]
         },
         {
-            "question":"What does this company do?",
+            "question":"What are the environmental regulations risks this company faces? ",
             "category":"General",
             "answers":[
                 {
-                "answer":"This company is an automaker that is focused on electric vehicles and sustainable practices.",
-                "confidence":0.37858897656989965
+                "answer":"\nThe risks associated with environmental regulation include the possibility of civil and criminal fines, penalties, and orders to cease operations or conduct corrective works in the event of violations. Additionally, environmental regulations are subject to periodic modifications and may become increasingly stringent over time, which could impact the company's ability to continue its operations.",
+                "confidence":0.9098282002793424
                 },
                 {
-                "answer":"\nThis company makes electric vehicles.",
-                "confidence":0.36417548454201365
+                "answer":"\nThe risks include the potential for changes in international environmental regulations that could make it more difficult or expensive to sell or lease vehicles in certain markets, and the possibility that we may not be able to offset any foreign taxes against taxes imposed in the United States.",
+                "confidence":0.7043612953797102
                 },
                 {
-                "answer":"\nThis company makes electric vehicles.",
-                "confidence":0.34597905769075676
+                "answer":"\nThe environmental regulation risks are that regulations may lead to an oversupply of EVs, which could promote price decreases and adversely impact Fisker's margins. Additionally, trade restrictions and tariffs could impact Fisker's ability to meet projected sales or margins.",
+                "confidence":0.7041710593823747
                 }
             ]
         },
