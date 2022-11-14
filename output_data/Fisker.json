@@ -1,0 +1,133 @@
+{
+    "name": "Fisker",
+    "score": "No CDP Submission",
+    "qa_pairs": [
+        {
+            "question": "What lasting changes in the climate is the firm exposed to?",
+            "category": "General",
+            "answers": []
+        },
+        {
+            "question": "What new technologies is the organization considering using to decarbonize its business model?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "future reengineering toward reaching our aspiration to create a carbon-neutral vehicle. Learnings ",
+                    "confidence": 0.5855535103654407
+                },
+                {
+                    "answer": "Burkhard Huhnke, Chief Technology Officer (FF-PAD) compels continuous improvements across critical areas of product development. These include minimizing the Bill of Materials (BOM), developing emission-free products with finished goods suppliers, maximizing rail and electric-powered transport use, and reducing combustion and energy intensity in recycling. Fisker is working closely with manufacturing partner Magna to support this initiative. Our Fisker Ocean life cycle analysis is informed by environmental management frameworks, such as ISO 14040, ISO 14044, and ISO 14067. Considerations within each phase of the life cycle analysis are discussed. We will release calculation results in 2023 to inform our progress towards our aspirational goal of a climate-neutral vehicle by 2027. Planning for the climate-neutral vehicle is ongoing, and we will publish more details later in 2022.",
+                    "confidence": 0.5763757546616022
+                }
+            ]
+        },
+        {
+            "question": "Does the firm rely on or employ any kind of green financing?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "August\nFisker secured a $625 million Green Convertible Bond intended specifically for new or existing eligible green initiatives for new model and technology development",
+                    "confidence": 0.6554691835141868
+                },
+                {
+                    "answer": "\fWe pre-qualify our suppliers through a sustainability filter that identifies those organizations meeting a series of criteria from the International Material Database System (IMDS), a global standard in collecting, maintaining, analyzing, and archiving all materials used for manufacturing automobiles. ESG is present within supplier contracts. Where possible, localization is prioritized, with most suppliers within 1,000 km of production. Our production collaboration with Magna provides a notable example of our ESG ethos. Magna provides both engineering and tech-forward innovation to production, and its production facilities are run with 100% green electricity. Magna sets an example for creative ingenuity and a sustainable mindset by mapping and tracking its water use and re-use carefully. Water efficiency and responsible discharge can be attributed to processes within production for a clearer footprint. ",
+                    "confidence": 0.5921968207435967
+                }
+            ]
+        },
+        {
+            "question": "What is the percentage of energy or electricity used that is from renewable sources?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "\u2022  50% of the suppliers prioritize EV and non-fossil fuel ",
+                    "confidence": 0.5814901205808115
+                }
+            ]
+        },
+        {
+            "question": "What are the company's emissions targets and have they been validated as credible and substantial? ",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Burkhard Huhnke, Chief Technology Officer (FF-PAD) compels continuous improvements across critical areas of product development. These include minimizing the Bill of Materials (BOM), developing emission-free products with finished goods suppliers, maximizing rail and electric-powered transport use, and reducing combustion and energy intensity in recycling. Fisker is working closely with manufacturing partner Magna to support this initiative. Our Fisker Ocean life cycle analysis is informed by environmental management frameworks, such as ISO 14040, ISO 14044, and ISO 14067. Considerations within each phase of the life cycle analysis are discussed. We will release calculation results in 2023 to inform our progress towards our aspirational goal of a climate-neutral vehicle by 2027. Planning for the climate-neutral vehicle is ongoing, and we will publish more details later in 2022.",
+                    "confidence": 0.6471650362460496
+                },
+                {
+                    "answer": "Fisker emissions tracking is gaining momentum. In 2021, we reported Scope 1 and Scope 2 emissions, laying the groundwork  for continued improvement. Ahead of production, our offices are the most significant contributor to our footprint.  ",
+                    "confidence": 0.6229062940979565
+                },
+                {
+                    "answer": "\fWe pre-qualify our suppliers through a sustainability filter that identifies those organizations meeting a series of criteria from the International Material Database System (IMDS), a global standard in collecting, maintaining, analyzing, and archiving all materials used for manufacturing automobiles. ESG is present within supplier contracts. Where possible, localization is prioritized, with most suppliers within 1,000 km of production. Our production collaboration with Magna provides a notable example of our ESG ethos. Magna provides both engineering and tech-forward innovation to production, and its production facilities are run with 100% green electricity. Magna sets an example for creative ingenuity and a sustainable mindset by mapping and tracking its water use and re-use carefully. Water efficiency and responsible discharge can be attributed to processes within production for a clearer footprint. ",
+                    "confidence": 0.6008233860614998
+                }
+            ]
+        },
+        {
+            "question": "Does this company's emissions targets include Scope 3 (indirect) emissions?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Fisker emissions tracking is gaining momentum. In 2021, we reported Scope 1 and Scope 2 emissions, laying the groundwork  for continued improvement. Ahead of production, our offices are the most significant contributor to our footprint.  ",
+                    "confidence": 0.7589527657263934
+                }
+            ]
+        },
+        {
+            "question": "What does the company say about its  impacts on biodiversity? ",
+            "category": "General",
+            "answers": []
+        },
+        {
+            "question": "What does the company disclose about the waste it generates and what is it doing to reduce waste?",
+            "category": "General",
+            "answers": []
+        },
+        {
+            "question": "What does the company say about its labor practices?",
+            "category": "General",
+            "answers": []
+        },
+        {
+            "question": "What does the company say about its fuel efficiency?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Fisker emissions tracking is gaining momentum. In 2021, we reported Scope 1 and Scope 2 emissions, laying the groundwork  for continued improvement. Ahead of production, our offices are the most significant contributor to our footprint.  ",
+                    "confidence": 0.7011683472810654
+                },
+                {
+                    "answer": "We designed systems to calculate emissions against this growth and will track and report an accurate picture of our overall environmental impact. Fisker is a design-forward organization stirred by the powerful shape and emotional appeal of our vehicles. This innovative inspiration stretches to our \"Asset Light\" business model each year. ",
+                    "confidence": 0.6319022352633924
+                },
+                {
+                    "answer": "Burkhard Huhnke, Chief Technology Officer (FF-PAD) compels continuous improvements across critical areas of product development. These include minimizing the Bill of Materials (BOM), developing emission-free products with finished goods suppliers, maximizing rail and electric-powered transport use, and reducing combustion and energy intensity in recycling. Fisker is working closely with manufacturing partner Magna to support this initiative. Our Fisker Ocean life cycle analysis is informed by environmental management frameworks, such as ISO 14040, ISO 14044, and ISO 14067. Considerations within each phase of the life cycle analysis are discussed. We will release calculation results in 2023 to inform our progress towards our aspirational goal of a climate-neutral vehicle by 2027. Planning for the climate-neutral vehicle is ongoing, and we will publish more details later in 2022.",
+                    "confidence": 0.6287401574687135
+                }
+            ]
+        },
+        {
+            "question": "What does the company say about its decarbonization of production processes?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Fisker teams consider materials from a series of criteria: quality, recyclability, expense, contribution to carbon footprint, performance, and appearance. Materials engineers review and analyze each part to identify where products could be lighter, have purer materials for recyclability at end-of-use, and lessen impact on the environment. An internal research study shows that efforts focused on reducing mass and carbon footprint of materials will return a significant reduction in overall carbon emissions for the life cycle of a vehicle. The Fisker Ocean will have more than 50 kg of recycled polymers and biobased materials.",
+                    "confidence": 0.6660081464118774
+                },
+                {
+                    "answer": "\u2022  100% of supplier material was either recycled, re-purposed ",
+                    "confidence": 0.6524579253759424
+                },
+                {
+                    "answer": "\fWe pre-qualify our suppliers through a sustainability filter that identifies those organizations meeting a series of criteria from the International Material Database System (IMDS), a global standard in collecting, maintaining, analyzing, and archiving all materials used for manufacturing automobiles. ESG is present within supplier contracts. Where possible, localization is prioritized, with most suppliers within 1,000 km of production. Our production collaboration with Magna provides a notable example of our ESG ethos. Magna provides both engineering and tech-forward innovation to production, and its production facilities are run with 100% green electricity. Magna sets an example for creative ingenuity and a sustainable mindset by mapping and tracking its water use and re-use carefully. Water efficiency and responsible discharge can be attributed to processes within production for a clearer footprint. ",
+                    "confidence": 0.645752561164363
+                }
+            ]
+        },
+        {
+            "question": "What does the company say about its approach to handling water shortage and reduction of water usage?",
+            "category": "General",
+            "answers": []
+        }
+    ]
+}

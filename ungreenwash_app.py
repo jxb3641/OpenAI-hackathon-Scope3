@@ -19,7 +19,7 @@ secondary_background_color = "#F0F2F6"
 
 companies = [
     {
-        "name": "Pepsico",
+        "name": "PepsiCo",
         "symbol": "PEP",
     },
     {
@@ -36,20 +36,46 @@ companies = [
     },
 ]
 
+available_companies = (company["name"] for company in companies)
+
 # load all json data from output_data folder
 def load_json_data():
     data = []
+    # Get all confidence values in temp_data["qa_pairs"]["answers"]["confidence"]
+    # Normalize confidence values to be between 0 and 1
+    max_confidence = 0
+    min_confidence = 1
     for filename in os.listdir("output_data"):
         if filename.endswith(".json"):
             with open("output_data/" + filename) as f:
                 temp_data = json.load(f)
+                # Get all confidence values in temp_data["qa_pairs"]["answers"]["confidence"]
+                # Normalize confidence values to be between 0 and 1
+                for qa_pair in temp_data["qa_pairs"]:
+                    for answer in qa_pair["answers"]:
+                        if "confidence" in answer:
+                            max_confidence = max(max_confidence, answer["confidence"])
+                            min_confidence = min(min_confidence, answer["confidence"])
+                    
+    for filename in os.listdir("output_data"):
+        if filename.endswith(".json"):
+            with open("output_data/" + filename) as f:
+                temp_data = json.load(f)
+
                 # change qa_pairs list to map of category to qa_pair
                 qa_pairs = {}
+                # sort qa_pairs, put all the ones with empty temp_data["qa_pairs"]["answers"] at the end
+                temp_data["qa_pairs"].sort(key=lambda x: len(x["answers"]) == 0)
                 for qa_pair in temp_data["qa_pairs"]:
                     if qa_pair["category"] not in qa_pairs:
                         qa_pairs[qa_pair["category"]] = []
                     # for each qa_pair, order the qa_pair["answers"] by confidence
                     qa_pair["answers"] = sorted(qa_pair["answers"], key=lambda x: x["confidence"], reverse=True)
+                    # normalize confidence values to be between 0 and 1
+                    for i, answer in enumerate(qa_pair["answers"]):
+                        conf = answer["confidence"]
+                        answer["confidence"] = (conf - min_confidence) / (max_confidence - min_confidence)
+                        qa_pair["answers"][i] = answer
                     qa_pairs[qa_pair["category"]].append(qa_pair)
 
                 temp_data["qa_pairs"] = qa_pairs
@@ -59,8 +85,6 @@ def load_json_data():
 data = load_json_data()
 
 st.set_page_config(layout="wide", initial_sidebar_state="collapsed")
-
-available_companies = (company["name"] for company in companies)
 
 ### Streamlit app starts here
 
@@ -212,7 +236,7 @@ if page == "Company Lookup":
     with c2:
         title_column_1, title_column_2 = st.columns([8, 1])
         with title_column_1:
-            st.multiselect("", available_companies, key="companies", on_change=handle_company_select)
+            st.multiselect(label="", options=available_companies, key="companies", on_change=handle_company_select)
         with title_column_2:
             st.markdown('#')
             if "compare" in ss:
@@ -298,7 +322,7 @@ if page == "Company Lookup":
                         curr_company = param_companies[i]
                         company_info = ss[curr_company]
 
-                        col1, col2, _col, _col, col3 = st.columns([1, 2, 1, 1, 1])
+                        col1, col2, _col, _col, col3 = st.columns([2, 2, 1, 1, 1])
 
                         with col1:
                             get_styled_title(company_info["name"])
@@ -310,7 +334,7 @@ if page == "Company Lookup":
                             expanded = category == "General"
                             with st.expander(category, expanded=expanded):
                                 for qa_pair in qa_pairs:
-                                    st.write(f'**Q:** {qa_pair["question"]}')
+                                    st.write(f'**Q: {qa_pair["question"]}**')
                                     if len(qa_pair["answers"]) == 0:
                                         answer_html = """
                                         <div style="background-image: {}; padding: 10px; border-radius: 5px; margin-bottom: 10px;">

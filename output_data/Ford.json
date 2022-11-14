@@ -1,0 +1,214 @@
+{
+    "name": "Ford",
+    "score": "A-",
+    "qa_pairs": [
+        {
+            "question": "What lasting changes in the climate is the firm exposed to?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Climate Change: The risks and opportunities associated with climate change shape the way we do business, including our global carbon reduction strategy focused on reducing emissions from our vehicles, operations, and supply chain. Extreme weather events such as storms or floods can disrupt production or component supplies, while droughts can affect our access to water for our operations, especially in water-scarce areas. ",
+                    "confidence": 0.7492406747114388
+                },
+                {
+                    "answer": "As climate change worsens, extreme weather events are becoming more frequent, environmental justice is receiving increasing attention since the costs and challenges of which fall disproportionately on disadvantaged and low-income communities and the developing world. The physical impacts of floods, droughts, heatwaves, and storms, combined with ",
+                    "confidence": 0.7128387516158737
+                },
+                {
+                    "answer": "Climate Change Reporting We are committed to transparently reporting our climate change strategies and their resilience. We have received the 2020 CDP ratings and received A ratings for both Water and Climate (our 3rd year in a row as \u201cA\u201d for climate and 7th for water) and have issued climate change scenario reports since 2019. This year we have produced a consolidated report that combines our Climate Change Scenario Report and the Task Force on Climate-related Financial Disclosures (TCFD) Index. The report outlines our strategies, World Energy Outlook 2021 Scenarios, the resiliency of our strategies to those scenarios, and how we will monitor and review the impacts of climate change on our strategies. ",
+                    "confidence": 0.6239834336529795
+                }
+            ]
+        },
+        {
+            "question": "What new technologies is the organization considering using to decarbonize its business model?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Our goal of achieving 100 percent carbon-\nfree electricity in all manufacturing by 2035 will be bolstered by the potential dedicated investments in wind, solar, geothermal, hydropower, and biomass. ",
+                    "confidence": 0.7028049207224563
+                },
+                {
+                    "answer": "Securing Carbon-Free Electricity To replace fossil-based generation, we\u2019ll be procuring a mix of wind, solar power, nuclear, geothermal, biomass, energy storage, and hydro. One strategy is to secure carbon-free electricity through relationships with local utilities, power producers, and independent project developers. And we\u2019re already making progress. ",
+                    "confidence": 0.7018915046581692
+                },
+                {
+                    "answer": "We are well on the way to achieving our objective of 76% reduction in scope 1 and 2 emissions and 100% carbon-free electricity in our manufacturing operations by 2035. We are now focused on developing plans to address one our biggest challenges, how to transition our extensive, global supply base to carbon neutrality. ",
+                    "confidence": 0.6664509443177282
+                }
+            ]
+        },
+        {
+            "question": "Does the firm rely on or employ any kind of green financing?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Our dealer and supply chain network will be critical to this transformation. Our Sustainable Financing Framework outlines how we\u2019re investing in environmental and social projects in this way \u2013 issuing an inaugural $2.5 billion Green Bond \u2013 is a first for a North American automaker. ",
+                    "confidence": 0.7050500737380707
+                },
+                {
+                    "answer": "We\u2019re investing in environmental and social projects.Based on our 2021 results, we see the Ford+ strategy is working, generating good progress in our financial, social, and business performance. Through our new Sustainable Financing Framework and our inaugural Green Bond, we\u2019re helping to drive human progress by investing in such key initiatives as Clean Manufacturing to create the future of industry. We also tied our Corporate and Supplemental Revolvers to sustainability-linked KPIs.",
+                    "confidence": 0.69529416690185
+                },
+                {
+                    "answer": "inaugural Green Bond, helping raise funds for our EV portfolio",
+                    "confidence": 0.6431311900925171
+                }
+            ]
+        },
+        {
+            "question": "What is the percentage of energy or electricity used that is from renewable sources?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Our goal of achieving 100 percent carbon-\nfree electricity in all manufacturing by 2035 will be bolstered by the potential dedicated investments in wind, solar, geothermal, hydropower, and biomass. ",
+                    "confidence": 0.65585575832247
+                },
+                {
+                    "answer": "\u2022  Global amount of renewable electricity for 2021 was 32.4%\n\u2022  Dearborn truck plant, Michigan assembly plant and several new buildings on our Research and Engineering and ",
+                    "confidence": 0.6384036796101344
+                },
+                {
+                    "answer": "Achieve 32% renewable electricity by 2023 and 100% carbon free electricity by 2035",
+                    "confidence": 0.6360583891324764
+                }
+            ]
+        },
+        {
+            "question": "What are the company's emissions targets and have they been validated as credible and substantial? ",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Approved science-based emissions targets (SBTi) for our operations and vehicles",
+                    "confidence": 0.9235836857308823
+                },
+                {
+                    "answer": "The above pledges are backed by interim targets approved by the Science Based Targets initiative (SBTi). Our emissions targets call for a 76% reduction in Scope 1 and 2 GHG emissions by 2035 from a 2017 base year, and a 50% reduction in Scope 3 GHG emission per vehicle kilometer from use of sold products by 2035 from a 2019 base year. ",
+                    "confidence": 0.8643141001464189
+                },
+                {
+                    "answer": "In addition to our 2035 SBTi target, we have committed to reduce our global manufacturing Scope 1 and 2 GHG emissions by 18% by 2023 from a 2017 base year. ",
+                    "confidence": 0.8348611320984817
+                }
+            ]
+        },
+        {
+            "question": "Does this company's emissions targets include Scope 3 (indirect) emissions?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Ford\u2019s 2021 GHG inventory (including Scope 1, 2 and 3) is third-party verified by an organization with a Certification of Accreditation to ISO 14065:2013 by the ANSI National Accreditation Board and will become available at a later date. In addition, some manufacturing operations, as required by regulation, are also third-party verified following the respective regulatory requirements, such as EU-ETS. Find out more about EU-ETS in our CDP Climate Response, section 11.1.",
+                    "confidence": 0.7390593626357924
+                },
+                {
+                    "answer": "This goes beyond tailpipe emissions, and includes reducing vehicle emissions from a fuel-cycle perspective (well-to-\nwheels) which include the production and consumption of fuel during vehicle use. Our Scope 1 and 2 operations target is aligned with the SBTi 1.5\u00b0C path, while our use of sold products (vehicle) target is consistent with the well-below 2\u00b0C target. These targets do not include offsets and are strictly GHG reduction targets. ",
+                    "confidence": 0.7348270462194231
+                },
+                {
+                    "answer": "We report our Scope 1 and 2 GHG emissions, participate in emissions trading schemes such as the EU European Trading Scheme (EU ETS) and adhere to a number of carbon reduction initiatives in the United States, Europe, Mexico, Canada, and other countries. ",
+                    "confidence": 0.7308657137114629
+                }
+            ]
+        },
+        {
+            "question": "What does the company say about its  impacts on biodiversity? ",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Protecting nature and its biodiversity is vital for the economy; all businesses depend on natural resources to support their commercial activities. Through the G7 2030 Nature Compact, the G7 Leaders called for the world to not only become net zero, but also nature positive. Nature and biodiversity were meaningfully incorporated into global climate negotiations for the first time at COP26. This represents a real paradigm shift in how nations, businesses, investors, and consumers view nature. Our economic activities should not only minimize impact, but also enhance ecosystems.",
+                    "confidence": 0.6700449674433459
+                },
+                {
+                    "answer": "It is fundamental to our company values that we continue to lead the way in reducing the impact our plants have on the environment. We are committed to long-term sustainability and delivering environmental initiatives that are good for people, good for the planet, and good for Ford.\u201d ",
+                    "confidence": 0.5869234554539469
+                },
+                {
+                    "answer": "Supplier Diversity and Inclusion\nDiversity and Inclusion permeates the core of our company \u2013 from the diversity of our product offerings and global workforce, to our strategic partners, supply base, and dealers. We remain committed to support, develop, grow, and promote our diverse suppliers while expanding the economic impact and growth in the community for a more sustainable future. ",
+                    "confidence": 0.584004924372725
+                }
+            ]
+        },
+        {
+            "question": "What does the company disclose about the waste it generates and what is it doing to reduce waste?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "water withdrawals for manufacturing. This includes establishing local ecosystem performance goals and improving water discharge quality, with a focus on direct discharge plants. We are examining how water cycling impacts communities and how to better emulate the natural system. ",
+                    "confidence": 0.7174361712952984
+                },
+                {
+                    "answer": "We are applying freshwater reduction methods as well as improving our water quality discharges at our sites that mimic the behavior and performance of the local ecosystem. ",
+                    "confidence": 0.6667674693661759
+                }
+            ]
+        },
+        {
+            "question": "What does the company say about its labor practices?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Our Human Rights Commitments\nAligned with the UNGP on Business and Human Rights, we are committed to respecting the United Nations Universal Declaration of Human Rights, the International Labour Organization (ILO)\u2019s Declaration on Fundamental Principles and Rights at Work, the Organisation for Economic Co-operation and Development (OECD) Guidelines for Multinational Enterprises, the United Nations Women\u2019s Empowerment Principles, and the United Nations Global Compact (UNGC). Our Global Framework Agreement (GFA) with industriALL Global Union reiterates our commitments to our global labor community.",
+                    "confidence": 0.664027905811741
+                },
+                {
+                    "answer": "Ford has a longstanding history of working with unions that represent production workers, skilled trades, and engineers to improve health and safety for our employees and workplaces. We are committed to supporting these unions and collective bargaining to ensure the health and safety of our union represented employees and locations. The company has designated members of management that interact with Union representatives at local, national, and global levels, to ensure we have open communications and collaboration to work through contractual requirements. ",
+                    "confidence": 0.579715527609789
+                }
+            ]
+        },
+        {
+            "question": "What does the company say about its fuel efficiency?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Standards Continue to Tighten Internal combustion engine vehicles (ICEVs) emit hydrocarbons, carbon monoxide, nitrogen oxides, and particulate matter. These pollutants can affect air quality, particularly in urban areas, and potentially impact human health. ",
+                    "confidence": 0.9131888077484906
+                },
+                {
+                    "answer": "Through our research and vehicle development, we are working to reduce emissions of hydrocarbons, carbon monoxide, nitrogen oxides, and particulate matter that pollute the air, in accordance with increasingly stringent standards around the world. ",
+                    "confidence": 0.8360492743317932
+                },
+                {
+                    "answer": "\u2022  The tailpipe emissions of our vehicle fleet will drop significantly as our EV sales percentage grows\n\u2022  Working to reduce vehicle emissions of non-CO2 pollutants, in accordance with increasingly stringent standards ",
+                    "confidence": 0.757000923620712
+                }
+            ]
+        },
+        {
+            "question": "What does the company say about its decarbonization of production processes?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Sustainable Materials Strategy\nWe are committed to recycling plastics and using renewable, plant-based materials in production vehicle parts. Our closed loop recycling system maximizes aluminum recycling in our plants and minimizes the need for primary metal. We aspire to utilize only recycled or renewable content in vehicle plastics.",
+                    "confidence": 0.7990002768384316
+                },
+                {
+                    "answer": "Expand our use of sustainable materials focusing on plastics, battery recycling, and sustainable sourcing",
+                    "confidence": 0.7868665967429364
+                },
+                {
+                    "answer": "Sue: Yes, by design, our collaboration with Redwood helps ensure that recyclable materials in battery production scrap and end-of-life products re-enter the supply chain and don\u2019t wind up in landfills. Doing that helps reduce our reliance on the existing commodities supply chain that could be quickly overwhelmed by industry demand. That leads us into our aspirational goal ",
+                    "confidence": 0.7430565704403221
+                }
+            ]
+        },
+        {
+            "question": "What does the company say about its approach to handling water shortage and reduction of water usage?",
+            "category": "General",
+            "answers": [
+                {
+                    "answer": "Reducing Operational Water Use Water use and recycling are occurring at Ford plants around the world. We continue to integrate more water-\nefficient processes and technologies as we work to further decrease our water consumption. ",
+                    "confidence": 0.6527368835936689
+                },
+                {
+                    "answer": "\u2022 Increased the use of offsite alternative water by 6%\n\u2022 Incorporating more water processes and technologies in our assembly plants, including water reuse and",
+                    "confidence": 0.6335432168379598
+                },
+                {
+                    "answer": "Achieve 75% absolute reduction in water use since 2000",
+                    "confidence": 0.6249575808036733
+                }
+            ]
+        }
+    ]
+}
