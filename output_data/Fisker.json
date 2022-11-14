@@ -1,7 +1,61 @@
 {
     "name": "Fisker",
-    "score": "No CDP Submission",
+    "score": "N/A",
     "qa_pairs": [
+        {
+            "question":"Environmental laws, environmental risks, environmental regulations",
+            "category":"General",
+            "answers":[
+                {
+                "answer":"\nThe risks associated with environmental regulation include the possibility of civil and criminal fines, penalties, and orders to cease operations or conduct corrective works in the event of violations. Additionally, environmental regulations are subject to periodic modifications and may become increasingly stringent over time, which could impact the company's ability to continue its operations.",
+                "confidence":0.9098282002793424
+                },
+                {
+                "answer":"\nThe risks include the potential for changes in international environmental regulations that could make it more difficult or expensive to sell or lease vehicles in certain markets, and the possibility that we may not be able to offset any foreign taxes against taxes imposed in the United States.",
+                "confidence":0.7043612953797102
+                },
+                {
+                "answer":"\nThe environmental regulation risks are that regulations may lead to an oversupply of EVs, which could promote price decreases and adversely impact Fisker's margins. Additionally, trade restrictions and tariffs could impact Fisker's ability to meet projected sales or margins.",
+                "confidence":0.7041710593823747
+                }
+            ]
+        },
+        {
+            "question":"What are the risks this company faces?",
+            "category":"General",
+            "answers":[
+                {
+                "answer":"\nThe company faces risks related to its intellectual property, data security, and natural disasters.",
+                "confidence":0.9012523896558805
+                },
+                {
+                "answer":"\nThis company faces risks related to health epidemics, including the COVID-19 pandemic, which could have a material adverse effect on its business and results of operations. Other risks include the potential for work stoppages or strikes organized by labor unions, and the possibility that competitors or other companies may poach its talent.",
+                "confidence":0.890560873227596
+                },
+                {
+                "answer":"\nThe risks this company faces include difficulties in conforming its vehicles to various international regulatory requirements, staffing and managing foreign operations, and attracting customers in new jurisdictions. Additionally, the company is subject to foreign government taxes, regulations and permit requirements, which may change over time and limit its ability to repatriate funds to the United States.",
+                "confidence":0.8508867287046973
+                }
+            ]
+        },
+        {
+            "question":"What does this company do?",
+            "category":"General",
+            "answers":[
+                {
+                "answer":"This company is an automaker that is focused on electric vehicles and sustainable practices.",
+                "confidence":0.37858897656989965
+                },
+                {
+                "answer":"\nThis company makes electric vehicles.",
+                "confidence":0.36417548454201365
+                },
+                {
+                "answer":"\nThis company makes electric vehicles.",
+                "confidence":0.34597905769075676
+                }
+            ]
+        },
         {
             "question": "What lasting changes in the climate is the firm exposed to?",
             "category": "Impact of Climate on Firm",

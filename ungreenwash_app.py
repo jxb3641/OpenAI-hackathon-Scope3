@@ -232,7 +232,7 @@ with st.sidebar:
 
 if page == "Company Lookup":
     with c1:
-        get_styled_title("Company Lookup")
+        get_styled_title("Ungreenwash")
         get_share_elements()
     
     with c2:
@@ -287,7 +287,7 @@ if page == "Company Lookup":
                             for company in param_companies:  
                                 company_info = ss[company]                      
                                 with mui.Card(key=company, sx={"display": "flex", "flexDirection": "column"}, raised=True):
-                                    subheader = mui.Typography(f'Disclosure Score: {company_info["score"]}', sx={"color": "white"})
+                                    subheader = mui.Typography(f'CDP Disclosure Score: {company_info["score"]}', sx={"color": "white"})
                                     mui.CardHeader(title=company, subheader=subheader, sx={"color": "white", "text-color": "white", "background-color": primary_color, "padding": "5px 15px 5px 15px", "borderBottom": 2, "borderColor": "divider"})
                                     with mui.CardContent(sx={"flex": 1, "minHeight": 0, "background-color": secondary_background_color}):
                                         # with mui.List():
@@ -333,7 +333,7 @@ if page == "Company Lookup":
                         #col1.subheader(company_info["name"])
                         with col2:
                             get_investment_profile(curr_company)
-                        col3.metric(label="Disclosure Score", value=company_info["score"])
+                        col3.metric(label="CDP Disclosure Score", value=company_info["score"])
                         for category in sorted(company_info["qa_pairs"].keys()):
                             qa_pairs = company_info["qa_pairs"][category]
                             expanded = category == "General"

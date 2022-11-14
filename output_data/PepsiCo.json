@@ -3,6 +3,60 @@
     "score": "A-",
     "qa_pairs": [
         {
+            "question":"Environmental laws, environmental risks, environmental regulations",
+            "category":"General",
+            "answers":[
+                {
+                "answer":"\nThe risks associated with environmental regulations include the possibility of new or more restrictive requirements being imposed in the future, as well as the potential for increased taxes on products or ingredients that are perceived to be harmful to the environment. Additionally, some jurisdictions may enact regulations designed to encourage recycling or waste reduction, which could impact the way our products are manufactured, distributed, or sold.",
+                "confidence":0.9833491638381708
+                },
+                {
+                "answer":"\nThe risks include the imposition of new laws or regulations, changes in existing laws or regulations, or differing or competing regulations and standards across markets. This could lead to higher compliance costs, capital expenditures, and production costs, which could adversely affect the business.",
+                "confidence":0.7841651238908932
+                },
+                {
+                "answer":"\nThe environmental regulation risks include the potential for increased costs of compliance and additional investments in facilities and equipment, as well as the potential for unfavorable impacts on the company's future results.",
+                "confidence":0.6277338004240136
+                }
+            ]
+        },
+        {
+            "question":"What are the risks this company faces?",
+            "category":"General",
+            "answers":[
+                {
+                "answer":"\nThe company faces risks associated with the COVID-19 pandemic, including the inability of consumers to purchase its products due to illness, quarantine or other restrictions, store closures, or financial hardship. The company also faces risks associated with changes in consumer demand, including an increase in demand in the e-commerce channel, which could impact sales and profitability. In addition, the company faces risks associated with business disruptions as a result of COVID-19, including temporary closures of its facilities or facilities of its business partners or the inability of a significant portion of its or its business partners\u2019 workforce to work because of illness, absenteeism, quarantine, vaccine mandates, or travel or other governmental restrictions. The company also faces risks associated with the impact of COVID-19 on its supply chain, including raw material, packaging or other supply shortages, labor shortages or reduced availability of air or other commercial transport, port congestion and closures or border restrictions. Finally, the company faces risks associated with increased employee and operating costs as a result of COVID-19, such as costs related to expanded benefits and frontline incentives, the provision of personal protective equipment and increased sanitation, allowances for credit losses, upfront payment reserves and inventory write-offs, and cost inflation in commodities, packaging, transportation and other input costs.",
+                "confidence":0.7775291596768319
+                },
+                {
+                "answer":"\nThis company faces risks from commodity prices, foreign exchange rates, currency restrictions, and interest rates. They manage these risks through various strategies, including productivity initiatives, global purchasing programs, and hedging.",
+                "confidence":0.7566293664974277
+                },
+                {
+                "answer":"\nThis company faces risks related to food safety and cybersecurity, as well as potential taxes, regulations or other limitations on its products or their packaging. Additionally, the company faces risks related to the shift to e-commerce and online-to-offline purchasing by consumers, as well as the potential impact of the COVID-19 pandemic.",
+                "confidence":0.7521166951251546
+                }
+            ]
+        },
+        {
+            "question":"What does this company do?",
+            "category":"General",
+            "answers":[
+                {
+                "answer":"\nThis company produces and sells a variety of food and beverage products. Its brands include Lays, Doritos, Cheetos, Gatorade, Pepsi-Cola, Mountain Dew, Quaker, and SodaStream. The company operates in seven reportable segments, which include Frito-Lay North America, Quaker Foods North America, PepsiCo Beverages North America, Latin America, Europe, Africa, Middle East and South Asia, and Asia Pacific, Australia and New Zealand and China Region.",
+                "confidence":0.4082212308864941
+                },
+                {
+                "answer":"\nThis company makes, sells, and distributes food and beverage products.",
+                "confidence":0.36934442448901816
+                },
+                {
+                "answer":"\nThis company produces and sells beverage and convenient food products. They use a variety of methods to promote their products, including sales incentives, discounts, advertising, and other marketing activities. Sales incentives and discounts are primarily accounted for as a reduction of revenue.",
+                "confidence":0.3254786384049635
+                }
+            ]
+        },
+        {
             "question": "What lasting changes in the climate is the firm exposed to?",
             "category": "Impact of Climate on Firm",
             "answers": []

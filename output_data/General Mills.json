@@ -3,6 +3,60 @@
     "score": "A-",
     "qa_pairs": [
         {
+            "question":"Environmental laws, environmental risks, environmental regulations",
+            "category":"General",
+            "answers":[
+                {
+                "answer":"\nThe main environmental regulation risks for this company are related to food safety and employee health and safety. If the company fails to comply with laws and regulations, it could be subject to lawsuits, penalties, and recalls. Additionally, new laws or regulations could restrict the company's ability to advertise its products, which could have a negative impact on its business.",
+                "confidence":0.5555300663534213
+                },
+                {
+                "answer":"\nThe environmental regulation risks include the Clean Air Act, Clean Water Act, Resource Conservation and Recovery Act, Comprehensive Environmental Response, Compensation, and Liability Act, and the Federal Insecticide, Fungicide, and Rodenticide Act.",
+                "confidence":0.43950767205525876
+                },
+                {
+                "answer":"\nEnvironmental regulation risks include the risk of damage or disruption to raw material supplies or our manufacturing or distribution capabilities due to weather, climate change, natural disaster, fire, terrorism, cyber-attack, pandemics (such as the COVID-19 pandemic), governmental restrictions or mandates, strikes, import/export restrictions, or other factors.",
+                "confidence":0.2559817040828145
+                }
+            ]
+        },
+        {
+            "question":"What are the risks this company faces?",
+            "category":"General",
+            "answers":[
+                {
+                "answer":"\nThe company faces risks related to its supply chain, including disruptions due to weather, climate change, natural disasters, fire, terrorism, cyber-attacks, pandemics, governmental restrictions or mandates, strikes, import/export restrictions, or other factors. The company also faces risks related to its manufacturing process, including the potential for production interruptions, and its ability to be efficient in the production and manufacture of its products in highly competitive markets. In addition, the company faces risks related to its international operations, including political and economic risks. Finally, the company faces risks related to its brands, including the potential for negative impacts on business results if the company is unable to maintain the favorable perception of its brands.",
+                "confidence":0.877583655480238
+                },
+                {
+                "answer":"\nThe company faces various risks, including those related to business and industry, global health developments, and economic uncertainty. These risks could materially and adversely affect the company's business, financial condition, and results of operations.",
+                "confidence":0.8174207914351134
+                },
+                {
+                "answer":"\nThe company faces a number of risks, including political and economic instability, exchange controls and currency exchange rates, tariffs on products and ingredients that it imports and exports, nationalization or government control of operations, compliance with anti-corruption regulations, uncertainty relating to the impact of the United Kingdom's exit from the European Union, foreign tax treaties and policies, and restriction on the transfer of funds to and from foreign countries, including potentially negative tax consequences. Additionally, the company's financial performance on a U.S. dollar denominated basis is subject to fluctuations in currency exchange rates, which could cause material variations in its results of operations. The company is also exposed to the risk of its information technology systems failing to perform adequately or being breached, which could disrupt its business and result in transaction errors, processing inefficiencies, data loss, legal claims or proceedings, regulatory penalties, and the loss of sales and customers.",
+                "confidence":0.8075645326166075
+                }
+            ]
+        },
+        {
+            "question":"What does this company do?",
+            "category":"General",
+            "answers":[
+                {
+                "answer":"\nThis company manufactures and markets branded consumer foods, as well as supplying branded and unbranded food products to the North American foodservice and commercial baking industries. They also have a joint venture that manufactures and markets food products sold in more than 120 countries worldwide. Finally, they manage and review the financial results of their business under five operating segments: North America Retail, Convenience Stores & Foodservice, Europe & Australia, Asia & Latin America, and Pet.",
+                "confidence":0.376707731963441
+                },
+                {
+                "answer":"\nThis company manufactures and distributes products. In response to the COVID-19 pandemic, they implemented social distancing, temperature checks, enhanced sanitation, mask use, and other protective measures in their facilities. They also shifted most of their office staff to working remotely.",
+                "confidence":0.32862876992986567
+                },
+                {
+                "answer":"\nThis company operates information technology systems that enable communication among employees, customers, and other parties. These systems may be vulnerable to damage, interruption, or shutdown due to various causes, including natural disasters, fires, power outages, system failures, telecommunications failures, security breaches, computer viruses, hackers, and employee error or malfeasance. If these systems fail to perform as expected, it could disrupt the company's business and result in transaction errors, processing inefficiencies, data loss, legal claims or proceedings, regulatory penalties, and the loss of sales and customers.",
+                "confidence":0.2982413840704107
+                }
+            ]
+        },
+        {
             "question": "What lasting changes in the climate is the firm exposed to?",
             "category": "Impact of Climate on Firm",
             "answers": []
