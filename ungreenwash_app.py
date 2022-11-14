@@ -41,10 +41,27 @@ available_companies = (company["name"] for company in companies)
 # load all json data from output_data folder
 def load_json_data():
     data = []
+    # Get all confidence values in temp_data["qa_pairs"]["answers"]["confidence"]
+    # Normalize confidence values to be between 0 and 1
+    max_confidence = 0
+    min_confidence = 1
     for filename in os.listdir("output_data"):
         if filename.endswith(".json"):
             with open("output_data/" + filename) as f:
                 temp_data = json.load(f)
+                # Get all confidence values in temp_data["qa_pairs"]["answers"]["confidence"]
+                # Normalize confidence values to be between 0 and 1
+                for qa_pair in temp_data["qa_pairs"]:
+                    for answer in qa_pair["answers"]:
+                        if "confidence" in answer:
+                            max_confidence = max(max_confidence, answer["confidence"])
+                            min_confidence = min(min_confidence, answer["confidence"])
+                    
+    for filename in os.listdir("output_data"):
+        if filename.endswith(".json"):
+            with open("output_data/" + filename) as f:
+                temp_data = json.load(f)
+
                 # change qa_pairs list to map of category to qa_pair
                 qa_pairs = {}
                 # sort qa_pairs, put all the ones with empty temp_data["qa_pairs"]["answers"] at the end
@@ -54,6 +71,11 @@ def load_json_data():
                         qa_pairs[qa_pair["category"]] = []
                     # for each qa_pair, order the qa_pair["answers"] by confidence
                     qa_pair["answers"] = sorted(qa_pair["answers"], key=lambda x: x["confidence"], reverse=True)
+                    # normalize confidence values to be between 0 and 1
+                    for i, answer in enumerate(qa_pair["answers"]):
+                        conf = answer["confidence"]
+                        answer["confidence"] = (conf - min_confidence) / (max_confidence - min_confidence)
+                        qa_pair["answers"][i] = answer
                     qa_pairs[qa_pair["category"]].append(qa_pair)
 
                 temp_data["qa_pairs"] = qa_pairs
