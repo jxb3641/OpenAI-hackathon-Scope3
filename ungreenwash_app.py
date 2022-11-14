@@ -232,7 +232,7 @@ with st.sidebar:
 
 if page == "Company Lookup":
     with c1:
-        get_styled_title("Company Lookup")
+        get_styled_title("Ungreenwash")
         get_share_elements()
     
     with c2:
