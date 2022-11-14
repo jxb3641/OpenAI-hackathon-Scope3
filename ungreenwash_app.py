@@ -13,238 +13,50 @@ import stock_api
 from PIL import Image
 import os
 
-# primary_color = "#c76363"
-# background_color = "#dacdcd"
-# secondary_background_color = "#d2ae9c"
 primary_color = "#91b36b"
 background_color = "#FFFFFF"
 secondary_background_color = "#F0F2F6"
 
-mockData = [
-    {
-        "name": "Ford",
-        "symbol": "BAYRY",
-        "score": 0.1,
-        "qa_pairs": {
-            "General": [
-                {
-                    "question": "What is the company doing to reach net-zero targets?",
-                    "answer": "We are evaluating our supply chain and will be working with our suppliers to reduce their emissions.",
-                    "confidence": 0.7,
-                    "category": "General",
-                },
-                {
-                    "question": "What is your company's sustainability score?",
-                    "answer": "We have a sustainability score of 0.8",
-                    "confidence": 0.9,
-                    "category": "General",
-                },
-            ],
-            "Impact of Climate on Firm": [
-                {
-                    "question": "What materials do you use in your planes?",
-                    "answer": "We use a lot of aluminium and carbon fibre.",
-                    "confidence": 0.9,
-                    "category": "Impact of Climate on Firm",
-                },
-            ],
-            "Impact of Firm on Climate": [
-                {
-                    "question": "What materials do you use in your planes?",
-                    "answer": "We use a lot of aluminium and carbon fibre.",
-                    "confidence": 0.8,
-                    "category": "Impact of Firm on Climate",
-                },
-            ],
-            "Industry-Specific": [
-                {
-                    "question": "What is the company doing to reach net-zero targets?",
-                    "answer": "We are evaluating our supply chain and will be working with our suppliers to reduce their emissions.",
-                    "confidence": 0.5,
-                    "category": "Industry-Specific",
-                },
-                {
-                    "question": "What is your company's sustainability score?",
-                    "answer": "We have a sustainability score of 0.8",
-                    "confidence": 0.5,
-                    "category": "Industry-Specific",
-                },
-            ],
-        },
-    },
-    {
-        "name": "General Mills",
-        "symbol": "BA",
-        "score": 0.5,
-        "qa_pairs": {
-            "General": [
-                {
-                    "question": "What is the company doing to reach net-zero targets?",
-                    "answer": "We are evaluating our supply chain and will be working with our suppliers to reduce their emissions.",
-                    "confidence": 0.1,
-                    "category": "General",
-                },
-                {
-                    "question": "What is your company's sustainability score?",
-                    "answer": "We have a sustainability score of 0.8",
-                    "confidence": 0.1,
-                    "category": "General",
-                },
-            ],
-            "Impact of Climate on Firm": [
-                {
-                    "question": "What materials do you use in your planes?",
-                    "answer": "We use a lot of aluminium and carbon fibre.",
-                    "confidence": 0.5,
-                    "category": "Impact of Climate on Firm",
-                },
-            ],
-            "Impact of Firm on Climate": [
-                {
-                    "question": "What materials do you use in your planes?",
-                    "answer": "We use a lot of aluminium and carbon fibre.",
-                    "confidence": 0.8,
-                    "category": "Impact of Firm on Climate",
-                },
-            ],
-            "Industry-Specific": [
-                {
-                    "question": "What is the company doing to reach net-zero targets?",
-                    "answer": "We are evaluating our supply chain and will be working with our suppliers to reduce their emissions.",
-                    "confidence": 0.4,
-                    "category": "Industry-Specific",
-                },
-                {
-                    "question": "What is your company's sustainability score?",
-                    "answer": "We have a sustainability score of 0.8",
-                    "confidence": 0.1,
-                    "category": "Industry-Specific",
-                },
-            ],
-        },
-    },
-    {
-        "name": "Fisker",
-        "symbol": "AAPL",
-        "score": 0.9,
-        "qa_pairs": {
-            "General": [
-                {
-                    "question": "What is the company doing to reach net-zero targets?",
-                    "answer": "We are evaluating our supply chain and will be working with our suppliers to reduce their emissions.",
-                    "confidence": 0.9,
-                    "category": "General",
-                },
-                {
-                    "question": "What is your company's sustainability score?",
-                    "answer": "We have a sustainability score of 0.8",
-                    "confidence": 0.1,
-                    "category": "General",
-                },
-            ],
-            "Impact of Climate on Firm": [
-                {
-                    "question": "What materials do you use in your planes?",
-                    "answer": "We use a lot of aluminium and carbon fibre.",
-                    "confidence": 0.1,
-                    "category": "Impact of Climate on Firm",
-                },
-            ],
-            "Impact of Firm on Climate": [
-                {
-                    "question": "What materials do you use in your planes?",
-                    "answer": "We use a lot of aluminium and carbon fibre.",
-                    "confidence": 0.2,
-                    "category": "Impact of Firm on Climate",
-                },
-            ],
-            "Industry-Specific": [
-                {
-                    "question": "What is the company doing to reach net-zero targets?",
-                    "answer": "We are evaluating our supply chain and will be working with our suppliers to reduce their emissions.",
-                    "confidence": 0.4,
-                    "category": "Industry-Specific",
-                },
-                {
-                    "question": "What is your company's sustainability score?",
-                    "answer": "We have a sustainability score of 0.8",
-                    "confidence": 0.8,
-                    "category": "Industry-Specific",
-                },
-            ],
-        },
-    },
-    {
-        "name": "Pepsico",
-        "symbol": "AAPL",
-        "score": 0.9,
-        "qa_pairs": {
-            "General": [
-                {
-                    "question": "What is the company doing to reach net-zero targets?",
-                    "answer": "We are evaluating our supply chain and will be working with our suppliers to reduce their emissions.",
-                    "confidence": 0.9,
-                    "category": "General",
-                },
-                {
-                    "question": "What is your company's sustainability score?",
-                    "answer": "We have a sustainability score of 0.8",
-                    "confidence": 0.1,
-                    "category": "General",
-                },
-            ],
-            "Impact of Climate on Firm": [
-                {
-                    "question": "What materials do you use in your planes?",
-                    "answer": "We use a lot of aluminium and carbon fibre.",
-                    "confidence": 0.1,
-                    "category": "Impact of Climate on Firm",
-                },
-            ],
-            "Impact of Firm on Climate": [
-                {
-                    "question": "What materials do you use in your planes?",
-                    "answer": "We use a lot of aluminium and carbon fibre.",
-                    "confidence": 0.2,
-                    "category": "Impact of Firm on Climate",
-                },
-            ],
-            "Industry-Specific": [
-                {
-                    "question": "What is the company doing to reach net-zero targets?",
-                    "answer": "We are evaluating our supply chain and will be working with our suppliers to reduce their emissions.",
-                    "confidence": 0.4,
-                    "category": "Industry-Specific",
-                },
-                {
-                    "question": "What is your company's sustainability score?",
-                    "answer": "We have a sustainability score of 0.8",
-                    "confidence": 0.8,
-                    "category": "Industry-Specific",
-                },
-            ],
-        },
-    },
-]
-
 companies = [
     {
         "name": "Pepsico",
-        "symbol": "AAPL",
+        "symbol": "PEP",
     },
     {
         "name": "Fisker",
-        "symbol": "AAPL",
+        "symbol": "FSR",
     },
     {
         "name": "General Mills",
-        "symbol": "BA",
+        "symbol": "GIS",
     },
     {
         "name": "Ford",
-        "symbol": "AAPL",
+        "symbol": "F",
     },
 ]
+
+# load all json data from output_data folder
+def load_json_data():
+    data = []
+    for filename in os.listdir("output_data"):
+        if filename.endswith(".json"):
+            with open("output_data/" + filename) as f:
+                temp_data = json.load(f)
+                # change qa_pairs list to map of category to qa_pair
+                qa_pairs = {}
+                for qa_pair in temp_data["qa_pairs"]:
+                    if qa_pair["category"] not in qa_pairs:
+                        qa_pairs[qa_pair["category"]] = []
+                    # for each qa_pair, order the qa_pair["answers"] by confidence
+                    qa_pair["answers"] = sorted(qa_pair["answers"], key=lambda x: x["confidence"], reverse=True)
+                    qa_pairs[qa_pair["category"]].append(qa_pair)
+
+                temp_data["qa_pairs"] = qa_pairs
+                data.append(temp_data)
+    return data
+
+data = load_json_data()
 
 st.set_page_config(layout="wide", initial_sidebar_state="collapsed")
 
@@ -261,7 +73,7 @@ def get_styled_title(title):
     return st.markdown(f'<p style="color:{primary_color};font-size:45px;border-radius:2%;font-weight:bold">{title}</p>', unsafe_allow_html=True)
 
 def get_symbol_from_company(company):
-    for companyInfo in mockData:
+    for companyInfo in companies:
         if companyInfo["name"] == company:
             return companyInfo["symbol"]
 
@@ -306,6 +118,10 @@ def get_confidence_style(qa_pair, bg_color):
     color = "rgb({},{},{},{})".format(145, 179, 107, conf)
     return f'radial-gradient(farthest-side at 40% 50%, {color}, {bg_color})'
 
+def get_no_confidence(bg_color):
+    color = "rgb({},{},{},{})".format(255, 0, 0, 0.5)
+    return f'radial-gradient(farthest-side at 40% 50%, {color}, {bg_color})'
+
 # Share to social media
 def compose_share_text():
     params = st.experimental_get_query_params()
@@ -326,7 +142,7 @@ def compose_curr_url():
     queryParams = []
     if "companies" in ss:
         for c in ss.companies:
-            cFormatted = c.Split(" ").Join("+")
+            cFormatted = "+".join(c.split(" "))
             queryParams.append(f'companies={cFormatted}')
     
     queryStr = ""
@@ -359,7 +175,7 @@ def get_share_elements():
 
 # Mock function for now, will be an api call.
 def get_company_info(company):
-    for companyInfo in mockData:
+    for companyInfo in data:
         if companyInfo["name"] == company:
             return companyInfo
 
@@ -434,11 +250,6 @@ if page == "Company Lookup":
                             
                             # if not, add it
                             if not exists:
-                                # if ss[company]:
-                                #     height = 1 + len(ss[company]["qa_pairs"])/2
-                                # else:
-                                #     height = 2
-
                                 # if it's an odd index, add it to the right
                                 if i % 2 != 0:
                                     x = 6
@@ -465,9 +276,12 @@ if page == "Company Lookup":
                                                 with mui.AccordionDetails():
                                                     with mui.List():
                                                         for qa_pair in qa_pairs:
-                                                            with mui.ListItem(alignItems="flex-start", sx={"padding": "0px 0px 0px 0px", "background-image": get_confidence_style(qa_pair, "white")}):
-                                                                mui.ListItemText(primary= f'Q: {qa_pair["question"]}', secondary= f'A: {qa_pair["answer"]}', sx={"padding": "0px 0px 0px 0px"})
-
+                                                            with mui.ListItem(alignItems="flex-start", sx={"padding": "0px 0px 0px 0px"}):
+                                                                mui.ListItemText(primary= f'Q: {qa_pair["question"]}', sx={"padding": "0px 0px 0px 0px"})
+                                                            if len(qa_pair["answers"]) == 0:
+                                                                mui.ListItemText(secondary= f'A: No answer found', sx={"padding": "0px 0px 0px 0px", "background-image": get_no_confidence("white")})
+                                                            for answer in qa_pair["answers"]:
+                                                                mui.ListItemText(secondary= f'A: {answer["answer"]}', sx={"padding": "0px 0px 0px 0px", "background-image": get_confidence_style(answer, "white")})
                                     # with mui.CardActions(sx={"color": "white", "padding": "5px 15px 5px 15px", "background-color": "#ff4b4b", "borderTop": 2, "borderColor": "divider"}):
                                     #     mui.Button("Learn More", size="small", sx={"color": "white"})
 
@@ -486,7 +300,9 @@ if page == "Company Lookup":
 
                         col1, col2, _col, _col, col3 = st.columns([1, 2, 1, 1, 1])
 
-                        col1.subheader(company_info["name"])
+                        with col1:
+                            get_styled_title(company_info["name"])
+                        #col1.subheader(company_info["name"])
                         with col2:
                             get_investment_profile(curr_company)
                         col3.metric(label="Disclosure Score", value=company_info["score"])
@@ -494,13 +310,29 @@ if page == "Company Lookup":
                             expanded = category == "General"
                             with st.expander(category, expanded=expanded):
                                 for qa_pair in qa_pairs:
-                                    qa_html = """
-                                    <div style="margin:10px;background-image:{}">
-                                        <div style="font-weight: bold">Q: {}</div>
-                                        <div>A: {}</div>
-                                    </div>
-                                    """.format(get_confidence_style(qa_pair, background_color), qa_pair["question"], qa_pair["answer"])
-                                    st.markdown(qa_html, unsafe_allow_html=True)
+                                    st.write(f'**Q:** {qa_pair["question"]}')
+                                    if len(qa_pair["answers"]) == 0:
+                                        answer_html = """
+                                        <div style="background-image: {}; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
+                                            <div>{}</div>
+                                        </div>
+                                        """.format(get_no_confidence("white"), "No answer found")
+                                        st.markdown(answer_html, unsafe_allow_html=True)
+                                    for answer in qa_pair["answers"]:
+                                        answer_html = """
+                                        <div style="background-image: {}; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
+                                            <div>{}</div>
+                                        </div>
+                                        """.format(get_confidence_style(answer, "white"), answer["answer"])
+                                        st.markdown(answer_html, unsafe_allow_html=True)
+
+                                    # qa_html = """
+                                    # <div style="margin:10px;background-image:{}">
+                                    #     <div style="font-weight: bold">Q: {}</div>
+                                    #     <div>A: {}</div>
+                                    # </div>
+                                    # """.format(get_confidence_style(qa_pair, background_color), qa_pair["question"], qa_pair["answer"])
+                                    # st.markdown(qa_html, unsafe_allow_html=True)
                         
                         
 
