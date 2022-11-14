@@ -6,13 +6,7 @@ from glob import glob
 from pathlib import Path
 from transformers import GPT2TokenizerFast
 tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
-<<<<<<< HEAD
-from EDGARFilingUtils import ROOT_DATA_DIR, filter_chunks, split_text
-import backoff
-
-=======
 from EDGARFilingUtils import ROOT_DATA_DIR, filter_chunks, split_text, TICKER_TO_COMPANY_NAME, QUESTION_TO_CATEGORY 
->>>>>>> @{-1}
 
 from tenacity import (
     retry,
