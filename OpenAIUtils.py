@@ -6,7 +6,7 @@ from glob import glob
 from pathlib import Path
 from transformers import GPT2TokenizerFast
 tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
-from EDGARFilingUtils import ROOT_DATA_DIR, filter_chunks, split_text
+from EDGARFilingUtils import ROOT_DATA_DIR, filter_chunks, split_text, TICKER_TO_COMPANY_NAME, QUESTION_TO_CATEGORY 
 
 from tenacity import (
     retry,
@@ -20,7 +20,6 @@ logging.getLogger().setLevel(logging.ERROR)
 
 import re
 SECTION_DELIM_PATTERN = re.compile("####.+") # for pooled 10k files
-
 EMBEDDING_CACHE_DIR = ROOT_DATA_DIR / "embedding_cache"
 
 # For the purposes of measuring relevance between long docs and short queries,
@@ -67,7 +66,7 @@ def call_openai_api_completion(prompt, model_family='ada',temperature=0.0):
       temperature=temperature,
       stop=["."]
     )
-    return response['choices'][0]['text']
+    return response['choices'][0]
 
 @retry(wait=wait_random_exponential(min=5, max=60), stop=stop_after_attempt(100))
 def get_embedding(text, model):
@@ -129,16 +128,17 @@ def questions_to_answers(list_of_questions,embeddings,answers_per_question=5, mi
 
     return pd.concat(question_results)
 
-def query_to_summaries(list_of_query_questions, print_responses=True):
+def query_to_summaries(list_of_query_questions, completion_temperature = 0.5,print_responses=True):
     """Given a list of search queries, embed them, and search the chunk database for most similar response.
     Then prompt GPT-3 to summarize the resulting sections. 
 
     Args:
         list_of_query_questions (list(str)): list of question strings to embed, searching for similar document chunks. 
+        completion_temperature (float, optional): Temperature for davinci.
         print_responses (boolean, optional): whether to print the results to terminal. Default True.
 
     Returns:
-        pd.DataFrame('filename', 'query', 'response'): DataFrame containing the filename, query, and completion.
+        pd.DataFrame('filename', 'query', 'response',"confidence"): DataFrame containing the filename, query, and completion.
     """
     questions_to_gpt3_completions = []
     for industry in ["4_food_bev","11_transportation"]:
@@ -149,19 +149,45 @@ def query_to_summaries(list_of_query_questions, print_responses=True):
                                                                      answers_per_question=1,
                                                                      min_similarity=0.25,
                                                                      model_family='curie',pprint=False)
-            for row, fields in df_questions_to_relevant_passages.iterrows():
+            for _, fields in df_questions_to_relevant_passages.iterrows():
                 completion_prompt = produce_prompt(fields["text"],"") 
-                completion_resp =call_openai_api_completion(completion_prompt,model_family="davinci",temperature=0.5) 
-                questions_to_gpt3_completions.append((Path(fname).stem,fields["Question"],completion_resp))
+                completion_resp =call_openai_api_completion(completion_prompt,model_family="davinci",temperature=completion_temperature) 
+                questions_to_gpt3_completions.append((Path(fname).stem,fields["Question"],completion_resp["text"],fields["similarities"]))
     if print_responses:
-        for (fname, question, gpt3_completion) in questions_to_gpt3_completions:
+        for (fname, question, gpt3_completion,confidence) in questions_to_gpt3_completions:
                 print("For filing", fname)
                 print("For Question:")
                 print(question,"\n")
-                print("GPT-3 Responds:")
+                print(f"GPT-3 Responds with confidence {confidence}:")
                 print(gpt3_completion)
-    return pd.DataFrame(data=questions_to_gpt3_completions,columns=["filename","query","response"]) 
+    # Refactor the response to front end standard
 
+
+    return pd.DataFrame(data=questions_to_gpt3_completions,columns=["filename","query","response","confidence"]) 
+
+def change_completions_to_frontend_format(df_completions):
+
+    response_jsons = {}
+    for key, subdf in df_completions.groupby("filename"):
+        print(key)
+        company_ticker=re.match("[a-zA-Z]+",key).group()
+        company_name=TICKER_TO_COMPANY_NAME[company_ticker]
+        company_json = {"name":company_name}
+        qa_pairs = []
+        for question, subsubdf in subdf.groupby("query"):
+            qrc_dict = {"question":question,
+                                            "category": QUESTION_TO_CATEGORY[question]}
+            answers = []
+            for _, answer in subsubdf.iterrows():
+                answer_dict = {"answer": answer["response"],"confidence":answer["confidence"]}
+                answers.append(answer_dict)
+            qrc_dict["answers"] = answers
+            qa_pairs.append(qrc_dict)
+        company_json["qa_pairs"] = qa_pairs
+        response_jsons[company_name] = company_json
+    
+
+    return response_jsons
 def file_to_embeddings(filepath, text_chunks = None, use_cache=True):
     """Given a filepath, produce a DataFrame containing the filtered text chunks, with their embeddings and number of tokens,
     if the DataFrame isn't cached. If it saved to disk, just load the DataFrame.

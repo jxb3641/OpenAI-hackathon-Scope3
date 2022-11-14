@@ -14,6 +14,18 @@ import openai
 openai.api_key = st.secrets["openai_api_key"]
 
 
+TICKER_TO_COMPANY_NAME = {
+    "F": "Ford Motor Company",
+    "GIS": "General Mills, Inc.",
+    "PEP": "PepsiCo, Inc.",
+    "FSR": "Fisker, Inc."
+}
+QUESTION_TO_CATEGORY = {
+"What does this company do?": "General", 
+"What are the risks this company faces?": "General",
+"What are the environmental risks this company faces?": "General",
+"What are the climate-related risks and opportunities the organization has identified over the short, medium and long term?":"General"
+}
 ROOT_DATA_DIR = Path("data/ind_lists")
 
 #TODO: Refactor this into two functions: 
