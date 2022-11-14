@@ -3,21 +3,21 @@
     "score": "A",
     "qa_pairs": [
         {
-            "question":"Environmental laws, environmental risks, environmental regulations",
+            "question":"What does this company do?",
             "category":"General",
             "answers":[
                 {
-                "answer":"\nThe risks include the possibility that Ford may need to make substantial changes to its product plans in order to comply with various safety, emissions, fuel economy, and autonomous vehicle regulations. Additionally, new or increased regulations could be proposed at any time which could impact Ford's compliance status and require additional expenditures of time and resources.",
-                "confidence":0.8483086316875845
+                "answer":"\nThis company produces and sells automobiles, provides financial services, and is committed to helping build a better world.",
+                "confidence":0.29807344532448155
                 },
                 {
-                "answer":"\nThere are several environmental regulation risks mentioned in the text snippet. These include the risk of diverging requirements in European markets, the risk of city access restrictions for internal combustion engine powered vehicles, and the risk of new requirements for tailpipe and non-tailpipe emissions.",
-                "confidence":0.676171782056751
+                "answer":"\nThis company is focused on attracting, developing, and retaining talent. They are leveraging best practices in assessments and talent management to strengthen their current capabilities and future pipeline while reinforcing a culture of belonging, empowerment, and innovation. They are also creating targeted learning experiences, democratizing learning and career development opportunities across the organization, and empowering employees to design their own career paths with skill development targeted for the roles of today and the future.",
+                "confidence":0.22483540721596473
                 },
                 {
-                "answer":"\nThe risks associated with environmental regulations include the potential for increased product development costs, warranty costs, and vehicle recalls. In addition, regulatory changes could affect a manufacturer\u2019s ability to comply with emissions standards, which could in turn impact warranty costs.",
-                "confidence":0.6494089013595994
-                }
+                "answer":"\nThis company provides financing for Ford vehicles and also offers other automotive financing products. It has a large portfolio of finance receivables and operating leases, which it classifies into two portfolios: \u201cconsumer\u201d and \u201cnon-consumer.\u201d Retail financing includes retail installment sale contracts for new and used vehicles and finance leases (comprised of sales-type and direct financing leases) for new vehicles to retail and commercial customers, including leasing companies, government entities, daily rental companies, and fleet customers. Finance receivables in the non-consumer portfolio include products offered to automotive dealers.",
+                "confidence":0.2079713200958483
+            }
             ]
         },
         {
@@ -39,21 +39,21 @@
             ]
         },
         {
-            "question":"What does this company do?",
+            "question":"What are the environmental regulations risks this company faces? ",
             "category":"General",
             "answers":[
                 {
-                "answer":"\nThis company produces and sells automobiles, provides financial services, and is committed to helping build a better world.",
-                "confidence":0.29807344532448155
+                "answer":"\nThe risks include the possibility that Ford may need to make substantial changes to its product plans in order to comply with various safety, emissions, fuel economy, and autonomous vehicle regulations. Additionally, new or increased regulations could be proposed at any time which could impact Ford's compliance status and require additional expenditures of time and resources.",
+                "confidence":0.8483086316875845
                 },
                 {
-                "answer":"\nThis company is focused on attracting, developing, and retaining talent. They are leveraging best practices in assessments and talent management to strengthen their current capabilities and future pipeline while reinforcing a culture of belonging, empowerment, and innovation. They are also creating targeted learning experiences, democratizing learning and career development opportunities across the organization, and empowering employees to design their own career paths with skill development targeted for the roles of today and the future.",
-                "confidence":0.22483540721596473
+                "answer":"\nThere are several environmental regulation risks mentioned in the text snippet. These include the risk of diverging requirements in European markets, the risk of city access restrictions for internal combustion engine powered vehicles, and the risk of new requirements for tailpipe and non-tailpipe emissions.",
+                "confidence":0.676171782056751
                 },
                 {
-                "answer":"\nThis company provides financing for Ford vehicles and also offers other automotive financing products. It has a large portfolio of finance receivables and operating leases, which it classifies into two portfolios: \u201cconsumer\u201d and \u201cnon-consumer.\u201d Retail financing includes retail installment sale contracts for new and used vehicles and finance leases (comprised of sales-type and direct financing leases) for new vehicles to retail and commercial customers, including leasing companies, government entities, daily rental companies, and fleet customers. Finance receivables in the non-consumer portfolio include products offered to automotive dealers.",
-                "confidence":0.2079713200958483
-            }
+                "answer":"\nThe risks associated with environmental regulations include the potential for increased product development costs, warranty costs, and vehicle recalls. In addition, regulatory changes could affect a manufacturer\u2019s ability to comply with emissions standards, which could in turn impact warranty costs.",
+                "confidence":0.6494089013595994
+                }
             ]
         },
         {

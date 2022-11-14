@@ -3,20 +3,20 @@
     "score": "A-",
     "qa_pairs": [
         {
-            "question":"Environmental laws, environmental risks, environmental regulations",
+            "question":"What does this company do?",
             "category":"General",
             "answers":[
                 {
-                "answer":"\nThe risks associated with environmental regulations include the possibility of new or more restrictive requirements being imposed in the future, as well as the potential for increased taxes on products or ingredients that are perceived to be harmful to the environment. Additionally, some jurisdictions may enact regulations designed to encourage recycling or waste reduction, which could impact the way our products are manufactured, distributed, or sold.",
-                "confidence":0.9833491638381708
+                "answer":"\nThis company produces and sells a variety of food and beverage products. Its brands include Lays, Doritos, Cheetos, Gatorade, Pepsi-Cola, Mountain Dew, Quaker, and SodaStream. The company operates in seven reportable segments, which include Frito-Lay North America, Quaker Foods North America, PepsiCo Beverages North America, Latin America, Europe, Africa, Middle East and South Asia, and Asia Pacific, Australia and New Zealand and China Region.",
+                "confidence":0.4082212308864941
                 },
                 {
-                "answer":"\nThe risks include the imposition of new laws or regulations, changes in existing laws or regulations, or differing or competing regulations and standards across markets. This could lead to higher compliance costs, capital expenditures, and production costs, which could adversely affect the business.",
-                "confidence":0.7841651238908932
+                "answer":"\nThis company makes, sells, and distributes food and beverage products.",
+                "confidence":0.36934442448901816
                 },
                 {
-                "answer":"\nThe environmental regulation risks include the potential for increased costs of compliance and additional investments in facilities and equipment, as well as the potential for unfavorable impacts on the company's future results.",
-                "confidence":0.6277338004240136
+                "answer":"\nThis company produces and sells beverage and convenient food products. They use a variety of methods to promote their products, including sales incentives, discounts, advertising, and other marketing activities. Sales incentives and discounts are primarily accounted for as a reduction of revenue.",
+                "confidence":0.3254786384049635
                 }
             ]
         },
@@ -39,20 +39,20 @@
             ]
         },
         {
-            "question":"What does this company do?",
+            "question":"What are the environmental regulations risks this company faces? ",
             "category":"General",
             "answers":[
                 {
-                "answer":"\nThis company produces and sells a variety of food and beverage products. Its brands include Lays, Doritos, Cheetos, Gatorade, Pepsi-Cola, Mountain Dew, Quaker, and SodaStream. The company operates in seven reportable segments, which include Frito-Lay North America, Quaker Foods North America, PepsiCo Beverages North America, Latin America, Europe, Africa, Middle East and South Asia, and Asia Pacific, Australia and New Zealand and China Region.",
-                "confidence":0.4082212308864941
+                "answer":"\nThe risks associated with environmental regulations include the possibility of new or more restrictive requirements being imposed in the future, as well as the potential for increased taxes on products or ingredients that are perceived to be harmful to the environment. Additionally, some jurisdictions may enact regulations designed to encourage recycling or waste reduction, which could impact the way our products are manufactured, distributed, or sold.",
+                "confidence":0.9833491638381708
                 },
                 {
-                "answer":"\nThis company makes, sells, and distributes food and beverage products.",
-                "confidence":0.36934442448901816
+                "answer":"\nThe risks include the imposition of new laws or regulations, changes in existing laws or regulations, or differing or competing regulations and standards across markets. This could lead to higher compliance costs, capital expenditures, and production costs, which could adversely affect the business.",
+                "confidence":0.7841651238908932
                 },
                 {
-                "answer":"\nThis company produces and sells beverage and convenient food products. They use a variety of methods to promote their products, including sales incentives, discounts, advertising, and other marketing activities. Sales incentives and discounts are primarily accounted for as a reduction of revenue.",
-                "confidence":0.3254786384049635
+                "answer":"\nThe environmental regulation risks include the potential for increased costs of compliance and additional investments in facilities and equipment, as well as the potential for unfavorable impacts on the company's future results.",
+                "confidence":0.6277338004240136
                 }
             ]
         },
